@@ -174,7 +174,10 @@
 "adf747598fb753f5",
 "e6c72e42aed86650",
 "c5410fedb56a5ee1",
-"15dd9087fe686040"
+"15dd9087fe686040",
+"564f3120b2423226",
+"fb658766b06617fb",
+"70cf3bd36ab5058c"
 ],
 "imzalar": [
 [
@@ -287,6 +290,29 @@
 "gelebilir",
 "gelmeyecek",
 "hafta"
+],
+[
+"aksaray",
+"kacti",
+"kaza",
+"olay",
+"surucu",
+"yerinden",
+"zincirleme"
+],
+[
+"puaninda",
+"surduruyor",
+"turkiye",
+"uefa",
+"ulke",
+"yuruyusunu",
+"zirve"
 ]
-]
+],
+"son_tarih": {
+"Haber Global": "2026-10-21T23:05:00+00:00",
+"Sonsöz (Ankara)": "2026-10-21T23:15:00+00:00",
+"Google Trends": "2026-10-21T23:17:48.481090+00:00"
+}
 }
