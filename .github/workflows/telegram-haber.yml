@@ -2,7 +2,7 @@ name: Telegram haber botu
 
 on:
   schedule:
-    - cron: "*/5 * * * *"    # her 5 dakikada bir (UTC)
+    - cron: "*/5 * * * *"  # her 5 dakikada bir; GitHub yoğunlukta birkaç dakika geciktirebilir
   workflow_dispatch:          # Actions sekmesinden elle çalıştırma
 
 permissions:
