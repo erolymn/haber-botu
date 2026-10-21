@@ -1,0 +1,93 @@
+{
+  "kanal": "@gundemsondakik",
+  "kaynak_gosterimi": "link",
+  "kanal_adi": "GÜNDEM SON DAKİKA",
+  "max_gonderi_per_calisma": 11,
+  "max_haber_yasi_saat": 3,
+  "kaynaklar": [
+    {
+      "ad": "Mynet Son Dakika",
+      "url": "https://www.mynet.com/haber/rss/sondakika"
+    },
+    {
+      "ad": "Haber Global",
+      "url": "https://www.haberglobal.com.tr/rss"
+    },
+    {
+      "ad": "Sözcü Son Dakika",
+      "url": "https://www.sozcu.com.tr/rss/son-dakika.xml"
+    },
+    {
+      "ad": "Halk TV",
+      "url": "https://halktv.com.tr/service/rss.php"
+    },
+    {
+      "ad": "Yeni Şafak Yerel",
+      "url": "https://www.yenisafak.com/rss?kategori=yerel"
+    },
+    {
+      "ad": "İstanbul Gazetesi",
+      "url": "https://www.istanbulgazetesi.com.tr/rss"
+    },
+    {
+      "ad": "Sonsöz (Ankara)",
+      "url": "https://www.sonsoz.com.tr/rss"
+    },
+    {
+      "ad": "Olay (Bursa)",
+      "url": "https://www.olay.com.tr/rss"
+    },
+    {
+      "ad": "Yeni Asır (İzmir)",
+      "url": "https://www.yeniasir.com.tr/rss/anasayfa.xml"
+    }
+  ],
+  "engelli_kelimeler": [
+    "show tv",
+    "showtv",
+    "fragman",
+    "dizi",
+    "bölüm",
+    "magazin",
+    "ünlü",
+    "yarışma",
+    "survivor",
+    "kısmetse olur",
+    "burç",
+    "fal",
+    "astroloji",
+    "hamile mi",
+    "ihale",
+    "ilanı",
+    "resmi ilan",
+    "yaptırılacaktır",
+    "satılacaktır",
+    "kiralanacaktır"
+  ],
+  "moduller": {
+    "deprem": {
+      "aktif": true,
+      "min_buyukluk": 3.5
+    },
+    "google_trends": {
+      "aktif": true,
+      "min_arama": 2000
+    },
+    "twitter_gundem": {
+      "aktif": true,
+      "her_kac_saatte": 3,
+      "adet": 10
+    },
+    "telegram_kanallar": {
+      "aktif": true,
+      "max_uzunluk": 700,
+      "max_yas_saat": 24,
+      "kanallar": [
+        "islamasalya"
+      ]
+    }
+  },
+  "garanti": {
+    "@islamasalya": 1
+  }
+}

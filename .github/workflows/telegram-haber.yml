@@ -1,0 +1,49 @@
+name: Telegram haber botu
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"    # her 5 dakikada bir (UTC)
+  workflow_dispatch:          # Actions sekmesinden elle çalıştırma
+
+permissions:
+  contents: write
+
+concurrency:
+  group: telegram-haber
+  cancel-in-progress: false
+
+jobs:
+  yayinla:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: telegram-haber/requirements.txt
+
+      - run: pip install -r telegram-haber/requirements.txt
+
+      - name: Ayar kontrolü
+        env:
+          T: ${{ secrets.TELEGRAM_BOT_TOKEN || vars.TELEGRAM_BOT_TOKEN }}
+        run: |
+          [ -n "$T" ] || { echo '::error::TELEGRAM_BOT_TOKEN bulunamadi. Settings > Secrets and variables > Actions > Repository secrets altina ekleyin.'; exit 1; }
+          echo "Ayarlar tamam"
+
+      - name: Haberleri gönder
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN || vars.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID || vars.TELEGRAM_CHAT_ID }}
+        run: python telegram-haber/bot.py
+
+      - name: Gönderilen listesini kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add telegram-haber/state/posted.json
+          git diff --cached --quiet || git commit -m "bot: gönderilen haber listesi güncellendi"
+          git pull --rebase origin ${{ github.ref_name }}
+          git push
