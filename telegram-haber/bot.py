@@ -188,6 +188,14 @@ def _sayi(metin: str) -> int:
     return int(rakam) if rakam else 0
 
 
+_LATIN_DISI = re.compile(r"[\u0400-\u04FF\u0590-\u05FF\u0600-\u06FF\u0750-\u077F\u4E00-\u9FFF\u3040-\u30FF\uAC00-\uD7AF\u0E00-\u0E7F]")
+
+
+def latin_disi_mi(metin: str) -> bool:
+    """Arapça, Kiril, Çince vb. alfabe içeren metinler (Türkçe olmayan aramalar) elenir."""
+    return bool(_LATIN_DISI.search(metin or ""))
+
+
 def google_trends_topla(ayar: dict) -> list[dict]:
     kok = ET.fromstring(indir(GTRENDS_URL).content)
     min_arama = int(ayar.get("min_arama", 2000))
@@ -196,10 +204,12 @@ def google_trends_topla(ayar: dict) -> list[dict]:
     for item in kok.iter("item"):
         konu = (item.findtext("title") or "").strip()
         trafik = _sayi(item.findtext(f"{HT}approx_traffic") or "")
-        if not konu or trafik < min_arama:
+        if not konu or trafik < min_arama or latin_disi_mi(konu):
             continue
         haber = item.find(f"{HT}news_item")
         h_baslik = temizle(haber.findtext(f"{HT}news_item_title") if haber is not None else "", 200)
+        if latin_disi_mi(h_baslik):
+            continue
         h_link = (haber.findtext(f"{HT}news_item_url") if haber is not None else "") or ""
         h_kaynak = (haber.findtext(f"{HT}news_item_source") if haber is not None else "") or ""
         gorsel = (item.findtext(f"{HT}picture") or "").strip() or None
@@ -257,6 +267,7 @@ def twitter_gundem_topla(ayar: dict) -> list[dict]:
             break
     # tekrarları at, sırayı koru
     gorulen: set[str] = set()
+    basliklar = [b for b in basliklar if not latin_disi_mi(b)]
     basliklar = [b for b in basliklar if not (b.lower() in gorulen or gorulen.add(b.lower()))][:adet]
     if not basliklar:
         return []
