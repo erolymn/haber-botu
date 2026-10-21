@@ -14,6 +14,7 @@ Kullanım:
 from __future__ import annotations
 
 import argparse
+import calendar
 import hashlib
 import html
 import json
@@ -93,7 +94,7 @@ def tarih(entry) -> datetime | None:
     for key in ("published_parsed", "updated_parsed"):
         t = entry.get(key)
         if t:
-            return datetime.fromtimestamp(time.mktime(t), tz=timezone.utc)
+            return datetime.fromtimestamp(calendar.timegm(t), tz=timezone.utc)
     return None
 
 
@@ -188,7 +189,10 @@ def _sayi(metin: str) -> int:
     return int(rakam) if rakam else 0
 
 
-_LATIN_DISI = re.compile(r"[\u0400-\u04FF\u0590-\u05FF\u0600-\u06FF\u0750-\u077F\u4E00-\u9FFF\u3040-\u30FF\uAC00-\uD7AF\u0E00-\u0E7F]")
+_LATIN_DISI = re.compile(
+    r"[\u0400-\u04FF\u0590-\u05FF\u0600-\u06FF\u0750-\u077F"  # Kiril, İbranice, Arapça
+    r"\u4E00-\u9FFF\u3040-\u30FF\uAC00-\uD7AF\u0E00-\u0E7F]"  # Çince, Japonca, Korece, Tayca
+)
 
 
 def latin_disi_mi(metin: str) -> bool:
@@ -376,7 +380,10 @@ def ayni_haber_mi(a: frozenset[str], b: frozenset[str], esik: float = 0.6) -> bo
 
 def hepsini_topla(cfg: dict, gonderilmis: set[str]) -> list[dict]:
     esik = simdi() - timedelta(hours=cfg.get("max_haber_yasi_saat", 12))
-    engelli = [k.lower() for k in cfg.get("engelli_kelimeler", [])]
+    engelli = [
+        re.compile(r"(?<!\w)" + re.escape(k.lower()) + r"\w*")
+        for k in cfg.get("engelli_kelimeler", []) if k.strip()
+    ]
     moduller = cfg.get("moduller", {})
     toplam: list[dict] = []
 
@@ -406,7 +413,7 @@ def hepsini_topla(cfg: dict, gonderilmis: set[str]) -> list[dict]:
         ).lower()
         if h.get("maddeler"):
             metin += " " + " ".join(h["maddeler"]).lower()
-        return any(k in metin for k in engelli)
+        return any(k.search(metin) for k in engelli)
 
     yeni = [h for h in toplam if h["id"] not in gonderilmis and not engelli_mi(h)]
     yeni.sort(key=lambda h: h["tarih"] or "")  # eskiden yeniye
@@ -475,7 +482,8 @@ def mesaj_olustur(h: dict) -> str:
             f'📍 <a href="{e(h["link"])}">Haritada gör</a> · {e(h["kaynak"])}'
         )
     if tip == "trend":
-        satirlar = [f"🔥 <b>Gündemde yükseliyor:</b> {e(h['baslik'])} ({h['trafik']:,}+ arama)".replace(",", ".")]
+        sayi = f"{h['trafik']:,}".replace(",", ".")
+        satirlar = [f"🔥 <b>Gündemde yükseliyor:</b> {e(h['baslik'])} ({sayi}+ arama)"]
         if h["ozet"]:
             satirlar.append(f'📎 <a href="{e(h["link"])}">{e(h["ozet"])}</a>')
             if h.get("haber_kaynak"):

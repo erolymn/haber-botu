@@ -44,6 +44,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add telegram-haber/state/posted.json
-          git diff --cached --quiet || git commit -m "bot: gönderilen haber listesi güncellendi"
-          git pull --rebase origin ${{ github.ref_name }}
-          git push
+          git diff --cached --quiet && { echo "degisiklik yok"; exit 0; }
+          git commit -m "bot: gönderilen haber listesi güncellendi"
+          for i in 1 2 3; do
+            git pull --rebase origin ${{ github.ref_name }} && git push && exit 0
+            echo "push denemesi $i basarisiz, tekrar deneniyor"; sleep 5
+          done
+          echo "::error::Durum dosyasi kaydedilemedi"; exit 1

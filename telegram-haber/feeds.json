@@ -47,14 +47,11 @@
     "showtv",
     "fragman",
     "dizi",
-    "bölüm",
     "magazin",
     "ünlü",
     "yarışma",
     "survivor",
     "kısmetse olur",
-    "burç",
-    "fal",
     "astroloji",
     "hamile mi",
     "ihale",
@@ -62,7 +59,11 @@
     "resmi ilan",
     "yaptırılacaktır",
     "satılacaktır",
-    "kiralanacaktır"
+    "kiralanacaktır",
+    "falcı",
+    "burçlar",
+    "burç yorum",
+    "günlük burç"
   ],
   "moduller": {
     "deprem": {
