@@ -357,7 +357,12 @@
 "4293c87d67bffd8b",
 "c31840e76dd3fbbf",
 "e51520dfb85e494c",
-"decb4e970500e294"
+"decb4e970500e294",
+"6be870930fc8d31c",
+"8a44a6d7919282e0",
+"6537c60435fea784",
+"9177ba997ac55a90",
+"b6d25477b0e17f46"
 ],
 "imzalar": [
 [
@@ -1989,17 +1994,61 @@
 "spk",
 "yasagi",
 "yil"
+],
+[
+"akgun",
+"chp",
+"ebru",
+"ibb",
+"istifa",
+"meclis",
+"pekel",
+"uyesi"
+],
+[
+"calisiyor",
+"gunde",
+"hatay",
+"herkesi",
+"kadin",
+"saat",
+"sasirtiyor",
+"taksicisi"
+],
+[
+"baslayacak",
+"edildi",
+"fon",
+"kabul",
+"meclis",
+"odemeler",
+"teklifi",
+"yatirimcilara",
+"zaman"
+],
+[
+"adli",
+"alihan",
+"kisiye",
+"kontrol",
+"kuris",
+"operasyon",
+"orgutune",
+"suc",
+"supheli",
+"tutuklandi",
+"yonelik"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-22T19:22:00+00:00",
 "Sonsöz (Ankara)": "2026-10-22T20:00:00+00:00",
-"Google Trends": "2026-10-22T19:30:26.336508+00:00",
-"Mynet Son Dakika": "2026-10-22T14:40:40+00:00",
-"Sözcü Son Dakika": "2026-10-22T19:55:08+00:00",
-"Yeni Şafak Yerel": "2026-10-22T19:46:14+00:00",
+"Google Trends": "2026-10-22T20:10:26.965303+00:00",
+"Mynet Son Dakika": "2026-10-22T20:07:29+00:00",
+"Sözcü Son Dakika": "2026-10-22T20:01:49+00:00",
+"Yeni Şafak Yerel": "2026-10-22T20:01:56+00:00",
 "X / Twitter Türkiye": "2026-10-22T18:00:27.662573+00:00",
-"Olay (Bursa)": "2026-10-22T19:43:56+00:00",
+"Olay (Bursa)": "2026-10-22T20:03:22+00:00",
 "@islamasalya": "2026-10-22T18:52:22+00:00",
 "Yeni Asır (İzmir)": "2026-10-22T15:57:40+00:00",
 "İstanbul Gazetesi": "2026-10-22T17:41:00+00:00"
