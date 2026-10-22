@@ -219,7 +219,17 @@
 "480b2940ad4cf57e",
 "ce917837438404f1",
 "fef28bd6561fef87",
-"9c12d695facb98b8"
+"9c12d695facb98b8",
+"b1da498496a608b1",
+"a0df4fea0cecff7d",
+"8e5a3a78cedae437",
+"6b74bef77103ee38",
+"37b9978ba1bfeb91",
+"36622c2f08033e6a",
+"59629f3a2d0ea8a6",
+"43ad021c12aedfe7",
+"52290e51b2ea14b6",
+"7dbddc8a2ffd4db6"
 ],
 "imzalar": [
 [
@@ -713,19 +723,88 @@
 "konut",
 "satislarinda",
 "tablo"
+],
+[
+"alindi",
+"gozaltina",
+"korumasi",
+"mustafa",
+"sarigul"
+],
+[
+"altay",
+"bitmiyor",
+"sakatlik"
+],
+[
+"acigi",
+"altyapisinda",
+"baskanligi",
+"devam",
+"dijital",
+"edecek",
+"guvenlik",
+"hizmetleri",
+"kamu",
+"kesintisiz",
+"kritik",
+"php",
+"siber"
+],
+[
+"bekleyenler",
+"boyunca",
+"dikkat",
+"durakta",
+"gun",
+"otobus",
+"sefer"
+],
+[
+"bursa",
+"ceken",
+"etleri",
+"goruntuler",
+"kedi",
+"markette",
+"tepki",
+"yedi"
+],
+[
+"aci",
+"arkadasimiz",
+"calisma",
+"gundogan",
+"gunu",
+"seyit"
+],
+[
+"gunu",
+"kpss",
+"ortaogretim",
+"pazar",
+"yapilacak"
+],
+[
+"azerbaycanli",
+"devi",
+"enerji",
+"patrona",
+"satildi",
+"turk"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-22T08:02:00+00:00",
-"Sonsöz (Ankara)": "2026-10-22T08:08:00+00:00",
-"Google Trends": "2026-10-22T08:10:47.197712+00:00",
-"Mynet Son Dakika": "2026-10-22T07:02:57+00:00",
-"Sözcü Son Dakika": "2026-10-22T07:33:52+00:00",
-"Yeni Şafak Yerel": "2026-10-22T08:08:28+00:00",
-"X / Twitter Türkiye": "2026-10-22T06:13:06.611961+00:00",
-"Olay (Bursa)": "2026-10-22T08:09:49+00:00",
+"Haber Global": "2026-10-22T09:00:00+00:00",
+"Sonsöz (Ankara)": "2026-10-22T09:02:00+00:00",
+"Google Trends": "2026-10-22T09:09:21.538709+00:00",
+"Mynet Son Dakika": "2026-10-22T08:42:10+00:00",
+"Sözcü Son Dakika": "2026-10-22T09:05:57+00:00",
+"Yeni Şafak Yerel": "2026-10-22T09:05:17+00:00",
+"X / Twitter Türkiye": "2026-10-22T09:09:23.402555+00:00",
+"Olay (Bursa)": "2026-10-22T09:04:44+00:00",
 "@islamasalya": "2026-10-22T04:15:23+00:00",
-"Yeni Asır (İzmir)": "2026-10-22T07:59:07+00:00",
-"İstanbul Gazetesi": "2026-10-22T07:43:00+00:00"
+"Yeni Asır (İzmir)": "2026-10-22T08:53:15+00:00",
+"İstanbul Gazetesi": "2026-10-22T09:02:00+00:00"
 }
 }
