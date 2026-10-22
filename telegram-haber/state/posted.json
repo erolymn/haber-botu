@@ -376,7 +376,11 @@
 "886960b3afb555e5",
 "01dc5dba1eb8838a",
 "33054a252c9975c4",
-"ff4b4b2a3881d0cf"
+"ff4b4b2a3881d0cf",
+"75709a6ca40fb3e4",
+"53489f284c3dc87e",
+"a22d93b2b5889b78",
+"6919d3277f0f3931"
 ],
 "imzalar": [
 [
@@ -2143,19 +2147,41 @@
 "piskoposlar",
 "saray",
 "trump"
+],
+[
+"bina",
+"edilerek",
+"eyupsultan",
+"katli",
+"muhurlendi",
+"riskli",
+"tahliye"
+],
+[
+"biraktilar",
+"curumeye",
+"dolarlik",
+"milyon",
+"ucaklari"
+],
+[
+"bilet",
+"bursaspor",
+"karari",
+"rakibinden"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-22T20:51:00+00:00",
 "Sonsöz (Ankara)": "2026-10-22T20:00:00+00:00",
-"Google Trends": "2026-10-22T21:00:26.890525+00:00",
+"Google Trends": "2026-10-22T21:10:26.366147+00:00",
 "Mynet Son Dakika": "2026-10-22T20:07:29+00:00",
-"Sözcü Son Dakika": "2026-10-22T20:56:59+00:00",
+"Sözcü Son Dakika": "2026-10-22T21:05:20+00:00",
 "Yeni Şafak Yerel": "2026-10-22T20:59:07+00:00",
 "X / Twitter Türkiye": "2026-10-22T21:00:28.096718+00:00",
-"Olay (Bursa)": "2026-10-22T20:03:22+00:00",
+"Olay (Bursa)": "2026-10-22T21:09:59+00:00",
 "@islamasalya": "2026-10-22T18:52:22+00:00",
 "Yeni Asır (İzmir)": "2026-10-22T20:48:17+00:00",
-"İstanbul Gazetesi": "2026-10-22T20:16:00+00:00"
+"İstanbul Gazetesi": "2026-10-22T21:02:00+00:00"
 }
 }
