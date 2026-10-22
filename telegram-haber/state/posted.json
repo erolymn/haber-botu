@@ -301,7 +301,9 @@
 "bc7a176aa5372594",
 "5d2a4297a7861291",
 "4bdb1d5b3cac00b3",
-"4c0df20f7ca5f64e"
+"4c0df20f7ca5f64e",
+"6f6d11f2c7e1e381",
+"69e862f980236b12"
 ],
 "imzalar": [
 [
@@ -1457,6 +1459,25 @@
 "test",
 "uyusturucu",
 "yonetmen"
+],
+[
+"230",
+"aktardik",
+"bakan",
+"goktas",
+"ilave",
+"istanbul",
+"kaynak",
+"lira",
+"milyon"
+],
+[
+"dikti",
+"gozunu",
+"macina",
+"recep",
+"trabzonspor",
+"ucar"
 ]
 ],
 "son_tarih": {
@@ -1464,12 +1485,12 @@
 "Sonsöz (Ankara)": "2026-10-22T16:28:00+00:00",
 "Google Trends": "2026-10-22T16:20:27.370177+00:00",
 "Mynet Son Dakika": "2026-10-22T14:40:40+00:00",
-"Sözcü Son Dakika": "2026-10-22T16:15:15+00:00",
+"Sözcü Son Dakika": "2026-10-22T16:36:56+00:00",
 "Yeni Şafak Yerel": "2026-10-22T16:03:07+00:00",
 "X / Twitter Türkiye": "2026-10-22T15:13:20.258610+00:00",
 "Olay (Bursa)": "2026-10-22T15:22:02+00:00",
 "@islamasalya": "2026-10-22T04:15:23+00:00",
 "Yeni Asır (İzmir)": "2026-10-22T15:57:40+00:00",
-"İstanbul Gazetesi": "2026-10-22T16:06:00+00:00"
+"İstanbul Gazetesi": "2026-10-22T16:30:00+00:00"
 }
 }
