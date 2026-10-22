@@ -370,7 +370,13 @@
 "ba20f9110c5e83ad",
 "41e5af76477e0f4b",
 "59c3da647b1e5838",
-"b7c7a29eb009aa95"
+"b7c7a29eb009aa95",
+"0d63c98f9ff3212d",
+"7208245e722e6a4d",
+"886960b3afb555e5",
+"01dc5dba1eb8838a",
+"33054a252c9975c4",
+"ff4b4b2a3881d0cf"
 ],
 "imzalar": [
 [
@@ -2098,19 +2104,58 @@
 "kaza",
 "onana",
 "trabzonspor"
+],
+[
+"100",
+"356",
+"azalisla",
+"bist",
+"derinlesti",
+"gunu",
+"kapatti",
+"kayip",
+"piyasada",
+"puan"
+],
+[
+"andre",
+"gecirdi",
+"hearts",
+"kazasi",
+"maci",
+"onana",
+"sonrasi",
+"trafik"
+],
+[
+"cikmadi",
+"dolmabahce",
+"duellosu",
+"gol",
+"gollu",
+"kazanan",
+"macta"
+],
+[
+"beyaz",
+"dua",
+"katolik",
+"piskoposlar",
+"saray",
+"trump"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-22T20:25:00+00:00",
+"Haber Global": "2026-10-22T20:51:00+00:00",
 "Sonsöz (Ankara)": "2026-10-22T20:00:00+00:00",
-"Google Trends": "2026-10-22T20:40:27.678633+00:00",
+"Google Trends": "2026-10-22T21:00:26.890525+00:00",
 "Mynet Son Dakika": "2026-10-22T20:07:29+00:00",
-"Sözcü Son Dakika": "2026-10-22T20:45:22+00:00",
-"Yeni Şafak Yerel": "2026-10-22T20:47:43+00:00",
-"X / Twitter Türkiye": "2026-10-22T18:00:27.662573+00:00",
+"Sözcü Son Dakika": "2026-10-22T20:56:59+00:00",
+"Yeni Şafak Yerel": "2026-10-22T20:59:07+00:00",
+"X / Twitter Türkiye": "2026-10-22T21:00:28.096718+00:00",
 "Olay (Bursa)": "2026-10-22T20:03:22+00:00",
 "@islamasalya": "2026-10-22T18:52:22+00:00",
-"Yeni Asır (İzmir)": "2026-10-22T15:57:40+00:00",
+"Yeni Asır (İzmir)": "2026-10-22T20:48:17+00:00",
 "İstanbul Gazetesi": "2026-10-22T20:16:00+00:00"
 }
 }
