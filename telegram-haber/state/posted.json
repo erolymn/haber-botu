@@ -362,7 +362,10 @@
 "8a44a6d7919282e0",
 "6537c60435fea784",
 "9177ba997ac55a90",
-"b6d25477b0e17f46"
+"b6d25477b0e17f46",
+"9d55d96327a41b39",
+"062198313170bf4d",
+"b68cf6fc17ecf831"
 ],
 "imzalar": [
 [
@@ -2038,6 +2041,33 @@
 "supheli",
 "tutuklandi",
 "yonelik"
+],
+[
+"adli",
+"alihan",
+"gelisme",
+"kaldi",
+"kisi",
+"kontrol",
+"kuris",
+"orgutu",
+"sartiyla",
+"serbest",
+"sorusturmasinda",
+"suc",
+"tutuklandi",
+"yeni"
+],
+[
+"kisi",
+"operasyon",
+"suleymancilara",
+"tutuklandi"
+],
+[
+"anadolu",
+"besiktas",
+"efes"
 ]
 ],
 "son_tarih": {
@@ -2045,12 +2075,12 @@
 "Sonsöz (Ankara)": "2026-10-22T20:00:00+00:00",
 "Google Trends": "2026-10-22T20:10:26.965303+00:00",
 "Mynet Son Dakika": "2026-10-22T20:07:29+00:00",
-"Sözcü Son Dakika": "2026-10-22T20:01:49+00:00",
-"Yeni Şafak Yerel": "2026-10-22T20:01:56+00:00",
+"Sözcü Son Dakika": "2026-10-22T20:13:53+00:00",
+"Yeni Şafak Yerel": "2026-10-22T20:12:28+00:00",
 "X / Twitter Türkiye": "2026-10-22T18:00:27.662573+00:00",
 "Olay (Bursa)": "2026-10-22T20:03:22+00:00",
 "@islamasalya": "2026-10-22T18:52:22+00:00",
 "Yeni Asır (İzmir)": "2026-10-22T15:57:40+00:00",
-"İstanbul Gazetesi": "2026-10-22T17:41:00+00:00"
+"İstanbul Gazetesi": "2026-10-22T20:16:00+00:00"
 }
 }
