@@ -183,7 +183,17 @@
 "5c1f2e8615689d12",
 "30eb963b4959da9a",
 "8c32d17bbd5d3f46",
-"9b9a1dd9351948f3"
+"9b9a1dd9351948f3",
+"18137f51adc921ea",
+"5db8e314f1734eed",
+"a95812940ffac065",
+"bf465ce37b09f49c",
+"65b1f5f6b0ca03cc",
+"8448056a7077096e",
+"1492f00c8651e26a",
+"07f83a767f23567a",
+"ee86975e0280821e",
+"54172b3a6e78c382"
 ],
 "imzalar": [
 [
@@ -368,15 +378,108 @@
 "ilcesinde",
 "nevsehir",
 "ticari"
+],
+[
+"bursa",
+"ilgili",
+"katilan",
+"milletvekili",
+"notlar",
+"onemli",
+"parti",
+"torun"
+],
+[
+"aliyor",
+"avrupa",
+"besiktas",
+"gecesi",
+"sahne",
+"trabzonspor",
+"turk"
+],
+[
+"aci",
+"allah",
+"cagirirdin",
+"dinmeyen",
+"guzel",
+"hatira",
+"insanlari",
+"ise",
+"kulaklarimizda",
+"namazina",
+"onlari",
+"sabah",
+"sesin",
+"sesinle",
+"simdi",
+"sizi",
+"uyandirir",
+"yoklugun",
+"yuregimizde",
+"zamanlar"
+],
+[
+"alfabesi",
+"dunyasi",
+"girdi",
+"ozbek",
+"turk",
+"uygun",
+"yururluge"
+],
+[
+"adliyeye",
+"belediyesi",
+"cukurova",
+"edildi",
+"sevk",
+"sorusturmasi",
+"supheli",
+"yolsuzluk"
+],
+[
+"akaryakit",
+"benzin",
+"benzine",
+"ekim",
+"fiyatlari",
+"geldi",
+"guncel",
+"indirim",
+"lpg",
+"motorin",
+"persembe"
+],
+[
+"ailesiyle",
+"anlastilar",
+"guzel",
+"melek",
+"mosso",
+"sevgilisini",
+"tanistirdi"
+],
+[
+"alevler",
+"istanbul",
+"korkutan",
+"metreye",
+"yangin",
+"yukseldi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-22T00:31:00+00:00",
-"Sonsöz (Ankara)": "2026-10-22T01:31:00+00:00",
-"Google Trends": "2026-10-21T23:17:48.481090+00:00",
-"Mynet Son Dakika": "2026-10-21T20:33:33+00:00",
-"Sözcü Son Dakika": "2026-10-22T00:05:05+00:00",
-"Yeni Şafak Yerel": "2026-10-22T01:00:00+00:00",
-"X / Twitter Türkiye": "2026-10-22T01:33:03.122876+00:00"
+"Haber Global": "2026-10-22T04:51:00+00:00",
+"Sonsöz (Ankara)": "2026-10-22T03:57:00+00:00",
+"Google Trends": "2026-10-22T05:10:04.600146+00:00",
+"Mynet Son Dakika": "2026-10-22T05:04:52+00:00",
+"Sözcü Son Dakika": "2026-10-22T05:02:14+00:00",
+"Yeni Şafak Yerel": "2026-10-22T04:39:02+00:00",
+"X / Twitter Türkiye": "2026-10-22T05:10:06.610821+00:00",
+"Olay (Bursa)": "2026-10-22T02:20:43+00:00",
+"@islamasalya": "2026-10-22T04:15:23+00:00",
+"Yeni Asır (İzmir)": "2026-10-22T04:56:17+00:00"
 }
 }
