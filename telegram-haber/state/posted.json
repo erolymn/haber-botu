@@ -317,7 +317,10 @@
 "b62924c0303d1518",
 "8b03ba6525a62cba",
 "78dfe7e98ed07313",
-"47e724cf7b156f65"
+"47e724cf7b156f65",
+"13119f8f06db8015",
+"84ccb55732afc346",
+"42f4d9fa1e274adc"
 ],
 "imzalar": [
 [
@@ -1615,15 +1618,35 @@
 "kosullari",
 "taksit",
 "telefonlarinda"
+],
+[
+"beklenirken",
+"ceviren",
+"cilgina",
+"dakikada",
+"karar",
+"ofsayt",
+"penalti",
+"pozisyonunda",
+"salah",
+"trabzon",
+"verdi"
+],
+[
+"besiktas",
+"canli",
+"crystal",
+"palace",
+"yayin"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-22T16:59:00+00:00",
+"Haber Global": "2026-10-22T17:35:00+00:00",
 "Sonsöz (Ankara)": "2026-10-22T16:41:00+00:00",
-"Google Trends": "2026-10-22T16:50:26.124513+00:00",
+"Google Trends": "2026-10-22T17:40:26.259778+00:00",
 "Mynet Son Dakika": "2026-10-22T14:40:40+00:00",
 "Sözcü Son Dakika": "2026-10-22T17:28:07+00:00",
-"Yeni Şafak Yerel": "2026-10-22T17:28:31+00:00",
+"Yeni Şafak Yerel": "2026-10-22T17:31:14+00:00",
 "X / Twitter Türkiye": "2026-10-22T15:13:20.258610+00:00",
 "Olay (Bursa)": "2026-10-22T15:22:02+00:00",
 "@islamasalya": "2026-10-22T17:24:32+00:00",
