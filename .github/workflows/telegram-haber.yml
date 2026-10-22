@@ -1,20 +1,30 @@
 name: Telegram haber botu
 
+# Çalışma modeli: tek bir iş ~5,5 saat boyunca her 10 dakikada bir botu çalıştırır,
+# süresi dolunca kendini yeniden başlatır (zincir). GitHub'ın cron zamanlayıcısı
+# güvenilmez olduğu için yalnızca zincir koparsa yedek başlatıcı olarak durur.
+
 on:
   schedule:
-    - cron: "2-59/5 * * * *"  # her 5 dakikada bir (tam saat yerine +2 dk: GitHub yoğun dakikaları atlayabiliyor)
-  workflow_dispatch:          # Actions sekmesinden elle çalıştırma
+    - cron: "17 * * * *"      # yedek: zincir koptuysa saatte bir yeniden başlatır
+  workflow_dispatch:          # elle veya zincirin kendini yeniden başlatması
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
-  group: telegram-haber
+  group: telegram-haber       # aynı anda tek çalışma; bekleyen en fazla bir tane
   cancel-in-progress: false
+
+env:
+  ARALIK_DK: 10               # kaç dakikada bir yayın
+  SURE_DK: 330                # bir çalışmanın toplam süresi (GitHub sınırı 360)
 
 jobs:
   yayinla:
     runs-on: ubuntu-latest
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
 
@@ -33,21 +43,37 @@ jobs:
           [ -n "$T" ] || { echo '::error::TELEGRAM_BOT_TOKEN bulunamadi. Settings > Secrets and variables > Actions > Repository secrets altina ekleyin.'; exit 1; }
           echo "Ayarlar tamam"
 
-      - name: Haberleri gönder
+      - name: Yayın döngüsü
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN || vars.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID || vars.TELEGRAM_CHAT_ID }}
-        run: python telegram-haber/bot.py
-
-      - name: Gönderilen listesini kaydet
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add telegram-haber/state/posted.json
-          git diff --cached --quiet && { echo "degisiklik yok"; exit 0; }
-          git commit -m "bot: gönderilen haber listesi güncellendi"
-          for i in 1 2 3; do
-            git pull --rebase origin ${{ github.ref_name }} && git push && exit 0
-            echo "push denemesi $i basarisiz, tekrar deneniyor"; sleep 5
+          bitis=$(( SECONDS + SURE_DK * 60 ))
+          tur=0
+          while [ $SECONDS -lt $bitis ]; do
+            tur=$((tur + 1)); baslangic=$SECONDS
+            echo "::group::Tur $tur · $(date -u '+%H:%M') UTC"
+            git pull --rebase -q origin ${{ github.ref_name }} || echo "pull basarisiz, devam"
+            python telegram-haber/bot.py || echo "bot hata kodu dondu, sonraki turda tekrar denenecek"
+            git add telegram-haber/state/posted.json
+            if ! git diff --cached --quiet; then
+              git commit -q -m "bot: gönderilen haber listesi güncellendi"
+              for i in 1 2 3; do
+                git pull --rebase -q origin ${{ github.ref_name }} && git push -q && break
+                echo "push denemesi $i basarisiz"; sleep 5
+              done
+            fi
+            echo "::endgroup::"
+            gecen=$(( SECONDS - baslangic ))
+            bekle=$(( ARALIK_DK * 60 - gecen ))
+            [ $(( SECONDS + bekle )) -ge $bitis ] && break
+            [ $bekle -gt 0 ] && sleep $bekle
           done
-          echo "::error::Durum dosyasi kaydedilemedi"; exit 1
+          echo "Toplam $tur tur tamamlandi"
+
+      - name: Zinciri sürdür
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run telegram-haber.yml --ref ${{ github.ref_name }} && echo "Sonraki calisma kuyruga alindi"

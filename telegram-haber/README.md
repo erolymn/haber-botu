@@ -1,7 +1,7 @@
 # Telegram Haber Botu
 
 RSS kaynaklarından yeni haberleri alıp Telegram kanalına otomatik gönderir.
-Sunucu yok: GitHub Actions her 5 dakikada bir çalıştırır, gönderilen haberlerin listesi
+Sunucu yok: GitHub Actions her 10 dakikada bir çalıştırır, gönderilen haberlerin listesi
 `state/posted.json` dosyasında tutulur.
 
 ## Kurulum (adım adım)
@@ -24,7 +24,7 @@ Sunucu yok: GitHub Actions her 5 dakikada bir çalıştırır, gönderilen haber
 ### 4. Botu çalıştır
 1. GitHub'da **Actions** sekmesine gir, soldan **Telegram haber botu**'nu seç.
 2. **Run workflow** düğmesine bas. 1 dakika içinde kanalda ilk haberler görünür.
-3. Bundan sonra her 5 dakikada bir kendi kendine çalışır.
+3. Bundan sonra her 10 dakikada bir kendi kendine çalışır. Aralık `ARALIK_DK` ile iş akışı dosyasında değiştirilir.
 
 Not: Zamanlanmış çalışma yalnızca deponun **ana dalında** (main) çalışır. Bu klasör başka bir daldaysa önce ana dala birleştir.
 
