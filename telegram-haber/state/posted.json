@@ -229,7 +229,16 @@
 "59629f3a2d0ea8a6",
 "43ad021c12aedfe7",
 "52290e51b2ea14b6",
-"7dbddc8a2ffd4db6"
+"7dbddc8a2ffd4db6",
+"b08f89588ef8ff62",
+"2d8a8f2498f699b7",
+"ffaa47821143d7bf",
+"6d8940db6c6e0646",
+"2458c4bf6d118b17",
+"f85180f35c120168",
+"766c47e8f12c5cdd",
+"b533f6c2f054c1f9",
+"0a7d52e7dd9cfc41"
 ],
 "imzalar": [
 [
@@ -792,19 +801,92 @@
 "patrona",
 "satildi",
 "turk"
+],
+[
+"ajet",
+"bilet",
+"indirimli",
+"kampanyasi",
+"ten"
+],
+[
+"acili",
+"alsaydim",
+"babanin",
+"ciddiye",
+"hayattaydi",
+"isyani",
+"oglum"
+],
+[
+"atiklar",
+"bezdirdi",
+"canindan",
+"ceken",
+"goruntuler",
+"istanbul",
+"mahalleliyi",
+"tepki"
+],
+[
+"cagatay",
+"ceken",
+"dikkat",
+"guldurmedi",
+"kivanc",
+"sorusu",
+"sozler",
+"tatlitug",
+"ulusoy"
+],
+[
+"130",
+"ankara",
+"bulusacak",
+"cumhuriyetin",
+"dunyasi",
+"turk",
+"uncu",
+"yilinda"
+],
+[
+"529",
+"huzur",
+"istanbul",
+"uygulamasi",
+"yakalandi",
+"zanli"
+],
+[
+"dan",
+"fuze",
+"olu",
+"rusya",
+"saldirisi",
+"ukrayna",
+"yarali"
+],
+[
+"671",
+"ele",
+"esrar",
+"gecirildi",
+"gram",
+"izmir",
+"kilo"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-22T09:00:00+00:00",
-"Sonsöz (Ankara)": "2026-10-22T09:02:00+00:00",
-"Google Trends": "2026-10-22T09:09:21.538709+00:00",
-"Mynet Son Dakika": "2026-10-22T08:42:10+00:00",
-"Sözcü Son Dakika": "2026-10-22T09:05:57+00:00",
-"Yeni Şafak Yerel": "2026-10-22T09:05:17+00:00",
+"Haber Global": "2026-10-22T10:05:00+00:00",
+"Sonsöz (Ankara)": "2026-10-22T10:07:00+00:00",
+"Google Trends": "2026-10-22T10:09:02.501732+00:00",
+"Mynet Son Dakika": "2026-10-22T09:36:11+00:00",
+"Sözcü Son Dakika": "2026-10-22T09:49:38+00:00",
+"Yeni Şafak Yerel": "2026-10-22T10:06:35+00:00",
 "X / Twitter Türkiye": "2026-10-22T09:09:23.402555+00:00",
-"Olay (Bursa)": "2026-10-22T09:04:44+00:00",
+"Olay (Bursa)": "2026-10-22T10:08:28+00:00",
 "@islamasalya": "2026-10-22T04:15:23+00:00",
-"Yeni Asır (İzmir)": "2026-10-22T08:53:15+00:00",
-"İstanbul Gazetesi": "2026-10-22T09:02:00+00:00"
+"Yeni Asır (İzmir)": "2026-10-22T09:34:56+00:00",
+"İstanbul Gazetesi": "2026-10-22T09:46:00+00:00"
 }
 }
