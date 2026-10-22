@@ -276,7 +276,15 @@
 "b497633c081ecf64",
 "fb1e608bc674b049",
 "add083a41eecb4fe",
-"4752bc6ab885104d"
+"4752bc6ab885104d",
+"8495d67ae1e022d4",
+"f42100c8d76db6f9",
+"a1e108415522c15c",
+"d630f9425bcf8c9b",
+"7f30a01393768470",
+"81c0782d70303a3a",
+"2d0f616cd0e9a24e",
+"2535a2a1e4b457f2"
 ],
 "imzalar": [
 [
@@ -1230,19 +1238,79 @@
 "hazirligi",
 "meb",
 "meta"
+],
+[
+"baslayacak",
+"cumhurbaskani",
+"donem",
+"duyurdu",
+"erdogan",
+"kanada",
+"once",
+"sonundan",
+"yeni",
+"yil"
+],
+[
+"apartmani",
+"cikti",
+"davasinda",
+"efruz",
+"karar",
+"kisiye",
+"mezar",
+"olmustu"
+],
+[
+"609",
+"cocuklarina",
+"cuma",
+"destegi",
+"egitim",
+"gazi",
+"gunu",
+"hesapta",
+"liralik",
+"milyon",
+"sehit"
+],
+[
+"850",
+"adet",
+"anlasti",
+"lockheed",
+"martin",
+"pentagon",
+"uretilecek"
+],
+[
+"bildirdi",
+"cop31",
+"katilacagini",
+"lider"
+],
+[
+"fazil",
+"filarmoni",
+"kuruluyor",
+"ozyegin",
+"sanat",
+"say",
+"ustlendi",
+"yonetmenligini"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-22T14:04:00+00:00",
+"Haber Global": "2026-10-22T14:58:00+00:00",
 "Sonsöz (Ankara)": "2026-10-22T13:34:00+00:00",
-"Google Trends": "2026-10-22T14:13:05.517276+00:00",
-"Mynet Son Dakika": "2026-10-22T14:09:10+00:00",
-"Sözcü Son Dakika": "2026-10-22T14:10:25+00:00",
-"Yeni Şafak Yerel": "2026-10-22T13:51:00+00:00",
-"X / Twitter Türkiye": "2026-10-22T12:08:50.737181+00:00",
-"Olay (Bursa)": "2026-10-22T14:10:53+00:00",
+"Google Trends": "2026-10-22T15:13:18.752712+00:00",
+"Mynet Son Dakika": "2026-10-22T14:40:40+00:00",
+"Sözcü Son Dakika": "2026-10-22T15:11:31+00:00",
+"Yeni Şafak Yerel": "2026-10-22T15:04:14+00:00",
+"X / Twitter Türkiye": "2026-10-22T15:13:20.258610+00:00",
+"Olay (Bursa)": "2026-10-22T15:05:59+00:00",
 "@islamasalya": "2026-10-22T04:15:23+00:00",
 "Yeni Asır (İzmir)": "2026-10-22T13:31:34+00:00",
-"İstanbul Gazetesi": "2026-10-22T13:56:00+00:00"
+"İstanbul Gazetesi": "2026-10-22T15:10:00+00:00"
 }
 }
