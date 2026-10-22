@@ -355,7 +355,9 @@
 "b8630d24bc32318d",
 "2f753aea880d4ffb",
 "4293c87d67bffd8b",
-"c31840e76dd3fbbf"
+"c31840e76dd3fbbf",
+"e51520dfb85e494c",
+"decb4e970500e294"
 ],
 "imzalar": [
 [
@@ -1970,14 +1972,31 @@
 "galatasaray",
 "oncesi",
 "sok"
+],
+[
+"besiktas",
+"devam",
+"edemedi",
+"sakatlik",
+"soku"
+],
+[
+"borsa",
+"dan",
+"islem",
+"kisiye",
+"operasyonu",
+"spk",
+"yasagi",
+"yil"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-22T19:22:00+00:00",
-"Sonsöz (Ankara)": "2026-10-22T16:41:00+00:00",
+"Sonsöz (Ankara)": "2026-10-22T20:00:00+00:00",
 "Google Trends": "2026-10-22T19:30:26.336508+00:00",
 "Mynet Son Dakika": "2026-10-22T14:40:40+00:00",
-"Sözcü Son Dakika": "2026-10-22T19:48:22+00:00",
+"Sözcü Son Dakika": "2026-10-22T19:55:08+00:00",
 "Yeni Şafak Yerel": "2026-10-22T19:46:14+00:00",
 "X / Twitter Türkiye": "2026-10-22T18:00:27.662573+00:00",
 "Olay (Bursa)": "2026-10-22T19:43:56+00:00",
