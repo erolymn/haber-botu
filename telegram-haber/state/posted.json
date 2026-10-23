@@ -410,7 +410,10 @@
 "d6740cd82a18e14b",
 "09586e6d3db8b430",
 "3c99fdd11d145e32",
-"0c3d7a10b45788ae"
+"0c3d7a10b45788ae",
+"189be3bd505f6f81",
+"533497a5a1d8ee66",
+"50b2e5174047dcf8"
 ],
 "imzalar": [
 [
@@ -2421,17 +2424,38 @@
 "bursa",
 "buyuksehir",
 "yeni"
+],
+[
+"aski",
+"bitmiyor",
+"fon"
+],
+[
+"bakani",
+"caglar",
+"cavit",
+"devlet",
+"eski",
+"genclerden",
+"tgb",
+"ziyaret"
+],
+[
+"kayseri",
+"kazasi",
+"trafik",
+"yarali"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-22T21:39:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T01:28:00+00:00",
+"Sonsöz (Ankara)": "2026-10-23T02:30:00+00:00",
 "Google Trends": "2026-10-22T22:00:52.006563+00:00",
 "Mynet Son Dakika": "2026-10-22T20:07:29+00:00",
-"Sözcü Son Dakika": "2026-10-23T02:10:18+00:00",
+"Sözcü Son Dakika": "2026-10-23T02:20:18+00:00",
 "Yeni Şafak Yerel": "2026-10-23T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-10-23T00:00:53.482609+00:00",
-"Olay (Bursa)": "2026-10-23T02:19:05+00:00",
+"Olay (Bursa)": "2026-10-23T02:25:13+00:00",
 "@islamasalya": "2026-10-22T21:51:50+00:00",
 "Yeni Asır (İzmir)": "2026-10-22T20:48:17+00:00",
 "İstanbul Gazetesi": "2026-10-22T21:18:00+00:00"
