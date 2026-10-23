@@ -701,7 +701,12 @@
 "a4f75b071477c110",
 "7ffc0a27b2cc2f98",
 "cc483f786a5083d8",
-"326442b168ac9423"
+"326442b168ac9423",
+"7695919681a436bc",
+"7d324cb994cca341",
+"e52651dbe5636e7a",
+"12b2eeabbabc5323",
+"ee4a35d16224bdaa"
 ],
 "imzalar": [
 [
@@ -5260,19 +5265,64 @@
 "polis",
 "protestolara",
 "seferber"
+],
+[
+"arac",
+"bulundu",
+"gun",
+"kapilan",
+"pendik",
+"sel",
+"sularina"
+],
+[
+"derbi",
+"derbisi",
+"fenerbahce",
+"galatasaray",
+"kacta",
+"oynanacak",
+"saat",
+"zaman"
+],
+[
+"cikti",
+"efsane",
+"hali",
+"isminin",
+"kurtlar",
+"nin",
+"ortaya",
+"vadisi"
+],
+[
+"ateskes",
+"baslayacak",
+"edilecek",
+"ekim",
+"gecici",
+"oleski",
+"siviller",
+"tahliye"
+],
+[
+"bursa",
+"cagrisi",
+"dunyasindan",
+"faiz"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-23T13:52:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T13:04:00+00:00",
+"Sonsöz (Ankara)": "2026-10-23T14:19:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T13:42:35+00:00",
-"Sözcü Son Dakika": "2026-10-23T14:04:54+00:00",
+"Sözcü Son Dakika": "2026-10-23T14:18:10+00:00",
 "Yeni Şafak Yerel": "2026-10-23T13:56:33+00:00",
 "X / Twitter Türkiye": "2026-10-23T12:02:07.769499+00:00",
-"Olay (Bursa)": "2026-10-23T13:51:57+00:00",
+"Olay (Bursa)": "2026-10-23T14:22:31+00:00",
 "@islamasalya": "2026-10-23T13:02:27+00:00",
-"Yeni Asır (İzmir)": "2026-10-23T14:04:53+00:00",
-"İstanbul Gazetesi": "2026-10-23T13:22:00+00:00"
+"Yeni Asır (İzmir)": "2026-10-23T14:11:45+00:00",
+"İstanbul Gazetesi": "2026-10-23T14:10:00+00:00"
 }
 }
