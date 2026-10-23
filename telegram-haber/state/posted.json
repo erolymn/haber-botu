@@ -758,7 +758,10 @@
 "8b5854177cfb4bd4",
 "1bfad5cc0abbad6f",
 "e5dcb46c6f9d111f",
-"08741f7d28aa9ca3"
+"08741f7d28aa9ca3",
+"8b9b0aa257b9f63b",
+"cb7cf1977efd8b8f",
+"68f3e642e5863e1d"
 ],
 "imzalar": [
 [
@@ -5890,15 +5893,48 @@
 "ticaret",
 "turkiye",
 "yil"
+],
+[
+"calisani",
+"liralik",
+"milyon",
+"muhasebe",
+"samsun",
+"tutuklandi",
+"vurgun"
+],
+[
+"ezeli",
+"futbolcu",
+"iki",
+"karsi",
+"karsiya",
+"lig",
+"rakip",
+"rus",
+"super"
+],
+[
+"almanya",
+"avrupa",
+"dustu",
+"gonderilecek",
+"hollanda",
+"kaliyordu",
+"kapis",
+"pesine",
+"satiliyor",
+"simdi",
+"tarlada"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T15:56:00+00:00",
+"Haber Global": "2026-10-23T16:54:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T15:59:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T13:42:35+00:00",
-"Sözcü Son Dakika": "2026-10-23T16:49:12+00:00",
-"Yeni Şafak Yerel": "2026-10-23T16:16:57+00:00",
+"Sözcü Son Dakika": "2026-10-23T16:59:23+00:00",
+"Yeni Şafak Yerel": "2026-10-23T17:00:18+00:00",
 "X / Twitter Türkiye": "2026-10-23T15:02:46.236800+00:00",
 "Olay (Bursa)": "2026-10-23T15:18:31+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
