@@ -696,7 +696,10 @@
 "515747645d58d8c5",
 "421ff0688998359e",
 "6a12f1e0b4a34ea6",
-"f545ac5d0e5d6743"
+"f545ac5d0e5d6743",
+"23d7bf0e984f4422",
+"a4f75b071477c110",
+"7ffc0a27b2cc2f98"
 ],
 "imzalar": [
 [
@@ -5206,15 +5209,44 @@
 "para",
 "saldirmak",
 "yedi"
+],
+[
+"gaz",
+"gececek",
+"kis",
+"korkutan",
+"uyarisi",
+"zor"
+],
+[
+"600",
+"birlestirip",
+"cop",
+"havacilik",
+"meraki",
+"meydan",
+"okudu",
+"posetini",
+"tum",
+"uctu",
+"zorluklara"
+],
+[
+"araci",
+"davasinda",
+"gelisme",
+"imamoglu",
+"makam",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T13:40:00+00:00",
+"Haber Global": "2026-10-23T13:52:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T13:04:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T13:42:35+00:00",
-"Sözcü Son Dakika": "2026-10-23T13:50:57+00:00",
-"Yeni Şafak Yerel": "2026-10-23T13:46:51+00:00",
+"Sözcü Son Dakika": "2026-10-23T14:00:53+00:00",
+"Yeni Şafak Yerel": "2026-10-23T13:56:33+00:00",
 "X / Twitter Türkiye": "2026-10-23T12:02:07.769499+00:00",
 "Olay (Bursa)": "2026-10-23T13:51:57+00:00",
 "@islamasalya": "2026-10-23T13:02:27+00:00",
