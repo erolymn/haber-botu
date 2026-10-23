@@ -558,22 +558,54 @@ def _medya_gonder(api: str, chat_id: str, yontem: str, alan: str, url: str, meti
     return False
 
 
+_OG = (
+    re.compile(r'<meta[^>]+property=["\']og:image(?::secure_url)?["\'][^>]+content=["\']([^"\']+)', re.I),
+    re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image(?::secure_url)?["\']', re.I),
+    re.compile(r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)', re.I),
+)
+
+
+def kapak_gorseli_bul(link: str) -> str | None:
+    """RSS görsel vermediyse haber sayfasının og:image etiketinden kapak görselini alır."""
+    try:
+        r = requests.get(link, headers={"User-Agent": UA}, timeout=15, stream=True)
+        r.raise_for_status()
+        parca = b""
+        for chunk in r.iter_content(64 * 1024):
+            parca += chunk
+            if len(parca) > 400 * 1024 or b"</head>" in parca:
+                break
+        metin = parca.decode(r.encoding or "utf-8", errors="replace")
+    except Exception as e:  # noqa: BLE001
+        print(f"[uyari] kapak gorseli alinamadi: {e}")
+        return None
+    for desen in _OG:
+        m = desen.search(metin)
+        if m:
+            url = html.unescape(m.group(1).strip())
+            if url.startswith("//"):
+                url = "https:" + url
+            if url.startswith("http"):
+                return url
+    return None
+
+
 def telegram_gonder(token: str, chat_id: str, h: dict) -> bool:
     api = f"https://api.telegram.org/bot{token}"
     metin = mesaj_olustur(h)
     if h.get("video") and len(metin) <= 1024:
         if _medya_gonder(api, chat_id, "sendVideo", "video", h["video"], metin, "video.mp4"):
             return True
+    if not h.get("gorsel") and h.get("tip") == "rss":
+        h["gorsel"] = kapak_gorseli_bul(h["link"])
     if h.get("gorsel") and len(metin) <= 1024:
         if _medya_gonder(api, chat_id, "sendPhoto", "photo", h["gorsel"], metin, "foto.jpg"):
             return True
-    if h.get("tip") == "rss" and KAYNAK_GOSTERIMI == "link":
-        onizleme = {"url": h["link"], "prefer_large_media": True}
-    else:
-        onizleme = {"is_disabled": True}
+    # Link önizlemesi kapalı: aksi halde başlık ve özet önizlemede ikinci kez görünür
     r = requests.post(
         f"{api}/sendMessage",
-        json={"chat_id": chat_id, "text": metin, "parse_mode": "HTML", "link_preview_options": onizleme},
+        json={"chat_id": chat_id, "text": metin, "parse_mode": "HTML",
+              "link_preview_options": {"is_disabled": True}},
         timeout=30,
     )
     if not r.ok:
