@@ -699,7 +699,9 @@
 "f545ac5d0e5d6743",
 "23d7bf0e984f4422",
 "a4f75b071477c110",
-"7ffc0a27b2cc2f98"
+"7ffc0a27b2cc2f98",
+"cc483f786a5083d8",
+"326442b168ac9423"
 ],
 "imzalar": [
 [
@@ -5238,6 +5240,26 @@
 "imamoglu",
 "makam",
 "yeni"
+],
+[
+"cikacak",
+"hakim",
+"iste",
+"karsisina",
+"mabel",
+"matiz",
+"tarih"
+],
+[
+"bin",
+"edildi",
+"hazir",
+"kisilik",
+"macron",
+"ordusu",
+"polis",
+"protestolara",
+"seferber"
 ]
 ],
 "son_tarih": {
@@ -5245,12 +5267,12 @@
 "Sonsöz (Ankara)": "2026-10-23T13:04:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T13:42:35+00:00",
-"Sözcü Son Dakika": "2026-10-23T14:00:53+00:00",
+"Sözcü Son Dakika": "2026-10-23T14:04:54+00:00",
 "Yeni Şafak Yerel": "2026-10-23T13:56:33+00:00",
 "X / Twitter Türkiye": "2026-10-23T12:02:07.769499+00:00",
 "Olay (Bursa)": "2026-10-23T13:51:57+00:00",
 "@islamasalya": "2026-10-23T13:02:27+00:00",
-"Yeni Asır (İzmir)": "2026-10-23T13:22:32+00:00",
+"Yeni Asır (İzmir)": "2026-10-23T14:04:53+00:00",
 "İstanbul Gazetesi": "2026-10-23T13:22:00+00:00"
 }
 }
