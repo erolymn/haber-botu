@@ -678,7 +678,11 @@
 "37011ed8e47a75fd",
 "6f4844525860c922",
 "3af02413de003a11",
-"656e0d6d14064622"
+"656e0d6d14064622",
+"6357488e80526192",
+"baf883bbc2838fe3",
+"a4f48d323820a267",
+"ee577baef4d845e6"
 ],
 "imzalar": [
 [
@@ -5024,19 +5028,60 @@
 "idamin",
 "konustugu",
 "perde"
+],
+[
+"belcika",
+"gun",
+"hangi",
+"kac",
+"kacta",
+"kaldi",
+"kanalda",
+"mac",
+"maci",
+"macina",
+"milli",
+"saat",
+"takim",
+"turkiye",
+"yayini"
+],
+[
+"2027",
+"asgari",
+"kadar",
+"olacak",
+"tahmini",
+"ucret",
+"uzmanlardan",
+"zammi"
+],
+[
+"borsada",
+"dusus",
+"ilk",
+"tarihi",
+"yasaniyor",
+"yil"
+],
+[
+"besob",
+"btso",
+"dan",
+"ziyaret"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T13:04:00+00:00",
+"Haber Global": "2026-10-23T13:17:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T13:04:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T09:01:02+00:00",
-"Sözcü Son Dakika": "2026-10-23T13:11:28+00:00",
+"Sözcü Son Dakika": "2026-10-23T13:18:36+00:00",
 "Yeni Şafak Yerel": "2026-10-23T13:11:12+00:00",
 "X / Twitter Türkiye": "2026-10-23T12:02:07.769499+00:00",
-"Olay (Bursa)": "2026-10-23T13:10:16+00:00",
+"Olay (Bursa)": "2026-10-23T13:19:07+00:00",
 "@islamasalya": "2026-10-23T13:02:27+00:00",
-"Yeni Asır (İzmir)": "2026-10-23T12:47:31+00:00",
+"Yeni Asır (İzmir)": "2026-10-23T13:16:28+00:00",
 "İstanbul Gazetesi": "2026-10-23T12:26:00+00:00"
 }
 }
