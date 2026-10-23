@@ -528,7 +528,12 @@
 "a5ecdbe5121e2602",
 "ce755acc381c53ea",
 "710354d404c2a34f",
-"7975ffff20b69498"
+"7975ffff20b69498",
+"306d9a8057ce28e1",
+"19515a14dbd35068",
+"c3c03ab40fb96e5c",
+"8e1ac44647f534b3",
+"3335a4efbfe254eb"
 ],
 "imzalar": [
 [
@@ -3578,19 +3583,65 @@
 "sapik",
 "verdi",
 "yakayi"
+],
+[
+"gok",
+"gurultulu",
+"saganak",
+"sehrimiz",
+"uyarisi",
+"yagis"
+],
+[
+"aydin",
+"hasadi",
+"isci",
+"izmir",
+"kadar",
+"kestane",
+"kestanenin",
+"kilosu",
+"yevmiye"
+],
+[
+"ask",
+"baslayan",
+"bile",
+"klipte",
+"surmedi"
+],
+[
+"arac",
+"bilgisi",
+"dan",
+"hasar",
+"karari",
+"yargitay"
+],
+[
+"cagrisi",
+"demirel",
+"den",
+"derbi",
+"ismail",
+"kartal",
+"lazim",
+"mutlaka",
+"oynamasi",
+"volkan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T08:06:00+00:00",
+"Haber Global": "2026-10-23T08:11:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T07:11:00+00:00",
 "Google Trends": "2026-10-23T07:41:26.206761+00:00",
 "Mynet Son Dakika": "2026-10-23T07:42:51+00:00",
-"Sözcü Son Dakika": "2026-10-23T08:08:50+00:00",
-"Yeni Şafak Yerel": "2026-10-23T08:04:22+00:00",
+"Sözcü Son Dakika": "2026-10-23T08:15:41+00:00",
+"Yeni Şafak Yerel": "2026-10-23T08:20:24+00:00",
 "X / Twitter Türkiye": "2026-10-23T06:01:27.803717+00:00",
-"Olay (Bursa)": "2026-10-23T07:52:54+00:00",
+"Olay (Bursa)": "2026-10-23T08:19:07+00:00",
 "@islamasalya": "2026-10-23T07:29:29+00:00",
-"Yeni Asır (İzmir)": "2026-10-23T06:49:40+00:00",
+"Yeni Asır (İzmir)": "2026-10-23T08:11:07+00:00",
 "İstanbul Gazetesi": "2026-10-23T08:01:00+00:00"
 }
 }
