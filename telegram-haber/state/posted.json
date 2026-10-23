@@ -447,7 +447,11 @@
 "dae2a57874c50442",
 "dcbd999d8d5ce951",
 "b55b48081c41ed4e",
-"0482273409bd080c"
+"0482273409bd080c",
+"2cb36091bdb54735",
+"8599440f78b730d0",
+"339aed0efffe860b",
+"87fdb200f4253f4d"
 ],
 "imzalar": [
 [
@@ -2754,19 +2758,58 @@
 "geriledi",
 "sert",
 "seviyelere"
+],
+[
+"alindi",
+"gozaltina",
+"istanbul",
+"operasyonunda",
+"orgutu",
+"suc",
+"supheli"
+],
+[
+"bitti",
+"gun",
+"nisanlanmislardi",
+"olumle",
+"once",
+"tartisma"
+],
+[
+"baskani",
+"belediye",
+"buyuk",
+"buyuksehir",
+"cemil",
+"dan",
+"iki",
+"indirim",
+"izmir",
+"mujdesi",
+"tugay"
+],
+[
+"bolundu",
+"cin",
+"dayanamayan",
+"gucune",
+"ikiye",
+"markasi",
+"otomotiv"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T05:02:00+00:00",
+"Haber Global": "2026-10-23T05:25:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T03:58:00+00:00",
 "Google Trends": "2026-10-23T04:31:25.179111+00:00",
 "Mynet Son Dakika": "2026-10-23T04:54:22+00:00",
-"Sözcü Son Dakika": "2026-10-23T05:25:01+00:00",
-"Yeni Şafak Yerel": "2026-10-23T05:25:51+00:00",
+"Sözcü Son Dakika": "2026-10-23T05:38:00+00:00",
+"Yeni Şafak Yerel": "2026-10-23T05:36:05+00:00",
 "X / Twitter Türkiye": "2026-10-23T03:00:53.459923+00:00",
 "Olay (Bursa)": "2026-10-23T05:14:41+00:00",
 "@islamasalya": "2026-10-22T21:51:50+00:00",
 "Yeni Asır (İzmir)": "2026-10-23T03:50:20+00:00",
-"İstanbul Gazetesi": "2026-10-23T05:22:00+00:00"
+"İstanbul Gazetesi": "2026-10-23T05:30:00+00:00"
 }
 }
