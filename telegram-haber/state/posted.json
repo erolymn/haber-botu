@@ -504,7 +504,13 @@
 "cc5379dbff29b97e",
 "08706d211c8c3e5d",
 "1a4fe46386d4e110",
-"297b6ea50d05e78f"
+"297b6ea50d05e78f",
+"26cff8421ab61d7f",
+"8fa3e3500faea830",
+"ee6d66db786fdf84",
+"b2d46d91859e9f6e",
+"9b5d91233ea01c57",
+"dd93334ce16adb6b"
 ],
 "imzalar": [
 [
@@ -3325,19 +3331,73 @@
 "konferansi",
 "konusuyor",
 "nda"
+],
+[
+"bogazi",
+"istanbul",
+"kapatildi",
+"trafige"
+],
+[
+"bayrami",
+"bazi",
+"cumhuriyet",
+"dolayisiyla",
+"ekim",
+"istanbul",
+"kapatilacak",
+"trafige",
+"yollar"
+],
+[
+"aileden",
+"antibiyotikte",
+"biri",
+"cehalet",
+"iki",
+"korkutan",
+"yaniliyor"
+],
+[
+"agir",
+"allahu",
+"askeri",
+"bati",
+"ekber",
+"eristi",
+"eylemde",
+"eylemi",
+"filistin",
+"gerceklestiren",
+"gerceklestirilen",
+"halil",
+"mucahid",
+"sehadete",
+"seriadaki",
+"silahli",
+"siyonist",
+"tanesi",
+"yaralandi"
+],
+[
+"basladi",
+"euroluk",
+"kavgasi",
+"milyar",
+"miras"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T07:15:00+00:00",
+"Haber Global": "2026-10-23T07:25:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T07:11:00+00:00",
-"Google Trends": "2026-10-23T07:21:27.998261+00:00",
+"Google Trends": "2026-10-23T07:31:28.154808+00:00",
 "Mynet Son Dakika": "2026-10-23T06:22:20+00:00",
 "Sözcü Son Dakika": "2026-10-23T07:17:32+00:00",
-"Yeni Şafak Yerel": "2026-10-23T07:19:58+00:00",
+"Yeni Şafak Yerel": "2026-10-23T07:23:20+00:00",
 "X / Twitter Türkiye": "2026-10-23T06:01:27.803717+00:00",
-"Olay (Bursa)": "2026-10-23T07:17:04+00:00",
-"@islamasalya": "2026-10-22T21:51:50+00:00",
+"Olay (Bursa)": "2026-10-23T07:31:19+00:00",
+"@islamasalya": "2026-10-23T07:29:29+00:00",
 "Yeni Asır (İzmir)": "2026-10-23T06:49:40+00:00",
-"İstanbul Gazetesi": "2026-10-23T07:10:00+00:00"
+"İstanbul Gazetesi": "2026-10-23T07:22:00+00:00"
 }
 }
