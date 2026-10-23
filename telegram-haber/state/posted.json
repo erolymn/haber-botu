@@ -461,7 +461,12 @@
 "5c9efd4edbc316bf",
 "a71fabe9191d24e2",
 "f89e8f968e561c1d",
-"c75dbee82ffcd0d9"
+"c75dbee82ffcd0d9",
+"0ed0868b8b978a97",
+"f202f8d5cd909edf",
+"a72d780bbd7e25d0",
+"6a7bdd26f85d0b52",
+"14e2a9a47f706ae2"
 ],
 "imzalar": [
 [
@@ -2897,17 +2902,67 @@
 "mufettis",
 "orman",
 "yardimcisi"
+],
+[
+"istanbul",
+"nesil",
+"operasyon",
+"orgutune",
+"suc",
+"yeni"
+],
+[
+"corum",
+"genc",
+"hastanede",
+"kadin",
+"kazasinda",
+"vefat",
+"yaralanan"
+],
+[
+"cilginligi",
+"donuyor",
+"ekran",
+"eriyor",
+"geri",
+"kollar",
+"sona",
+"tuslar"
+],
+[
+"biya",
+"diline",
+"dustu",
+"kamerun",
+"kendi",
+"lideri",
+"medyanin",
+"paul",
+"resmi",
+"sosyal",
+"ulkesine",
+"ziyaret"
+],
+[
+"aklama",
+"ankara",
+"kapsaminda",
+"kara",
+"operasyon",
+"para",
+"sorusturmasi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-23T05:46:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T03:58:00+00:00",
+"Sonsöz (Ankara)": "2026-10-23T06:09:00+00:00",
 "Google Trends": "2026-10-23T04:31:25.179111+00:00",
-"Mynet Son Dakika": "2026-10-23T04:54:22+00:00",
-"Sözcü Son Dakika": "2026-10-23T05:59:33+00:00",
-"Yeni Şafak Yerel": "2026-10-23T05:59:18+00:00",
+"Mynet Son Dakika": "2026-10-23T05:58:32+00:00",
+"Sözcü Son Dakika": "2026-10-23T06:08:54+00:00",
+"Yeni Şafak Yerel": "2026-10-23T06:05:03+00:00",
 "X / Twitter Türkiye": "2026-10-23T06:01:27.803717+00:00",
-"Olay (Bursa)": "2026-10-23T06:00:05+00:00",
+"Olay (Bursa)": "2026-10-23T06:07:05+00:00",
 "@islamasalya": "2026-10-22T21:51:50+00:00",
 "Yeni Asır (İzmir)": "2026-10-23T05:53:12+00:00",
 "İstanbul Gazetesi": "2026-10-23T05:40:00+00:00"
