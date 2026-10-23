@@ -399,7 +399,8 @@
 "00086a999ee9c69b",
 "bf20ad3e976dee1b",
 "03e55eac04d81e4f",
-"89dc5867b4736e01"
+"89dc5867b4736e01",
+"bf9698be87dc8601"
 ],
 "imzalar": [
 [
@@ -2332,6 +2333,13 @@
 "imam",
 "lojmani",
 "yandi"
+],
+[
+"hafta",
+"iki",
+"saatlik",
+"seminer",
+"surecek"
 ]
 ],
 "son_tarih": {
@@ -2339,7 +2347,7 @@
 "Sonsöz (Ankara)": "2026-10-23T00:28:00+00:00",
 "Google Trends": "2026-10-22T22:00:52.006563+00:00",
 "Mynet Son Dakika": "2026-10-22T20:07:29+00:00",
-"Sözcü Son Dakika": "2026-10-23T00:00:16+00:00",
+"Sözcü Son Dakika": "2026-10-23T00:32:36+00:00",
 "Yeni Şafak Yerel": "2026-10-22T21:54:00+00:00",
 "X / Twitter Türkiye": "2026-10-23T00:00:53.482609+00:00",
 "Olay (Bursa)": "2026-10-22T21:09:59+00:00",
