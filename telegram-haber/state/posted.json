@@ -706,7 +706,11 @@
 "7d324cb994cca341",
 "e52651dbe5636e7a",
 "12b2eeabbabc5323",
-"ee4a35d16224bdaa"
+"ee4a35d16224bdaa",
+"e3bcac3ef2704db4",
+"630ca1bac0f7d431",
+"38a1278cdede44c6",
+"c4103fcc0f74d1e6"
 ],
 "imzalar": [
 [
@@ -5310,19 +5314,66 @@
 "cagrisi",
 "dunyasindan",
 "faiz"
+],
+[
+"200",
+"atik",
+"calismalari",
+"cankaya",
+"donusum",
+"ekipmani",
+"geri",
+"sifir",
+"yeni",
+"yerlestiriliyor"
+],
+[
+"aldirma",
+"ameliyati",
+"bitti",
+"faciayla",
+"istanbul",
+"yag"
+],
+[
+"abd",
+"arasindaki",
+"asiliyor",
+"bakani",
+"bolat",
+"dolar",
+"hacminde",
+"milyar",
+"paylasti",
+"rakamlari",
+"siniri",
+"ticaret",
+"turkiye",
+"yeni"
+],
+[
+"binlerce",
+"bursa",
+"gectigi",
+"gun",
+"her",
+"kapatiliyor",
+"kisinin",
+"trafige",
+"yol"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-23T13:52:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T14:19:00+00:00",
+"Sonsöz (Ankara)": "2026-10-23T14:23:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T13:42:35+00:00",
 "Sözcü Son Dakika": "2026-10-23T14:18:10+00:00",
-"Yeni Şafak Yerel": "2026-10-23T13:56:33+00:00",
+"Yeni Şafak Yerel": "2026-10-23T14:29:01+00:00",
 "X / Twitter Türkiye": "2026-10-23T12:02:07.769499+00:00",
-"Olay (Bursa)": "2026-10-23T14:22:31+00:00",
+"Olay (Bursa)": "2026-10-23T14:30:59+00:00",
 "@islamasalya": "2026-10-23T13:02:27+00:00",
 "Yeni Asır (İzmir)": "2026-10-23T14:11:45+00:00",
-"İstanbul Gazetesi": "2026-10-23T14:10:00+00:00"
+"İstanbul Gazetesi": "2026-10-23T14:25:00+00:00"
 }
 }
