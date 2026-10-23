@@ -643,7 +643,14 @@
 "4f24a02c81903758",
 "7b906c77be8e310c",
 "d53bffe5241d8327",
-"c9d5383f1251191b"
+"c9d5383f1251191b",
+"8469a8432167f7fd",
+"1c25db6156dae106",
+"6c03af580312612f",
+"d19ab77317368b45",
+"53862ce45ca603e2",
+"70d1e841df65a559",
+"48617d5a05c4563a"
 ],
 "imzalar": [
 [
@@ -4670,19 +4677,86 @@
 "kisi",
 "kurum",
 "yuz"
+],
+[
+"bayram",
+"bedava",
+"digerleri",
+"izban",
+"izmirlilere",
+"kurus",
+"mujdesi"
+],
+[
+"barut",
+"ficisi",
+"gerilim",
+"gibi",
+"kore",
+"sinirda",
+"yarimadasi"
+],
+[
+"anlar",
+"firladi",
+"istanbul",
+"kamyonun",
+"korkutan",
+"tekerlekleri",
+"trafiginde"
+],
+[
+"cevap",
+"gunes",
+"senol",
+"sergen",
+"sitemkar",
+"sorusuna",
+"ten",
+"yalcin"
+],
+[
+"anildi",
+"depreminde",
+"hayatini",
+"kaybedenler",
+"van"
+],
+[
+"anlar",
+"cikti",
+"halindeki",
+"kamerada",
+"kamyonun",
+"seyir",
+"tehlikeli",
+"tekerlekleri"
+],
+[
+"celik",
+"egitim",
+"gozdagi",
+"hava",
+"kanatli",
+"karadeniz",
+"kesen",
+"kuvvetleri",
+"nden",
+"nefes",
+"semalarinda"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T11:40:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T12:00:00+00:00",
+"Haber Global": "2026-10-23T11:59:00+00:00",
+"Sonsöz (Ankara)": "2026-10-23T12:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T09:01:02+00:00",
-"Sözcü Son Dakika": "2026-10-23T11:56:44+00:00",
-"Yeni Şafak Yerel": "2026-10-23T12:00:35+00:00",
+"Sözcü Son Dakika": "2026-10-23T12:09:19+00:00",
+"Yeni Şafak Yerel": "2026-10-23T12:10:53+00:00",
 "X / Twitter Türkiye": "2026-10-23T12:02:07.769499+00:00",
-"Olay (Bursa)": "2026-10-23T11:59:23+00:00",
+"Olay (Bursa)": "2026-10-23T12:10:18+00:00",
 "@islamasalya": "2026-10-23T07:29:29+00:00",
-"Yeni Asır (İzmir)": "2026-10-23T11:42:19+00:00",
-"İstanbul Gazetesi": "2026-10-23T11:33:00+00:00"
+"Yeni Asır (İzmir)": "2026-10-23T11:56:50+00:00",
+"İstanbul Gazetesi": "2026-10-23T12:05:00+00:00"
 }
 }
