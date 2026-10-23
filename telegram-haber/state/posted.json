@@ -598,7 +598,12 @@
 "4751a9272ac16466",
 "79da5763e736d099",
 "f502376b2c47f6f7",
-"641eb00ee2b2846f"
+"641eb00ee2b2846f",
+"07508ddf2db6ea2d",
+"018bf34d38a35d8f",
+"4b96fa9c935cb87d",
+"6d5923d71ad57e2b",
+"30c73ce4c04eec05"
 ],
 "imzalar": [
 [
@@ -4238,17 +4243,63 @@
 "girdigi",
 "hastaneden",
 "yag"
+],
+[
+"103",
+"bursa",
+"coskuyla",
+"iste",
+"kutlanacak",
+"program",
+"yil"
+],
+[
+"agina",
+"dan",
+"diyen",
+"erisim",
+"saglandi",
+"starlink",
+"trump",
+"ukrayna",
+"yalanlama"
+],
+[
+"191",
+"bolgelerden",
+"durun",
+"hizla",
+"ilerliyor",
+"kilometre",
+"olum",
+"saatte",
+"sacan",
+"tayfun",
+"uyarilari",
+"uzak",
+"yapiliyor"
+],
+[
+"geri",
+"ihtar",
+"kilicdaroglu",
+"ndan",
+"parayi",
+"parti",
+"sok",
+"verin",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T10:10:00+00:00",
+"Haber Global": "2026-10-23T10:24:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T10:17:00+00:00",
-"Google Trends": "2026-10-23T10:22:06.586341+00:00",
+"Google Trends": "2026-10-23T10:32:05.524553+00:00",
 "Mynet Son Dakika": "2026-10-23T09:01:02+00:00",
-"Sözcü Son Dakika": "2026-10-23T10:20:25+00:00",
-"Yeni Şafak Yerel": "2026-10-23T10:20:08+00:00",
+"Sözcü Son Dakika": "2026-10-23T10:28:57+00:00",
+"Yeni Şafak Yerel": "2026-10-23T10:25:46+00:00",
 "X / Twitter Türkiye": "2026-10-23T09:02:08.599651+00:00",
-"Olay (Bursa)": "2026-10-23T09:59:59+00:00",
+"Olay (Bursa)": "2026-10-23T10:23:00+00:00",
 "@islamasalya": "2026-10-23T07:29:29+00:00",
 "Yeni Asır (İzmir)": "2026-10-23T09:23:42+00:00",
 "İstanbul Gazetesi": "2026-10-23T09:51:00+00:00"
