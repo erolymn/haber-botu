@@ -668,7 +668,11 @@
 "e5262d0cef25fa94",
 "7ef008772642b532",
 "ebbc26d30f0635a9",
-"c0aaad3527eaa1c5"
+"c0aaad3527eaa1c5",
+"8d55fcdc1412e6ac",
+"ba63b0bde37d05d7",
+"450f10cc74e60f35",
+"e0d945d7ab007a22"
 ],
 "imzalar": [
 [
@@ -4932,19 +4936,59 @@
 "silahli",
 "yaralandi",
 "yogunlukta"
+],
+[
+"altindan",
+"boyunca",
+"cikardi",
+"gelen",
+"gercegi",
+"gizlice",
+"goruntulemis",
+"kadinlar",
+"kapinin",
+"ortaya",
+"skandal",
+"tuvaletinde"
+],
+[
+"avukat",
+"belli",
+"birinci",
+"ceza",
+"hakkinda",
+"istenen",
+"mucahit"
+],
+[
+"avukat",
+"cubbeli",
+"nisanlisi",
+"oldurulmustu",
+"ozge",
+"tarafindan",
+"veda"
+],
+[
+"borsasi",
+"bursa",
+"faiz",
+"mesaji",
+"ndan",
+"ticaret"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T12:35:00+00:00",
+"Haber Global": "2026-10-23T12:48:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T12:48:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T09:01:02+00:00",
 "Sözcü Son Dakika": "2026-10-23T12:42:25+00:00",
-"Yeni Şafak Yerel": "2026-10-23T12:48:39+00:00",
+"Yeni Şafak Yerel": "2026-10-23T12:59:04+00:00",
 "X / Twitter Türkiye": "2026-10-23T12:02:07.769499+00:00",
-"Olay (Bursa)": "2026-10-23T12:35:07+00:00",
+"Olay (Bursa)": "2026-10-23T13:01:33+00:00",
 "@islamasalya": "2026-10-23T07:29:29+00:00",
-"Yeni Asır (İzmir)": "2026-10-23T11:56:50+00:00",
+"Yeni Asır (İzmir)": "2026-10-23T12:47:31+00:00",
 "İstanbul Gazetesi": "2026-10-23T12:26:00+00:00"
 }
 }
