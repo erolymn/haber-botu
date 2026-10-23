@@ -813,7 +813,8 @@
 "54cfab8a308c5a78",
 "94ad82309b3fd6ca",
 "fba32f1d73152870",
-"24386bff420be6b5"
+"24386bff420be6b5",
+"f41a0bf03e40f341"
 ],
 "imzalar": [
 [
@@ -6497,10 +6498,19 @@
 "izmir",
 "sentetik",
 "topraga"
+],
+[
+"fuhus",
+"kayseri",
+"makyajli",
+"masaj",
+"operasyon",
+"salonu",
+"yuvasina"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T21:27:00+00:00",
+"Haber Global": "2026-10-23T23:33:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T23:33:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T20:16:13+00:00",
