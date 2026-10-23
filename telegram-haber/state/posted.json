@@ -497,7 +497,14 @@
 "b17fcee1a1dda2ef",
 "9694fe304727e566",
 "3d7f020264566b19",
-"d6f82836e5dcb893"
+"d6f82836e5dcb893",
+"0c092b85059333e8",
+"f5c953c6d3456f47",
+"051a88d89b276352",
+"cc5379dbff29b97e",
+"08706d211c8c3e5d",
+"1a4fe46386d4e110",
+"297b6ea50d05e78f"
 ],
 "imzalar": [
 [
@@ -3263,19 +3270,74 @@
 "bursa",
 "icradan",
 "satilik"
+],
+[
+"artis",
+"beyin",
+"bolumun",
+"ceken",
+"dikkat",
+"gidiyor",
+"gocunde",
+"hangi",
+"mezunlari"
+],
+[
+"depreminin",
+"gecti",
+"uzerinden",
+"van",
+"yil"
+],
+[
+"dikkat",
+"kodlu",
+"kuvvetli",
+"sari",
+"uyari",
+"yagisa"
+],
+[
+"bursa",
+"coskusu",
+"cumhuriyet",
+"saracak"
+],
+[
+"acildi",
+"fark",
+"hic",
+"hollanda",
+"kadar",
+"olmadigi",
+"turkiye",
+"yakin",
+"yillar",
+"yunanistan"
+],
+[
+"arabuluculuk",
+"bakani",
+"disisleri",
+"fidan",
+"hakan",
+"istanbul",
+"konferansi",
+"konusuyor",
+"nda"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T07:01:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T07:07:00+00:00",
-"Google Trends": "2026-10-23T07:11:28.019214+00:00",
+"Haber Global": "2026-10-23T07:15:00+00:00",
+"Sonsöz (Ankara)": "2026-10-23T07:11:00+00:00",
+"Google Trends": "2026-10-23T07:21:27.998261+00:00",
 "Mynet Son Dakika": "2026-10-23T06:22:20+00:00",
-"Sözcü Son Dakika": "2026-10-23T06:57:26+00:00",
-"Yeni Şafak Yerel": "2026-10-23T07:01:55+00:00",
+"Sözcü Son Dakika": "2026-10-23T07:17:32+00:00",
+"Yeni Şafak Yerel": "2026-10-23T07:19:58+00:00",
 "X / Twitter Türkiye": "2026-10-23T06:01:27.803717+00:00",
-"Olay (Bursa)": "2026-10-23T07:09:30+00:00",
+"Olay (Bursa)": "2026-10-23T07:17:04+00:00",
 "@islamasalya": "2026-10-22T21:51:50+00:00",
 "Yeni Asır (İzmir)": "2026-10-23T06:49:40+00:00",
-"İstanbul Gazetesi": "2026-10-23T06:46:00+00:00"
+"İstanbul Gazetesi": "2026-10-23T07:10:00+00:00"
 }
 }
