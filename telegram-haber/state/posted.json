@@ -614,7 +614,12 @@
 "d6bce9d5d96e6cb9",
 "b3fef09dc83b4372",
 "f9ef8fbc27c06c67",
-"5525f8920482bebf"
+"5525f8920482bebf",
+"f1c0b7c210b9b857",
+"d9064ebebe676647",
+"ec3410cc5a6e97ab",
+"0c040382586be84c",
+"31388a88226ec991"
 ],
 "imzalar": [
 [
@@ -4392,19 +4397,62 @@
 "dustu",
 "kaza",
 "korkunc"
+],
+[
+"ask",
+"aydin",
+"esine",
+"evinde",
+"sevgilisinin",
+"skandali",
+"yakalandi",
+"yasak"
+],
+[
+"adimlar",
+"almanya",
+"dan",
+"rafineriler",
+"stratejik"
+],
+[
+"ediyor",
+"etmiyorum",
+"hak",
+"itiraz",
+"ocon",
+"pilotu"
+],
+[
+"azerbaycan",
+"bakan",
+"isikhan"
+],
+[
+"aleyna",
+"bulustu",
+"davanin",
+"goruntulendi",
+"ilk",
+"ismiyle",
+"kalaycioglu",
+"kez",
+"kritik",
+"sonrasi",
+"tahliye"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T10:56:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T10:49:00+00:00",
+"Haber Global": "2026-10-23T11:04:00+00:00",
+"Sonsöz (Ankara)": "2026-10-23T11:05:00+00:00",
 "Google Trends": "2026-10-23T10:42:06.741779+00:00",
 "Mynet Son Dakika": "2026-10-23T09:01:02+00:00",
 "Sözcü Son Dakika": "2026-10-23T10:50:22+00:00",
-"Yeni Şafak Yerel": "2026-10-23T10:59:50+00:00",
+"Yeni Şafak Yerel": "2026-10-23T11:06:43+00:00",
 "X / Twitter Türkiye": "2026-10-23T09:02:08.599651+00:00",
-"Olay (Bursa)": "2026-10-23T11:01:11+00:00",
+"Olay (Bursa)": "2026-10-23T11:03:47+00:00",
 "@islamasalya": "2026-10-23T07:29:29+00:00",
-"Yeni Asır (İzmir)": "2026-10-23T09:23:42+00:00",
+"Yeni Asır (İzmir)": "2026-10-23T11:00:46+00:00",
 "İstanbul Gazetesi": "2026-10-23T10:31:00+00:00"
 }
 }
