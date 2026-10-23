@@ -753,7 +753,8 @@
 "0b276fb1535a092a",
 "9d4b63eec79ff75b",
 "1c7a025e266faef5",
-"f867b2e56520622e"
+"f867b2e56520622e",
+"70a757b93a4c3e2a"
 ],
 "imzalar": [
 [
@@ -5832,6 +5833,14 @@
 "nassr",
 "ronaldo",
 "yine"
+],
+[
+"devrildi",
+"sarampole",
+"silivri",
+"tanker",
+"yakit",
+"yuklu"
 ]
 ],
 "son_tarih": {
@@ -5845,6 +5854,6 @@
 "Olay (Bursa)": "2026-10-23T15:18:31+00:00",
 "@islamasalya": "2026-10-23T13:02:27+00:00",
 "Yeni Asır (İzmir)": "2026-10-23T16:03:55+00:00",
-"İstanbul Gazetesi": "2026-10-23T16:16:00+00:00"
+"İstanbul Gazetesi": "2026-10-23T16:40:00+00:00"
 }
 }
