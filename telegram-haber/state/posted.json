@@ -519,7 +519,12 @@
 "2346ea4cf825f109",
 "b45f1c4226c5655f",
 "9b362f0f9dca15f9",
-"891f19edfbca5889"
+"891f19edfbca5889",
+"b183792e60abb916",
+"c7af0f311f271444",
+"1369fbccd29757a7",
+"5f7f613b00f1b7d5",
+"55b2d1a3fc21f03d"
 ],
 "imzalar": [
 [
@@ -3475,19 +3480,71 @@
 "inegol",
 "olumlu",
 "sayistay"
+],
+[
+"acikladi",
+"akom",
+"hafta",
+"hava",
+"istanbul",
+"nasil",
+"olacak",
+"sonu"
+],
+[
+"bursa",
+"buyuk",
+"calisma",
+"sokak"
+],
+[
+"bowling",
+"genc",
+"kadinin",
+"korkunc",
+"olumu",
+"salonunda"
+],
+[
+"ceviren",
+"derbi",
+"elinde",
+"futbolcudan",
+"karar",
+"oncesi",
+"paylasti",
+"saclarini",
+"saskina",
+"tutarak",
+"yildiz"
+],
+[
+"altust",
+"avrupa",
+"devinden",
+"eden",
+"guncellendi",
+"kulupler",
+"listeyi",
+"sicrama",
+"siralamasi",
+"sonrasi",
+"turk",
+"uefa",
+"zaferleri"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T07:41:00+00:00",
+"Haber Global": "2026-10-23T07:56:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T07:11:00+00:00",
 "Google Trends": "2026-10-23T07:41:26.206761+00:00",
 "Mynet Son Dakika": "2026-10-23T07:42:51+00:00",
-"Sözcü Son Dakika": "2026-10-23T07:48:27+00:00",
-"Yeni Şafak Yerel": "2026-10-23T07:36:29+00:00",
+"Sözcü Son Dakika": "2026-10-23T07:59:32+00:00",
+"Yeni Şafak Yerel": "2026-10-23T08:00:26+00:00",
 "X / Twitter Türkiye": "2026-10-23T06:01:27.803717+00:00",
-"Olay (Bursa)": "2026-10-23T07:49:38+00:00",
+"Olay (Bursa)": "2026-10-23T07:52:54+00:00",
 "@islamasalya": "2026-10-23T07:29:29+00:00",
 "Yeni Asır (İzmir)": "2026-10-23T06:49:40+00:00",
-"İstanbul Gazetesi": "2026-10-23T07:22:00+00:00"
+"İstanbul Gazetesi": "2026-10-23T07:49:00+00:00"
 }
 }
