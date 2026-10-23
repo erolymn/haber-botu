@@ -638,7 +638,12 @@
 "d50a5136eceae97a",
 "5c0e1381e24b744f",
 "ce5f4843240b4cb5",
-"d51d557529a90080"
+"d51d557529a90080",
+"b029079feaea1713",
+"4f24a02c81903758",
+"7b906c77be8e310c",
+"d53bffe5241d8327",
+"c9d5383f1251191b"
 ],
 "imzalar": [
 [
@@ -4634,17 +4639,48 @@
 "tamamlandi",
 "uzunlugundaki",
 "yol"
+],
+[
+"belli",
+"besiktas",
+"durumu",
+"miretti",
+"saglik",
+"soku"
+],
+[
+"aciliyor",
+"bursa",
+"hastanesi",
+"nin",
+"yeni"
+],
+[
+"ilde",
+"operasyonu",
+"uyusturucu",
+"yapildi"
+],
+[
+"antalya",
+"bakan",
+"binlerce",
+"duyurdu",
+"gelecek",
+"kisi",
+"kurum",
+"yuz"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-23T11:40:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T11:45:00+00:00",
+"Sonsöz (Ankara)": "2026-10-23T12:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T09:01:02+00:00",
-"Sözcü Son Dakika": "2026-10-23T11:50:16+00:00",
-"Yeni Şafak Yerel": "2026-10-23T11:36:28+00:00",
-"X / Twitter Türkiye": "2026-10-23T09:02:08.599651+00:00",
-"Olay (Bursa)": "2026-10-23T11:31:21+00:00",
+"Sözcü Son Dakika": "2026-10-23T11:56:44+00:00",
+"Yeni Şafak Yerel": "2026-10-23T12:00:35+00:00",
+"X / Twitter Türkiye": "2026-10-23T12:02:07.769499+00:00",
+"Olay (Bursa)": "2026-10-23T11:59:23+00:00",
 "@islamasalya": "2026-10-23T07:29:29+00:00",
 "Yeni Asır (İzmir)": "2026-10-23T11:42:19+00:00",
 "İstanbul Gazetesi": "2026-10-23T11:33:00+00:00"
