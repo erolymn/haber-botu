@@ -466,7 +466,12 @@
 "f202f8d5cd909edf",
 "a72d780bbd7e25d0",
 "6a7bdd26f85d0b52",
-"14e2a9a47f706ae2"
+"14e2a9a47f706ae2",
+"d9d41a09ba2ae7af",
+"4d596251013d1eda",
+"4c8820cacfd99e60",
+"64c80993e668c1db",
+"bd96c7fe0b895e4b"
 ],
 "imzalar": [
 [
@@ -2952,17 +2957,58 @@
 "operasyon",
 "para",
 "sorusturmasi"
+],
+[
+"2026",
+"adaylari",
+"ballon",
+"kimler",
+"verilecek",
+"zaman"
+],
+[
+"gozalti",
+"karari",
+"paymix",
+"sorusturmasi",
+"supheliye"
+],
+[
+"durduruldu",
+"peynirin",
+"tuketilen",
+"uretimi"
+],
+[
+"aciklamasi",
+"cevdet",
+"dan",
+"fonlari",
+"patron",
+"yilmaz"
+],
+[
+"cikacak",
+"duyurdu",
+"edilen",
+"emeklilik",
+"gelir",
+"kademeli",
+"meclis",
+"merak",
+"tarihi",
+"zaman"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T05:46:00+00:00",
+"Haber Global": "2026-10-23T06:16:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T06:09:00+00:00",
 "Google Trends": "2026-10-23T04:31:25.179111+00:00",
-"Mynet Son Dakika": "2026-10-23T05:58:32+00:00",
-"Sözcü Son Dakika": "2026-10-23T06:08:54+00:00",
-"Yeni Şafak Yerel": "2026-10-23T06:05:03+00:00",
+"Mynet Son Dakika": "2026-10-23T06:16:44+00:00",
+"Sözcü Son Dakika": "2026-10-23T06:19:09+00:00",
+"Yeni Şafak Yerel": "2026-10-23T06:21:00+00:00",
 "X / Twitter Türkiye": "2026-10-23T06:01:27.803717+00:00",
-"Olay (Bursa)": "2026-10-23T06:07:05+00:00",
+"Olay (Bursa)": "2026-10-23T06:19:35+00:00",
 "@islamasalya": "2026-10-22T21:51:50+00:00",
 "Yeni Asır (İzmir)": "2026-10-23T05:53:12+00:00",
 "İstanbul Gazetesi": "2026-10-23T05:40:00+00:00"
