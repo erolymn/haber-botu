@@ -423,7 +423,9 @@
 "32ce8cd96622f843",
 "14ee98fdad7f7766",
 "e3a26dc4bb9274b7",
-"aec53d87ab176676"
+"aec53d87ab176676",
+"81b601da8bd504fb",
+"0f3a1d1250e9b8d6"
 ],
 "imzalar": [
 [
@@ -2518,14 +2520,32 @@
 "tartistigi",
 "tavanindan",
 "yolcuyu"
+],
+[
+"cankaya",
+"iddiasi",
+"kacak",
+"karari",
+"kesinlesen",
+"neden",
+"uygulanmadi",
+"villa",
+"yikim"
+],
+[
+"den",
+"kotu",
+"nev",
+"sarkici",
+"sevenlerine"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-23T03:23:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T03:31:00+00:00",
+"Sonsöz (Ankara)": "2026-10-23T03:46:00+00:00",
 "Google Trends": "2026-10-23T03:21:28.145429+00:00",
 "Mynet Son Dakika": "2026-10-22T20:07:29+00:00",
-"Sözcü Son Dakika": "2026-10-23T03:36:42+00:00",
+"Sözcü Son Dakika": "2026-10-23T03:49:56+00:00",
 "Yeni Şafak Yerel": "2026-10-23T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-10-23T03:00:53.459923+00:00",
 "Olay (Bursa)": "2026-10-23T02:25:13+00:00",
