@@ -534,7 +534,14 @@
 "c3c03ab40fb96e5c",
 "8e1ac44647f534b3",
 "3335a4efbfe254eb",
-"972507b3b487c3bb"
+"972507b3b487c3bb",
+"a2a2fb27d062e49a",
+"9b817101fb74d7f3",
+"3683cfc8762c0369",
+"a9dd903978d937fb",
+"f25a7e320a25d84b",
+"2c5d08a29dba0b2d",
+"bdc11e2d6151bf30"
 ],
 "imzalar": [
 [
@@ -3641,19 +3648,91 @@
 "togg",
 "yarisi",
 "zirve"
+],
+[
+"190",
+"bagli",
+"baskan",
+"dan",
+"degildir",
+"erdogan",
+"fazla",
+"iradesinin",
+"keyfine",
+"ulkenin"
+],
+[
+"adamin",
+"evine",
+"isteyince",
+"mirascilar",
+"olen",
+"satmak",
+"yerlesti"
+],
+[
+"fenerbahce",
+"kacta",
+"maci",
+"olympiakos",
+"saat",
+"tarfin",
+"zaman"
+],
+[
+"edirne",
+"etkili",
+"saganak"
+],
+[
+"acikladi",
+"bolecekler",
+"carpici",
+"clinton",
+"dan",
+"diyerek",
+"dunyayi",
+"elinde",
+"iddiasi",
+"putin",
+"trump",
+"videolari"
+],
+[
+"cumhurbaskani",
+"diplomasiden",
+"erdogan",
+"olarak",
+"turkiye",
+"vazgecmeyecegiz"
+],
+[
+"akaryakit",
+"benzin",
+"degistirdi",
+"dengeleri",
+"donem",
+"fiyatlarinda",
+"gelen",
+"indirimler",
+"motorin",
+"pes",
+"pese",
+"pompalarinda",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T08:17:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T07:11:00+00:00",
+"Haber Global": "2026-10-23T08:25:00+00:00",
+"Sonsöz (Ankara)": "2026-10-23T08:26:00+00:00",
 "Google Trends": "2026-10-23T07:41:26.206761+00:00",
-"Mynet Son Dakika": "2026-10-23T07:42:51+00:00",
-"Sözcü Son Dakika": "2026-10-23T08:15:41+00:00",
-"Yeni Şafak Yerel": "2026-10-23T08:20:24+00:00",
+"Mynet Son Dakika": "2026-10-23T08:27:32+00:00",
+"Sözcü Son Dakika": "2026-10-23T08:21:17+00:00",
+"Yeni Şafak Yerel": "2026-10-23T08:31:26+00:00",
 "X / Twitter Türkiye": "2026-10-23T06:01:27.803717+00:00",
-"Olay (Bursa)": "2026-10-23T08:19:07+00:00",
+"Olay (Bursa)": "2026-10-23T08:29:43+00:00",
 "@islamasalya": "2026-10-23T07:29:29+00:00",
-"Yeni Asır (İzmir)": "2026-10-23T08:11:07+00:00",
+"Yeni Asır (İzmir)": "2026-10-23T08:18:16+00:00",
 "İstanbul Gazetesi": "2026-10-23T08:01:00+00:00"
 }
 }
