@@ -809,7 +809,8 @@
 "ba2837af244e56c9",
 "e937729be4487036",
 "be2ba6f18410d1a2",
-"47b2620e3106dc37"
+"47b2620e3106dc37",
+"54cfab8a308c5a78"
 ],
 "imzalar": [
 [
@@ -6446,6 +6447,19 @@
 "kaldi",
 "tepki",
 "yerde"
+],
+[
+"baskani",
+"btso",
+"celik",
+"enes",
+"hayirli",
+"matli",
+"olsun",
+"osb",
+"uludag",
+"yonetiminden",
+"ziyareti"
 ]
 ],
 "son_tarih": {
@@ -6456,7 +6470,7 @@
 "Sözcü Son Dakika": "2026-10-23T22:14:23+00:00",
 "Yeni Şafak Yerel": "2026-10-23T21:53:25+00:00",
 "X / Twitter Türkiye": "2026-10-23T21:15:52.462904+00:00",
-"Olay (Bursa)": "2026-10-23T15:18:31+00:00",
+"Olay (Bursa)": "2026-10-23T22:30:41+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
 "Yeni Asır (İzmir)": "2026-10-23T17:54:09+00:00",
 "İstanbul Gazetesi": "2026-10-23T16:50:00+00:00"
