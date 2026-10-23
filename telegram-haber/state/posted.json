@@ -710,7 +710,11 @@
 "e3bcac3ef2704db4",
 "630ca1bac0f7d431",
 "38a1278cdede44c6",
-"c4103fcc0f74d1e6"
+"c4103fcc0f74d1e6",
+"806f62000d2b74dc",
+"9081f21d162f5447",
+"9a9ce932ab648cdc",
+"971bb4af01a2bc4e"
 ],
 "imzalar": [
 [
@@ -5361,19 +5365,54 @@
 "kisinin",
 "trafige",
 "yol"
+],
+[
+"ani",
+"binanin",
+"cokus",
+"kamerada",
+"katli",
+"kenya"
+],
+[
+"den",
+"dmm",
+"duzenlemesi",
+"medyada",
+"sosyal",
+"uyarisi",
+"yas"
+],
+[
+"bursa",
+"elektrikler",
+"hafta",
+"ilceye",
+"kesilecek",
+"sonu",
+"uyari"
+],
+[
+"attilar",
+"bogdu",
+"galatasaray",
+"gol",
+"gole",
+"rakibini",
+"tam"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T13:52:00+00:00",
+"Haber Global": "2026-10-23T14:29:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T14:23:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T13:42:35+00:00",
-"Sözcü Son Dakika": "2026-10-23T14:18:10+00:00",
+"Sözcü Son Dakika": "2026-10-23T14:41:50+00:00",
 "Yeni Şafak Yerel": "2026-10-23T14:29:01+00:00",
 "X / Twitter Türkiye": "2026-10-23T12:02:07.769499+00:00",
-"Olay (Bursa)": "2026-10-23T14:30:59+00:00",
+"Olay (Bursa)": "2026-10-23T14:40:08+00:00",
 "@islamasalya": "2026-10-23T13:02:27+00:00",
 "Yeni Asır (İzmir)": "2026-10-23T14:11:45+00:00",
-"İstanbul Gazetesi": "2026-10-23T14:25:00+00:00"
+"İstanbul Gazetesi": "2026-10-23T14:39:00+00:00"
 }
 }
