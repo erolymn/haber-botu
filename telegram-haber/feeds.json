@@ -71,7 +71,7 @@
       "min_buyukluk": 3.5
     },
     "google_trends": {
-      "aktif": true,
+      "aktif": false,
       "min_arama": 2000
     },
     "twitter_gundem": {
