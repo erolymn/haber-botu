@@ -745,7 +745,10 @@
 "2a81de0217ad07ac",
 "57937c630483188f",
 "4ea45c0913a97737",
-"88da34a9c2deb792"
+"88da34a9c2deb792",
+"2a3c11df088564f9",
+"e9aff3189995ef1e",
+"9988d184fc54b8c4"
 ],
 "imzalar": [
 [
@@ -5739,6 +5742,36 @@
 "maci",
 "sifresiz",
 "sports"
+],
+[
+"akturkoglu",
+"belirleyecek",
+"derbisi",
+"galatasaray",
+"kaderini",
+"kerem",
+"sans"
+],
+[
+"cikti",
+"davasinda",
+"dort",
+"karar",
+"marti",
+"suren",
+"tag",
+"yil"
+],
+[
+"atmadan",
+"baslamis",
+"cikti",
+"gercegi",
+"goreve",
+"imzayi",
+"ortaya",
+"sergen",
+"yalcin"
 ]
 ],
 "son_tarih": {
@@ -5746,12 +5779,12 @@
 "Sonsöz (Ankara)": "2026-10-23T15:59:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T13:42:35+00:00",
-"Sözcü Son Dakika": "2026-10-23T15:57:25+00:00",
+"Sözcü Son Dakika": "2026-10-23T16:09:35+00:00",
 "Yeni Şafak Yerel": "2026-10-23T16:01:00+00:00",
 "X / Twitter Türkiye": "2026-10-23T15:02:46.236800+00:00",
 "Olay (Bursa)": "2026-10-23T15:18:31+00:00",
 "@islamasalya": "2026-10-23T13:02:27+00:00",
-"Yeni Asır (İzmir)": "2026-10-23T15:53:12+00:00",
-"İstanbul Gazetesi": "2026-10-23T15:44:00+00:00"
+"Yeni Asır (İzmir)": "2026-10-23T16:03:55+00:00",
+"İstanbul Gazetesi": "2026-10-23T16:05:00+00:00"
 }
 }
