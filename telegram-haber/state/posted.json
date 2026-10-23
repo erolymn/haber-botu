@@ -553,7 +553,13 @@
 "d35c8e1e0afd73c7",
 "a60da78e1b354b1a",
 "4bc1f22aa46d80b6",
-"71987377ac3864ec"
+"71987377ac3864ec",
+"a07feceeba45d0e8",
+"fa5e88dfc24893f6",
+"208a33ce402f6e46",
+"703ba9029209210b",
+"bf3c59e8f38eda2c",
+"96ed2293b887aac4"
 ],
 "imzalar": [
 [
@@ -3828,19 +3834,60 @@
 "nun",
 "puani",
 "silindi"
+],
+[
+"denk",
+"geliyor",
+"gune",
+"hangi",
+"kasim",
+"resmi",
+"tatil"
+],
+[
+"grizu",
+"maden",
+"ocaginda",
+"patlamasi"
+],
+[
+"avrupa",
+"den",
+"mesaji",
+"turklere",
+"vizesiz"
+],
+[
+"ara",
+"basladi",
+"dev",
+"etmeye",
+"fabrika",
+"hesaplarini",
+"isciler",
+"kontrol",
+"yapti",
+"zam"
+],
+[
+"altin",
+"basladi",
+"doviz",
+"gune",
+"nasil"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T08:39:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T08:51:00+00:00",
+"Haber Global": "2026-10-23T08:53:00+00:00",
+"Sonsöz (Ankara)": "2026-10-23T09:01:00+00:00",
 "Google Trends": "2026-10-23T08:52:06.169738+00:00",
 "Mynet Son Dakika": "2026-10-23T08:27:32+00:00",
-"Sözcü Son Dakika": "2026-10-23T08:48:43+00:00",
+"Sözcü Son Dakika": "2026-10-23T09:00:56+00:00",
 "Yeni Şafak Yerel": "2026-10-23T08:47:02+00:00",
-"X / Twitter Türkiye": "2026-10-23T06:01:27.803717+00:00",
-"Olay (Bursa)": "2026-10-23T08:48:33+00:00",
+"X / Twitter Türkiye": "2026-10-23T09:02:08.599651+00:00",
+"Olay (Bursa)": "2026-10-23T08:59:22+00:00",
 "@islamasalya": "2026-10-23T07:29:29+00:00",
 "Yeni Asır (İzmir)": "2026-10-23T08:18:16+00:00",
-"İstanbul Gazetesi": "2026-10-23T08:01:00+00:00"
+"İstanbul Gazetesi": "2026-10-23T08:57:00+00:00"
 }
 }
