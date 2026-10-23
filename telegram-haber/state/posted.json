@@ -805,7 +805,9 @@
 "78c1cd1e85648daf",
 "ee89ca2b56642143",
 "32b525120357976d",
-"de7785abe775731d"
+"de7785abe775731d",
+"ba2837af244e56c9",
+"e937729be4487036"
 ],
 "imzalar": [
 [
@@ -6404,6 +6406,25 @@
 "ulkelerine",
 "uzere",
 "yillik"
+],
+[
+"aracta",
+"demir",
+"donen",
+"donus",
+"facia",
+"kisi",
+"yaralandi",
+"yiginina",
+"yolunda"
+],
+[
+"carpisti",
+"kayseri",
+"kisi",
+"motosiklet",
+"otomobil",
+"yaralandi"
 ]
 ],
 "son_tarih": {
@@ -6411,8 +6432,8 @@
 "Sonsöz (Ankara)": "2026-10-23T20:06:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T20:16:13+00:00",
-"Sözcü Son Dakika": "2026-10-23T21:17:17+00:00",
-"Yeni Şafak Yerel": "2026-10-23T21:33:26+00:00",
+"Sözcü Son Dakika": "2026-10-23T21:47:10+00:00",
+"Yeni Şafak Yerel": "2026-10-23T21:53:25+00:00",
 "X / Twitter Türkiye": "2026-10-23T21:15:52.462904+00:00",
 "Olay (Bursa)": "2026-10-23T15:18:31+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
