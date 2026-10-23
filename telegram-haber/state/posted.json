@@ -732,7 +732,10 @@
 "49a555ca723e3e1c",
 "6e2119c9cc5af822",
 "310f5f5a37a13156",
-"88c64eec97eeaa01"
+"88c64eec97eeaa01",
+"083921e97709087b",
+"6b995996a2f4e38b",
+"bbead9915433148a"
 ],
 "imzalar": [
 [
@@ -5577,19 +5580,51 @@
 "firtinasi",
 "iyi",
 "yilin"
+],
+[
+"alevlere",
+"binanin",
+"catisi",
+"iki",
+"katli",
+"kucukcekmece",
+"teslim"
+],
+[
+"atasehir",
+"baskan",
+"belediye",
+"cumhurbaskani",
+"erdogan",
+"kabul",
+"uskudar",
+"vekilleri"
+],
+[
+"cikti",
+"detay",
+"faciasinda",
+"gemi",
+"kahreden",
+"kara",
+"kayitlari",
+"kisinin",
+"kutu",
+"oldugu",
+"ortaya"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T15:09:00+00:00",
+"Haber Global": "2026-10-23T15:32:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T15:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T13:42:35+00:00",
-"Sözcü Son Dakika": "2026-10-23T15:31:25+00:00",
+"Sözcü Son Dakika": "2026-10-23T15:34:05+00:00",
 "Yeni Şafak Yerel": "2026-10-23T15:31:15+00:00",
 "X / Twitter Türkiye": "2026-10-23T15:02:46.236800+00:00",
 "Olay (Bursa)": "2026-10-23T15:18:31+00:00",
 "@islamasalya": "2026-10-23T13:02:27+00:00",
 "Yeni Asır (İzmir)": "2026-10-23T15:18:54+00:00",
-"İstanbul Gazetesi": "2026-10-23T14:39:00+00:00"
+"İstanbul Gazetesi": "2026-10-23T15:32:00+00:00"
 }
 }
