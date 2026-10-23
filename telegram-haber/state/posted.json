@@ -672,7 +672,13 @@
 "8d55fcdc1412e6ac",
 "ba63b0bde37d05d7",
 "450f10cc74e60f35",
-"e0d945d7ab007a22"
+"e0d945d7ab007a22",
+"8996b7733eb58a64",
+"4f192097b84e7dfb",
+"37011ed8e47a75fd",
+"6f4844525860c922",
+"3af02413de003a11",
+"656e0d6d14064622"
 ],
 "imzalar": [
 [
@@ -4976,18 +4982,60 @@
 "mesaji",
 "ndan",
 "ticaret"
+],
+[
+"aski",
+"den",
+"erisim",
+"iddialarina",
+"pompalarina",
+"uzaktan",
+"yanit"
+],
+[
+"kartla",
+"liraya",
+"odemeler",
+"trilyon",
+"yaklasti"
+],
+[
+"acildi",
+"bursa",
+"sahasi",
+"spor",
+"yeni"
+],
+[
+"anketinde",
+"carpici",
+"cekti",
+"cikti",
+"dikkat",
+"fark",
+"ortaya",
+"puanlik",
+"secim",
+"sonuclar"
+],
+[
+"arkasi",
+"dunyanin",
+"idamin",
+"konustugu",
+"perde"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T12:48:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T12:48:00+00:00",
+"Haber Global": "2026-10-23T13:04:00+00:00",
+"Sonsöz (Ankara)": "2026-10-23T13:04:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T09:01:02+00:00",
-"Sözcü Son Dakika": "2026-10-23T12:42:25+00:00",
-"Yeni Şafak Yerel": "2026-10-23T12:59:04+00:00",
+"Sözcü Son Dakika": "2026-10-23T13:11:28+00:00",
+"Yeni Şafak Yerel": "2026-10-23T13:11:12+00:00",
 "X / Twitter Türkiye": "2026-10-23T12:02:07.769499+00:00",
-"Olay (Bursa)": "2026-10-23T13:01:33+00:00",
-"@islamasalya": "2026-10-23T07:29:29+00:00",
+"Olay (Bursa)": "2026-10-23T13:10:16+00:00",
+"@islamasalya": "2026-10-23T13:02:27+00:00",
 "Yeni Asır (İzmir)": "2026-10-23T12:47:31+00:00",
 "İstanbul Gazetesi": "2026-10-23T12:26:00+00:00"
 }
