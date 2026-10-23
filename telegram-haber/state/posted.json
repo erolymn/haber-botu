@@ -788,7 +788,9 @@
 "e2c5cd914ee1bb63",
 "d9fc0ea91112c04f",
 "31f64aa7776a6ca4",
-"6e6d0ae1a0879d31"
+"6e6d0ae1a0879d31",
+"0f33197dad454f1f",
+"acdd671b28b70373"
 ],
 "imzalar": [
 [
@@ -6220,14 +6222,33 @@
 "tarih",
 "turkiye",
 "verdi"
+],
+[
+"ara",
+"davada",
+"filosu",
+"iliskin",
+"karar",
+"mudahaleye",
+"sanigin",
+"silahli",
+"sumud",
+"yargilandigi"
+],
+[
+"bulut",
+"hakki",
+"hastaneye",
+"kaldirildi",
+"rahatsizlandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T19:01:00+00:00",
+"Haber Global": "2026-10-23T19:47:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T19:20:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T18:11:16+00:00",
-"Sözcü Son Dakika": "2026-10-23T19:20:28+00:00",
+"Sözcü Son Dakika": "2026-10-23T19:47:28+00:00",
 "Yeni Şafak Yerel": "2026-10-23T19:32:12+00:00",
 "X / Twitter Türkiye": "2026-10-23T18:02:45.015737+00:00",
 "Olay (Bursa)": "2026-10-23T15:18:31+00:00",
