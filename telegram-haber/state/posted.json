@@ -778,7 +778,9 @@
 "f3e7a00436063ea0",
 "f548ad242a5d0bb1",
 "adc855fbc4f0a3c5",
-"158fd50b39a6b99f"
+"158fd50b39a6b99f",
+"90e98959ae6fe547",
+"4c6a4ecf1a98116c"
 ],
 "imzalar": [
 [
@@ -6111,6 +6113,27 @@
 "saldiri",
 "sayida",
 "urdun"
+],
+[
+"dev",
+"gidecek",
+"greve",
+"isciler",
+"krizi",
+"otomotiv",
+"sirketinde",
+"sozlesme"
+],
+[
+"bahis",
+"disi",
+"ilde",
+"lik",
+"milyar",
+"operasyon",
+"trafigine",
+"tutuklama",
+"yasa"
 ]
 ],
 "son_tarih": {
@@ -6118,8 +6141,8 @@
 "Sonsöz (Ankara)": "2026-10-23T18:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T18:11:16+00:00",
-"Sözcü Son Dakika": "2026-10-23T17:40:20+00:00",
-"Yeni Şafak Yerel": "2026-10-23T17:39:00+00:00",
+"Sözcü Son Dakika": "2026-10-23T18:01:21+00:00",
+"Yeni Şafak Yerel": "2026-10-23T18:27:56+00:00",
 "X / Twitter Türkiye": "2026-10-23T18:02:45.015737+00:00",
 "Olay (Bursa)": "2026-10-23T15:18:31+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
