@@ -428,7 +428,9 @@
 "0f3a1d1250e9b8d6",
 "d6eb1ab3e6325106",
 "326351992c80d53a",
-"66e698e880b84d9e"
+"66e698e880b84d9e",
+"d210eaa7642a146b",
+"c84c1e784fd5b077"
 ],
 "imzalar": [
 [
@@ -2568,14 +2570,22 @@
 "olacak",
 "ucretsiz",
 "ulasim"
+],
+[
+"ekim",
+"hatti",
+"olacak",
+"rayli",
+"sistem",
+"ucretsiz"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-23T03:23:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T03:58:00+00:00",
-"Google Trends": "2026-10-23T03:21:28.145429+00:00",
+"Google Trends": "2026-10-23T04:21:26.533882+00:00",
 "Mynet Son Dakika": "2026-10-22T20:07:29+00:00",
-"Sözcü Son Dakika": "2026-10-23T03:51:15+00:00",
+"Sözcü Son Dakika": "2026-10-23T04:18:07+00:00",
 "Yeni Şafak Yerel": "2026-10-23T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-10-23T03:00:53.459923+00:00",
 "Olay (Bursa)": "2026-10-23T02:25:13+00:00",
