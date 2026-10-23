@@ -807,7 +807,9 @@
 "32b525120357976d",
 "de7785abe775731d",
 "ba2837af244e56c9",
-"e937729be4487036"
+"e937729be4487036",
+"be2ba6f18410d1a2",
+"47b2620e3106dc37"
 ],
 "imzalar": [
 [
@@ -6425,14 +6427,33 @@
 "motosiklet",
 "otomobil",
 "yaralandi"
+],
+[
+"gazinin",
+"istiklal",
+"madalyasi",
+"mirascilarina",
+"sehit",
+"verilecek"
+],
+[
+"anda",
+"bulgaristan",
+"ceken",
+"gazeteci",
+"goruntuler",
+"kadin",
+"kaldi",
+"tepki",
+"yerde"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-23T21:27:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T20:06:00+00:00",
+"Sonsöz (Ankara)": "2026-10-23T22:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T20:16:13+00:00",
-"Sözcü Son Dakika": "2026-10-23T21:47:10+00:00",
+"Sözcü Son Dakika": "2026-10-23T22:14:23+00:00",
 "Yeni Şafak Yerel": "2026-10-23T21:53:25+00:00",
 "X / Twitter Türkiye": "2026-10-23T21:15:52.462904+00:00",
 "Olay (Bursa)": "2026-10-23T15:18:31+00:00",
