@@ -728,7 +728,11 @@
 "4e7c48837ea83423",
 "645bd5ea4c8a07a6",
 "501b7fdf7d8567d6",
-"2513f32e4899b7b8"
+"2513f32e4899b7b8",
+"49a555ca723e3e1c",
+"6e2119c9cc5af822",
+"310f5f5a37a13156",
+"88c64eec97eeaa01"
 ],
 "imzalar": [
 [
@@ -5537,19 +5541,55 @@
 "turizminde",
 "yapay",
 "zek"
+],
+[
+"fethiye",
+"goren",
+"gorsel",
+"kesti",
+"nefes",
+"sarildi",
+"soleni",
+"telefonuna",
+"turk",
+"yildizlari"
+],
+[
+"anlamli",
+"eydep",
+"odul",
+"plastik",
+"serdar"
+],
+[
+"husilerin",
+"kisi",
+"olen",
+"saldirilarinda",
+"topraga",
+"verildi",
+"yemen"
+],
+[
+"avrupa",
+"baslangici",
+"besiktas",
+"firtinasi",
+"iyi",
+"yilin"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-23T15:09:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T15:19:00+00:00",
+"Sonsöz (Ankara)": "2026-10-23T15:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T13:42:35+00:00",
-"Sözcü Son Dakika": "2026-10-23T15:10:52+00:00",
-"Yeni Şafak Yerel": "2026-10-23T15:06:28+00:00",
+"Sözcü Son Dakika": "2026-10-23T15:31:25+00:00",
+"Yeni Şafak Yerel": "2026-10-23T15:31:15+00:00",
 "X / Twitter Türkiye": "2026-10-23T15:02:46.236800+00:00",
 "Olay (Bursa)": "2026-10-23T15:18:31+00:00",
 "@islamasalya": "2026-10-23T13:02:27+00:00",
-"Yeni Asır (İzmir)": "2026-10-23T15:05:46+00:00",
+"Yeni Asır (İzmir)": "2026-10-23T15:18:54+00:00",
 "İstanbul Gazetesi": "2026-10-23T14:39:00+00:00"
 }
 }
