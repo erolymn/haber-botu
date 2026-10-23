@@ -692,7 +692,11 @@
 "08eae1eef4867937",
 "3b63c5f4f3f690ba",
 "5fb19b814519ac5d",
-"ace1a74c25a98005"
+"ace1a74c25a98005",
+"515747645d58d8c5",
+"421ff0688998359e",
+"6a12f1e0b4a34ea6",
+"f545ac5d0e5d6743"
 ],
 "imzalar": [
 [
@@ -5164,17 +5168,55 @@
 "galatasaray",
 "galibiyet",
 "lik"
+],
+[
+"aracin",
+"besiktas",
+"cikarak",
+"degilmis",
+"goruntuler",
+"ilk",
+"kadinin",
+"kesen",
+"tan",
+"trafigi",
+"ustune",
+"vukuati"
+],
+[
+"aciklamasi",
+"ateskes",
+"dan",
+"ukrayna",
+"vasington"
+],
+[
+"arasinda",
+"ateskes",
+"bolgesel",
+"edildi",
+"ilan",
+"rusya",
+"ukrayna"
+],
+[
+"aracindan",
+"cezasini",
+"indi",
+"para",
+"saldirmak",
+"yedi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-23T13:40:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T13:04:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-10-23T09:01:02+00:00",
-"Sözcü Son Dakika": "2026-10-23T13:37:17+00:00",
-"Yeni Şafak Yerel": "2026-10-23T13:42:09+00:00",
+"Mynet Son Dakika": "2026-10-23T13:42:35+00:00",
+"Sözcü Son Dakika": "2026-10-23T13:50:57+00:00",
+"Yeni Şafak Yerel": "2026-10-23T13:46:51+00:00",
 "X / Twitter Türkiye": "2026-10-23T12:02:07.769499+00:00",
-"Olay (Bursa)": "2026-10-23T13:42:37+00:00",
+"Olay (Bursa)": "2026-10-23T13:51:57+00:00",
 "@islamasalya": "2026-10-23T13:02:27+00:00",
 "Yeni Asır (İzmir)": "2026-10-23T13:22:32+00:00",
 "İstanbul Gazetesi": "2026-10-23T13:22:00+00:00"
