@@ -740,7 +740,12 @@
 "2e8beac4b3c220f3",
 "8a816d183c751b53",
 "d91a3e7e8fcaec3f",
-"3b61aa44531b426a"
+"3b61aa44531b426a",
+"f3c75dd7f158b933",
+"2a81de0217ad07ac",
+"57937c630483188f",
+"4ea45c0913a97737",
+"88da34a9c2deb792"
 ],
 "imzalar": [
 [
@@ -5678,19 +5683,75 @@
 "sarkisi",
 "yayimlandi",
 "zirveye"
+],
+[
+"den",
+"devletten",
+"dmm",
+"duzenleme",
+"geldi",
+"kanmayin",
+"mesajlara",
+"sadece",
+"uyari",
+"yapilacak"
+],
+[
+"aklama",
+"kara",
+"para",
+"sorusturmasi",
+"supheliye",
+"talebi",
+"tutuklama"
+],
+[
+"bildi",
+"dolandiricilar",
+"dusmeyin",
+"duzenlemeyi",
+"firsat",
+"sakin",
+"tuzaga",
+"yeni"
+],
+[
+"ankara",
+"basin",
+"bik",
+"bolge",
+"celik",
+"kirikkale",
+"muduru",
+"temaslari",
+"ten",
+"yerel"
+],
+[
+"alanyaspor",
+"bein",
+"canli",
+"corendon",
+"izle",
+"izleme",
+"kocaelispor",
+"linki",
+"maci",
+"sifresiz",
+"sports"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T15:40:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T15:30:00+00:00",
+"Haber Global": "2026-10-23T15:56:00+00:00",
+"Sonsöz (Ankara)": "2026-10-23T15:59:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T13:42:35+00:00",
-"Sözcü Son Dakika": "2026-10-23T15:46:57+00:00",
-"Yeni Şafak Yerel": "2026-10-23T15:50:25+00:00",
+"Sözcü Son Dakika": "2026-10-23T15:57:25+00:00",
+"Yeni Şafak Yerel": "2026-10-23T16:01:00+00:00",
 "X / Twitter Türkiye": "2026-10-23T15:02:46.236800+00:00",
 "Olay (Bursa)": "2026-10-23T15:18:31+00:00",
 "@islamasalya": "2026-10-23T13:02:27+00:00",
-"Yeni Asır (İzmir)": "2026-10-23T15:39:32+00:00",
+"Yeni Asır (İzmir)": "2026-10-23T15:53:12+00:00",
 "İstanbul Gazetesi": "2026-10-23T15:44:00+00:00"
 }
 }
