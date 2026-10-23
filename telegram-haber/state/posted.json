@@ -589,7 +589,11 @@
 "f209ff8b2670fcf7",
 "e2abf9c44f7abcb2",
 "d59e8ec14a43eee1",
-"a82ec9945c4c5be1"
+"a82ec9945c4c5be1",
+"9ff173a4117f2bcb",
+"fde7b0a31c306709",
+"8e19173b0bdd85d1",
+"dd58dccd22a860cc"
 ],
 "imzalar": [
 [
@@ -4160,15 +4164,44 @@
 "merkezi",
 "sayisi",
 "yukseldi"
+],
+[
+"cevresindeki",
+"cikislarini",
+"giris",
+"halil",
+"israil",
+"kapatti",
+"kenti",
+"koylerin",
+"ordusu"
+],
+[
+"bin",
+"damla",
+"hasat",
+"heyecani",
+"kilosu",
+"liradan",
+"sakizinda",
+"satiliyor"
+],
+[
+"acik",
+"alanlarda",
+"geliyor",
+"sigara",
+"turkiye",
+"yasagi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T09:38:00+00:00",
+"Haber Global": "2026-10-23T09:56:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T09:29:00+00:00",
-"Google Trends": "2026-10-23T10:02:05.139947+00:00",
+"Google Trends": "2026-10-23T10:12:06.435162+00:00",
 "Mynet Son Dakika": "2026-10-23T09:01:02+00:00",
-"Sözcü Son Dakika": "2026-10-23T09:56:19+00:00",
-"Yeni Şafak Yerel": "2026-10-23T09:54:08+00:00",
+"Sözcü Son Dakika": "2026-10-23T10:07:40+00:00",
+"Yeni Şafak Yerel": "2026-10-23T10:03:49+00:00",
 "X / Twitter Türkiye": "2026-10-23T09:02:08.599651+00:00",
 "Olay (Bursa)": "2026-10-23T09:59:59+00:00",
 "@islamasalya": "2026-10-23T07:29:29+00:00",
