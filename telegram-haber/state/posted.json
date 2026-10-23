@@ -481,7 +481,13 @@
 "edbe0e943f56abbf",
 "c4d4b5c812ffe482",
 "cb5bb1ff003d009b",
-"511a404dfb1dce0d"
+"511a404dfb1dce0d",
+"78daea77f28aec6e",
+"cc17bc082e2628a6",
+"2c40d543cff22438",
+"6867868818da4d17",
+"710dbdc18d9bf277",
+"70f26d0417c7d9d2"
 ],
 "imzalar": [
 [
@@ -3110,19 +3116,72 @@
 "durum",
 "iste",
 "piyasasinda"
+],
+[
+"barcelona",
+"clasico",
+"maci",
+"madrid",
+"real",
+"zaman"
+],
+[
+"alacaklar",
+"arac",
+"dikkat",
+"ekspertiz",
+"ikinci",
+"operasyonunda",
+"sahte",
+"supheli"
+],
+[
+"bahiste",
+"canli",
+"geciktirerek",
+"milyonluk",
+"saniye",
+"vurgun"
+],
+[
+"belgesel",
+"bin",
+"butceyle",
+"cobanin",
+"erzurumlu",
+"hikayesi",
+"kazandi",
+"lira",
+"oduller",
+"uluslararasi"
+],
+[
+"asgari",
+"butceden",
+"ceken",
+"dikkat",
+"gozler",
+"rakamda",
+"sinyal",
+"ucret",
+"zamminda"
+],
+[
+"dolar",
+"durum"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T06:34:00+00:00",
+"Haber Global": "2026-10-23T06:42:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T06:36:00+00:00",
 "Google Trends": "2026-10-23T04:31:25.179111+00:00",
 "Mynet Son Dakika": "2026-10-23T06:22:20+00:00",
-"Sözcü Son Dakika": "2026-10-23T06:30:04+00:00",
-"Yeni Şafak Yerel": "2026-10-23T06:36:59+00:00",
+"Sözcü Son Dakika": "2026-10-23T06:46:38+00:00",
+"Yeni Şafak Yerel": "2026-10-23T06:48:49+00:00",
 "X / Twitter Türkiye": "2026-10-23T06:01:27.803717+00:00",
-"Olay (Bursa)": "2026-10-23T06:39:50+00:00",
+"Olay (Bursa)": "2026-10-23T06:50:34+00:00",
 "@islamasalya": "2026-10-22T21:51:50+00:00",
-"Yeni Asır (İzmir)": "2026-10-23T06:26:25+00:00",
-"İstanbul Gazetesi": "2026-10-23T05:40:00+00:00"
+"Yeni Asır (İzmir)": "2026-10-23T06:49:40+00:00",
+"İstanbul Gazetesi": "2026-10-23T06:46:00+00:00"
 }
 }
