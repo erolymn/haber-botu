@@ -735,7 +735,12 @@
 "88c64eec97eeaa01",
 "083921e97709087b",
 "6b995996a2f4e38b",
-"bbead9915433148a"
+"bbead9915433148a",
+"e590f40db3a6b305",
+"2e8beac4b3c220f3",
+"8a816d183c751b53",
+"d91a3e7e8fcaec3f",
+"3b61aa44531b426a"
 ],
 "imzalar": [
 [
@@ -5612,19 +5617,80 @@
 "kutu",
 "oldugu",
 "ortaya"
+],
+[
+"den",
+"dikkat",
+"durumu",
+"hava",
+"istanbul",
+"kritik",
+"kuvvetli",
+"meteoroloji",
+"olacak",
+"saate",
+"uyari"
+],
+[
+"canakkale",
+"coktu",
+"devrildi",
+"kamyon",
+"olu",
+"tomruk",
+"yarali",
+"yol",
+"yuklu"
+],
+[
+"aciklarinda",
+"banda",
+"bogazi",
+"gecirildi",
+"isimli",
+"istanbul",
+"karaya",
+"ndan",
+"oturan",
+"sariyer",
+"tanker"
+],
+[
+"bayern",
+"direktoru",
+"hastaneye",
+"kaldirildi",
+"kompany",
+"munih",
+"teknik",
+"vincent"
+],
+[
+"bakan",
+"cop",
+"cop31",
+"dan",
+"hazirlanan",
+"kurum",
+"let",
+"ozel",
+"paylasimi",
+"sarkisi",
+"yayimlandi",
+"zirveye"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T15:32:00+00:00",
+"Haber Global": "2026-10-23T15:40:00+00:00",
 "Sonsöz (Ankara)": "2026-10-23T15:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T13:42:35+00:00",
-"Sözcü Son Dakika": "2026-10-23T15:34:05+00:00",
-"Yeni Şafak Yerel": "2026-10-23T15:31:15+00:00",
+"Sözcü Son Dakika": "2026-10-23T15:46:57+00:00",
+"Yeni Şafak Yerel": "2026-10-23T15:50:25+00:00",
 "X / Twitter Türkiye": "2026-10-23T15:02:46.236800+00:00",
 "Olay (Bursa)": "2026-10-23T15:18:31+00:00",
 "@islamasalya": "2026-10-23T13:02:27+00:00",
-"Yeni Asır (İzmir)": "2026-10-23T15:18:54+00:00",
-"İstanbul Gazetesi": "2026-10-23T15:32:00+00:00"
+"Yeni Asır (İzmir)": "2026-10-23T15:39:32+00:00",
+"İstanbul Gazetesi": "2026-10-23T15:44:00+00:00"
 }
 }
