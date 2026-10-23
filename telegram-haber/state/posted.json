@@ -414,7 +414,11 @@
 "189be3bd505f6f81",
 "533497a5a1d8ee66",
 "50b2e5174047dcf8",
-"4b675cfdac7ee029"
+"4b675cfdac7ee029",
+"90a50f39d15cfd75",
+"b8e5da157e38bf90",
+"ed6f8d84324feb53",
+"593cb063a4556895"
 ],
 "imzalar": [
 [
@@ -2453,16 +2457,36 @@
 "cikti",
 "intiharin",
 "yasak"
+],
+[
+"den",
+"dikkat",
+"hafta",
+"meteoroloji",
+"plani",
+"saganak",
+"sonu",
+"uyarisi",
+"yapanlar"
+],
+[
+"hafta",
+"ikinci",
+"konferans",
+"ligi",
+"nde",
+"tamamlandi",
+"uefa"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-22T21:39:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T02:30:00+00:00",
-"Google Trends": "2026-10-22T22:00:52.006563+00:00",
+"Haber Global": "2026-10-23T02:47:00+00:00",
+"Sonsöz (Ankara)": "2026-10-23T03:00:00+00:00",
+"Google Trends": "2026-10-23T03:00:52.255946+00:00",
 "Mynet Son Dakika": "2026-10-22T20:07:29+00:00",
 "Sözcü Son Dakika": "2026-10-23T02:30:18+00:00",
 "Yeni Şafak Yerel": "2026-10-23T01:00:00+00:00",
-"X / Twitter Türkiye": "2026-10-23T00:00:53.482609+00:00",
+"X / Twitter Türkiye": "2026-10-23T03:00:53.459923+00:00",
 "Olay (Bursa)": "2026-10-23T02:25:13+00:00",
 "@islamasalya": "2026-10-22T21:51:50+00:00",
 "Yeni Asır (İzmir)": "2026-10-22T20:48:17+00:00",
