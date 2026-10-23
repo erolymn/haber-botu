@@ -650,7 +650,12 @@
 "d19ab77317368b45",
 "53862ce45ca603e2",
 "70d1e841df65a559",
-"48617d5a05c4563a"
+"48617d5a05c4563a",
+"457d1738e2ab4210",
+"7b24517b441bd7d1",
+"9e108dc41c260e11",
+"71e9ceb079d5060b",
+"d12c1349d4da8598"
 ],
 "imzalar": [
 [
@@ -4744,19 +4749,60 @@
 "nden",
 "nefes",
 "semalarinda"
+],
+[
+"nedir",
+"olumcul",
+"shamonda",
+"tedavisi",
+"virusu"
+],
+[
+"4more",
+"cikiyor",
+"kehribar",
+"serisi",
+"t10f",
+"togg",
+"yollara"
+],
+[
+"depremler",
+"guclendirildi",
+"sonrasi",
+"stoklari",
+"van",
+"yapi"
+],
+[
+"aci",
+"nisanlisinin",
+"oldurdugu",
+"ozge",
+"veda"
+],
+[
+"duyurdu",
+"gorenler",
+"hayran",
+"kaldi",
+"rengini",
+"t10f",
+"togg",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-23T11:59:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T12:10:00+00:00",
+"Haber Global": "2026-10-23T12:12:00+00:00",
+"Sonsöz (Ankara)": "2026-10-23T12:19:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T09:01:02+00:00",
 "Sözcü Son Dakika": "2026-10-23T12:09:19+00:00",
-"Yeni Şafak Yerel": "2026-10-23T12:10:53+00:00",
+"Yeni Şafak Yerel": "2026-10-23T12:19:24+00:00",
 "X / Twitter Türkiye": "2026-10-23T12:02:07.769499+00:00",
-"Olay (Bursa)": "2026-10-23T12:10:18+00:00",
+"Olay (Bursa)": "2026-10-23T12:19:21+00:00",
 "@islamasalya": "2026-10-23T07:29:29+00:00",
 "Yeni Asır (İzmir)": "2026-10-23T11:56:50+00:00",
-"İstanbul Gazetesi": "2026-10-23T12:05:00+00:00"
+"İstanbul Gazetesi": "2026-10-23T12:14:00+00:00"
 }
 }
