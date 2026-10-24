@@ -867,72 +867,15 @@
 "18a7212f1ae08441",
 "3706f47060c0a622",
 "c66395de704bd6fc",
-"6abfe24e58f8a2f0"
+"6abfe24e58f8a2f0",
+"a03e19a7ee99bb8d",
+"fdabd88a8389eeb9",
+"2a6f0ca26696584e",
+"3e196dad1d791212",
+"1b0e899a3ba83865",
+"5124074ef8b1f620"
 ],
 "imzalar": [
-[
-"400",
-"alan",
-"bereket",
-"dustu",
-"fiskiriyor",
-"kilosu",
-"kovayi",
-"liradan",
-"liraya",
-"ormanin",
-"topraktan",
-"tutuyor",
-"yolunu"
-],
-[
-"dan",
-"dev",
-"doldurdu",
-"galatasaray",
-"gelir",
-"kasasini",
-"lille",
-"uefa",
-"zaferi"
-],
-[
-"ayinda",
-"ekim",
-"endeksi",
-"guven",
-"tuketici"
-],
-[
-"altin",
-"gizlice",
-"iste",
-"kuresel",
-"rotasi",
-"servetin",
-"tasiniyor",
-"tonlarca",
-"ulkeye",
-"yeni"
-],
-[
-"bursa",
-"cumbusu",
-"kapli",
-"karla",
-"nin",
-"renk",
-"zirvesinde"
-],
-[
-"cigligi",
-"duyunca",
-"gizleyemedi",
-"ozel",
-"ozgur",
-"saskinligini",
-"tiz"
-],
 [
 "arda",
 "den",
@@ -6667,19 +6610,66 @@
 "planlar",
 "rekor",
 "satiyor"
+],
+[
+"manzaralari",
+"sonbahar",
+"uludag"
+],
+[
+"buruk",
+"ismail",
+"kartal",
+"okan",
+"randevuda"
+],
+[
+"acikladi",
+"baraj",
+"doluluk",
+"ekim",
+"iski",
+"istanbul",
+"kac",
+"orani",
+"yuzde"
+],
+[
+"cenaze",
+"olu",
+"saldiri",
+"silahli",
+"torenine",
+"yarali"
+],
+[
+"aliskanliklar",
+"gunluk",
+"sinir",
+"sistemini",
+"zorluyor"
+],
+[
+"detayi",
+"dolar",
+"fon",
+"iddialar",
+"milyon",
+"sorusturmasinda",
+"vahim"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-24T07:14:00+00:00",
-"Sonsöz (Ankara)": "2026-10-24T07:02:00+00:00",
+"Haber Global": "2026-10-24T07:23:00+00:00",
+"Sonsöz (Ankara)": "2026-10-24T07:22:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T07:05:43+00:00",
-"Sözcü Son Dakika": "2026-10-24T07:15:42+00:00",
-"Yeni Şafak Yerel": "2026-10-24T07:15:26+00:00",
+"Sözcü Son Dakika": "2026-10-24T07:36:32+00:00",
+"Yeni Şafak Yerel": "2026-10-24T07:35:29+00:00",
 "X / Twitter Türkiye": "2026-10-24T06:16:58.966178+00:00",
-"Olay (Bursa)": "2026-10-24T07:16:02+00:00",
+"Olay (Bursa)": "2026-10-24T07:34:12+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
 "Yeni Asır (İzmir)": "2026-10-24T06:35:33+00:00",
-"İstanbul Gazetesi": "2026-10-24T06:14:00+00:00"
+"İstanbul Gazetesi": "2026-10-24T07:22:00+00:00"
 }
 }
