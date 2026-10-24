@@ -1040,24 +1040,12 @@
 "ef743b64f765aafe",
 "06881257ab462c62",
 "1dda501f8d93b837",
-"afd515b3a866c4af"
+"afd515b3a866c4af",
+"03f8a0d3acfe3e82",
+"ba6cad2134e4cd88",
+"8b23d0edadbd4635"
 ],
 "imzalar": [
-[
-"alarm",
-"bursa",
-"kirmizi",
-"sanayisi"
-],
-[
-"cagri",
-"den",
-"gida",
-"gunluk",
-"halka",
-"ingiltere",
-"stoklayin"
-],
 [
 "akp",
 "alindi",
@@ -6818,6 +6806,22 @@
 "kagithane",
 "saldiri",
 "silahli"
+],
+[
+"amed",
+"faaliyetler",
+"mac",
+"ozeti",
+"samsunspor",
+"sportif"
+],
+[
+"afad",
+"buyuklugu",
+"deprem",
+"duyurdu",
+"korkutan",
+"mugla"
 ]
 ],
 "son_tarih": {
@@ -6826,11 +6830,12 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T13:57:02+00:00",
 "Sözcü Son Dakika": "2026-10-24T17:15:28+00:00",
-"Yeni Şafak Yerel": "2026-10-24T17:33:40+00:00",
+"Yeni Şafak Yerel": "2026-10-24T17:51:00+00:00",
 "X / Twitter Türkiye": "2026-10-24T15:17:33.145703+00:00",
 "Olay (Bursa)": "2026-10-24T17:11:51+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
-"Yeni Asır (İzmir)": "2026-10-24T16:55:53+00:00",
-"İstanbul Gazetesi": "2026-10-24T14:34:00+00:00"
+"Yeni Asır (İzmir)": "2026-10-24T17:51:04+00:00",
+"İstanbul Gazetesi": "2026-10-24T14:34:00+00:00",
+"Kandilli Rasathanesi": "2026-10-24T17:34:48+00:00"
 }
 }
