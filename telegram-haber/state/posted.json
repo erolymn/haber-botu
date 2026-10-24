@@ -1031,44 +1031,15 @@
 "6b1e31b278684abb",
 "25092a32517a8544",
 "e453f9dc064cb8ae",
-"6cd28492d7584e3b"
+"6cd28492d7584e3b",
+"7c3ab9ac26256df0",
+"664438664f91feca",
+"53e9796e86105d5e",
+"f4cf4b9dfb450c39",
+"1c27361387400d0e",
+"ef743b64f765aafe"
 ],
 "imzalar": [
-[
-"dil",
-"surcmesi",
-"yalani",
-"yunan"
-],
-[
-"corum",
-"imam",
-"lojmani",
-"yandi"
-],
-[
-"hafta",
-"iki",
-"saatlik",
-"seminer",
-"surecek"
-],
-[
-"guvenlik",
-"kusagi"
-],
-[
-"kiler",
-"kim",
-"ziplatti"
-],
-[
-"carpisti",
-"corum",
-"iki",
-"otomobil",
-"yarali"
-],
 [
 "aciklama",
 "besiktas",
@@ -6784,19 +6755,82 @@
 "insaatin",
 "usta",
 "yaralandi"
+],
+[
+"boyle",
+"bulandiran",
+"engellendi",
+"incir",
+"izmir",
+"mide",
+"tuzagi",
+"vatandasi",
+"zehirleyeceklerdi"
+],
+[
+"ankara",
+"dusuyor",
+"geliyor",
+"sicaklik",
+"yagmur"
+],
+[
+"arsenal",
+"city",
+"everton",
+"manchester",
+"yakaladi",
+"yenerek"
+],
+[
+"bursaspor",
+"dan",
+"ekibinde",
+"gitti",
+"harikalar",
+"lig",
+"sekilde",
+"surpriz",
+"yaratiyor"
+],
+[
+"den",
+"derbisi",
+"galatasaray",
+"iddiali",
+"muriqi",
+"oncesi",
+"sozler",
+"vedat"
+],
+[
+"100",
+"210",
+"alici",
+"bekleniyor",
+"bin",
+"buluyor",
+"daglardan",
+"den",
+"gomuyorlar",
+"kilosu",
+"kuyulara",
+"rekolte",
+"tonluk",
+"toplayip"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-24T16:36:00+00:00",
-"Sonsöz (Ankara)": "2026-10-24T15:45:00+00:00",
+"Haber Global": "2026-10-24T17:08:00+00:00",
+"Sonsöz (Ankara)": "2026-10-24T17:05:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T13:57:02+00:00",
-"Sözcü Son Dakika": "2026-10-24T16:51:35+00:00",
-"Yeni Şafak Yerel": "2026-10-24T16:53:15+00:00",
+"Sözcü Son Dakika": "2026-10-24T17:15:28+00:00",
+"Yeni Şafak Yerel": "2026-10-24T17:17:11+00:00",
 "X / Twitter Türkiye": "2026-10-24T15:17:33.145703+00:00",
-"Olay (Bursa)": "2026-10-24T15:43:53+00:00",
+"Olay (Bursa)": "2026-10-24T17:11:51+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
-"Yeni Asır (İzmir)": "2026-10-24T16:33:56+00:00",
+"Yeni Asır (İzmir)": "2026-10-24T16:55:53+00:00",
 "İstanbul Gazetesi": "2026-10-24T14:34:00+00:00"
 }
 }
