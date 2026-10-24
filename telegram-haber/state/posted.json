@@ -924,53 +924,13 @@
 "c8c5fdfded6e5289",
 "9965df81d8886363",
 "e225d533a6f55ce6",
-"f0caf0d0fdb9a3f5"
+"f0caf0d0fdb9a3f5",
+"da09314d3d19dd3a",
+"29187f0c914d79a0",
+"4bb38d29d182a623",
+"c4a755be817f228e"
 ],
 "imzalar": [
-[
-"811",
-"kadin",
-"kez",
-"operasyon",
-"satis",
-"sebekesine",
-"ticareti",
-"yapmis",
-"yumurta"
-],
-[
-"agir",
-"aylik",
-"faturam",
-"geldi",
-"hamile",
-"kadini",
-"tahrayla",
-"yaraladi",
-"yuksek"
-],
-[
-"aylik",
-"bankaya",
-"bicaklanan",
-"hamile",
-"kadin",
-"kadina",
-"korkunc",
-"saldiri",
-"sigindi"
-],
-[
-"altin",
-"altust",
-"cakildi",
-"fed",
-"gumus",
-"kiskacinda",
-"korkusu",
-"piyasalar",
-"savas"
-],
 [
 "dava",
 "den",
@@ -6697,17 +6657,51 @@
 "dan",
 "stat",
 "yildirim"
+],
+[
+"basladi",
+"dorduncu",
+"festivali",
+"heyecani",
+"izmir",
+"kez",
+"kultur",
+"yolu"
+],
+[
+"eylem",
+"gazeteciler",
+"ilde",
+"ortak",
+"sokakta"
+],
+[
+"akpay",
+"aricilik",
+"bulustu",
+"inegol",
+"kaymakami",
+"kursiyerleriyle",
+"kursu"
+],
+[
+"arda",
+"clasico",
+"dan",
+"guler",
+"karari",
+"mourinho"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-24T10:11:00+00:00",
 "Sonsöz (Ankara)": "2026-10-24T09:45:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-10-24T09:04:06+00:00",
-"Sözcü Son Dakika": "2026-10-24T10:16:07+00:00",
-"Yeni Şafak Yerel": "2026-10-24T10:10:04+00:00",
+"Mynet Son Dakika": "2026-10-24T10:23:08+00:00",
+"Sözcü Son Dakika": "2026-10-24T10:29:36+00:00",
+"Yeni Şafak Yerel": "2026-10-24T10:36:27+00:00",
 "X / Twitter Türkiye": "2026-10-24T09:16:58.347431+00:00",
-"Olay (Bursa)": "2026-10-24T10:16:01+00:00",
+"Olay (Bursa)": "2026-10-24T10:33:55+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
 "Yeni Asır (İzmir)": "2026-10-24T09:58:28+00:00",
 "İstanbul Gazetesi": "2026-10-24T09:34:00+00:00"
