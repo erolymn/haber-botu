@@ -963,73 +963,15 @@
 "2f67c68513182a22",
 "ccf150c450102ac4",
 "3a23d7543626b62a",
-"6e895110045f5013"
+"6e895110045f5013",
+"291b99820a591e55",
+"c3f7dce15463fa51",
+"202c7d83efbc9e36",
+"f0dd5097a55b4f8f",
+"1a334a5eaad9de01",
+"942fa37c3e6988ac"
 ],
 "imzalar": [
-[
-"bahat",
-"calismis",
-"cig",
-"cikti",
-"esin",
-"hali",
-"inin",
-"koftecide",
-"manifest",
-"meger",
-"onceki",
-"ortaya",
-"yil"
-],
-[
-"acikladi",
-"bakanlik",
-"cep",
-"degisti",
-"kapsami",
-"kosullari",
-"taksit",
-"telefonlarinda"
-],
-[
-"beklenirken",
-"ceviren",
-"cilgina",
-"dakikada",
-"karar",
-"ofsayt",
-"penalti",
-"pozisyonunda",
-"salah",
-"trabzon",
-"verdi"
-],
-[
-"besiktas",
-"canli",
-"crystal",
-"palace",
-"yayin"
-],
-[
-"anlasmasi",
-"arasinda",
-"bakan",
-"hava",
-"imzalandi",
-"kanada",
-"turkiye",
-"ulastirma",
-"uraloglu"
-],
-[
-"atti",
-"burdur",
-"kisi",
-"otomobil",
-"takla",
-"yaralandi"
-],
 [
 "arabistan",
 "bakanlik",
@@ -6723,19 +6665,85 @@
 "marketteki",
 "tepki",
 "uygulama"
+],
+[
+"duragi",
+"festivali",
+"izmir",
+"kultur",
+"nin",
+"uncu",
+"yolu"
+],
+[
+"carsafla",
+"dustu",
+"eve",
+"genc",
+"kacarken",
+"kattan",
+"kilitlenen",
+"kiz",
+"uncu"
+],
+[
+"brezilya",
+"dibine",
+"diyen",
+"kendisine",
+"lula",
+"olayli",
+"parmak",
+"rakibini",
+"secim",
+"soktu",
+"tartismasi",
+"yerin"
+],
+[
+"atlayin",
+"emekli",
+"gezi",
+"hem",
+"isinlanin",
+"izban",
+"izmir",
+"keyfi",
+"maasiyla",
+"pazar",
+"rotasi",
+"sakin",
+"tarihe",
+"ucuz"
+],
+[
+"bisiklet",
+"hirsizligi",
+"konya"
+],
+[
+"ayaginin",
+"icraatini",
+"ilk",
+"ise",
+"koyuldu",
+"sergen",
+"tozuyla",
+"yalcin",
+"yapacak"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-24T12:11:00+00:00",
-"Sonsöz (Ankara)": "2026-10-24T12:30:00+00:00",
+"Haber Global": "2026-10-24T12:41:00+00:00",
+"Sonsöz (Ankara)": "2026-10-24T12:51:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T12:30:13+00:00",
-"Sözcü Son Dakika": "2026-10-24T12:36:14+00:00",
-"Yeni Şafak Yerel": "2026-10-24T12:28:45+00:00",
+"Sözcü Son Dakika": "2026-10-24T12:55:16+00:00",
+"Yeni Şafak Yerel": "2026-10-24T12:41:35+00:00",
 "X / Twitter Türkiye": "2026-10-24T12:17:32.253286+00:00",
-"Olay (Bursa)": "2026-10-24T12:37:27+00:00",
+"Olay (Bursa)": "2026-10-24T12:39:30+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
-"Yeni Asır (İzmir)": "2026-10-24T12:20:37+00:00",
+"Yeni Asır (İzmir)": "2026-10-24T12:42:42+00:00",
 "İstanbul Gazetesi": "2026-10-24T11:56:00+00:00"
 }
 }
