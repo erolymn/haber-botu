@@ -1082,36 +1082,12 @@
 "a17886fcd50e7b86",
 "3fd6d6715fff4318",
 "8356d62512db7b6a",
-"34255ab4afd93efc"
+"34255ab4afd93efc",
+"0b57aa2aef16e322",
+"00442e2f5262f9b7",
+"57e0da34c8917f26"
 ],
 "imzalar": [
-[
-"benzine",
-"haftasonu",
-"indirim",
-"zam"
-],
-[
-"bahanesi",
-"carpan",
-"dedirtti",
-"kacarken",
-"lambasina",
-"pes",
-"polisten",
-"surucunun",
-"trafik"
-],
-[
-"can",
-"ekipler",
-"izmir",
-"kaybi",
-"korkutan",
-"mal",
-"mudahale",
-"yangin"
-],
 [
 "aydir",
 "bodrum",
@@ -6907,15 +6883,44 @@
 "sayit",
 "sehit",
 "yaralandi"
+],
+[
+"ardan",
+"baslatildi",
+"cumhurbaskanina",
+"hakaret",
+"hakkinda",
+"sorusturma",
+"sucundan",
+"zenturk"
+],
+[
+"adana",
+"birakmadi",
+"garip",
+"kavgasi",
+"pesini",
+"trafik",
+"turlu"
+],
+[
+"darbetti",
+"edip",
+"kisiyi",
+"saldirdi",
+"takip",
+"tartistigi",
+"trafikte",
+"yine"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-24T20:57:00+00:00",
+"Haber Global": "2026-10-24T21:23:00+00:00",
 "Sonsöz (Ankara)": "2026-10-24T19:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T18:53:16+00:00",
-"Sözcü Son Dakika": "2026-10-24T21:06:57+00:00",
-"Yeni Şafak Yerel": "2026-10-24T21:09:55+00:00",
+"Sözcü Son Dakika": "2026-10-24T21:27:56+00:00",
+"Yeni Şafak Yerel": "2026-10-24T21:37:21+00:00",
 "X / Twitter Türkiye": "2026-10-24T21:18:44.745001+00:00",
 "Olay (Bursa)": "2026-10-24T19:38:34+00:00",
 "@islamasalya": "2026-10-24T19:43:20+00:00",
