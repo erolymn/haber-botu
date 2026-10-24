@@ -1037,34 +1037,12 @@
 "53e9796e86105d5e",
 "f4cf4b9dfb450c39",
 "1c27361387400d0e",
-"ef743b64f765aafe"
+"ef743b64f765aafe",
+"06881257ab462c62",
+"1dda501f8d93b837",
+"afd515b3a866c4af"
 ],
 "imzalar": [
-[
-"aciklama",
-"besiktas",
-"ceken",
-"dan",
-"dikkat",
-"direktoru",
-"italiano",
-"teknik"
-],
-[
-"danistay",
-"karar",
-"ortak",
-"sinavlara",
-"verecek",
-"yazili"
-],
-[
-"aldilar",
-"borsada",
-"fon",
-"makamdan",
-"oldular"
-],
 [
 "alarm",
 "bursa",
@@ -6818,15 +6796,37 @@
 "rekolte",
 "tonluk",
 "toplayip"
+],
+[
+"abd",
+"arabistan",
+"den",
+"seyahat",
+"suudi",
+"uyarisi",
+"vatandaslarina"
+],
+[
+"hapsi",
+"ogrenciye",
+"satisina",
+"tespih",
+"zorla"
+],
+[
+"gunde",
+"kagithane",
+"saldiri",
+"silahli"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-24T17:08:00+00:00",
-"Sonsöz (Ankara)": "2026-10-24T17:05:00+00:00",
+"Haber Global": "2026-10-24T17:14:00+00:00",
+"Sonsöz (Ankara)": "2026-10-24T17:34:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T13:57:02+00:00",
 "Sözcü Son Dakika": "2026-10-24T17:15:28+00:00",
-"Yeni Şafak Yerel": "2026-10-24T17:17:11+00:00",
+"Yeni Şafak Yerel": "2026-10-24T17:33:40+00:00",
 "X / Twitter Türkiye": "2026-10-24T15:17:33.145703+00:00",
 "Olay (Bursa)": "2026-10-24T17:11:51+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
