@@ -873,55 +873,14 @@
 "2a6f0ca26696584e",
 "3e196dad1d791212",
 "1b0e899a3ba83865",
-"5124074ef8b1f620"
+"5124074ef8b1f620",
+"8269e9fdad17cecb",
+"1f89597e4dcbe5f4",
+"c0e04d7fe75d0f9c",
+"542b79d3065136e5",
+"20deb2959f64a26b"
 ],
 "imzalar": [
-[
-"arda",
-"den",
-"diledi",
-"gecikmedi",
-"guler",
-"gundem",
-"mbappe",
-"ozur",
-"paylasimi",
-"yanit"
-],
-[
-"artti",
-"harcamasi",
-"seyahat",
-"turistin",
-"yerli",
-"yuzde"
-],
-[
-"binlerce",
-"meger",
-"neler",
-"oluyormus",
-"once",
-"oynadi",
-"troya",
-"yer",
-"yerinden",
-"yil"
-],
-[
-"arda",
-"barcelona",
-"benim",
-"guler",
-"kardesim",
-"kazansin",
-"turan"
-],
-[
-"cagri",
-"dan",
-"iran"
-],
 [
 "cocuk",
 "goruntulerini",
@@ -6657,19 +6616,59 @@
 "milyon",
 "sorusturmasinda",
 "vahim"
+],
+[
+"100",
+"agirliyor",
+"genclik",
+"kutuphanesi",
+"minik",
+"okurlari",
+"yil"
+],
+[
+"den",
+"gunes",
+"kararin",
+"senol",
+"sergen",
+"sorumlulugu",
+"yalcin",
+"yorumu"
+],
+[
+"acmaya",
+"amerika",
+"banka",
+"basladi",
+"cinliler",
+"haldir",
+"hesabi"
+],
+[
+"bitirmek",
+"deplasman",
+"hasretini",
+"istiyor",
+"salah"
+],
+[
+"derbide",
+"gozler",
+"kalecilerde"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-24T07:23:00+00:00",
-"Sonsöz (Ankara)": "2026-10-24T07:22:00+00:00",
+"Haber Global": "2026-10-24T07:49:00+00:00",
+"Sonsöz (Ankara)": "2026-10-24T07:39:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T07:05:43+00:00",
-"Sözcü Son Dakika": "2026-10-24T07:36:32+00:00",
-"Yeni Şafak Yerel": "2026-10-24T07:35:29+00:00",
+"Sözcü Son Dakika": "2026-10-24T07:48:41+00:00",
+"Yeni Şafak Yerel": "2026-10-24T07:48:05+00:00",
 "X / Twitter Türkiye": "2026-10-24T06:16:58.966178+00:00",
 "Olay (Bursa)": "2026-10-24T07:34:12+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
 "Yeni Asır (İzmir)": "2026-10-24T06:35:33+00:00",
-"İstanbul Gazetesi": "2026-10-24T07:22:00+00:00"
+"İstanbul Gazetesi": "2026-10-24T07:50:00+00:00"
 }
 }
