@@ -826,7 +826,8 @@
 "eb59a00f053c19bf",
 "19f420e08865705f",
 "485d28b1e80a9661",
-"f2820ee0cee2cb71"
+"f2820ee0cee2cb71",
+"e27dd2559ee15892"
 ],
 "imzalar": [
 [
@@ -6607,11 +6608,22 @@
 "sokaklar",
 "yeni",
 "yeniden"
+],
+[
+"durum",
+"karar",
+"mahkemeden",
+"marti",
+"suruculer",
+"tag",
+"yasal",
+"yeni",
+"yolcu"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-24T02:55:00+00:00",
-"Sonsöz (Ankara)": "2026-10-24T02:33:00+00:00",
+"Sonsöz (Ankara)": "2026-10-24T03:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T20:16:13+00:00",
 "Sözcü Son Dakika": "2026-10-24T02:30:17+00:00",
