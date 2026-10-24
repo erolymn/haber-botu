@@ -1043,29 +1043,13 @@
 "afd515b3a866c4af",
 "03f8a0d3acfe3e82",
 "ba6cad2134e4cd88",
-"8b23d0edadbd4635"
+"8b23d0edadbd4635",
+"82cb792f83fab01f",
+"e91dda6304167c42",
+"acbb9cf1ec2d531f",
+"7d840db88f19de9f"
 ],
 "imzalar": [
-[
-"akp",
-"alindi",
-"aydin",
-"ertan",
-"eski",
-"gozaltina",
-"vekil"
-],
-[
-"atama",
-"bursa",
-"buyuksehir",
-"yeni"
-],
-[
-"aski",
-"bitmiyor",
-"fon"
-],
 [
 "bakani",
 "caglar",
@@ -6822,16 +6806,41 @@
 "duyurdu",
 "korkutan",
 "mugla"
+],
+[
+"amedspor",
+"fazlasiyla",
+"lider",
+"lig",
+"mac",
+"super"
+],
+[
+"aldi",
+"balistik",
+"fuzeler",
+"havada",
+"hedef",
+"husiler",
+"medine",
+"mekke",
+"onlendi"
+],
+[
+"derbi",
+"devam",
+"galatasaray",
+"hazirliklari"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-24T17:14:00+00:00",
+"Haber Global": "2026-10-24T18:10:00+00:00",
 "Sonsöz (Ankara)": "2026-10-24T17:34:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T13:57:02+00:00",
-"Sözcü Son Dakika": "2026-10-24T17:15:28+00:00",
-"Yeni Şafak Yerel": "2026-10-24T17:51:00+00:00",
-"X / Twitter Türkiye": "2026-10-24T15:17:33.145703+00:00",
+"Sözcü Son Dakika": "2026-10-24T18:11:20+00:00",
+"Yeni Şafak Yerel": "2026-10-24T18:11:03+00:00",
+"X / Twitter Türkiye": "2026-10-24T18:18:09.441176+00:00",
 "Olay (Bursa)": "2026-10-24T17:11:51+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
 "Yeni Asır (İzmir)": "2026-10-24T17:51:04+00:00",
