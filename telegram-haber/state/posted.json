@@ -1071,53 +1071,13 @@
 "8a8993e04d4b0b0d",
 "ab0c310484bc6573",
 "c90ac1683bc7d13b",
-"58e22f1abfec6eda"
+"58e22f1abfec6eda",
+"5347a2d3624b26ed",
+"dec4ad5ec6c6f5f5",
+"1e12a0289e7f945a",
+"b2414c58649335ec"
 ],
 "imzalar": [
-[
-"420",
-"bin",
-"bursa",
-"carpti",
-"kacamadi",
-"kacarken",
-"lambasina",
-"liradan",
-"polisten",
-"trafik"
-],
-[
-"baskan",
-"belediyesi",
-"cukurova",
-"dahil",
-"sorusturmada",
-"tutuklama"
-],
-[
-"555",
-"590",
-"arac",
-"bin",
-"cikti",
-"elektrikli",
-"gidiyor",
-"kilometre",
-"liraya",
-"menzil",
-"sarjla",
-"satisa",
-"tek"
-],
-[
-"bazi",
-"ekim",
-"hizmetleri",
-"olacak",
-"tasima",
-"toplu",
-"ucretsiz"
-],
 [
 "bagli",
 "dustu",
@@ -6903,20 +6863,56 @@
 "verme",
 "yasatti",
 "yol"
+],
+[
+"aydin",
+"cikis",
+"disina",
+"ertan",
+"fon",
+"hapsi",
+"sorusturmasinda",
+"yasagi",
+"yurt"
+],
+[
+"100",
+"bahcesehir",
+"besiktas",
+"koleji"
+],
+[
+"adiyaman",
+"carptigi",
+"ilk",
+"kisi",
+"milletvekili",
+"otomobilin",
+"vali",
+"yapti",
+"yaralandi",
+"yardimi"
+],
+[
+"ayvalik",
+"batan",
+"can",
+"pazari",
+"teknede"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-24T20:12:00+00:00",
+"Haber Global": "2026-10-24T20:30:00+00:00",
 "Sonsöz (Ankara)": "2026-10-24T19:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T18:53:16+00:00",
-"Sözcü Son Dakika": "2026-10-24T20:13:17+00:00",
-"Yeni Şafak Yerel": "2026-10-24T20:11:02+00:00",
+"Sözcü Son Dakika": "2026-10-24T20:33:59+00:00",
+"Yeni Şafak Yerel": "2026-10-24T20:22:03+00:00",
 "X / Twitter Türkiye": "2026-10-24T18:18:09.441176+00:00",
 "Olay (Bursa)": "2026-10-24T19:38:34+00:00",
 "@islamasalya": "2026-10-24T19:43:20+00:00",
 "Yeni Asır (İzmir)": "2026-10-24T17:51:04+00:00",
-"İstanbul Gazetesi": "2026-10-24T18:53:00+00:00",
+"İstanbul Gazetesi": "2026-10-24T20:26:00+00:00",
 "Kandilli Rasathanesi": "2026-10-24T17:34:48+00:00"
 }
 }
