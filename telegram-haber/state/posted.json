@@ -850,72 +850,14 @@
 "1a2d24fd1cceaeee",
 "3657b21fa8d2d779",
 "a5cfdfff9eadc64c",
-"44e67e54ddea29fa"
+"44e67e54ddea29fa",
+"1771d5bb7bf57096",
+"ddb0993b1d28f37e",
+"9a7ccb76f82e9e40",
+"d658e6ddf7334ae7",
+"3a832b4338d123ba"
 ],
 "imzalar": [
-[
-"aliyor",
-"avrupa",
-"besiktas",
-"gecesi",
-"sahne",
-"trabzonspor",
-"turk"
-],
-[
-"aci",
-"allah",
-"cagirirdin",
-"dinmeyen",
-"guzel",
-"hatira",
-"insanlari",
-"ise",
-"kulaklarimizda",
-"namazina",
-"onlari",
-"sabah",
-"sesin",
-"sesinle",
-"simdi",
-"sizi",
-"uyandirir",
-"yoklugun",
-"yuregimizde",
-"zamanlar"
-],
-[
-"alfabesi",
-"dunyasi",
-"girdi",
-"ozbek",
-"turk",
-"uygun",
-"yururluge"
-],
-[
-"adliyeye",
-"belediyesi",
-"cukurova",
-"edildi",
-"sevk",
-"sorusturmasi",
-"supheli",
-"yolsuzluk"
-],
-[
-"akaryakit",
-"benzin",
-"benzine",
-"ekim",
-"fiyatlari",
-"geldi",
-"guncel",
-"indirim",
-"lpg",
-"motorin",
-"persembe"
-],
 [
 "ailesiyle",
 "anlastilar",
@@ -6663,15 +6605,64 @@
 "dan",
 "iddiali",
 "inan"
+],
+[
+"aksam",
+"bolum",
+"krizi",
+"masterchef",
+"turkiye",
+"yeni"
+],
+[
+"dovdu",
+"igrenc",
+"indirip",
+"minibusten",
+"olay",
+"rusya",
+"tacizciyi",
+"tekme",
+"tokat"
+],
+[
+"ankara",
+"cop",
+"merkezinde",
+"nin",
+"sorunu"
+],
+[
+"atiyor",
+"calhanoglu",
+"hakan",
+"imzayi",
+"karar",
+"kose",
+"ndan",
+"ters"
+],
+[
+"ankara",
+"bursa",
+"den",
+"gormeyecek",
+"goz",
+"gozu",
+"meteoroloji",
+"pus",
+"sehrimiz",
+"sis",
+"uyarisi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-24T05:56:00+00:00",
-"Sonsöz (Ankara)": "2026-10-24T03:30:00+00:00",
+"Haber Global": "2026-10-24T06:32:00+00:00",
+"Sonsöz (Ankara)": "2026-10-24T06:29:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-10-24T04:43:20+00:00",
-"Sözcü Son Dakika": "2026-10-24T06:16:02+00:00",
-"Yeni Şafak Yerel": "2026-10-24T05:55:33+00:00",
+"Mynet Son Dakika": "2026-10-24T06:25:06+00:00",
+"Sözcü Son Dakika": "2026-10-24T06:17:15+00:00",
+"Yeni Şafak Yerel": "2026-10-24T06:31:07+00:00",
 "X / Twitter Türkiye": "2026-10-24T06:16:58.966178+00:00",
 "Olay (Bursa)": "2026-10-24T05:50:07+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
