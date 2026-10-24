@@ -845,46 +845,14 @@
 "79f0086e98251773",
 "8459218f48183ddf",
 "67fa7932b27b1fb9",
-"bdc0078cd4f4ca0d"
+"bdc0078cd4f4ca0d",
+"c7e9d8b0b2bb5ce1",
+"1a2d24fd1cceaeee",
+"3657b21fa8d2d779",
+"a5cfdfff9eadc64c",
+"44e67e54ddea29fa"
 ],
 "imzalar": [
-[
-"catalca",
-"duzenleyen",
-"esenyurt",
-"kisi",
-"kuyumcuya",
-"saldiri",
-"silahli",
-"yakalandi"
-],
-[
-"cikacak",
-"den",
-"devleri",
-"haliliye",
-"teknoloji",
-"yeni"
-],
-[
-"arac",
-"devrildi",
-"hacibektas",
-"hafif",
-"ilcesinde",
-"nevsehir",
-"ticari"
-],
-[
-"bursa",
-"ilgili",
-"katilan",
-"milletvekili",
-"notlar",
-"onemli",
-"parti",
-"torun"
-],
 [
 "aliyor",
 "avrupa",
@@ -6656,19 +6624,58 @@
 "ismi",
 "kestirdi",
 "lille"
+],
+[
+"cocuk",
+"faciasi",
+"gecekonduda",
+"hayatini",
+"kaybetti",
+"maltepe",
+"yangin",
+"yasindaki"
+],
+[
+"ankara",
+"bugun",
+"durumu",
+"ekim",
+"hava",
+"istanbul",
+"izmir",
+"kapida",
+"kuvvetli",
+"meteoroloji",
+"nasil",
+"olacak",
+"saat",
+"saganak",
+"verdi"
+],
+[
+"gecekondu",
+"maltepe",
+"yangini"
+],
+[
+"akp",
+"cikis",
+"dan",
+"iddiali",
+"inan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-24T05:46:00+00:00",
+"Haber Global": "2026-10-24T05:56:00+00:00",
 "Sonsöz (Ankara)": "2026-10-24T03:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T04:43:20+00:00",
-"Sözcü Son Dakika": "2026-10-24T05:50:25+00:00",
+"Sözcü Son Dakika": "2026-10-24T06:16:02+00:00",
 "Yeni Şafak Yerel": "2026-10-24T05:55:33+00:00",
-"X / Twitter Türkiye": "2026-10-24T03:16:18.942320+00:00",
+"X / Twitter Türkiye": "2026-10-24T06:16:58.966178+00:00",
 "Olay (Bursa)": "2026-10-24T05:50:07+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
-"Yeni Asır (İzmir)": "2026-10-24T05:37:51+00:00",
-"İstanbul Gazetesi": "2026-10-23T16:50:00+00:00"
+"Yeni Asır (İzmir)": "2026-10-24T06:07:24+00:00",
+"İstanbul Gazetesi": "2026-10-24T06:14:00+00:00"
 }
 }
