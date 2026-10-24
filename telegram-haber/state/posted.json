@@ -914,55 +914,14 @@
 "ace18a79660bda9b",
 "3d3d26aee6d75d29",
 "3ef4c4c03efb6b60",
-"4f99a3387d1d5d00"
+"4f99a3387d1d5d00",
+"b507557bfa86a517",
+"26790efbfb96c702",
+"d1d1309c0528b094",
+"8ed7befca7e39943",
+"71f76f1ef0f5a427"
 ],
 "imzalar": [
-[
-"cikti",
-"deki",
-"detaylar",
-"kagithane",
-"ortaya",
-"saldirida",
-"silahli",
-"yeni"
-],
-[
-"abdulkadir",
-"bik",
-"bulustu",
-"cay",
-"genel",
-"istanbul",
-"muduru",
-"ogrencileriyle",
-"universitesi"
-],
-[
-"bik",
-"cay",
-"dan",
-"dezenformasyon",
-"genel",
-"muduru",
-"ogrencilere",
-"uyarisi"
-],
-[
-"cekirdegi",
-"cerezlik",
-"cografi",
-"edildi",
-"hasat",
-"isaret",
-"kabak",
-"nevsehir",
-"tescilli"
-],
-[
-"gokyuzunden",
-"yagdi"
-],
 [
 "bilgisi",
 "dedem",
@@ -6696,17 +6655,62 @@
 "itibaren",
 "ten",
 "yasaklanacak"
+],
+[
+"bakan",
+"duyurdu",
+"hatay",
+"havalimani",
+"uraloglu",
+"yenileniyor"
+],
+[
+"binasinda",
+"dernek",
+"kirikkale",
+"olum",
+"supheli"
+],
+[
+"belli",
+"derbiden",
+"gorusecek",
+"icraati",
+"iki",
+"ilk",
+"sergen",
+"yalcin",
+"yildizla"
+],
+[
+"baglandi",
+"besiktas",
+"cikti",
+"eli",
+"italiano",
+"kolu",
+"kriz",
+"nun"
+],
+[
+"cezaevine",
+"gonderildi",
+"kardeslerin",
+"kisi",
+"sarigul",
+"sorusturmada",
+"tutuklandigi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-24T09:28:00+00:00",
-"Sonsöz (Ankara)": "2026-10-24T09:32:00+00:00",
+"Haber Global": "2026-10-24T09:47:00+00:00",
+"Sonsöz (Ankara)": "2026-10-24T09:45:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T09:04:06+00:00",
-"Sözcü Son Dakika": "2026-10-24T09:35:38+00:00",
-"Yeni Şafak Yerel": "2026-10-24T09:21:44+00:00",
+"Sözcü Son Dakika": "2026-10-24T09:53:41+00:00",
+"Yeni Şafak Yerel": "2026-10-24T09:52:23+00:00",
 "X / Twitter Türkiye": "2026-10-24T09:16:58.347431+00:00",
-"Olay (Bursa)": "2026-10-24T09:30:27+00:00",
+"Olay (Bursa)": "2026-10-24T09:56:19+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
 "Yeni Asır (İzmir)": "2026-10-24T09:26:06+00:00",
 "İstanbul Gazetesi": "2026-10-24T09:34:00+00:00"
