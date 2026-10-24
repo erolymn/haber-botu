@@ -827,18 +827,12 @@
 "19f420e08865705f",
 "485d28b1e80a9661",
 "f2820ee0cee2cb71",
-"e27dd2559ee15892"
+"e27dd2559ee15892",
+"d161398eed68f186",
+"85c5cfb1cb76c8a6",
+"3de185d204f13ed6"
 ],
 "imzalar": [
-[
-"bati",
-"gerceklestirdi",
-"israil",
-"saatte",
-"saldiri",
-"seria",
-"soykirimci"
-],
 [
 "ankara",
 "geliyor",
@@ -6619,19 +6613,43 @@
 "yasal",
 "yeni",
 "yolcu"
+],
+[
+"cag",
+"izlerine",
+"karanlik",
+"nurnberg",
+"orta",
+"sokaklarindan",
+"tarihin"
+],
+[
+"bahceli",
+"den",
+"sahin",
+"ziyaret"
+],
+[
+"acgozluler",
+"akp",
+"cikisi",
+"fon",
+"icimizdeki",
+"isimden",
+"krizi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-24T02:55:00+00:00",
+"Haber Global": "2026-10-24T03:50:00+00:00",
 "Sonsöz (Ankara)": "2026-10-24T03:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T20:16:13+00:00",
-"Sözcü Son Dakika": "2026-10-24T02:30:17+00:00",
+"Sözcü Son Dakika": "2026-10-24T04:10:33+00:00",
 "Yeni Şafak Yerel": "2026-10-24T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-10-24T03:16:18.942320+00:00",
 "Olay (Bursa)": "2026-10-24T02:10:30+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
-"Yeni Asır (İzmir)": "2026-10-23T23:20:17+00:00",
+"Yeni Asır (İzmir)": "2026-10-24T03:50:21+00:00",
 "İstanbul Gazetesi": "2026-10-23T16:50:00+00:00"
 }
 }
