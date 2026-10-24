@@ -1005,61 +1005,15 @@
 "41bedded1bea18e8",
 "952d4cdcf6e4a63c",
 "3403f81bd509c354",
-"f59afb369c975ccd"
+"f59afb369c975ccd",
+"57b035f00a0c9b2a",
+"b2f8d0485e7ea884",
+"f2c800adb41f4885",
+"00bdd2134a94cfe3",
+"ac6808392658b80e",
+"7ee817194d9dcbad"
 ],
 "imzalar": [
-[
-"adli",
-"alihan",
-"gelisme",
-"kaldi",
-"kisi",
-"kontrol",
-"kuris",
-"orgutu",
-"sartiyla",
-"serbest",
-"sorusturmasinda",
-"suc",
-"tutuklandi",
-"yeni"
-],
-[
-"kisi",
-"operasyon",
-"suleymancilara",
-"tutuklandi"
-],
-[
-"anadolu",
-"besiktas",
-"efes"
-],
-[
-"dikkatli",
-"elestiri",
-"goren",
-"kart",
-"kirmizi",
-"olmali",
-"oyuncusuna",
-"reis",
-"ten"
-],
-[
-"euroleague",
-"galatasaray",
-"siftah",
-"yapti"
-],
-[
-"andre",
-"gecirdi",
-"kalecisi",
-"kaza",
-"onana",
-"trabzonspor"
-],
 [
 "100",
 "356",
@@ -6756,19 +6710,69 @@
 "otobuste",
 "yerim",
 "yoktu"
+],
+[
+"altin",
+"basladi",
+"festivali",
+"film",
+"portakal",
+"uncu"
+],
+[
+"dogansoy",
+"hayati",
+"kac",
+"kariyeri",
+"kimdir",
+"nev",
+"nevzat",
+"sarkici",
+"yasindaydi"
+],
+[
+"besiktas",
+"derbi",
+"dev",
+"galatasaray",
+"gozdesine",
+"talip",
+"transferde"
+],
+[
+"faciasi",
+"maden",
+"taki",
+"tutuklama",
+"zonguldak"
+],
+[
+"deplasmanda",
+"devirdi",
+"erzurumspor",
+"gaziantep",
+"golle"
+],
+[
+"bursa",
+"deki",
+"lig",
+"skor",
+"super",
+"takimindan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-24T14:39:00+00:00",
-"Sonsöz (Ankara)": "2026-10-24T14:32:00+00:00",
+"Haber Global": "2026-10-24T15:30:00+00:00",
+"Sonsöz (Ankara)": "2026-10-24T15:20:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T13:57:02+00:00",
-"Sözcü Son Dakika": "2026-10-24T15:14:19+00:00",
-"Yeni Şafak Yerel": "2026-10-24T15:11:27+00:00",
+"Sözcü Son Dakika": "2026-10-24T15:29:28+00:00",
+"Yeni Şafak Yerel": "2026-10-24T15:28:59+00:00",
 "X / Twitter Türkiye": "2026-10-24T15:17:33.145703+00:00",
-"Olay (Bursa)": "2026-10-24T14:40:55+00:00",
+"Olay (Bursa)": "2026-10-24T15:34:50+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
-"Yeni Asır (İzmir)": "2026-10-24T15:07:46+00:00",
+"Yeni Asır (İzmir)": "2026-10-24T15:24:18+00:00",
 "İstanbul Gazetesi": "2026-10-24T14:34:00+00:00"
 }
 }
