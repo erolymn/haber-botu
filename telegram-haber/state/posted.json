@@ -996,56 +996,14 @@
 "885678eb3a27b0d6",
 "a71162d30607dbac",
 "d7d5d735c1340cb1",
-"05a56c1f6ec4fe20"
+"05a56c1f6ec4fe20",
+"aeeae7321c207a18",
+"ecfc110aab289ae8",
+"6e32f339ff93809b",
+"8a5b6f11b1adf0b7",
+"48699345f21bccbb"
 ],
 "imzalar": [
-[
-"dali",
-"deneyime",
-"dijital",
-"donustu",
-"dunyasi",
-"istanbul",
-"nin",
-"salvador"
-],
-[
-"agrilari",
-"artti",
-"buyuk",
-"derbisi",
-"fenerbahce",
-"galatasaray",
-"oncesi",
-"sok"
-],
-[
-"besiktas",
-"devam",
-"edemedi",
-"sakatlik",
-"soku"
-],
-[
-"borsa",
-"dan",
-"islem",
-"kisiye",
-"operasyonu",
-"spk",
-"yasagi",
-"yil"
-],
-[
-"akgun",
-"chp",
-"ebru",
-"ibb",
-"istifa",
-"meclis",
-"pekel",
-"uyesi"
-],
 [
 "calisiyor",
 "gunde",
@@ -6756,19 +6714,65 @@
 "kemikler",
 "yanan",
 "yildir"
+],
+[
+"besiktas",
+"dorduncu",
+"formasi",
+"tanitildi"
+],
+[
+"arabaci",
+"coskun",
+"davasinda",
+"karar",
+"necati",
+"orgutu",
+"suc"
+],
+[
+"ceken",
+"cikti",
+"dikkat",
+"girdikten",
+"lig",
+"macinda",
+"oyuna",
+"super"
+],
+[
+"bulundu",
+"evi",
+"kadinin",
+"kayip",
+"kazida",
+"kemikler",
+"kundaklandi",
+"yapilan",
+"yildir"
+],
+[
+"basladi",
+"bin",
+"hasat",
+"isci",
+"izmir",
+"lik",
+"para",
+"yevmiye"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-24T14:11:00+00:00",
+"Haber Global": "2026-10-24T14:39:00+00:00",
 "Sonsöz (Ankara)": "2026-10-24T14:32:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T13:57:02+00:00",
-"Sözcü Son Dakika": "2026-10-24T14:21:55+00:00",
-"Yeni Şafak Yerel": "2026-10-24T14:30:10+00:00",
+"Sözcü Son Dakika": "2026-10-24T14:44:12+00:00",
+"Yeni Şafak Yerel": "2026-10-24T14:44:07+00:00",
 "X / Twitter Türkiye": "2026-10-24T12:17:32.253286+00:00",
-"Olay (Bursa)": "2026-10-24T14:37:20+00:00",
+"Olay (Bursa)": "2026-10-24T14:40:55+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
-"Yeni Asır (İzmir)": "2026-10-24T14:14:00+00:00",
+"Yeni Asır (İzmir)": "2026-10-24T14:46:18+00:00",
 "İstanbul Gazetesi": "2026-10-24T14:34:00+00:00"
 }
 }
