@@ -1087,23 +1087,10 @@
 "00442e2f5262f9b7",
 "57e0da34c8917f26",
 "f15171db2003f397",
-"26e290df912e9b4b"
+"26e290df912e9b4b",
+"3b03faf3079d74ba"
 ],
 "imzalar": [
-[
-"akaryakit",
-"ankara",
-"benzin",
-"degisti",
-"durum",
-"ekim",
-"fiyatlarinda",
-"istanbul",
-"izmir",
-"kadar",
-"pompada",
-"tabela"
-],
 [
 "afad",
 "ani",
@@ -6915,11 +6902,20 @@
 "tacirlerine",
 "tutuklandi",
 "uyusturucu"
+],
+[
+"albay",
+"duyurdu",
+"gokgoz",
+"istihbarat",
+"msb",
+"sayit",
+"sehit"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-24T21:46:00+00:00",
-"Sonsöz (Ankara)": "2026-10-24T19:00:00+00:00",
+"Sonsöz (Ankara)": "2026-10-24T22:05:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T18:53:16+00:00",
 "Sözcü Son Dakika": "2026-10-24T21:27:56+00:00",
