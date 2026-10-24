@@ -1078,39 +1078,13 @@
 "b2414c58649335ec",
 "44c7a134ecbecf9c",
 "94d833769cdab13d",
-"5553a1c215465bfb"
+"5553a1c215465bfb",
+"a17886fcd50e7b86",
+"3fd6d6715fff4318",
+"8356d62512db7b6a",
+"34255ab4afd93efc"
 ],
 "imzalar": [
-[
-"bitti",
-"gun",
-"nisanlanmislardi",
-"olumle",
-"once",
-"tartisma"
-],
-[
-"baskani",
-"belediye",
-"buyuk",
-"buyuksehir",
-"cemil",
-"dan",
-"iki",
-"indirim",
-"izmir",
-"mujdesi",
-"tugay"
-],
-[
-"bolundu",
-"cin",
-"dayanamayan",
-"gucune",
-"ikiye",
-"markasi",
-"otomotiv"
-],
 [
 "benzine",
 "haftasonu",
@@ -6898,16 +6872,51 @@
 "kabul",
 "kastamonuspor",
 "yonetimini"
+],
+[
+"caykur",
+"gunku",
+"maci",
+"macta",
+"mesaj",
+"odagimiz",
+"oncesi",
+"pazartesi",
+"reis",
+"rizespor",
+"ten",
+"thomas",
+"tum"
+],
+[
+"aci",
+"msb",
+"sehit",
+"verdi",
+"yarali"
+],
+[
+"albay",
+"ankara",
+"arac",
+"askeri",
+"gokgoz",
+"iki",
+"kazasi",
+"personel",
+"sayit",
+"sehit",
+"yaralandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-24T20:54:00+00:00",
+"Haber Global": "2026-10-24T20:57:00+00:00",
 "Sonsöz (Ankara)": "2026-10-24T19:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T18:53:16+00:00",
-"Sözcü Son Dakika": "2026-10-24T20:48:31+00:00",
-"Yeni Şafak Yerel": "2026-10-24T20:46:02+00:00",
-"X / Twitter Türkiye": "2026-10-24T18:18:09.441176+00:00",
+"Sözcü Son Dakika": "2026-10-24T21:06:57+00:00",
+"Yeni Şafak Yerel": "2026-10-24T21:09:55+00:00",
+"X / Twitter Türkiye": "2026-10-24T21:18:44.745001+00:00",
 "Olay (Bursa)": "2026-10-24T19:38:34+00:00",
 "@islamasalya": "2026-10-24T19:43:20+00:00",
 "Yeni Asır (İzmir)": "2026-10-24T17:51:04+00:00",
