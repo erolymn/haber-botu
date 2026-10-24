@@ -817,7 +817,9 @@
 "f41a0bf03e40f341",
 "7a2da773d718a311",
 "2ffc27c483046854",
-"d961d16e5e40ac1c"
+"d961d16e5e40ac1c",
+"6b95a9751fde3f4d",
+"a5c47a5b25e655c0"
 ],
 "imzalar": [
 [
@@ -6525,11 +6527,31 @@
 "den",
 "turkiye",
 "zirvesi"
+],
+[
+"bursa",
+"cikan",
+"kiraathanede",
+"sonduruldu",
+"yangin"
+],
+[
+"alaninda",
+"aldi",
+"gore",
+"imf",
+"mali",
+"nin",
+"not",
+"olumlu",
+"raporuna",
+"seffaflik",
+"turkiye"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-24T00:13:00+00:00",
-"Sonsöz (Ankara)": "2026-10-23T23:33:00+00:00",
+"Haber Global": "2026-10-24T01:46:00+00:00",
+"Sonsöz (Ankara)": "2026-10-24T01:46:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-23T20:16:13+00:00",
 "Sözcü Son Dakika": "2026-10-23T22:55:39+00:00",
