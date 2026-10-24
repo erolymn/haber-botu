@@ -919,59 +919,14 @@
 "26790efbfb96c702",
 "d1d1309c0528b094",
 "8ed7befca7e39943",
-"71f76f1ef0f5a427"
+"71f76f1ef0f5a427",
+"bd4869c12810e1cf",
+"c8c5fdfded6e5289",
+"9965df81d8886363",
+"e225d533a6f55ce6",
+"f0caf0d0fdb9a3f5"
 ],
 "imzalar": [
-[
-"bilgisi",
-"dedem",
-"devlet",
-"konusu",
-"merak",
-"nasil",
-"nerede",
-"sehit",
-"sorgulama",
-"sorusu",
-"yapilir"
-],
-[
-"bursa",
-"dan",
-"duyruldu",
-"takvimi",
-"turkiye"
-],
-[
-"anlamli",
-"cuma",
-"guzel",
-"kisa",
-"mesajlari",
-"paylasmalik",
-"uzun"
-],
-[
-"cikiyor",
-"dogru",
-"donem",
-"hasar",
-"onarim",
-"one",
-"seffaflik",
-"sureclerinde",
-"yeni"
-],
-[
-"atildi",
-"bin",
-"donem",
-"ikinci",
-"imzalar",
-"ogrenci",
-"tarih",
-"yolculugunda"
-],
 [
 "811",
 "kadin",
@@ -6700,19 +6655,61 @@
 "sarigul",
 "sorusturmada",
 "tutuklandigi"
+],
+[
+"gelisme",
+"izmir",
+"kisinin",
+"oldugu",
+"patlamada",
+"saniklar",
+"yargilanacak",
+"yeni",
+"yeniden"
+],
+[
+"diyanet",
+"korkutan",
+"kultur",
+"merkezinde",
+"vakfi",
+"yangin"
+],
+[
+"540",
+"bin",
+"can",
+"gazze",
+"kaybi",
+"yukseldi"
+],
+[
+"berkay",
+"bursa",
+"cumhuriyet",
+"ekim",
+"konseri",
+"yuruyusu"
+],
+[
+"aciklamasi",
+"aziz",
+"dan",
+"stat",
+"yildirim"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-24T09:47:00+00:00",
+"Haber Global": "2026-10-24T10:11:00+00:00",
 "Sonsöz (Ankara)": "2026-10-24T09:45:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T09:04:06+00:00",
-"Sözcü Son Dakika": "2026-10-24T09:53:41+00:00",
-"Yeni Şafak Yerel": "2026-10-24T09:52:23+00:00",
+"Sözcü Son Dakika": "2026-10-24T10:16:07+00:00",
+"Yeni Şafak Yerel": "2026-10-24T10:10:04+00:00",
 "X / Twitter Türkiye": "2026-10-24T09:16:58.347431+00:00",
-"Olay (Bursa)": "2026-10-24T09:56:19+00:00",
+"Olay (Bursa)": "2026-10-24T10:16:01+00:00",
 "@islamasalya": "2026-10-23T16:48:46+00:00",
-"Yeni Asır (İzmir)": "2026-10-24T09:26:06+00:00",
+"Yeni Asır (İzmir)": "2026-10-24T09:58:28+00:00",
 "İstanbul Gazetesi": "2026-10-24T09:34:00+00:00"
 }
 }
