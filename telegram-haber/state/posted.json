@@ -1352,45 +1352,12 @@
 "7fb7eeaa21338208",
 "c7adfb8985530d1c",
 "0ea7337e3e0f79f0",
-"c449e15517a5f51a"
+"c449e15517a5f51a",
+"a774b1bc2818edf5",
+"f71ecc87cb799a81",
+"683818838eee554d"
 ],
 "imzalar": [
-[
-"atasehir",
-"baskan",
-"belediye",
-"cumhurbaskani",
-"erdogan",
-"kabul",
-"uskudar",
-"vekilleri"
-],
-[
-"cikti",
-"detay",
-"faciasinda",
-"gemi",
-"kahreden",
-"kara",
-"kayitlari",
-"kisinin",
-"kutu",
-"oldugu",
-"ortaya"
-],
-[
-"den",
-"dikkat",
-"durumu",
-"hava",
-"istanbul",
-"kritik",
-"kuvvetli",
-"meteoroloji",
-"olacak",
-"saate",
-"uyari"
-],
 [
 "canakkale",
 "coktu",
@@ -7251,20 +7218,50 @@
 "muhafizi",
 "nin",
 "siper"
+],
+[
+"anlari",
+"bakan",
+"degistirdi",
+"havadayken",
+"hedefini",
+"kacir",
+"paylasti",
+"siper"
+],
+[
+"bebek",
+"birbirine",
+"girdi",
+"iki",
+"mardin",
+"otomobil",
+"yarali"
+],
+[
+"bariyerlere",
+"carpti",
+"iki",
+"kastamonu",
+"kisi",
+"once",
+"otobuse",
+"otomobil",
+"yaralandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-25T20:57:00+00:00",
+"Haber Global": "2026-10-25T21:23:00+00:00",
 "Sonsöz (Ankara)": "2026-10-25T19:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-25T21:06:30+00:00",
 "Sözcü Son Dakika": "2026-10-25T20:56:28+00:00",
-"Yeni Şafak Yerel": "2026-10-25T21:18:17+00:00",
+"Yeni Şafak Yerel": "2026-10-25T21:33:27+00:00",
 "X / Twitter Türkiye": "2026-10-25T21:01:02.486748+00:00",
 "Olay (Bursa)": "2026-10-25T21:09:53+00:00",
 "@islamasalya": "2026-10-25T17:45:17+00:00",
 "Yeni Asır (İzmir)": "2026-10-25T20:34:19+00:00",
-"İstanbul Gazetesi": "2026-10-25T21:18:00+00:00",
+"İstanbul Gazetesi": "2026-10-25T21:20:00+00:00",
 "Kandilli Rasathanesi": "2026-10-24T17:34:48+00:00"
 }
 }
