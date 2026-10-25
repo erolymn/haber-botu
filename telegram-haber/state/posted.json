@@ -1340,47 +1340,13 @@
 "1f11a29269416831",
 "d12a9edb7c9e65be",
 "d7cd254dc1f92d3a",
-"ae44d01d4d734870"
+"ae44d01d4d734870",
+"c3e3fa52595e5a4c",
+"6f881b1b7a5415cf",
+"ee2755dd8a8fa087",
+"db67cd22a5847013"
 ],
 "imzalar": [
-[
-"arasinda",
-"devre",
-"edecek",
-"fenerbahce",
-"surpriz",
-"veda"
-],
-[
-"basladi",
-"nda",
-"peyami",
-"safa",
-"sempozyumu",
-"zeytinburnu"
-],
-[
-"buyuk",
-"calhanoglu",
-"hakan",
-"herkesi",
-"karar",
-"ndan",
-"sasirtan",
-"surpriz"
-],
-[
-"arasinda",
-"ateskes",
-"beyaz",
-"duyurdu",
-"melania",
-"rusya",
-"sagladi",
-"saray",
-"trump",
-"ukrayna"
-],
 [
 "gecmis",
 "kullanma",
@@ -7241,19 +7207,51 @@
 "marul",
 "ton",
 "yuklu"
+],
+[
+"derbiye",
+"eksiksiz",
+"fenerbahce",
+"galatasaray",
+"girdi",
+"hazir",
+"kampa"
+],
+[
+"izmir",
+"operasyonunda",
+"supheli",
+"tutuklandi",
+"uyusturucu"
+],
+[
+"dorsesine",
+"kisi",
+"kutahya",
+"otomobil",
+"saplandi",
+"tirin",
+"yaralandi"
+],
+[
+"binlerce",
+"biraktilar",
+"buzdolabini",
+"dagin",
+"yamacina"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-25T20:04:00+00:00",
+"Haber Global": "2026-10-25T20:32:00+00:00",
 "Sonsöz (Ankara)": "2026-10-25T19:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-25T04:51:36+00:00",
-"Sözcü Son Dakika": "2026-10-25T19:49:32+00:00",
-"Yeni Şafak Yerel": "2026-10-25T20:17:52+00:00",
+"Sözcü Son Dakika": "2026-10-25T20:35:59+00:00",
+"Yeni Şafak Yerel": "2026-10-25T20:35:14+00:00",
 "X / Twitter Türkiye": "2026-10-25T18:00:26.641461+00:00",
 "Olay (Bursa)": "2026-10-25T19:21:29+00:00",
 "@islamasalya": "2026-10-25T17:45:17+00:00",
-"Yeni Asır (İzmir)": "2026-10-25T18:09:55+00:00",
+"Yeni Asır (İzmir)": "2026-10-25T20:34:19+00:00",
 "İstanbul Gazetesi": "2026-10-25T19:44:00+00:00",
 "Kandilli Rasathanesi": "2026-10-24T17:34:48+00:00"
 }
