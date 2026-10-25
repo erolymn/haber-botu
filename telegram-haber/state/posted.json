@@ -1355,43 +1355,12 @@
 "c449e15517a5f51a",
 "a774b1bc2818edf5",
 "f71ecc87cb799a81",
-"683818838eee554d"
+"683818838eee554d",
+"5a6d876517433133",
+"9cf632c33c272a07",
+"e807c46dd37e6d82"
 ],
 "imzalar": [
-[
-"canakkale",
-"coktu",
-"devrildi",
-"kamyon",
-"olu",
-"tomruk",
-"yarali",
-"yol",
-"yuklu"
-],
-[
-"aciklarinda",
-"banda",
-"bogazi",
-"gecirildi",
-"isimli",
-"istanbul",
-"karaya",
-"ndan",
-"oturan",
-"sariyer",
-"tanker"
-],
-[
-"bayern",
-"direktoru",
-"hastaneye",
-"kaldirildi",
-"kompany",
-"munih",
-"teknik",
-"vincent"
-],
 [
 "bakan",
 "cop",
@@ -7248,15 +7217,46 @@
 "otobuse",
 "otomobil",
 "yaralandi"
+],
+[
+"abd",
+"adim",
+"antonelli",
+"dev",
+"formula",
+"nin",
+"sampiyonluga"
+],
+[
+"icisleri",
+"ilde",
+"istanbul",
+"nden",
+"pes",
+"pese",
+"saganak",
+"siddetli",
+"tarih",
+"uyari",
+"verildi"
+],
+[
+"ait",
+"araclar",
+"askeri",
+"edildi",
+"husilere",
+"imha",
+"yemen"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-25T21:23:00+00:00",
+"Haber Global": "2026-10-25T21:54:00+00:00",
 "Sonsöz (Ankara)": "2026-10-25T19:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-25T21:06:30+00:00",
-"Sözcü Son Dakika": "2026-10-25T20:56:28+00:00",
-"Yeni Şafak Yerel": "2026-10-25T21:33:27+00:00",
+"Sözcü Son Dakika": "2026-10-25T21:47:21+00:00",
+"Yeni Şafak Yerel": "2026-10-25T21:59:00+00:00",
 "X / Twitter Türkiye": "2026-10-25T21:01:02.486748+00:00",
 "Olay (Bursa)": "2026-10-25T21:09:53+00:00",
 "@islamasalya": "2026-10-25T17:45:17+00:00",
