@@ -1123,46 +1123,13 @@
 "9f725c70f606d54f",
 "de2dda18fc1366cc",
 "906abd77347ea162",
-"2ddc5f92ac88731b"
+"2ddc5f92ac88731b",
+"3f0bd6f813d1a2f8",
+"de2ae9c418ef8944",
+"53706c9cda6c6435",
+"f736eee407410f55"
 ],
 "imzalar": [
-[
-"arac",
-"basladilar",
-"dolandirmaya",
-"konusuyor",
-"medya",
-"sahiplerini",
-"sosyal",
-"tuzagi",
-"yontemle"
-],
-[
-"141",
-"alexander",
-"erdi",
-"gilgeous",
-"maclik",
-"muthis",
-"serisi",
-"shai",
-"sona"
-],
-[
-"belli",
-"nedeni",
-"odasinda",
-"osimhen",
-"soyunma",
-"sozlerinin",
-"tartismislar"
-],
-[
-"basladi",
-"borsa",
-"gune",
-"yukselisle"
-],
 [
 "altin",
 "bursa",
@@ -6941,19 +6908,68 @@
 "nev",
 "yarim",
 "yurek"
+],
+[
+"den",
+"durumu",
+"gunluk",
+"hava",
+"hem",
+"meteoroloji",
+"raporu",
+"saganak",
+"sis",
+"uyarisi"
+],
+[
+"alacaklar",
+"cesme",
+"den",
+"dikkat",
+"edecek",
+"gayrimenkulun",
+"gozdesi",
+"izmir",
+"tahtindan",
+"urla",
+"yeni"
+],
+[
+"aracinin",
+"dan",
+"degisti",
+"emsal",
+"hasar",
+"karar",
+"karismadi",
+"kaydi",
+"kazaya",
+"yargitay"
+],
+[
+"dususu",
+"duyurdu",
+"ezildi",
+"kadir",
+"kaldirildi",
+"programi",
+"projesini",
+"reyting",
+"sonrasi",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-25T04:21:00+00:00",
+"Haber Global": "2026-10-25T05:45:00+00:00",
 "Sonsöz (Ankara)": "2026-10-25T03:20:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-25T04:51:36+00:00",
-"Sözcü Son Dakika": "2026-10-25T05:36:18+00:00",
-"Yeni Şafak Yerel": "2026-10-25T05:14:48+00:00",
+"Sözcü Son Dakika": "2026-10-25T05:57:42+00:00",
+"Yeni Şafak Yerel": "2026-10-25T05:53:23+00:00",
 "X / Twitter Türkiye": "2026-10-25T03:19:13.812809+00:00",
 "Olay (Bursa)": "2026-10-25T03:12:44+00:00",
 "@islamasalya": "2026-10-24T19:43:20+00:00",
-"Yeni Asır (İzmir)": "2026-10-25T05:29:03+00:00",
+"Yeni Asır (İzmir)": "2026-10-25T05:46:37+00:00",
 "İstanbul Gazetesi": "2026-10-24T20:26:00+00:00",
 "Kandilli Rasathanesi": "2026-10-24T17:34:48+00:00"
 }
