@@ -1121,30 +1121,11 @@
 "d9766c8c3d57881b",
 "db50c9fec9f034c5",
 "9f725c70f606d54f",
-"de2dda18fc1366cc"
+"de2dda18fc1366cc",
+"906abd77347ea162",
+"2ddc5f92ac88731b"
 ],
 "imzalar": [
-[
-"agir",
-"alkollu",
-"bursa",
-"calisirken",
-"carpan",
-"fatura",
-"gorunce",
-"kacmaya",
-"lambasina",
-"polisi",
-"surucuye",
-"trafik"
-],
-[
-"alarmi",
-"ankara",
-"hafta",
-"sonu",
-"yagis"
-],
 [
 "arac",
 "basladilar",
@@ -6942,6 +6923,24 @@
 "sadrazam",
 "torunu",
 "ucte"
+],
+[
+"basliyor",
+"duzenlemesi",
+"kasim",
+"medya",
+"sosyal",
+"yas"
+],
+[
+"burktu",
+"hayali",
+"hayatini",
+"kalan",
+"kaybeden",
+"nev",
+"yarim",
+"yurek"
 ]
 ],
 "son_tarih": {
@@ -6949,12 +6948,12 @@
 "Sonsöz (Ankara)": "2026-10-25T03:20:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-25T04:51:36+00:00",
-"Sözcü Son Dakika": "2026-10-25T05:13:28+00:00",
+"Sözcü Son Dakika": "2026-10-25T05:36:18+00:00",
 "Yeni Şafak Yerel": "2026-10-25T05:14:48+00:00",
 "X / Twitter Türkiye": "2026-10-25T03:19:13.812809+00:00",
 "Olay (Bursa)": "2026-10-25T03:12:44+00:00",
 "@islamasalya": "2026-10-24T19:43:20+00:00",
-"Yeni Asır (İzmir)": "2026-10-25T05:06:13+00:00",
+"Yeni Asır (İzmir)": "2026-10-25T05:29:03+00:00",
 "İstanbul Gazetesi": "2026-10-24T20:26:00+00:00",
 "Kandilli Rasathanesi": "2026-10-24T17:34:48+00:00"
 }
