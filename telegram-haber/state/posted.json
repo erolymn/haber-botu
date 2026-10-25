@@ -1094,19 +1094,10 @@
 "ba89cded2deabe7d",
 "5e444d1cb10f8343",
 "c2ff082e558b1bca",
-"2ef3d1f364442d12"
+"2ef3d1f364442d12",
+"f320e809a6674548"
 ],
 "imzalar": [
-[
-"cilginligi",
-"donuyor",
-"ekran",
-"eriyor",
-"geri",
-"kollar",
-"sona",
-"tuslar"
-],
 [
 "biya",
 "diline",
@@ -6914,11 +6905,23 @@
 "grup",
 "kavga",
 "silahli"
+],
+[
+"borclari",
+"duzenleme",
+"gss",
+"kisi",
+"milyon",
+"prim",
+"silinebilir",
+"yaklasik",
+"yeni",
+"yillik"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-24T23:34:00+00:00",
-"Sonsöz (Ankara)": "2026-10-25T00:07:00+00:00",
+"Sonsöz (Ankara)": "2026-10-25T00:28:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T18:53:16+00:00",
 "Sözcü Son Dakika": "2026-10-24T22:18:13+00:00",
