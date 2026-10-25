@@ -1106,41 +1106,12 @@
 "3d402dc1167573a0",
 "c7ecca44413feb15",
 "f95775314a916e63",
-"8ab14a9a1bd6b32b"
+"8ab14a9a1bd6b32b",
+"6e04cb42e8be58ca",
+"53496b7f9d7b4ada",
+"25f7c295ce0d5f9b"
 ],
 "imzalar": [
-[
-"capa",
-"ele",
-"gizlice",
-"kaydetmis",
-"patlayan",
-"sapigini",
-"verdi"
-],
-[
-"alinmadan",
-"cikti",
-"gozaltina",
-"mimarinin",
-"onceki",
-"ortaya",
-"sloganinin",
-"sozleri",
-"turkiye",
-"yuzyili"
-],
-[
-"baskentray",
-"bayrami",
-"cumhuriyet",
-"ekim",
-"izban",
-"marmaray",
-"nda",
-"ucretsiz",
-"ulasim"
-],
 [
 "catisma",
 "cia",
@@ -6920,19 +6891,46 @@
 "saat",
 "sinav",
 "surecek"
+],
+[
+"donen",
+"hakkari",
+"istegi",
+"koylerine",
+"tek",
+"vatandaslarin",
+"yil"
+],
+[
+"faiz",
+"gozler",
+"kararlarinda",
+"kuresel",
+"piyasalarda"
+],
+[
+"baba",
+"cikti",
+"evine",
+"goruntuleri",
+"kurtulamadi",
+"ortaya",
+"saldirganin",
+"sigindi",
+"yine"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-25T02:38:00+00:00",
+"Haber Global": "2026-10-25T03:46:00+00:00",
 "Sonsöz (Ankara)": "2026-10-25T03:20:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T18:53:16+00:00",
-"Sözcü Son Dakika": "2026-10-25T02:30:29+00:00",
+"Sözcü Son Dakika": "2026-10-25T03:54:57+00:00",
 "Yeni Şafak Yerel": "2026-10-25T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-10-25T03:19:13.812809+00:00",
 "Olay (Bursa)": "2026-10-25T03:12:44+00:00",
 "@islamasalya": "2026-10-24T19:43:20+00:00",
-"Yeni Asır (İzmir)": "2026-10-24T22:19:54+00:00",
+"Yeni Asır (İzmir)": "2026-10-25T03:50:26+00:00",
 "İstanbul Gazetesi": "2026-10-24T20:26:00+00:00",
 "Kandilli Rasathanesi": "2026-10-24T17:34:48+00:00"
 }
