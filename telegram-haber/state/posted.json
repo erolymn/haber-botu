@@ -1213,76 +1213,16 @@
 "b72d0dfbb4185125",
 "86a3d5d1fb68eada",
 "746f423f4f8f909e",
-"243542d4f503267e"
+"243542d4f503267e",
+"d1a14bdf90c2dc89",
+"2e65927b60578e3c",
+"d09805fba49a75ab",
+"9a9b66131d0e7c22",
+"734917a611b96744",
+"7100e8d0cd7f9f84",
+"90aa6a91f539a92d"
 ],
 "imzalar": [
-[
-"bin",
-"damla",
-"hasat",
-"heyecani",
-"kilosu",
-"liradan",
-"sakizinda",
-"satiliyor"
-],
-[
-"acik",
-"alanlarda",
-"geliyor",
-"sigara",
-"turkiye",
-"yasagi"
-],
-[
-"ankara",
-"basininda",
-"carney",
-"donem",
-"dunya",
-"yeni",
-"ziyareti"
-],
-[
-"aciklama",
-"bakan",
-"hakkinda",
-"kazasi",
-"maden",
-"memisoglu",
-"ndan",
-"zonguldak"
-],
-[
-"bakani",
-"bolat",
-"dolarlik",
-"duyurdu",
-"hedefine",
-"milyar",
-"tarih",
-"ticaret",
-"vererek",
-"yaklasiyoruz"
-],
-[
-"aldirma",
-"ameliyati",
-"cenazesi",
-"cikti",
-"girdigi",
-"hastaneden",
-"yag"
-],
-[
-"103",
-"bursa",
-"coskuyla",
-"iste",
-"kutlanacak",
-"program",
-"yil"
-],
 [
 "agina",
 "dan",
@@ -7087,19 +7027,80 @@
 "otomotiv",
 "tazminati",
 "teklifi"
+],
+[
+"basliyor",
+"bilet",
+"dogu",
+"ekspresi",
+"satislari"
+],
+[
+"aksoylar",
+"ekibe",
+"karsiyaka",
+"sinan",
+"takviyesi",
+"teknik"
+],
+[
+"eslik",
+"ictenlikle",
+"ilahiye",
+"mekke",
+"otobus",
+"soforu",
+"turkce"
+],
+[
+"aciklama",
+"adina",
+"dan",
+"futbol",
+"gece",
+"kara",
+"samsunspor",
+"sert",
+"yasanmistir"
+],
+[
+"aranan",
+"cezasiyla",
+"hapis",
+"izmir",
+"suctan",
+"supheli",
+"yakalandi"
+],
+[
+"akini",
+"bogazi",
+"istanbul",
+"lufer",
+"nda"
+],
+[
+"devam",
+"ediyor",
+"gazze",
+"isgalci",
+"israil",
+"itibariyle",
+"katliam",
+"soykirima"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-25T10:39:00+00:00",
-"Sonsöz (Ankara)": "2026-10-25T10:46:00+00:00",
+"Haber Global": "2026-10-25T11:15:00+00:00",
+"Sonsöz (Ankara)": "2026-10-25T11:06:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-25T04:51:36+00:00",
-"Sözcü Son Dakika": "2026-10-25T10:58:25+00:00",
-"Yeni Şafak Yerel": "2026-10-25T10:55:23+00:00",
+"Sözcü Son Dakika": "2026-10-25T11:13:37+00:00",
+"Yeni Şafak Yerel": "2026-10-25T11:13:00+00:00",
 "X / Twitter Türkiye": "2026-10-25T09:19:43.885940+00:00",
-"Olay (Bursa)": "2026-10-25T10:57:29+00:00",
-"@islamasalya": "2026-10-25T08:20:09+00:00",
-"Yeni Asır (İzmir)": "2026-10-25T10:42:40+00:00",
+"Olay (Bursa)": "2026-10-25T11:04:06+00:00",
+"@islamasalya": "2026-10-25T11:19:30+00:00",
+"Yeni Asır (İzmir)": "2026-10-25T11:13:45+00:00",
 "İstanbul Gazetesi": "2026-10-25T10:35:00+00:00",
 "Kandilli Rasathanesi": "2026-10-24T17:34:48+00:00"
 }
