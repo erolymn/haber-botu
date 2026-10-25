@@ -1097,17 +1097,10 @@
 "2ef3d1f364442d12",
 "f320e809a6674548",
 "357e2879b63991dd",
-"ede0346bdd14f6f7"
+"ede0346bdd14f6f7",
+"7d5c0ff228eb496b"
 ],
 "imzalar": [
-[
-"2026",
-"adaylari",
-"ballon",
-"kimler",
-"verilecek",
-"zaman"
-],
 [
 "gozalti",
 "karari",
@@ -6907,11 +6900,21 @@
 "nda",
 "otoyolu",
 "tem"
+],
+[
+"654",
+"bin",
+"ele",
+"gecirildi",
+"hap",
+"manisa",
+"operasyonu",
+"uyusturucu"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-24T23:34:00+00:00",
-"Sonsöz (Ankara)": "2026-10-25T01:10:00+00:00",
+"Sonsöz (Ankara)": "2026-10-25T01:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T18:53:16+00:00",
 "Sözcü Son Dakika": "2026-10-24T22:18:13+00:00",
