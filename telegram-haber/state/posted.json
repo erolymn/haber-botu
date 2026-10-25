@@ -1101,21 +1101,10 @@
 "7d5c0ff228eb496b",
 "3e032b50c2a91d95",
 "c1eafec1f6f78e9c",
-"96c3c5dade6aa62e"
+"96c3c5dade6aa62e",
+"bb9045abcc67ce89"
 ],
 "imzalar": [
-[
-"cikacak",
-"duyurdu",
-"edilen",
-"emeklilik",
-"gelir",
-"kademeli",
-"meclis",
-"merak",
-"tarihi",
-"zaman"
-],
 [
 "192",
 "bahiste",
@@ -6924,6 +6913,12 @@
 "tren",
 "ulasim",
 "veren"
+],
+[
+"boga",
+"burcunda",
+"dolunay",
+"super"
 ]
 ],
 "son_tarih": {
@@ -6931,7 +6926,7 @@
 "Sonsöz (Ankara)": "2026-10-25T02:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T18:53:16+00:00",
-"Sözcü Son Dakika": "2026-10-24T22:18:13+00:00",
+"Sözcü Son Dakika": "2026-10-25T02:30:29+00:00",
 "Yeni Şafak Yerel": "2026-10-25T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-10-25T00:18:45.096979+00:00",
 "Olay (Bursa)": "2026-10-25T02:17:54+00:00",
