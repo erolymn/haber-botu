@@ -1112,33 +1112,12 @@
 "25f7c295ce0d5f9b",
 "d26ade8984d3597b",
 "19cb9b0395a2ca41",
-"e2776a46e02f4e02"
+"e2776a46e02f4e02",
+"a9af1ced09858495",
+"350ce517e7c75de5",
+"045ecbd72519ddcb"
 ],
 "imzalar": [
-[
-"altin",
-"durum",
-"iste",
-"piyasasinda"
-],
-[
-"barcelona",
-"clasico",
-"maci",
-"madrid",
-"real",
-"zaman"
-],
-[
-"alacaklar",
-"arac",
-"dikkat",
-"ekspertiz",
-"ikinci",
-"operasyonunda",
-"sahte",
-"supheli"
-],
 [
 "bahiste",
 "canli",
@@ -6913,19 +6892,53 @@
 "depremle",
 "japonya",
 "sallandi"
+],
+[
+"baraj",
+"barajlarinda",
+"doluluk",
+"ekim",
+"izmir",
+"izsu",
+"kadar",
+"kaldi",
+"oranlari",
+"paylasti"
+],
+[
+"ele",
+"gece",
+"gecirildi",
+"istanbul",
+"kuluplerine",
+"madde",
+"operasyon",
+"silah",
+"uyusturucu"
+],
+[
+"ayni",
+"diken",
+"gunde",
+"istanbul",
+"kisi",
+"olduruldu",
+"semt",
+"sokakta",
+"ustunde"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-25T04:00:00+00:00",
+"Haber Global": "2026-10-25T04:21:00+00:00",
 "Sonsöz (Ankara)": "2026-10-25T03:20:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-25T04:16:24+00:00",
-"Sözcü Son Dakika": "2026-10-25T03:54:57+00:00",
+"Sözcü Son Dakika": "2026-10-25T04:36:28+00:00",
 "Yeni Şafak Yerel": "2026-10-25T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-10-25T03:19:13.812809+00:00",
 "Olay (Bursa)": "2026-10-25T03:12:44+00:00",
 "@islamasalya": "2026-10-24T19:43:20+00:00",
-"Yeni Asır (İzmir)": "2026-10-25T04:01:45+00:00",
+"Yeni Asır (İzmir)": "2026-10-25T04:16:03+00:00",
 "İstanbul Gazetesi": "2026-10-24T20:26:00+00:00",
 "Kandilli Rasathanesi": "2026-10-24T17:34:48+00:00"
 }
