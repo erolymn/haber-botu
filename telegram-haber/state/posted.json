@@ -1127,33 +1127,13 @@
 "3f0bd6f813d1a2f8",
 "de2ae9c418ef8944",
 "53706c9cda6c6435",
-"f736eee407410f55"
+"f736eee407410f55",
+"5def0232ddc468f9",
+"e02c875d224696ef",
+"a1e6276c08629761",
+"296b167cd22ad7ad"
 ],
 "imzalar": [
-[
-"altin",
-"bursa",
-"icradan",
-"satilik"
-],
-[
-"artis",
-"beyin",
-"bolumun",
-"ceken",
-"dikkat",
-"gidiyor",
-"gocunde",
-"hangi",
-"mezunlari"
-],
-[
-"depreminin",
-"gecti",
-"uzerinden",
-"van",
-"yil"
-],
 [
 "dikkat",
 "kodlu",
@@ -6957,6 +6937,34 @@
 "reyting",
 "sonrasi",
 "yeni"
+],
+[
+"gece",
+"kursun",
+"nda",
+"yagmuru",
+"yarisi",
+"zeytinburnu"
+],
+[
+"derbide",
+"galatasarayli",
+"heyecanlandiran",
+"olacak",
+"oyuncu",
+"sahada",
+"taraftarlari",
+"yildiz"
+],
+[
+"acti",
+"diyerek",
+"istiyoruz",
+"kadar",
+"kapilarini",
+"sonuna",
+"turk",
+"ulke"
 ]
 ],
 "son_tarih": {
@@ -6964,13 +6972,13 @@
 "Sonsöz (Ankara)": "2026-10-25T03:20:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-25T04:51:36+00:00",
-"Sözcü Son Dakika": "2026-10-25T05:57:42+00:00",
-"Yeni Şafak Yerel": "2026-10-25T05:53:23+00:00",
-"X / Twitter Türkiye": "2026-10-25T03:19:13.812809+00:00",
+"Sözcü Son Dakika": "2026-10-25T06:10:51+00:00",
+"Yeni Şafak Yerel": "2026-10-25T06:09:06+00:00",
+"X / Twitter Türkiye": "2026-10-25T06:19:15.678642+00:00",
 "Olay (Bursa)": "2026-10-25T03:12:44+00:00",
 "@islamasalya": "2026-10-24T19:43:20+00:00",
 "Yeni Asır (İzmir)": "2026-10-25T05:46:37+00:00",
-"İstanbul Gazetesi": "2026-10-24T20:26:00+00:00",
+"İstanbul Gazetesi": "2026-10-25T06:06:00+00:00",
 "Kandilli Rasathanesi": "2026-10-24T17:34:48+00:00"
 }
 }
