@@ -1131,52 +1131,14 @@
 "5def0232ddc468f9",
 "e02c875d224696ef",
 "a1e6276c08629761",
-"296b167cd22ad7ad"
+"296b167cd22ad7ad",
+"49b91f1613a07506",
+"e8f79d389b8fd7dd",
+"d7f7479c48544fd7",
+"ad90f07c6b8edb8f",
+"82e1e7543f244d09"
 ],
 "imzalar": [
-[
-"dikkat",
-"kodlu",
-"kuvvetli",
-"sari",
-"uyari",
-"yagisa"
-],
-[
-"bursa",
-"coskusu",
-"cumhuriyet",
-"saracak"
-],
-[
-"acildi",
-"fark",
-"hic",
-"hollanda",
-"kadar",
-"olmadigi",
-"turkiye",
-"yakin",
-"yillar",
-"yunanistan"
-],
-[
-"arabuluculuk",
-"bakani",
-"disisleri",
-"fidan",
-"hakan",
-"istanbul",
-"konferansi",
-"konusuyor",
-"nda"
-],
-[
-"bogazi",
-"istanbul",
-"kapatildi",
-"trafige"
-],
 [
 "bayrami",
 "bazi",
@@ -6965,20 +6927,74 @@
 "sonuna",
 "turk",
 "ulke"
+],
+[
+"200",
+"2027",
+"basladi",
+"basliyor",
+"bin",
+"cikiyor",
+"erken",
+"kadar",
+"liradan",
+"liraya",
+"rezervasyon",
+"yarisi"
+],
+[
+"abd",
+"cocuk",
+"saldiri",
+"silahli",
+"universite",
+"yakinlarinda",
+"yarali"
+],
+[
+"araclar",
+"buz",
+"eksi",
+"gordu",
+"kesti",
+"termometreler"
+],
+[
+"derbi",
+"dev",
+"dondu",
+"fenerbahce",
+"gelisme",
+"geri",
+"oncesinde",
+"oyuncu",
+"yildiz"
+],
+[
+"cipli",
+"doldu",
+"karti",
+"kartlar",
+"kimlik",
+"kullanilmaz",
+"milyonlarca",
+"olacak",
+"verilen",
+"yil"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-25T05:45:00+00:00",
+"Haber Global": "2026-10-25T06:27:00+00:00",
 "Sonsöz (Ankara)": "2026-10-25T03:20:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-25T04:51:36+00:00",
-"Sözcü Son Dakika": "2026-10-25T06:10:51+00:00",
-"Yeni Şafak Yerel": "2026-10-25T06:09:06+00:00",
+"Sözcü Son Dakika": "2026-10-25T06:38:06+00:00",
+"Yeni Şafak Yerel": "2026-10-25T06:36:41+00:00",
 "X / Twitter Türkiye": "2026-10-25T06:19:15.678642+00:00",
 "Olay (Bursa)": "2026-10-25T03:12:44+00:00",
 "@islamasalya": "2026-10-24T19:43:20+00:00",
-"Yeni Asır (İzmir)": "2026-10-25T05:46:37+00:00",
-"İstanbul Gazetesi": "2026-10-25T06:06:00+00:00",
+"Yeni Asır (İzmir)": "2026-10-25T06:25:25+00:00",
+"İstanbul Gazetesi": "2026-10-25T06:31:00+00:00",
 "Kandilli Rasathanesi": "2026-10-24T17:34:48+00:00"
 }
 }
