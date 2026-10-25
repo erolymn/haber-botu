@@ -1095,32 +1095,11 @@
 "5e444d1cb10f8343",
 "c2ff082e558b1bca",
 "2ef3d1f364442d12",
-"f320e809a6674548"
+"f320e809a6674548",
+"357e2879b63991dd",
+"ede0346bdd14f6f7"
 ],
 "imzalar": [
-[
-"biya",
-"diline",
-"dustu",
-"kamerun",
-"kendi",
-"lideri",
-"medyanin",
-"paul",
-"resmi",
-"sosyal",
-"ulkesine",
-"ziyaret"
-],
-[
-"aklama",
-"ankara",
-"kapsaminda",
-"kara",
-"operasyon",
-"para",
-"sorusturmasi"
-],
 [
 "2026",
 "adaylari",
@@ -6917,15 +6896,26 @@
 "yaklasik",
 "yeni",
 "yillik"
+],
+[
+"basrolde",
+"katil"
+],
+[
+"feci",
+"kaza",
+"nda",
+"otoyolu",
+"tem"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-24T23:34:00+00:00",
-"Sonsöz (Ankara)": "2026-10-25T00:28:00+00:00",
+"Sonsöz (Ankara)": "2026-10-25T01:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-24T18:53:16+00:00",
 "Sözcü Son Dakika": "2026-10-24T22:18:13+00:00",
-"Yeni Şafak Yerel": "2026-10-24T21:46:12+00:00",
+"Yeni Şafak Yerel": "2026-10-25T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-10-25T00:18:45.096979+00:00",
 "Olay (Bursa)": "2026-10-24T19:38:34+00:00",
 "@islamasalya": "2026-10-24T19:43:20+00:00",
