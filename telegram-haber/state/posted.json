@@ -1103,22 +1103,11 @@
 "c1eafec1f6f78e9c",
 "96c3c5dade6aa62e",
 "bb9045abcc67ce89",
-"3d402dc1167573a0"
+"3d402dc1167573a0",
+"c7ecca44413feb15",
+"f95775314a916e63"
 ],
 "imzalar": [
-[
-"alternatif",
-"bazi",
-"guzerg",
-"hafta",
-"hlar",
-"istanbul",
-"iste",
-"kapatilacak",
-"sonu",
-"trafige",
-"yollar"
-],
 [
 "chp",
 "kalesinden",
@@ -6918,6 +6907,15 @@
 "olduruldugunu",
 "ordusu",
 "yemen"
+],
+[
+"bursaspor",
+"dev",
+"dikkat",
+"ekran",
+"gidemeyenler",
+"macina",
+"meydana"
 ]
 ],
 "son_tarih": {
@@ -6927,8 +6925,8 @@
 "Mynet Son Dakika": "2026-10-24T18:53:16+00:00",
 "Sözcü Son Dakika": "2026-10-25T02:30:29+00:00",
 "Yeni Şafak Yerel": "2026-10-25T01:00:00+00:00",
-"X / Twitter Türkiye": "2026-10-25T00:18:45.096979+00:00",
-"Olay (Bursa)": "2026-10-25T02:17:54+00:00",
+"X / Twitter Türkiye": "2026-10-25T03:19:13.812809+00:00",
+"Olay (Bursa)": "2026-10-25T03:12:44+00:00",
 "@islamasalya": "2026-10-24T19:43:20+00:00",
 "Yeni Asır (İzmir)": "2026-10-24T22:19:54+00:00",
 "İstanbul Gazetesi": "2026-10-24T20:26:00+00:00",
