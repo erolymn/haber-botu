@@ -1148,46 +1148,13 @@
 "0ade3976ccd4bd9c",
 "b2f0a38ba4ae74d9",
 "0abe0a3884b50168",
-"49f7874f03dd453c"
+"49f7874f03dd453c",
+"8c4e24d04a5fefc9",
+"f5210eeff623551b",
+"64fa150477a967a3",
+"daa7366de21411ee"
 ],
 "imzalar": [
-[
-"acikladi",
-"akom",
-"hafta",
-"hava",
-"istanbul",
-"nasil",
-"olacak",
-"sonu"
-],
-[
-"bursa",
-"buyuk",
-"calisma",
-"sokak"
-],
-[
-"bowling",
-"genc",
-"kadinin",
-"korkunc",
-"olumu",
-"salonunda"
-],
-[
-"ceviren",
-"derbi",
-"elinde",
-"futbolcudan",
-"karar",
-"oncesi",
-"paylasti",
-"saclarini",
-"saskina",
-"tutarak",
-"yildiz"
-],
 [
 "altust",
 "avrupa",
@@ -6998,19 +6965,72 @@
 "rafet",
 "roman",
 "sasirdi"
+],
+[
+"araniyor",
+"balikesir",
+"batan",
+"doktor",
+"kaybolan",
+"teknede"
+],
+[
+"antalya",
+"atesi",
+"binlerce",
+"daginda",
+"devam",
+"ediyor",
+"efsanesi",
+"gizemli",
+"gorsel",
+"ilk",
+"nin",
+"olimpiyat",
+"solen",
+"sonmuyor",
+"yildir"
+],
+[
+"adeta",
+"gelecek",
+"gibi",
+"gidilir",
+"hafta",
+"huzur",
+"ilac",
+"ilceleri",
+"izmir",
+"nereye",
+"sonu",
+"veren"
+],
+[
+"aldi",
+"araba",
+"cikti",
+"ikramiye",
+"iscinin",
+"isciye",
+"karar",
+"maasi",
+"mahkemeden",
+"sandi",
+"tek",
+"yatti"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-25T07:07:00+00:00",
+"Haber Global": "2026-10-25T07:26:00+00:00",
 "Sonsöz (Ankara)": "2026-10-25T07:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-25T04:51:36+00:00",
-"Sözcü Son Dakika": "2026-10-25T07:16:43+00:00",
-"Yeni Şafak Yerel": "2026-10-25T07:11:05+00:00",
+"Sözcü Son Dakika": "2026-10-25T07:37:53+00:00",
+"Yeni Şafak Yerel": "2026-10-25T07:30:34+00:00",
 "X / Twitter Türkiye": "2026-10-25T06:19:15.678642+00:00",
 "Olay (Bursa)": "2026-10-25T06:55:06+00:00",
 "@islamasalya": "2026-10-24T19:43:20+00:00",
-"Yeni Asır (İzmir)": "2026-10-25T07:12:50+00:00",
+"Yeni Asır (İzmir)": "2026-10-25T07:36:27+00:00",
 "İstanbul Gazetesi": "2026-10-25T06:45:00+00:00",
 "Kandilli Rasathanesi": "2026-10-24T17:34:48+00:00"
 }
