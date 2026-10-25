@@ -1326,44 +1326,12 @@
 "cc3955b14b0b63b4",
 "a4127d1e0f0a9669",
 "786499b46eda4790",
-"19bedc8ea6fe95e1"
+"19bedc8ea6fe95e1",
+"44db8db1b99edede",
+"c9ac36c0707d2cbd",
+"96641a73f31c3cdd"
 ],
 "imzalar": [
-[
-"aldirma",
-"ameliyati",
-"bitti",
-"faciayla",
-"istanbul",
-"yag"
-],
-[
-"abd",
-"arasindaki",
-"asiliyor",
-"bakani",
-"bolat",
-"dolar",
-"hacminde",
-"milyar",
-"paylasti",
-"rakamlari",
-"siniri",
-"ticaret",
-"turkiye",
-"yeni"
-],
-[
-"binlerce",
-"bursa",
-"gectigi",
-"gun",
-"her",
-"kapatiliyor",
-"kisinin",
-"trafige",
-"yol"
-],
 [
 "ani",
 "binanin",
@@ -7231,20 +7199,45 @@
 "rapciden",
 "sahnede",
 "tarihi"
+],
+[
+"bazi",
+"bekleniyor",
+"illerde",
+"meteoroloji",
+"saganak",
+"siddetli",
+"uyardi"
+],
+[
+"burak",
+"canlari",
+"olsun",
+"oyuncularimin",
+"sag",
+"yilmaz"
+],
+[
+"bagladi",
+"bireysel",
+"burak",
+"hatalara",
+"maglubiyeti",
+"yilmaz"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-25T18:45:00+00:00",
+"Haber Global": "2026-10-25T19:09:00+00:00",
 "Sonsöz (Ankara)": "2026-10-25T18:26:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-25T04:51:36+00:00",
-"Sözcü Son Dakika": "2026-10-25T18:21:16+00:00",
+"Sözcü Son Dakika": "2026-10-25T19:14:13+00:00",
 "Yeni Şafak Yerel": "2026-10-25T18:55:43+00:00",
 "X / Twitter Türkiye": "2026-10-25T18:00:26.641461+00:00",
 "Olay (Bursa)": "2026-10-25T18:52:13+00:00",
 "@islamasalya": "2026-10-25T17:45:17+00:00",
 "Yeni Asır (İzmir)": "2026-10-25T18:09:55+00:00",
-"İstanbul Gazetesi": "2026-10-25T18:32:00+00:00",
+"İstanbul Gazetesi": "2026-10-25T18:49:00+00:00",
 "Kandilli Rasathanesi": "2026-10-24T17:34:48+00:00"
 }
 }
