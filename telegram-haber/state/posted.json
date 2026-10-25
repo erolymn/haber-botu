@@ -1338,26 +1338,11 @@
 "523320eb2acf87e7",
 "47965e437b4c4c95",
 "1f11a29269416831",
-"d12a9edb7c9e65be"
+"d12a9edb7c9e65be",
+"d7cd254dc1f92d3a",
+"ae44d01d4d734870"
 ],
 "imzalar": [
-[
-"egitimi",
-"guclu",
-"kadin",
-"suruculere",
-"yenimahalle",
-"yol"
-],
-[
-"dolandirilmayin",
-"duzenlemesi",
-"kapilip",
-"medyada",
-"sosyal",
-"uyarisina",
-"yas"
-],
 [
 "arasinda",
 "devre",
@@ -7241,15 +7226,30 @@
 "uyari",
 "verildi",
 "yola"
+],
+[
+"farkli",
+"fenerbahce",
+"galatasaray",
+"kazandi"
+],
+[
+"devrildi",
+"dort",
+"eskisehir",
+"kamyonet",
+"marul",
+"ton",
+"yuklu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-25T19:35:00+00:00",
+"Haber Global": "2026-10-25T20:04:00+00:00",
 "Sonsöz (Ankara)": "2026-10-25T19:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-25T04:51:36+00:00",
 "Sözcü Son Dakika": "2026-10-25T19:49:32+00:00",
-"Yeni Şafak Yerel": "2026-10-25T20:00:23+00:00",
+"Yeni Şafak Yerel": "2026-10-25T20:17:52+00:00",
 "X / Twitter Türkiye": "2026-10-25T18:00:26.641461+00:00",
 "Olay (Bursa)": "2026-10-25T19:21:29+00:00",
 "@islamasalya": "2026-10-25T17:45:17+00:00",
