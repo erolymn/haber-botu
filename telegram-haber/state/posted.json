@@ -1592,45 +1592,13 @@
 "fd71dba46dd4a5bd",
 "85a272777e647422",
 "cc20564f57b71072",
-"d9a448542d696ad8"
+"d9a448542d696ad8",
+"5b45f0583e1b3e44",
+"c79cf8159ff8faf2",
+"c1e11cb76ea7b647",
+"279ce3c735744a05"
 ],
 "imzalar": [
-[
-"694",
-"dunyanin",
-"elementler",
-"ilinde",
-"milyon",
-"nin",
-"oldugu",
-"pesinde",
-"rezerv",
-"ton",
-"turkiye"
-],
-[
-"akturkoglu",
-"begeni",
-"derbi",
-"gundem",
-"kerem",
-"ndan",
-"oncesi"
-],
-[
-"hayatini",
-"kaybetti",
-"nev",
-"sarkici"
-],
-[
-"hastaligi",
-"kimdir",
-"neden",
-"nev",
-"sarkici",
-"vefat"
-],
 [
 "daltonlar",
 "sorusturmasinda",
@@ -7448,15 +7416,57 @@
 "ogrenci",
 "sozcu",
 "tutuklu"
+],
+[
+"bozmak",
+"cumhurbaskani",
+"deki",
+"erdogan",
+"firsat",
+"guven",
+"isteyenlere",
+"ortamini",
+"turkiye",
+"vermeyecegiz"
+],
+[
+"derbisi",
+"fenerbahce",
+"fenerbahceli",
+"galatasaray",
+"stada",
+"taraftarlar",
+"vardi"
+],
+[
+"altindag",
+"cumhuriyet",
+"duzenlendi",
+"tekvando",
+"turnuvasi"
+],
+[
+"arizasi",
+"evlerine",
+"gitmek",
+"istanbul",
+"isteyenler",
+"kaldi",
+"magdur",
+"raylarda",
+"tramvay",
+"vatandasi",
+"yurumek",
+"zorunda"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-26T15:47:00+00:00",
-"Sonsöz (Ankara)": "2026-10-26T15:45:00+00:00",
+"Haber Global": "2026-10-26T16:01:00+00:00",
+"Sonsöz (Ankara)": "2026-10-26T16:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-26T15:24:16+00:00",
-"Sözcü Son Dakika": "2026-10-26T16:02:18+00:00",
-"Yeni Şafak Yerel": "2026-10-26T15:53:18+00:00",
+"Sözcü Son Dakika": "2026-10-26T16:11:36+00:00",
+"Yeni Şafak Yerel": "2026-10-26T16:15:19+00:00",
 "X / Twitter Türkiye": "2026-10-26T15:02:32.290312+00:00",
 "Olay (Bursa)": "2026-10-26T15:49:24+00:00",
 "@islamasalya": "2026-10-26T12:16:19+00:00",
