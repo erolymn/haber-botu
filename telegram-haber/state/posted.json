@@ -1366,30 +1366,11 @@
 "2ea4531c1ce71c79",
 "3fc410478d488ae8",
 "7bb17d063c326eca",
-"0064ec5875cd311a"
+"0064ec5875cd311a",
+"fdc63361178709c8",
+"1fbfe6f8f1a2c44a"
 ],
 "imzalar": [
-[
-"cikti",
-"davasinda",
-"dort",
-"karar",
-"marti",
-"suren",
-"tag",
-"yil"
-],
-[
-"atmadan",
-"baslamis",
-"cikti",
-"gercegi",
-"goreve",
-"imzayi",
-"ortaya",
-"sergen",
-"yalcin"
-],
 [
 "375",
 "arac",
@@ -7250,15 +7231,34 @@
 "esenler",
 "katli",
 "yandi"
+],
+[
+"baskanligi",
+"brezilya",
+"devlet",
+"inacio",
+"kazandi",
+"lider",
+"lula",
+"secimini",
+"silva",
+"solcu"
+],
+[
+"bin",
+"bitti",
+"ibb",
+"konut",
+"vermiyor"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-26T00:13:00+00:00",
+"Haber Global": "2026-10-26T00:36:00+00:00",
 "Sonsöz (Ankara)": "2026-10-26T00:25:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-25T21:06:30+00:00",
 "Sözcü Son Dakika": "2026-10-25T22:04:48+00:00",
-"Yeni Şafak Yerel": "2026-10-25T21:59:00+00:00",
+"Yeni Şafak Yerel": "2026-10-26T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-10-26T00:01:19.906792+00:00",
 "Olay (Bursa)": "2026-10-25T21:09:53+00:00",
 "@islamasalya": "2026-10-25T17:45:17+00:00",
