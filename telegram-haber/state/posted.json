@@ -1375,25 +1375,12 @@
 "e141f18e26bfb6b6",
 "e1d1c3a3511cfae0",
 "2e8a136ed8c612ae",
-"c4037ce97cfb1980"
+"c4037ce97cfb1980",
+"290cff8b08896d40",
+"f1487eb3b6bcd100",
+"5a2ee097b8f95a6b"
 ],
 "imzalar": [
-[
-"aglama",
-"aslanlardan",
-"gayrisi",
-"sakin"
-],
-[
-"arttigi",
-"azerbaycan",
-"bahceli",
-"baku",
-"buyukelcisi",
-"donemde",
-"gerilimin",
-"kabul"
-],
 [
 "abd",
 "arasindaki",
@@ -7232,6 +7219,25 @@
 "pazartesi",
 "tarihin",
 "uzun"
+],
+[
+"beslenin",
+"dogru",
+"gec",
+"saatte",
+"yaslanmak"
+],
+[
+"baskan",
+"belediye",
+"biba",
+"bizimle",
+"bursa",
+"buyuksehir",
+"olay",
+"sahin",
+"vekili",
+"yildir"
 ]
 ],
 "son_tarih": {
@@ -7239,10 +7245,10 @@
 "Sonsöz (Ankara)": "2026-10-26T01:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-25T21:06:30+00:00",
-"Sözcü Son Dakika": "2026-10-26T02:30:39+00:00",
+"Sözcü Son Dakika": "2026-10-26T02:50:50+00:00",
 "Yeni Şafak Yerel": "2026-10-26T01:00:00+00:00",
-"X / Twitter Türkiye": "2026-10-26T00:01:19.906792+00:00",
-"Olay (Bursa)": "2026-10-26T02:30:00+00:00",
+"X / Twitter Türkiye": "2026-10-26T03:01:20.701997+00:00",
+"Olay (Bursa)": "2026-10-26T03:00:24+00:00",
 "@islamasalya": "2026-10-25T17:45:17+00:00",
 "Yeni Asır (İzmir)": "2026-10-25T22:09:51+00:00",
 "İstanbul Gazetesi": "2026-10-25T21:20:00+00:00",
