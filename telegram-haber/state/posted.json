@@ -1534,58 +1534,14 @@
 "934c870b5b15f367",
 "1e93070096f68f68",
 "eb47054f8566b547",
-"bcc94e8008e8ea8c"
+"bcc94e8008e8ea8c",
+"4166c41a750a0eae",
+"96be9da668f8433f",
+"2f5a3eadbeaba725",
+"231de130b47df3a2",
+"6be14c40efe74f22"
 ],
 "imzalar": [
-[
-"belli",
-"derbiden",
-"gorusecek",
-"icraati",
-"iki",
-"ilk",
-"sergen",
-"yalcin",
-"yildizla"
-],
-[
-"baglandi",
-"besiktas",
-"cikti",
-"eli",
-"italiano",
-"kolu",
-"kriz",
-"nun"
-],
-[
-"cezaevine",
-"gonderildi",
-"kardeslerin",
-"kisi",
-"sarigul",
-"sorusturmada",
-"tutuklandigi"
-],
-[
-"gelisme",
-"izmir",
-"kisinin",
-"oldugu",
-"patlamada",
-"saniklar",
-"yargilanacak",
-"yeni",
-"yeniden"
-],
-[
-"diyanet",
-"korkutan",
-"kultur",
-"merkezinde",
-"vakfi",
-"yangin"
-],
 [
 "540",
 "bin",
@@ -7413,17 +7369,66 @@
 "yasaklandigi",
 "yaslanmasinin",
 "yer"
+],
+[
+"baskin",
+"borekciye",
+"cikinca",
+"gercek",
+"maltepe",
+"muhurlendi",
+"ortaya"
+],
+[
+"burundu",
+"gitmeyin",
+"kiyilar",
+"plaja",
+"siyaha",
+"uyarilari",
+"yapiliyor"
+],
+[
+"bakin",
+"belli",
+"cayi",
+"caylari",
+"dunyanin",
+"herkes",
+"iyi",
+"kacinci",
+"onu",
+"secti",
+"sirada",
+"turk"
+],
+[
+"duyurdu",
+"komisyon",
+"kurtulmus",
+"kuruluyor",
+"terorsuz",
+"turkiye",
+"yeni"
+],
+[
+"arac",
+"bitti",
+"cinayetle",
+"etme",
+"kavgasi",
+"park"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-26T12:12:00+00:00",
-"Sonsöz (Ankara)": "2026-10-26T12:20:00+00:00",
+"Haber Global": "2026-10-26T12:36:00+00:00",
+"Sonsöz (Ankara)": "2026-10-26T12:39:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-26T11:32:15+00:00",
-"Sözcü Son Dakika": "2026-10-26T12:20:50+00:00",
-"Yeni Şafak Yerel": "2026-10-26T12:19:17+00:00",
+"Sözcü Son Dakika": "2026-10-26T12:38:14+00:00",
+"Yeni Şafak Yerel": "2026-10-26T12:38:20+00:00",
 "X / Twitter Türkiye": "2026-10-26T12:02:28.681457+00:00",
-"Olay (Bursa)": "2026-10-26T12:20:06+00:00",
+"Olay (Bursa)": "2026-10-26T12:39:44+00:00",
 "@islamasalya": "2026-10-26T12:16:19+00:00",
 "Yeni Asır (İzmir)": "2026-10-26T11:48:07+00:00",
 "İstanbul Gazetesi": "2026-10-26T12:11:00+00:00",
