@@ -1579,53 +1579,14 @@
 "c0defcdf2d418263",
 "55cf0ff7f896f31c",
 "14b4c3a902dfa90d",
-"16f4790b232b3158"
+"16f4790b232b3158",
+"c685e9885dab866f",
+"25081a3db9892d67",
+"b5ed24fd6be0929a",
+"c9333955a00b7c73",
+"7a2034da32e8f6b5"
 ],
 "imzalar": [
-[
-"cumhurbaskani",
-"erdogan",
-"firsat",
-"kimliksizlestirme",
-"siyasetine",
-"vermedik",
-"vermeyecegiz"
-],
-[
-"eyupspor",
-"gecti",
-"golle",
-"kasimpasa",
-"tek"
-],
-[
-"buldu",
-"buyuk",
-"cekmisti",
-"marketteki",
-"tepki",
-"uygulama"
-],
-[
-"duragi",
-"festivali",
-"izmir",
-"kultur",
-"nin",
-"uncu",
-"yolu"
-],
-[
-"carsafla",
-"dustu",
-"eve",
-"genc",
-"kacarken",
-"kattan",
-"kilitlenen",
-"kiz",
-"uncu"
-],
 [
 "brezilya",
 "dibine",
@@ -7443,20 +7404,68 @@
 "ogretmen",
 "raporunda",
 "vurgusu"
+],
+[
+"aldas",
+"antalya",
+"basladi",
+"belediyesi",
+"buyuksehir",
+"davasi",
+"sirketi"
+],
+[
+"derbi",
+"istanbul",
+"oncesi",
+"trafik",
+"ulasti",
+"yogunlugu",
+"yuzde"
+],
+[
+"belli",
+"dunya",
+"filenin",
+"kupasi",
+"nin",
+"rakipleri",
+"sultanlari"
+],
+[
+"araci",
+"artik",
+"bunu",
+"bursa",
+"edildi",
+"hava",
+"insansiz",
+"test",
+"yapacak"
+],
+[
+"itfaiye",
+"kafasi",
+"kayseri",
+"kediyi",
+"konserve",
+"kurtardi",
+"kutusuna",
+"sikisan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-26T15:04:00+00:00",
+"Haber Global": "2026-10-26T15:15:00+00:00",
 "Sonsöz (Ankara)": "2026-10-26T14:47:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-26T11:32:15+00:00",
-"Sözcü Son Dakika": "2026-10-26T14:59:40+00:00",
-"Yeni Şafak Yerel": "2026-10-26T15:16:30+00:00",
+"Sözcü Son Dakika": "2026-10-26T15:29:35+00:00",
+"Yeni Şafak Yerel": "2026-10-26T15:41:04+00:00",
 "X / Twitter Türkiye": "2026-10-26T15:02:32.290312+00:00",
-"Olay (Bursa)": "2026-10-26T14:56:08+00:00",
+"Olay (Bursa)": "2026-10-26T15:34:30+00:00",
 "@islamasalya": "2026-10-26T12:16:19+00:00",
 "Yeni Asır (İzmir)": "2026-10-26T15:15:00+00:00",
-"İstanbul Gazetesi": "2026-10-26T14:46:00+00:00",
+"İstanbul Gazetesi": "2026-10-26T15:28:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
 }
