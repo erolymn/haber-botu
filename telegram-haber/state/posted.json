@@ -1380,53 +1380,13 @@
 "f1487eb3b6bcd100",
 "5a2ee097b8f95a6b",
 "a1d6c85912f6eb48",
-"5600b0b76b1e7cd2"
+"5600b0b76b1e7cd2",
+"a7d00af7bdd29596",
+"e6c03e218476714d",
+"e00618f1533d8a77",
+"7b5cd54784550285"
 ],
 "imzalar": [
-[
-"ezeli",
-"futbolcu",
-"iki",
-"karsi",
-"karsiya",
-"lig",
-"rakip",
-"rus",
-"super"
-],
-[
-"almanya",
-"avrupa",
-"dustu",
-"gonderilecek",
-"hollanda",
-"kaliyordu",
-"kapis",
-"pesine",
-"satiliyor",
-"simdi",
-"tarlada"
-],
-[
-"aslanov",
-"azerbaycan",
-"bahceli",
-"buyukelcisi",
-"devlet",
-"lideri",
-"mhp",
-"resad",
-"ziyaret"
-],
-[
-"ankara",
-"fuhus",
-"gozalti",
-"ilde",
-"merkezli",
-"mustehcenlik",
-"operasyonu"
-],
 [
 "anlar",
 "birden",
@@ -7236,14 +7196,52 @@
 "mustafa",
 "teknik",
 "zaman"
+],
+[
+"bolsonaro",
+"brezilya",
+"dan",
+"itiraz",
+"kazandi",
+"lula",
+"secimi",
+"silva",
+"tarihi",
+"zafer"
+],
+[
+"baslik",
+"gundemle",
+"kabine",
+"kritik",
+"masada",
+"toplaniyor",
+"yogun"
+],
+[
+"bestepe",
+"bugun",
+"gozler",
+"kabine",
+"toplaniyor"
+],
+[
+"bolsonaro",
+"edecek",
+"flavio",
+"iptal",
+"secim",
+"sonuclarini",
+"talep",
+"tanimadi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-26T02:09:00+00:00",
-"Sonsöz (Ankara)": "2026-10-26T01:12:00+00:00",
+"Haber Global": "2026-10-26T03:30:00+00:00",
+"Sonsöz (Ankara)": "2026-10-26T03:35:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-10-25T21:06:30+00:00",
-"Sözcü Son Dakika": "2026-10-26T03:10:27+00:00",
+"Mynet Son Dakika": "2026-10-26T03:20:20+00:00",
+"Sözcü Son Dakika": "2026-10-26T03:37:25+00:00",
 "Yeni Şafak Yerel": "2026-10-26T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-10-26T03:01:20.701997+00:00",
 "Olay (Bursa)": "2026-10-26T03:13:24+00:00",
