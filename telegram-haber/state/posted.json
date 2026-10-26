@@ -1365,18 +1365,10 @@
 "08be55d5b1a89a23",
 "2ea4531c1ce71c79",
 "3fc410478d488ae8",
-"7bb17d063c326eca"
+"7bb17d063c326eca",
+"0064ec5875cd311a"
 ],
 "imzalar": [
-[
-"akturkoglu",
-"belirleyecek",
-"derbisi",
-"galatasaray",
-"kaderini",
-"kerem",
-"sans"
-],
 [
 "cikti",
 "davasinda",
@@ -7251,11 +7243,18 @@
 "tan",
 "trump",
 "yasa"
+],
+[
+"alev",
+"bina",
+"esenler",
+"katli",
+"yandi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-26T00:13:00+00:00",
-"Sonsöz (Ankara)": "2026-10-25T23:05:00+00:00",
+"Sonsöz (Ankara)": "2026-10-26T00:25:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-25T21:06:30+00:00",
 "Sözcü Son Dakika": "2026-10-25T22:04:48+00:00",
