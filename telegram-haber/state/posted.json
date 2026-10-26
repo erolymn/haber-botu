@@ -1658,16 +1658,10 @@
 "ff872f088740d355",
 "ca437c0cb64175ef",
 "defb256073a36a3b",
-"fb5bbfffc4661939"
+"fb5bbfffc4661939",
+"c313dfb12d54cd77"
 ],
 "imzalar": [
-[
-"hapsi",
-"ogrenciye",
-"satisina",
-"tespih",
-"zorla"
-],
 [
 "gunde",
 "kagithane",
@@ -7522,6 +7516,16 @@
 "memis",
 "yukselecegini",
 "zaman"
+],
+[
+"antalya",
+"hortum",
+"iscilerin",
+"kaldigi",
+"konteyneri",
+"olu",
+"savurdu",
+"yarali"
 ]
 ],
 "son_tarih": {
@@ -7535,7 +7539,7 @@
 "Olay (Bursa)": "2026-10-26T21:30:50+00:00",
 "@islamasalya": "2026-10-26T12:16:19+00:00",
 "Yeni Asır (İzmir)": "2026-10-26T16:04:23+00:00",
-"İstanbul Gazetesi": "2026-10-26T21:02:00+00:00",
+"İstanbul Gazetesi": "2026-10-26T22:22:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
 }
