@@ -1651,46 +1651,13 @@
 "b2596200c281707f",
 "548e448bf6e5abd1",
 "b87114fc374291fc",
-"518918186f49646e"
+"518918186f49646e",
+"467b736ca7734563",
+"a56ace3b69b74185",
+"925fce9a5fad978a",
+"ff872f088740d355"
 ],
 "imzalar": [
-[
-"boyle",
-"bulandiran",
-"engellendi",
-"incir",
-"izmir",
-"mide",
-"tuzagi",
-"vatandasi",
-"zehirleyeceklerdi"
-],
-[
-"ankara",
-"dusuyor",
-"geliyor",
-"sicaklik",
-"yagmur"
-],
-[
-"arsenal",
-"city",
-"everton",
-"manchester",
-"yakaladi",
-"yenerek"
-],
-[
-"bursaspor",
-"dan",
-"ekibinde",
-"gitti",
-"harikalar",
-"lig",
-"sekilde",
-"surpriz",
-"yaratiyor"
-],
 [
 "den",
 "derbisi",
@@ -7526,17 +7493,51 @@
 "odemeler",
 "yururluge",
 "zaman"
+],
+[
+"bursaspor",
+"durdurulamayan",
+"krali",
+"yapacagini",
+"yapti",
+"yine"
+],
+[
+"amedspor",
+"buruk",
+"dilerim",
+"okan",
+"ozur",
+"unuttum"
+],
+[
+"buruk",
+"derbi",
+"diledi",
+"okan",
+"ozur",
+"sonrasi",
+"takimdan"
+],
+[
+"fuhsa",
+"ilde",
+"mustehcenlik",
+"operasyonu",
+"tesvik",
+"tutuklama",
+"yedi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-26T21:14:00+00:00",
+"Haber Global": "2026-10-26T21:31:00+00:00",
 "Sonsöz (Ankara)": "2026-10-26T20:31:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-26T18:00:06+00:00",
-"Sözcü Son Dakika": "2026-10-26T21:22:02+00:00",
-"Yeni Şafak Yerel": "2026-10-26T21:18:01+00:00",
+"Sözcü Son Dakika": "2026-10-26T21:39:15+00:00",
+"Yeni Şafak Yerel": "2026-10-26T21:42:11+00:00",
 "X / Twitter Türkiye": "2026-10-26T21:03:11.060776+00:00",
-"Olay (Bursa)": "2026-10-26T21:06:41+00:00",
+"Olay (Bursa)": "2026-10-26T21:30:50+00:00",
 "@islamasalya": "2026-10-26T12:16:19+00:00",
 "Yeni Asır (İzmir)": "2026-10-26T16:04:23+00:00",
 "İstanbul Gazetesi": "2026-10-26T21:02:00+00:00",
