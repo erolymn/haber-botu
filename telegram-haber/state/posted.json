@@ -1560,56 +1560,14 @@
 "1269506153a732c3",
 "0863cd584f82315e",
 "a8042f993b70b9ef",
-"26839cd704fbe3fb"
+"26839cd704fbe3fb",
+"6b488f5a8e49b11e",
+"79ab9445a4eff621",
+"65774cdcea308f29",
+"1cdaef82c9e22088",
+"4e54522b9604e229"
 ],
 "imzalar": [
-[
-"alien",
-"gun",
-"hayatini",
-"kaybetti",
-"oyuncu",
-"skerritt",
-"taninan",
-"tom",
-"top",
-"usta"
-],
-[
-"1326",
-"anlamli",
-"bursa",
-"fetih",
-"muzesi",
-"nde",
-"sergi"
-],
-[
-"bin",
-"birlesti",
-"calistiramiyor",
-"dev",
-"makine",
-"tonluk",
-"ulke",
-"yapti"
-],
-[
-"altinbas",
-"holding",
-"nusret",
-"patronu",
-"teslim"
-],
-[
-"anildi",
-"basinda",
-"efsanesi",
-"kadir",
-"mezari",
-"ozcan",
-"trabzonspor"
-],
 [
 "cakmak",
 "fon",
@@ -7423,17 +7381,58 @@
 "kadin",
 "muhtarlari",
 "nilufer"
+],
+[
+"basladi",
+"gorusmesi",
+"iran",
+"ittifaki",
+"mekke",
+"uyeleri"
+],
+[
+"altin",
+"durum",
+"fiyatlarinda"
+],
+[
+"barisik",
+"cumhuriyet",
+"demokrasiyle",
+"olmalidir",
+"sezai",
+"temelli"
+],
+[
+"catidan",
+"cikti",
+"duserek",
+"fotografi",
+"kadinin",
+"olen",
+"ortaya",
+"sisli"
+],
+[
+"artik",
+"futbolcular",
+"karar",
+"kuralinda",
+"sayilacak",
+"tarihi",
+"yabanci",
+"yerli"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-26T13:54:00+00:00",
-"Sonsöz (Ankara)": "2026-10-26T13:25:00+00:00",
+"Haber Global": "2026-10-26T14:04:00+00:00",
+"Sonsöz (Ankara)": "2026-10-26T14:16:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-26T11:32:15+00:00",
-"Sözcü Son Dakika": "2026-10-26T13:59:45+00:00",
-"Yeni Şafak Yerel": "2026-10-26T13:58:40+00:00",
+"Sözcü Son Dakika": "2026-10-26T14:16:48+00:00",
+"Yeni Şafak Yerel": "2026-10-26T14:16:50+00:00",
 "X / Twitter Türkiye": "2026-10-26T12:02:28.681457+00:00",
-"Olay (Bursa)": "2026-10-26T14:02:11+00:00",
+"Olay (Bursa)": "2026-10-26T14:09:57+00:00",
 "@islamasalya": "2026-10-26T12:16:19+00:00",
 "Yeni Asır (İzmir)": "2026-10-26T13:37:10+00:00",
 "İstanbul Gazetesi": "2026-10-26T13:25:00+00:00",
