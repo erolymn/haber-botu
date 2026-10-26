@@ -1480,62 +1480,14 @@
 "8133e20be78f3bfa",
 "ca1db2baf4ce69ac",
 "c6ee8cddc569768e",
-"6131e26e5696d512"
+"6131e26e5696d512",
+"2cef942ab7562c96",
+"a45c64baab8bb5f5",
+"5085a57a684cd7cd",
+"6d34f61c0122285a",
+"adf64fa2d2b96a47"
 ],
 "imzalar": [
-[
-"cikti",
-"kayipti",
-"kazi",
-"ortaya",
-"sonrasi",
-"supheli",
-"vahset",
-"yangin",
-"yapildi",
-"yildir"
-],
-[
-"arac",
-"dolandiricilik",
-"kiralama",
-"sahte",
-"siteleriyle",
-"tutuklama"
-],
-[
-"250",
-"akilalmaz",
-"cezasiyla",
-"ciragi",
-"hapis",
-"hatay",
-"iban",
-"kadar",
-"karsi",
-"karsiya",
-"marangoz",
-"tuzagi",
-"yila"
-],
-[
-"alperen",
-"houston",
-"kazandi",
-"rockets",
-"sengun",
-"yildizlasti"
-],
-[
-"degisti",
-"evini",
-"fiyata",
-"insani",
-"milyarder",
-"planlar",
-"rekor",
-"satiyor"
-],
 [
 "manzaralari",
 "sonbahar",
@@ -7350,17 +7302,60 @@
 "stok",
 "uyarilarindan",
 "yapin"
+],
+[
+"acikladi",
+"durumunu",
+"gunluk",
+"hava",
+"meteoroloji",
+"saganak",
+"sariyor",
+"yurdu"
+],
+[
+"askeri",
+"can",
+"carpisti",
+"kaybi",
+"malzeme",
+"tasiyan",
+"tir",
+"traktorle",
+"yarali"
+],
+[
+"den",
+"karari",
+"satis",
+"sirket",
+"tmsf"
+],
+[
+"iran",
+"niyetimiz",
+"once",
+"saldirma",
+"secimlerden"
+],
+[
+"ceken",
+"dikkat",
+"kazalarini",
+"oneri",
+"onlemek",
+"otobus"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-26T09:36:00+00:00",
-"Sonsöz (Ankara)": "2026-10-26T09:23:00+00:00",
+"Haber Global": "2026-10-26T09:39:00+00:00",
+"Sonsöz (Ankara)": "2026-10-26T10:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-26T08:52:00+00:00",
-"Sözcü Son Dakika": "2026-10-26T09:41:27+00:00",
-"Yeni Şafak Yerel": "2026-10-26T09:37:20+00:00",
+"Sözcü Son Dakika": "2026-10-26T09:51:24+00:00",
+"Yeni Şafak Yerel": "2026-10-26T09:48:00+00:00",
 "X / Twitter Türkiye": "2026-10-26T09:01:48.335242+00:00",
-"Olay (Bursa)": "2026-10-26T09:29:38+00:00",
+"Olay (Bursa)": "2026-10-26T10:01:33+00:00",
 "@islamasalya": "2026-10-25T17:45:17+00:00",
 "Yeni Asır (İzmir)": "2026-10-26T09:23:40+00:00",
 "İstanbul Gazetesi": "2026-10-26T09:36:00+00:00",
