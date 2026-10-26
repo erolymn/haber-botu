@@ -1616,45 +1616,13 @@
 "551700bebf70ffad",
 "2a4ea10d05fae7e3",
 "db7cfffef7a36ae8",
-"c4b6a47901c44358"
+"c4b6a47901c44358",
+"ef24ce2f40096071",
+"bef1487105111f47",
+"90823f0b1deb3f13",
+"25fe146faa25804a"
 ],
 "imzalar": [
-[
-"besiktas",
-"dorduncu",
-"formasi",
-"tanitildi"
-],
-[
-"arabaci",
-"coskun",
-"davasinda",
-"karar",
-"necati",
-"orgutu",
-"suc"
-],
-[
-"ceken",
-"cikti",
-"dikkat",
-"girdikten",
-"lig",
-"macinda",
-"oyuna",
-"super"
-],
-[
-"bulundu",
-"evi",
-"kadinin",
-"kayip",
-"kazida",
-"kemikler",
-"kundaklandi",
-"yapilan",
-"yildir"
-],
 [
 "basladi",
 "bin",
@@ -7485,20 +7453,59 @@
 "yayinda",
 "yeni",
 "yukselisi"
+],
+[
+"baskani",
+"cete",
+"daire",
+"erman",
+"eski",
+"spk",
+"tutuklandi"
+],
+[
+"bulunmamistir",
+"degildir",
+"edilecek",
+"sokaga",
+"sokakta",
+"teslim",
+"turkiye",
+"ulke"
+],
+[
+"antalya",
+"dagcilari",
+"devrildi",
+"minibus",
+"sarampole",
+"sayida",
+"tasiyan",
+"yarali"
+],
+[
+"cekti",
+"dan",
+"fenerbahcelileri",
+"galatasaray",
+"gonderme",
+"kizdiran",
+"taraftarlarin",
+"tepkisini"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-26T17:53:00+00:00",
+"Haber Global": "2026-10-26T18:21:00+00:00",
 "Sonsöz (Ankara)": "2026-10-26T17:56:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-26T18:00:06+00:00",
-"Sözcü Son Dakika": "2026-10-26T17:53:44+00:00",
-"Yeni Şafak Yerel": "2026-10-26T18:00:15+00:00",
+"Sözcü Son Dakika": "2026-10-26T18:11:37+00:00",
+"Yeni Şafak Yerel": "2026-10-26T18:21:07+00:00",
 "X / Twitter Türkiye": "2026-10-26T18:03:08.813565+00:00",
 "Olay (Bursa)": "2026-10-26T15:49:24+00:00",
 "@islamasalya": "2026-10-26T12:16:19+00:00",
 "Yeni Asır (İzmir)": "2026-10-26T16:04:23+00:00",
-"İstanbul Gazetesi": "2026-10-26T16:41:00+00:00",
+"İstanbul Gazetesi": "2026-10-26T18:21:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
 }
