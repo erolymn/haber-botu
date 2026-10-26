@@ -1661,25 +1661,11 @@
 "fb5bbfffc4661939",
 "c313dfb12d54cd77",
 "1fe388a01d24bc7a",
-"970214cd6e1f7dd4"
+"970214cd6e1f7dd4",
+"bc9ac9ff5844dfe7",
+"2b7a69a61cf3cafb"
 ],
 "imzalar": [
-[
-"afad",
-"buyuklugu",
-"deprem",
-"duyurdu",
-"korkutan",
-"mugla"
-],
-[
-"amedspor",
-"fazlasiyla",
-"lider",
-"lig",
-"mac",
-"super"
-],
 [
 "aldi",
 "balistik",
@@ -7532,14 +7518,28 @@
 "hep",
 "kurum",
 "sahadayiz"
+],
+[
+"antalya",
+"faciasi",
+"hayatini",
+"hortum",
+"isci",
+"kaybetti",
+"yaralandi"
+],
+[
+"kayseri",
+"kursunlandi",
+"yeri"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-26T21:53:00+00:00",
-"Sonsöz (Ankara)": "2026-10-26T20:31:00+00:00",
+"Sonsöz (Ankara)": "2026-10-26T23:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-26T18:00:06+00:00",
-"Sözcü Son Dakika": "2026-10-26T22:22:18+00:00",
+"Sözcü Son Dakika": "2026-10-26T22:56:49+00:00",
 "Yeni Şafak Yerel": "2026-10-26T21:45:05+00:00",
 "X / Twitter Türkiye": "2026-10-26T21:03:11.060776+00:00",
 "Olay (Bursa)": "2026-10-26T21:30:50+00:00",
