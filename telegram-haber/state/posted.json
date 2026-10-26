@@ -1647,49 +1647,13 @@
 "2f332c8ebab6dfc5",
 "4a4d65d1dd73bf1a",
 "bb08521172790b76",
-"b404fea7d410c5cf"
+"b404fea7d410c5cf",
+"b2596200c281707f",
+"548e448bf6e5abd1",
+"b87114fc374291fc",
+"518918186f49646e"
 ],
 "imzalar": [
-[
-"2026",
-"2027",
-"ara",
-"basladi",
-"geri",
-"iste",
-"kasim",
-"meb",
-"sayim",
-"takvimi",
-"tatil",
-"tatili"
-],
-[
-"cikti",
-"dunya",
-"finale",
-"guresci",
-"milli",
-"nda",
-"sampiyonasi",
-"saricicek",
-"yuksel"
-],
-[
-"basbakan",
-"danismanina",
-"eski",
-"talebi",
-"tutuklama"
-],
-[
-"agir",
-"catisindan",
-"dusen",
-"insaatin",
-"usta",
-"yaralandi"
-],
 [
 "boyle",
 "bulandiran",
@@ -7524,17 +7488,55 @@
 "minibuse",
 "otomobil",
 "yarali"
+],
+[
+"durum",
+"iste",
+"lig",
+"puan",
+"super",
+"tablosu"
+],
+[
+"fon",
+"gazete",
+"girdi",
+"kanunu",
+"resmi",
+"yayimlanarak",
+"yururluge"
+],
+[
+"duzenleme",
+"edilen",
+"fonlar",
+"gazete",
+"resmi",
+"tasfiye",
+"yasal",
+"yayimlandi",
+"yeni",
+"yururlukte"
+],
+[
+"baslayacak",
+"fon",
+"girdi",
+"kanunu",
+"odemeler",
+"yururluge",
+"zaman"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-26T21:00:00+00:00",
+"Haber Global": "2026-10-26T21:14:00+00:00",
 "Sonsöz (Ankara)": "2026-10-26T20:31:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-26T18:00:06+00:00",
-"Sözcü Son Dakika": "2026-10-26T21:01:25+00:00",
-"Yeni Şafak Yerel": "2026-10-26T20:55:54+00:00",
+"Sözcü Son Dakika": "2026-10-26T21:22:02+00:00",
+"Yeni Şafak Yerel": "2026-10-26T21:18:01+00:00",
 "X / Twitter Türkiye": "2026-10-26T21:03:11.060776+00:00",
-"Olay (Bursa)": "2026-10-26T20:59:41+00:00",
+"Olay (Bursa)": "2026-10-26T21:06:41+00:00",
 "@islamasalya": "2026-10-26T12:16:19+00:00",
 "Yeni Asır (İzmir)": "2026-10-26T16:04:23+00:00",
 "İstanbul Gazetesi": "2026-10-26T21:02:00+00:00",
