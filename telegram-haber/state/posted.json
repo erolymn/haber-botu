@@ -1625,29 +1625,11 @@
 "5327ea73d6ea755b",
 "03770165022074d7",
 "bad6f6ea407dc98f",
-"8f953ab381174072"
+"8f953ab381174072",
+"d2e2672817803ab6",
+"517cb0d64554473b"
 ],
 "imzalar": [
-[
-"dogansoy",
-"hayati",
-"kac",
-"kariyeri",
-"kimdir",
-"nev",
-"nevzat",
-"sarkici",
-"yasindaydi"
-],
-[
-"besiktas",
-"derbi",
-"dev",
-"galatasaray",
-"gozdesine",
-"talip",
-"transferde"
-],
 [
 "faciasi",
 "maden",
@@ -7503,10 +7485,29 @@
 "turk",
 "turkiye",
 "yasaklaniyor"
+],
+[
+"atti",
+"basaksehir",
+"golunu",
+"gyu",
+"hyeon",
+"ilk",
+"lig",
+"super"
+],
+[
+"ankara",
+"basibos",
+"dehseti",
+"halinde",
+"kopek",
+"saldirdilar",
+"suru"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-26T18:21:00+00:00",
+"Haber Global": "2026-10-26T19:18:00+00:00",
 "Sonsöz (Ankara)": "2026-10-26T17:56:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-26T18:00:06+00:00",
@@ -7516,7 +7517,7 @@
 "Olay (Bursa)": "2026-10-26T15:49:24+00:00",
 "@islamasalya": "2026-10-26T12:16:19+00:00",
 "Yeni Asır (İzmir)": "2026-10-26T16:04:23+00:00",
-"İstanbul Gazetesi": "2026-10-26T18:28:00+00:00",
+"İstanbul Gazetesi": "2026-10-26T19:10:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
 }
