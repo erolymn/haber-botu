@@ -1655,44 +1655,12 @@
 "467b736ca7734563",
 "a56ace3b69b74185",
 "925fce9a5fad978a",
-"ff872f088740d355"
+"ff872f088740d355",
+"ca437c0cb64175ef",
+"defb256073a36a3b",
+"fb5bbfffc4661939"
 ],
 "imzalar": [
-[
-"den",
-"derbisi",
-"galatasaray",
-"iddiali",
-"muriqi",
-"oncesi",
-"sozler",
-"vedat"
-],
-[
-"100",
-"210",
-"alici",
-"bekleniyor",
-"bin",
-"buluyor",
-"daglardan",
-"den",
-"gomuyorlar",
-"kilosu",
-"kuyulara",
-"rekolte",
-"tonluk",
-"toplayip"
-],
-[
-"abd",
-"arabistan",
-"den",
-"seyahat",
-"suudi",
-"uyarisi",
-"vatandaslarina"
-],
 [
 "hapsi",
 "ogrenciye",
@@ -7527,15 +7495,42 @@
 "tesvik",
 "tutuklama",
 "yedi"
+],
+[
+"abdulkerim",
+"archie",
+"benzetmesi",
+"brown",
+"dan",
+"kadin",
+"kavgayi",
+"olay",
+"yorumladi"
+],
+[
+"derbi",
+"ismail",
+"kartal",
+"kazanmadan",
+"olabiliriz",
+"sampiyon"
+],
+[
+"acikladi",
+"altinin",
+"islam",
+"memis",
+"yukselecegini",
+"zaman"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-26T21:31:00+00:00",
+"Haber Global": "2026-10-26T21:53:00+00:00",
 "Sonsöz (Ankara)": "2026-10-26T20:31:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-26T18:00:06+00:00",
-"Sözcü Son Dakika": "2026-10-26T21:39:15+00:00",
-"Yeni Şafak Yerel": "2026-10-26T21:42:11+00:00",
+"Sözcü Son Dakika": "2026-10-26T21:52:11+00:00",
+"Yeni Şafak Yerel": "2026-10-26T21:45:05+00:00",
 "X / Twitter Türkiye": "2026-10-26T21:03:11.060776+00:00",
 "Olay (Bursa)": "2026-10-26T21:30:50+00:00",
 "@islamasalya": "2026-10-26T12:16:19+00:00",
