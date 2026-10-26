@@ -1396,28 +1396,11 @@
 "c1c95a2f73baac37",
 "722779dbb4c35c33",
 "947f4fa05b4bd5b2",
-"6a59108d583900de"
+"6a59108d583900de",
+"06d67c6a4a1c9f77",
+"5c65cd170565e4f5"
 ],
 "imzalar": [
-[
-"aciklarinda",
-"azerbaycan",
-"bakanligi",
-"disisleri",
-"gemideki",
-"kurtarildi",
-"romanya",
-"saldiriya",
-"ugrayan",
-"vatandasi"
-],
-[
-"kiliseye",
-"olu",
-"saldiri",
-"sayida",
-"urdun"
-],
 [
 "dev",
 "gidecek",
@@ -7256,14 +7239,36 @@
 "tacizde",
 "takip",
 "yakaladi"
+],
+[
+"abd",
+"buyukelciligi",
+"cagrisi",
+"den",
+"edin",
+"personeline",
+"riyad",
+"terk",
+"ulkeyi"
+],
+[
+"gozden",
+"kacirmak",
+"kalcayi",
+"minaj",
+"nicki",
+"olay",
+"sozleri",
+"trump",
+"zor"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-26T04:52:00+00:00",
+"Haber Global": "2026-10-26T05:08:00+00:00",
 "Sonsöz (Ankara)": "2026-10-26T03:35:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-26T04:02:22+00:00",
-"Sözcü Son Dakika": "2026-10-26T04:58:45+00:00",
+"Sözcü Son Dakika": "2026-10-26T05:18:25+00:00",
 "Yeni Şafak Yerel": "2026-10-26T04:56:39+00:00",
 "X / Twitter Türkiye": "2026-10-26T03:01:20.701997+00:00",
 "Olay (Bursa)": "2026-10-26T03:13:24+00:00",
