@@ -1963,49 +1963,13 @@
 "d87fcab75b7cf97c",
 "6b4da184d6fbd496",
 "16dc1729e96439ad",
-"cb93ff218a1408a1"
+"cb93ff218a1408a1",
+"39a5337e2a199502",
+"cb98f54ec0357794",
+"c001aa1942ac07a0",
+"dbbf409e4bc67c71"
 ],
 "imzalar": [
-[
-"dicle",
-"dondu",
-"iki",
-"kabusa",
-"kalan",
-"keyfi",
-"kisi",
-"kurtarildi",
-"mahsur",
-"piknik"
-],
-[
-"adresi",
-"elestirilmisti",
-"galatasaray",
-"kilolariyla",
-"ndombele",
-"nin",
-"oynarken",
-"sasirtti",
-"yeni"
-],
-[
-"arac",
-"carpisti",
-"hafif",
-"otomobil",
-"samsun",
-"ticari",
-"yarali"
-],
-[
-"kaybetti",
-"kazandi",
-"listesi",
-"ogrenci",
-"secimi",
-"vucic"
-],
 [
 "bursaspor",
 "ismi",
@@ -7776,20 +7740,54 @@
 "ozellik",
 "sezonki",
 "yeni"
+],
+[
+"2115185435076853802",
+"com",
+"https",
+"slamasalya9dwo",
+"status"
+],
+[
+"bingolspor",
+"dan",
+"hayatlarini",
+"joao",
+"koydular",
+"ortaya",
+"ovgu",
+"pereira"
+],
+[
+"atti",
+"belediyesi",
+"chp",
+"kadikoy",
+"lileri",
+"partili",
+"tuvaletin",
+"yanina",
+"yeni"
+],
+[
+"fon",
+"sorusturmasinda",
+"supheli",
+"tutuklandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-27T20:35:00+00:00",
+"Haber Global": "2026-10-27T21:13:00+00:00",
 "Sonsöz (Ankara)": "2026-10-27T20:18:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-27T20:21:10+00:00",
 "Sözcü Son Dakika": "2026-10-27T21:02:40+00:00",
-"Yeni Şafak Yerel": "2026-10-27T20:26:29+00:00",
+"Yeni Şafak Yerel": "2026-10-27T21:20:05+00:00",
 "X / Twitter Türkiye": "2026-10-27T21:05:57.146897+00:00",
 "Olay (Bursa)": "2026-10-27T21:03:46+00:00",
-"@islamasalya": "2026-10-27T19:23:27+00:00",
+"@islamasalya": "2026-10-27T21:10:05+00:00",
 "Yeni Asır (İzmir)": "2026-10-27T17:51:30+00:00",
-"İstanbul Gazetesi": "2026-10-27T19:30:00+00:00",
+"İstanbul Gazetesi": "2026-10-27T21:24:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
 }
