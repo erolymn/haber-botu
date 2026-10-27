@@ -1689,21 +1689,10 @@
 "0f08575f0f45758a",
 "241a0d8b76e113ca",
 "206ddee2cfe23b89",
-"d2eba4b7a55efdc5"
+"d2eba4b7a55efdc5",
+"6c781339f19db93e"
 ],
 "imzalar": [
-[
-"bulundu",
-"cop",
-"halde",
-"iki",
-"katledilmis",
-"kedi",
-"konteynerinin",
-"sakarya",
-"yaninda",
-"yavru"
-],
 [
 "dehseti",
 "kadin",
@@ -7488,6 +7477,17 @@
 "izmir",
 "litre",
 "yerine"
+],
+[
+"durumu",
+"ege",
+"ekim",
+"hava",
+"izmir",
+"kritik",
+"saatler",
+"sali",
+"verildi"
 ]
 ],
 "son_tarih": {
@@ -7500,7 +7500,7 @@
 "X / Twitter Türkiye": "2026-10-27T03:04:13.374981+00:00",
 "Olay (Bursa)": "2026-10-27T02:15:31+00:00",
 "@islamasalya": "2026-10-26T12:16:19+00:00",
-"Yeni Asır (İzmir)": "2026-10-27T03:55:46+00:00",
+"Yeni Asır (İzmir)": "2026-10-27T04:07:51+00:00",
 "İstanbul Gazetesi": "2026-10-26T22:25:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
