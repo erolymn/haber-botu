@@ -1940,28 +1940,11 @@
 "01c34ac72238d18f",
 "1da4c3e1f5189903",
 "5c437260d403a5f4",
-"39c745ea249150a0"
+"39c745ea249150a0",
+"3603802021593261",
+"cc5b1372eb05e63b"
 ],
 "imzalar": [
-[
-"bursaspor",
-"den",
-"hocasi",
-"liderlik",
-"lik",
-"mustafa",
-"skor",
-"yorumu"
-],
-[
-"acildi",
-"atti",
-"bursaspor",
-"golunu",
-"iheanacho",
-"ikinci",
-"yari"
-],
 [
 "aciklamasi",
 "bizim",
@@ -7743,6 +7726,29 @@
 "tedrici",
 "tera",
 "yatirim"
+],
+[
+"145",
+"232",
+"atan",
+"bin",
+"ceza",
+"hizla",
+"kilometre",
+"lira",
+"makas",
+"surucuye"
+],
+[
+"den",
+"duyurusu",
+"islem",
+"kisi",
+"kisiye",
+"sirkete",
+"spk",
+"suc",
+"yasagi"
 ]
 ],
 "son_tarih": {
@@ -7750,13 +7756,13 @@
 "Sonsöz (Ankara)": "2026-10-27T18:38:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-27T16:17:59+00:00",
-"Sözcü Son Dakika": "2026-10-27T18:36:41+00:00",
+"Sözcü Son Dakika": "2026-10-27T18:54:29+00:00",
 "Yeni Şafak Yerel": "2026-10-27T18:42:21+00:00",
 "X / Twitter Türkiye": "2026-10-27T18:05:23.877733+00:00",
 "Olay (Bursa)": "2026-10-27T18:40:21+00:00",
 "@islamasalya": "2026-10-27T15:47:37+00:00",
 "Yeni Asır (İzmir)": "2026-10-27T17:51:30+00:00",
-"İstanbul Gazetesi": "2026-10-27T18:19:00+00:00",
+"İstanbul Gazetesi": "2026-10-27T18:50:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
 }
