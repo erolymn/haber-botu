@@ -1952,53 +1952,14 @@
 "5ece72fdbcdbdd40",
 "01d456280582f249",
 "f9bdfa4942e80d6b",
-"1a14c378891dd25f"
+"1a14c378891dd25f",
+"08b9f973f40dfe6e",
+"7e79a33b54c2f555",
+"1b67a3c5315b9cc1",
+"c3b1fb1139d3e7b3",
+"32632c5d3cae2c3b"
 ],
 "imzalar": [
-[
-"adiyaman",
-"carpisti",
-"iki",
-"otomobil",
-"sayida",
-"yarali"
-],
-[
-"bogazi",
-"burundu",
-"istanbul",
-"pembeye"
-],
-[
-"genel",
-"gozaltinda",
-"muduru",
-"nden",
-"sigorta",
-"turkiye",
-"yardimcisi"
-],
-[
-"bakanligindan",
-"cikacaklar",
-"dikkat",
-"icisleri",
-"kritik",
-"kuvvetli",
-"pazartesi",
-"saat",
-"sabahi",
-"saganak",
-"uyari",
-"verildi",
-"yola"
-],
-[
-"farkli",
-"fenerbahce",
-"galatasaray",
-"kazandi"
-],
 [
 "devrildi",
 "dort",
@@ -7748,15 +7709,69 @@
 "gollu",
 "kolsun",
 "mac"
+],
+[
+"arac",
+"bes",
+"carpisti",
+"iki",
+"kafa",
+"kafaya",
+"yarali"
+],
+[
+"guclu",
+"ihtiyac",
+"kurtulmus",
+"medyaya",
+"numan",
+"turkiye"
+],
+[
+"blok",
+"cogunlugu",
+"erdi",
+"hicbir",
+"islemi",
+"israil",
+"kullanma",
+"saglayamadi",
+"sona"
+],
+[
+"blok",
+"deki",
+"genel",
+"gore",
+"gorunuyor",
+"ilk",
+"israil",
+"kapandi",
+"karsiti",
+"muhalif",
+"netanyahu",
+"onde",
+"sandiklar",
+"secimlerde",
+"sonuclara"
+],
+[
+"eziyetle",
+"gulter",
+"hastalara",
+"kez",
+"suclaniyor",
+"tugyan",
+"ulkem"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-27T19:24:00+00:00",
-"Sonsöz (Ankara)": "2026-10-27T18:38:00+00:00",
+"Haber Global": "2026-10-27T20:19:00+00:00",
+"Sonsöz (Ankara)": "2026-10-27T20:18:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-10-27T16:17:59+00:00",
-"Sözcü Son Dakika": "2026-10-27T20:03:15+00:00",
-"Yeni Şafak Yerel": "2026-10-27T20:00:44+00:00",
+"Mynet Son Dakika": "2026-10-27T20:21:10+00:00",
+"Sözcü Son Dakika": "2026-10-27T20:23:35+00:00",
+"Yeni Şafak Yerel": "2026-10-27T20:09:01+00:00",
 "X / Twitter Türkiye": "2026-10-27T18:05:23.877733+00:00",
 "Olay (Bursa)": "2026-10-27T18:40:21+00:00",
 "@islamasalya": "2026-10-27T19:23:27+00:00",
