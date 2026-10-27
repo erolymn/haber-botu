@@ -1880,38 +1880,13 @@
 "3500e120d09e82a5",
 "c6359fcdb1fb6255",
 "9b67bd69286b06ee",
-"02b7c9307d194660"
+"02b7c9307d194660",
+"547d3b062c69211b",
+"56d4eba990ae9ab9",
+"e27376458e4f29ea",
+"d8697815b4f85262"
 ],
 "imzalar": [
-[
-"bursa",
-"dikkat",
-"geldi",
-"gunune",
-"sali",
-"uyari",
-"yeni"
-],
-[
-"akp",
-"alindi",
-"aydin",
-"ertan",
-"eski",
-"gozaltina",
-"milletvekili",
-"yeniden"
-],
-[
-"gecirdigi",
-"gorev",
-"hayatini",
-"kaybeden",
-"kaza",
-"memuruna",
-"polis",
-"sonucu"
-],
 [
 "belli",
 "buruk",
@@ -7639,17 +7614,45 @@
 "murat",
 "vekili",
 "yazar"
+],
+[
+"esiginde",
+"fenerbahce",
+"hareketli",
+"ismail",
+"istifanin",
+"kartal",
+"saatler"
+],
+[
+"bakan",
+"cezasi",
+"denizolgun",
+"doktoruna",
+"eski",
+"hapis",
+"yil"
+],
+[
+"cin",
+"den",
+"diledi",
+"mao",
+"mbappe",
+"ozur",
+"soyledikleri",
+"zedong"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-27T14:42:00+00:00",
+"Haber Global": "2026-10-27T15:02:00+00:00",
 "Sonsöz (Ankara)": "2026-10-27T14:43:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-27T14:01:32+00:00",
-"Sözcü Son Dakika": "2026-10-27T14:40:10+00:00",
+"Sözcü Son Dakika": "2026-10-27T14:47:13+00:00",
 "Yeni Şafak Yerel": "2026-10-27T14:41:12+00:00",
-"X / Twitter Türkiye": "2026-10-27T12:04:48.899417+00:00",
-"Olay (Bursa)": "2026-10-27T14:38:54+00:00",
+"X / Twitter Türkiye": "2026-10-27T15:05:23.121955+00:00",
+"Olay (Bursa)": "2026-10-27T14:48:16+00:00",
 "@islamasalya": "2026-10-27T10:09:48+00:00",
 "Yeni Asır (İzmir)": "2026-10-27T13:41:00+00:00",
 "İstanbul Gazetesi": "2026-10-27T14:42:00+00:00",
