@@ -1864,47 +1864,14 @@
 "253f3c5019045bed",
 "fe9d293cce5e3be9",
 "f954532ff6a278a1",
-"93a0250f8f878fa1"
+"93a0250f8f878fa1",
+"25ab2cfc8dd58370",
+"4fbbef62f30f1292",
+"780af62bd2546111",
+"bb8c2a0265a25de5",
+"d3a3b872abad20dc"
 ],
 "imzalar": [
-[
-"kadin",
-"kediye",
-"tasla",
-"vuran",
-"yakalandi"
-],
-[
-"kodlu",
-"meteorolojiden",
-"sari",
-"turuncu",
-"uyari"
-],
-[
-"adaylarinin",
-"kpss",
-"polis",
-"yardimina",
-"yetisti"
-],
-[
-"bogazi",
-"dugunlerin",
-"gozdesi",
-"istanbul",
-"uluslararasi"
-],
-[
-"aciklamasi",
-"baslatmaya",
-"dan",
-"haziriz",
-"muzakere",
-"rusya",
-"uclu",
-"yeniden"
-],
 [
 "avustralya",
 "daki",
@@ -7607,19 +7574,67 @@
 "kutuphane",
 "nesil",
 "yeni"
+],
+[
+"anma",
+"ataturk",
+"gunu",
+"kasim",
+"resmi",
+"tatil"
+],
+[
+"ekim",
+"eskisehir",
+"provasi",
+"semalarinda",
+"soloturk",
+"ten"
+],
+[
+"aglarini",
+"basaksehir",
+"dan",
+"kariyer",
+"olaitan",
+"rekoru",
+"sarsan"
+],
+[
+"ahmet",
+"arif",
+"davada",
+"denizolgun",
+"doktor",
+"hakkinda",
+"iliskin",
+"karar",
+"olumune"
+],
+[
+"bogazi",
+"carpan",
+"cikti",
+"dogusunda",
+"hurmuz",
+"iran",
+"mayina",
+"nin",
+"tankerde",
+"yangin"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-27T13:35:00+00:00",
+"Haber Global": "2026-10-27T14:02:00+00:00",
 "Sonsöz (Ankara)": "2026-10-27T12:58:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-27T13:20:40+00:00",
-"Sözcü Son Dakika": "2026-10-27T13:40:10+00:00",
-"Yeni Şafak Yerel": "2026-10-27T13:26:58+00:00",
+"Sözcü Son Dakika": "2026-10-27T14:01:16+00:00",
+"Yeni Şafak Yerel": "2026-10-27T13:49:46+00:00",
 "X / Twitter Türkiye": "2026-10-27T12:04:48.899417+00:00",
-"Olay (Bursa)": "2026-10-27T13:40:14+00:00",
+"Olay (Bursa)": "2026-10-27T14:02:39+00:00",
 "@islamasalya": "2026-10-27T10:09:48+00:00",
-"Yeni Asır (İzmir)": "2026-10-27T13:16:14+00:00",
+"Yeni Asır (İzmir)": "2026-10-27T13:41:00+00:00",
 "İstanbul Gazetesi": "2026-10-27T13:10:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
