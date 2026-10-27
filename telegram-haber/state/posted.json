@@ -1773,59 +1773,14 @@
 "edf912548b2769cb",
 "c5039a4af32627ae",
 "300298a347e52639",
-"1f454526e2581919"
+"1f454526e2581919",
+"f1220188c0ec49c9",
+"e9cca4a97911eac4",
+"00fefb2e60a9b90a",
+"b560d6d62f3b6c4a",
+"ecf95a77d45767a6"
 ],
 "imzalar": [
-[
-"askini",
-"ayet",
-"baslatan",
-"izmirli",
-"okuyabildim",
-"ustanin",
-"yazabildim"
-],
-[
-"bakmadan",
-"bursa",
-"cikmayin",
-"dikkat",
-"disari",
-"habere",
-"pazar",
-"plani",
-"yapanlar"
-],
-[
-"agir",
-"bakiminda",
-"faturasi",
-"ihmalin",
-"kombi",
-"olabilir"
-],
-[
-"gastronomi",
-"hazinesi",
-"kesfediliyor",
-"lezzet",
-"mardin",
-"noktasinda"
-],
-[
-"dan",
-"derbi",
-"dev",
-"galatasaray",
-"ismail",
-"karistiracak",
-"kartal",
-"kizdirdi",
-"oncesi",
-"ortaligi",
-"sozler",
-"taraftarini"
-],
 [
 "cevirmedi",
 "geri",
@@ -7544,19 +7499,75 @@
 "geri",
 "icinde",
 "turkiye"
+],
+[
+"bauza",
+"bugs",
+"bunny",
+"daffy",
+"duck",
+"eric",
+"genc",
+"hayatini",
+"kaybetti",
+"sesi",
+"yasinda"
+],
+[
+"daki",
+"inanir",
+"iste",
+"julide",
+"kadir",
+"kural",
+"olacak",
+"ordu",
+"teklifi",
+"topraklarina"
+],
+[
+"affetti",
+"aglatan",
+"bekleyen",
+"bobrek",
+"caparov",
+"diyalog",
+"hastanin",
+"kardesini",
+"kirgizistan",
+"mahkum"
+],
+[
+"babasi",
+"belli",
+"cozuldu",
+"dugum",
+"hamid",
+"yillik"
+],
+[
+"bogazi",
+"bulandi",
+"camura",
+"deniz",
+"dondu",
+"istanbul",
+"kahverengiye",
+"saganak",
+"sonrasi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-27T08:56:00+00:00",
+"Haber Global": "2026-10-27T09:04:00+00:00",
 "Sonsöz (Ankara)": "2026-10-27T09:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-27T08:42:49+00:00",
-"Sözcü Son Dakika": "2026-10-27T09:03:55+00:00",
-"Yeni Şafak Yerel": "2026-10-27T09:00:45+00:00",
+"Sözcü Son Dakika": "2026-10-27T09:21:03+00:00",
+"Yeni Şafak Yerel": "2026-10-27T09:20:43+00:00",
 "X / Twitter Türkiye": "2026-10-27T09:04:48.002702+00:00",
-"Olay (Bursa)": "2026-10-27T09:02:35+00:00",
+"Olay (Bursa)": "2026-10-27T09:17:36+00:00",
 "@islamasalya": "2026-10-27T09:00:17+00:00",
-"Yeni Asır (İzmir)": "2026-10-27T08:54:18+00:00",
+"Yeni Asır (İzmir)": "2026-10-27T09:22:17+00:00",
 "İstanbul Gazetesi": "2026-10-27T08:29:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
