@@ -1803,75 +1803,16 @@
 "1f92555d35c9ac87",
 "1576bd1627c8c109",
 "09dc268330df8731",
-"0b8ee51090bc41ca"
+"0b8ee51090bc41ca",
+"08e686d2beb94445",
+"e260d77f05070546",
+"58992d0a2efa4bf4",
+"a7f74a77287bc67f",
+"def37e70fb725a6a",
+"691a247c4fdf693c",
+"ee8412a829967448"
 ],
 "imzalar": [
-[
-"geleneksel",
-"gununde",
-"okculuk",
-"sampiyonasi",
-"suruyor",
-"turk",
-"turkiye",
-"uncu"
-],
-[
-"aciklanacak",
-"erdi",
-"kpss",
-"ortaogretim",
-"sona",
-"sonuclar",
-"zaman"
-],
-[
-"beton",
-"cakildi",
-"ciplak",
-"esrarengiz",
-"genc",
-"halde",
-"istanbul",
-"kadin",
-"olum",
-"yari",
-"zemine"
-],
-[
-"dakikalarla",
-"kapandi",
-"kapilar",
-"kpss",
-"takildilar",
-"yuzlerine"
-],
-[
-"asla",
-"baraji",
-"basti",
-"dediler",
-"dolmaz",
-"kilometrelik"
-],
-[
-"almanya",
-"araniyordu",
-"berisha",
-"izmir",
-"valmir",
-"yakalandi"
-],
-[
-"bulusturdu",
-"bursa",
-"gozde",
-"kalbinde",
-"milyonlari",
-"muzesi",
-"nin",
-"tarihin"
-],
 [
 "bakani",
 "dincyurek",
@@ -7573,20 +7514,86 @@
 "saganak",
 "surecek",
 "zamana"
+],
+[
+"gecildi",
+"harekete",
+"icardi",
+"mauro",
+"surpriz"
+],
+[
+"acik",
+"bankada",
+"bankalar",
+"dikkat",
+"ekim",
+"islemi",
+"kapaniyor",
+"kapilar",
+"olanlar",
+"saatte"
+],
+[
+"belli",
+"can",
+"kazada",
+"kimlikleri",
+"korkunc",
+"vermislerdi"
+],
+[
+"edirne",
+"gocmen",
+"kacak",
+"kisi",
+"tutuklandi",
+"yakalandi"
+],
+[
+"aciklanacak",
+"genclik",
+"iskur",
+"nasil",
+"programi",
+"sonuclari",
+"sorgulanir",
+"zaman"
+],
+[
+"acti",
+"ates",
+"dur",
+"havaya",
+"ihtarina",
+"kacti",
+"motosikletli",
+"polis",
+"uymayan"
+],
+[
+"anlamli",
+"ayeti",
+"dokunus",
+"duvarina",
+"konya",
+"mest",
+"oku",
+"okul"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-27T10:28:00+00:00",
-"Sonsöz (Ankara)": "2026-10-27T10:35:00+00:00",
+"Haber Global": "2026-10-27T10:55:00+00:00",
+"Sonsöz (Ankara)": "2026-10-27T10:55:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-27T08:42:49+00:00",
-"Sözcü Son Dakika": "2026-10-27T10:23:27+00:00",
-"Yeni Şafak Yerel": "2026-10-27T10:38:07+00:00",
+"Sözcü Son Dakika": "2026-10-27T10:47:12+00:00",
+"Yeni Şafak Yerel": "2026-10-27T11:02:46+00:00",
 "X / Twitter Türkiye": "2026-10-27T09:04:48.002702+00:00",
-"Olay (Bursa)": "2026-10-27T10:38:18+00:00",
+"Olay (Bursa)": "2026-10-27T10:53:22+00:00",
 "@islamasalya": "2026-10-27T10:09:48+00:00",
-"Yeni Asır (İzmir)": "2026-10-27T10:42:23+00:00",
-"İstanbul Gazetesi": "2026-10-27T10:06:00+00:00",
+"Yeni Asır (İzmir)": "2026-10-27T10:49:37+00:00",
+"İstanbul Gazetesi": "2026-10-27T11:01:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
 }
