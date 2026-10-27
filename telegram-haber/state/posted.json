@@ -1915,44 +1915,13 @@
 "969d5b85477b35f5",
 "13a2e97f2df07a65",
 "4e9390037112e53f",
-"54f4167cf2407821"
+"54f4167cf2407821",
+"3803829ac271091c",
+"0cee6f807c20fd77",
+"66a8861733e73b24",
+"09d3a096b6f4736a"
 ],
 "imzalar": [
-[
-"aciklamasi",
-"bakan",
-"fon",
-"gonullu",
-"gurlek",
-"iade",
-"sorusturmasi",
-"ten",
-"vurgusu"
-],
-[
-"dakikada",
-"degistirdi",
-"iran",
-"kararini",
-"trump"
-],
-[
-"barcelona",
-"canli",
-"madrid",
-"real",
-"yayin"
-],
-[
-"airlines",
-"cup",
-"etabi",
-"golf",
-"istanbul",
-"tamamlandi",
-"turkish",
-"world"
-],
 [
 "bakan",
 "edilen",
@@ -7727,19 +7696,62 @@
 "sandiga",
 "secim",
 "secmenler"
+],
+[
+"ayrildi",
+"ismet",
+"sivasspor",
+"tasdemir",
+"yollar"
+],
+[
+"cumhurbaskani",
+"dan",
+"erdogan",
+"gorusen",
+"macron",
+"mesaji",
+"reform",
+"telefonda"
+],
+[
+"bogazi",
+"cift",
+"gemi",
+"istanbul",
+"kapatildi",
+"nda",
+"trafigi",
+"yonlu"
+],
+[
+"2027",
+"degisti",
+"dusuk",
+"emekli",
+"emekliyi",
+"hesaplari",
+"ilgilendiriyor",
+"kadar",
+"maasi",
+"milyonlarca",
+"nasil",
+"ocak",
+"olacak",
+"zam"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-27T16:58:00+00:00",
+"Haber Global": "2026-10-27T17:13:00+00:00",
 "Sonsöz (Ankara)": "2026-10-27T16:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-27T16:17:59+00:00",
-"Sözcü Son Dakika": "2026-10-27T16:45:10+00:00",
-"Yeni Şafak Yerel": "2026-10-27T17:03:05+00:00",
+"Sözcü Son Dakika": "2026-10-27T17:18:46+00:00",
+"Yeni Şafak Yerel": "2026-10-27T17:15:06+00:00",
 "X / Twitter Türkiye": "2026-10-27T15:05:23.121955+00:00",
 "Olay (Bursa)": "2026-10-27T16:55:52+00:00",
 "@islamasalya": "2026-10-27T15:47:37+00:00",
-"Yeni Asır (İzmir)": "2026-10-27T16:00:40+00:00",
+"Yeni Asır (İzmir)": "2026-10-27T17:20:10+00:00",
 "İstanbul Gazetesi": "2026-10-27T16:45:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
