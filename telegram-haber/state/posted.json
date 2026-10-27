@@ -1669,25 +1669,10 @@
 "36000b07814ff5a8",
 "32fdcac4a3d83cec",
 "6a787f6b243a5756",
-"bc4a553ddc6edb73"
+"bc4a553ddc6edb73",
+"e6a5f4317b26c388"
 ],
 "imzalar": [
-[
-"almanya",
-"basladi",
-"bes",
-"dev",
-"fransa",
-"istihdami",
-"kadin",
-"kapisinda",
-"kilo",
-"kiyma",
-"kurdu",
-"kuyruk",
-"unla",
-"ussu"
-],
 [
 "arda",
 "barcelona",
@@ -7524,6 +7509,10 @@
 "bila",
 "fikret",
 "sozcu"
+],
+[
+"hisse",
+"takipte"
 ]
 ],
 "son_tarih": {
@@ -7532,7 +7521,7 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-26T18:00:06+00:00",
 "Sözcü Son Dakika": "2026-10-27T00:37:27+00:00",
-"Yeni Şafak Yerel": "2026-10-26T23:10:43+00:00",
+"Yeni Şafak Yerel": "2026-10-27T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-10-27T00:03:50.863642+00:00",
 "Olay (Bursa)": "2026-10-26T21:30:50+00:00",
 "@islamasalya": "2026-10-26T12:16:19+00:00",
