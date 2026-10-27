@@ -1852,17 +1852,10 @@
 "ffb99eee0ff67f15",
 "4a6e8c4c7afe6811",
 "d978a346624ad59a",
-"0f7b179ed506073f"
+"0f7b179ed506073f",
+"98410cf947f84ab4"
 ],
 "imzalar": [
-[
-"bogazi",
-"dugun",
-"hindistanlilar",
-"istanbul",
-"mekani",
-"pakistan"
-],
 [
 "geliyor",
 "izmir",
@@ -7629,6 +7622,12 @@
 "nin",
 "ortaligi",
 "yildizi"
+],
+[
+"farkli",
+"gaziantep",
+"kupada",
+"turladi"
 ]
 ],
 "son_tarih": {
@@ -7637,7 +7636,7 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-27T11:51:00+00:00",
 "Sözcü Son Dakika": "2026-10-27T13:03:53+00:00",
-"Yeni Şafak Yerel": "2026-10-27T13:01:05+00:00",
+"Yeni Şafak Yerel": "2026-10-27T13:04:13+00:00",
 "X / Twitter Türkiye": "2026-10-27T12:04:48.899417+00:00",
 "Olay (Bursa)": "2026-10-27T12:47:55+00:00",
 "@islamasalya": "2026-10-27T10:09:48+00:00",
