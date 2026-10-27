@@ -1741,34 +1741,11 @@
 "e08e9cb07c883c77",
 "772c3eafd58cdfee",
 "7e9923a8cc53697c",
-"4e4a5653e9dc20dd"
+"4e4a5653e9dc20dd",
+"37764a7b6e9c1813",
+"9dd8439cbeac0aea"
 ],
 "imzalar": [
-[
-"den",
-"durumu",
-"gunluk",
-"hava",
-"hem",
-"meteoroloji",
-"raporu",
-"saganak",
-"sis",
-"uyarisi"
-],
-[
-"alacaklar",
-"cesme",
-"den",
-"dikkat",
-"edecek",
-"gayrimenkulun",
-"gozdesi",
-"izmir",
-"tahtindan",
-"urla",
-"yeni"
-],
 [
 "aracinin",
 "dan",
@@ -7567,19 +7544,45 @@
 "milyar",
 "operasyonu",
 "sirkete"
+],
+[
+"ayrildi",
+"eski",
+"evli",
+"ogrenip",
+"oldugunu",
+"sevgilisi",
+"sevgilisini",
+"sevgilisinin",
+"varken",
+"yaninda",
+"yaraladi",
+"yeni"
+],
+[
+"alacak",
+"basvurular",
+"belediyesi",
+"buyuksehir",
+"izmir",
+"memuru",
+"nasil",
+"nereden",
+"yapilacak",
+"zabita"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-27T07:28:00+00:00",
 "Sonsöz (Ankara)": "2026-10-27T07:38:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-10-27T06:34:13+00:00",
+"Mynet Son Dakika": "2026-10-27T07:38:01+00:00",
 "Sözcü Son Dakika": "2026-10-27T07:43:39+00:00",
 "Yeni Şafak Yerel": "2026-10-27T07:42:08+00:00",
 "X / Twitter Türkiye": "2026-10-27T06:04:13.952177+00:00",
 "Olay (Bursa)": "2026-10-27T07:42:50+00:00",
 "@islamasalya": "2026-10-26T12:16:19+00:00",
-"Yeni Asır (İzmir)": "2026-10-27T06:57:46+00:00",
+"Yeni Asır (İzmir)": "2026-10-27T07:41:31+00:00",
 "İstanbul Gazetesi": "2026-10-27T07:18:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
