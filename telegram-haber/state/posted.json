@@ -1687,31 +1687,11 @@
 "cd784c826a310cc2",
 "d4501307c16bf4be",
 "0f08575f0f45758a",
-"241a0d8b76e113ca"
+"241a0d8b76e113ca",
+"206ddee2cfe23b89",
+"d2eba4b7a55efdc5"
 ],
 "imzalar": [
-[
-"akin",
-"kalderasi",
-"nda",
-"nemrut",
-"olustu",
-"sonbahar",
-"trafik",
-"yogunlugu",
-"ziyaretciler"
-],
-[
-"dusen",
-"giderine",
-"gunluk",
-"kaybetti",
-"mucadelesini",
-"ridvan",
-"skuterle",
-"yagmur",
-"yasam"
-],
 [
 "bulundu",
 "cop",
@@ -7483,10 +7463,35 @@
 "kazandi",
 "odulunu",
 "top"
+],
+[
+"alani",
+"arnavutluk",
+"belcika",
+"binlerce",
+"fransa",
+"gibi",
+"gozalti",
+"ispanya",
+"italya",
+"portekiz",
+"savas",
+"sokaklar"
+],
+[
+"alkol",
+"baskin",
+"bin",
+"ele",
+"etil",
+"gecirildi",
+"izmir",
+"litre",
+"yerine"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-27T03:38:00+00:00",
+"Haber Global": "2026-10-27T03:44:00+00:00",
 "Sonsöz (Ankara)": "2026-10-27T03:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-26T18:00:06+00:00",
@@ -7495,7 +7500,7 @@
 "X / Twitter Türkiye": "2026-10-27T03:04:13.374981+00:00",
 "Olay (Bursa)": "2026-10-27T02:15:31+00:00",
 "@islamasalya": "2026-10-26T12:16:19+00:00",
-"Yeni Asır (İzmir)": "2026-10-26T16:04:23+00:00",
+"Yeni Asır (İzmir)": "2026-10-27T03:55:46+00:00",
 "İstanbul Gazetesi": "2026-10-26T22:25:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
