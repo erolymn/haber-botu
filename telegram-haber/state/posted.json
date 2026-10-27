@@ -1690,55 +1690,14 @@
 "241a0d8b76e113ca",
 "206ddee2cfe23b89",
 "d2eba4b7a55efdc5",
-"6c781339f19db93e"
+"6c781339f19db93e",
+"5f6fe7908a1d2194",
+"c7b454fa4ff49b67",
+"9cd8bbb18d49378a",
+"fdb2d9580457329a",
+"4bd03113587fcfb4"
 ],
 "imzalar": [
-[
-"dehseti",
-"kadin",
-"kavgasi",
-"surucuye",
-"umraniye",
-"verme",
-"yasatti",
-"yol"
-],
-[
-"aydin",
-"cikis",
-"disina",
-"ertan",
-"fon",
-"hapsi",
-"sorusturmasinda",
-"yasagi",
-"yurt"
-],
-[
-"100",
-"bahcesehir",
-"besiktas",
-"koleji"
-],
-[
-"adiyaman",
-"carptigi",
-"ilk",
-"kisi",
-"milletvekili",
-"otomobilin",
-"vali",
-"yapti",
-"yaralandi",
-"yardimi"
-],
-[
-"ayvalik",
-"batan",
-"can",
-"pazari",
-"teknede"
-],
 [
 "akdeniz",
 "den",
@@ -7488,19 +7447,66 @@
 "saatler",
 "sali",
 "verildi"
+],
+[
+"artik",
+"basladi",
+"dan",
+"donem",
+"nabiz",
+"saglikta",
+"vatandaslar",
+"yapabilecek",
+"yeni"
+],
+[
+"daltonlar",
+"dev",
+"ilde",
+"operasyon",
+"orgutune",
+"suc"
+],
+[
+"erken",
+"istanbul",
+"saatlerinde",
+"sabahin",
+"saganak",
+"yagis"
+],
+[
+"alindi",
+"gozaltina",
+"nesil",
+"operasyon",
+"orgulerine",
+"suc",
+"supheli",
+"yeni"
+],
+[
+"arac",
+"coktu",
+"cukura",
+"dusen",
+"kaldi",
+"mahsur",
+"mugla",
+"yol"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-27T03:44:00+00:00",
+"Haber Global": "2026-10-27T04:30:00+00:00",
 "Sonsöz (Ankara)": "2026-10-27T03:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-10-26T18:00:06+00:00",
-"Sözcü Son Dakika": "2026-10-27T03:28:34+00:00",
-"Yeni Şafak Yerel": "2026-10-27T01:00:00+00:00",
+"Mynet Son Dakika": "2026-10-27T04:23:34+00:00",
+"Sözcü Son Dakika": "2026-10-27T04:29:13+00:00",
+"Yeni Şafak Yerel": "2026-10-27T04:39:39+00:00",
 "X / Twitter Türkiye": "2026-10-27T03:04:13.374981+00:00",
 "Olay (Bursa)": "2026-10-27T02:15:31+00:00",
 "@islamasalya": "2026-10-26T12:16:19+00:00",
-"Yeni Asır (İzmir)": "2026-10-27T04:07:51+00:00",
+"Yeni Asır (İzmir)": "2026-10-27T04:40:20+00:00",
 "İstanbul Gazetesi": "2026-10-26T22:25:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
