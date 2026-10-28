@@ -2211,58 +2211,14 @@
 "8c12a42d05c662cb",
 "9fb164e0150ae837",
 "56ececa76c18614e",
-"c2ef8186f48ef304"
+"c2ef8186f48ef304",
+"0e5a09493746ea19",
+"64934902efa6126e",
+"9c8fdb3d45f1693b",
+"15b4944de1a0e493",
+"1b2e5717a059c0fe"
 ],
 "imzalar": [
-[
-"derbisi",
-"fenerbahce",
-"fenerbahceli",
-"galatasaray",
-"stada",
-"taraftarlar",
-"vardi"
-],
-[
-"altindag",
-"cumhuriyet",
-"duzenlendi",
-"tekvando",
-"turnuvasi"
-],
-[
-"arizasi",
-"evlerine",
-"gitmek",
-"istanbul",
-"isteyenler",
-"kaldi",
-"magdur",
-"raylarda",
-"tramvay",
-"vatandasi",
-"yurumek",
-"zorunda"
-],
-[
-"aci",
-"bayrampasa",
-"coktu",
-"edildi",
-"ekipler",
-"geldi",
-"sevk",
-"yol"
-],
-[
-"degil",
-"etmenin",
-"gunu",
-"insa",
-"istikbali",
-"kurtarmanin",
-"pesindeyiz"
-],
 [
 "birlik",
 "dan",
@@ -8026,20 +7982,71 @@
 "ekim",
 "mesaji",
 "valisi"
+],
+[
+"dan",
+"finans",
+"iddialara",
+"iliskin",
+"kuruluslarina",
+"spk",
+"yabanci",
+"yalanlama"
+],
+[
+"bakanligi",
+"dolandiricilikla",
+"icisleri",
+"kuruluyor",
+"merkezi",
+"mucadele",
+"nda"
+],
+[
+"edildi",
+"edilecek",
+"faaliyet",
+"iptal",
+"izinleri",
+"nasil",
+"tazmin",
+"tera",
+"yatirim",
+"yatirimcilar"
+],
+[
+"calisti",
+"galatasaray",
+"konyaspor",
+"maci",
+"oncesi",
+"taktik"
+],
+[
+"arap",
+"atti",
+"azalan",
+"caldilar",
+"koltuk",
+"netanyahu",
+"oylarimizi",
+"partilerine",
+"sayisi",
+"sucu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-28T15:40:00+00:00",
-"Sonsöz (Ankara)": "2026-10-28T16:10:00+00:00",
+"Haber Global": "2026-10-28T16:51:00+00:00",
+"Sonsöz (Ankara)": "2026-10-28T17:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-28T14:24:46+00:00",
-"Sözcü Son Dakika": "2026-10-28T16:46:06+00:00",
-"Yeni Şafak Yerel": "2026-10-28T16:35:00+00:00",
+"Sözcü Son Dakika": "2026-10-28T17:03:38+00:00",
+"Yeni Şafak Yerel": "2026-10-28T17:04:51+00:00",
 "X / Twitter Türkiye": "2026-10-28T15:07:44.176980+00:00",
 "Olay (Bursa)": "2026-10-28T16:46:11+00:00",
 "@islamasalya": "2026-10-28T13:39:26+00:00",
 "Yeni Asır (İzmir)": "2026-10-28T15:48:09+00:00",
-"İstanbul Gazetesi": "2026-10-28T16:28:00+00:00",
+"İstanbul Gazetesi": "2026-10-28T16:54:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
 }
