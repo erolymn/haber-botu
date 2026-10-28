@@ -2265,26 +2265,11 @@
 "a1385300fa4ef483",
 "9379a8d8660649ed",
 "3e5af15ed688c7c7",
-"b64edfaf42d1cfa8"
+"b64edfaf42d1cfa8",
+"9fabdcb922237370",
+"3163f604feb7173b"
 ],
 "imzalar": [
-[
-"durum",
-"iste",
-"lig",
-"puan",
-"super",
-"tablosu"
-],
-[
-"fon",
-"gazete",
-"girdi",
-"kanunu",
-"resmi",
-"yayimlanarak",
-"yururluge"
-],
 [
 "duzenleme",
 "edilen",
@@ -8111,15 +8096,36 @@
 "polis",
 "sehit",
 "yarali"
+],
+[
+"asildi",
+"bayragi",
+"fatih",
+"koprusu",
+"mehmet",
+"sultan",
+"turk"
+],
+[
+"bursa",
+"cift",
+"jandarma",
+"kalan",
+"mahsur",
+"oldular",
+"seferber",
+"sirtinda",
+"tasidi",
+"yasli"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-28T21:17:00+00:00",
+"Haber Global": "2026-10-28T21:45:00+00:00",
 "Sonsöz (Ankara)": "2026-10-28T19:55:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-28T18:58:46+00:00",
 "Sözcü Son Dakika": "2026-10-28T21:25:14+00:00",
-"Yeni Şafak Yerel": "2026-10-28T21:14:48+00:00",
+"Yeni Şafak Yerel": "2026-10-28T21:43:54+00:00",
 "X / Twitter Türkiye": "2026-10-28T21:08:18.156331+00:00",
 "Olay (Bursa)": "2026-10-28T21:08:21+00:00",
 "@islamasalya": "2026-10-28T20:36:00+00:00",
