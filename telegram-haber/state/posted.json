@@ -2004,55 +2004,13 @@
 "f70f2ceca56462da",
 "f0a8d4e9c02f3cfe",
 "2524ace0dd1b92de",
-"451ff97618328def"
+"451ff97618328def",
+"baa4268fc1898370",
+"279984958d995e84",
+"79222549dfd2d782",
+"19cb42d8f68e8259"
 ],
 "imzalar": [
-[
-"akom",
-"doyacagiz",
-"gun",
-"haritayi",
-"istanbul",
-"meteoroloji",
-"paylasti",
-"surecek",
-"tarih",
-"verildi",
-"yagmura"
-],
-[
-"basbakan",
-"basladigimiz",
-"bitirmeliyiz",
-"cigirtkanligi",
-"isi",
-"istedi",
-"netanyahu",
-"savasci",
-"trump"
-],
-[
-"cagrisi",
-"halkina",
-"israil",
-"netanyahu",
-"secim",
-"tan",
-"trump",
-"verin"
-],
-[
-"aldi",
-"azerilerle",
-"basdanismanini",
-"erdogan",
-"gerginlik",
-"gorevden",
-"oktay",
-"saral",
-"yedi",
-"yillik"
-],
 [
 "baskini",
 "bekleniyor",
@@ -7821,19 +7779,54 @@
 "stok",
 "ulkeden",
 "yapin"
+],
+[
+"adli",
+"ait",
+"eurasia",
+"hesaplara",
+"karari",
+"lojistik",
+"ortagina",
+"pasifik",
+"tedbir",
+"uygulandi"
+],
+[
+"beraat",
+"haberden",
+"yaptigi"
+],
+[
+"ekim",
+"haysiyet",
+"kahve",
+"reyting",
+"sonuclari",
+"tuzlu"
+],
+[
+"bati",
+"filistinlilerin",
+"filistinliyi",
+"gasbeden",
+"israilliler",
+"seria",
+"topraklarini",
+"yaraladi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-28T04:48:00+00:00",
+"Haber Global": "2026-10-28T04:56:00+00:00",
 "Sonsöz (Ankara)": "2026-10-28T03:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-28T05:00:06+00:00",
-"Sözcü Son Dakika": "2026-10-28T05:05:09+00:00",
-"Yeni Şafak Yerel": "2026-10-28T04:43:44+00:00",
+"Sözcü Son Dakika": "2026-10-28T05:12:38+00:00",
+"Yeni Şafak Yerel": "2026-10-28T05:23:29+00:00",
 "X / Twitter Türkiye": "2026-10-28T03:06:18.053574+00:00",
 "Olay (Bursa)": "2026-10-28T02:17:00+00:00",
 "@islamasalya": "2026-10-27T21:10:05+00:00",
-"Yeni Asır (İzmir)": "2026-10-28T03:50:15+00:00",
+"Yeni Asır (İzmir)": "2026-10-28T05:16:42+00:00",
 "İstanbul Gazetesi": "2026-10-27T21:24:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
