@@ -2267,21 +2267,10 @@
 "3e5af15ed688c7c7",
 "b64edfaf42d1cfa8",
 "9fabdcb922237370",
-"3163f604feb7173b"
+"3163f604feb7173b",
+"dc453e940c0ec238"
 ],
 "imzalar": [
-[
-"duzenleme",
-"edilen",
-"fonlar",
-"gazete",
-"resmi",
-"tasfiye",
-"yasal",
-"yayimlandi",
-"yeni",
-"yururlukte"
-],
 [
 "baslayacak",
 "fon",
@@ -8117,10 +8106,18 @@
 "sirtinda",
 "tasidi",
 "yasli"
+],
+[
+"demir",
+"dusen",
+"insaatta",
+"isci",
+"kastamonu",
+"uzerine"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-28T21:45:00+00:00",
+"Haber Global": "2026-10-28T21:46:00+00:00",
 "Sonsöz (Ankara)": "2026-10-28T19:55:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-28T18:58:46+00:00",
