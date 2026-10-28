@@ -1990,15 +1990,11 @@
 "f67683e219a9e266",
 "3210cfc5fefe3d54",
 "67c6cfb62762d4d9",
-"9577641995a06b3e"
+"9577641995a06b3e",
+"05d21824697eb11c",
+"aa9b2ff99ad56ed1"
 ],
 "imzalar": [
-[
-"derbi",
-"kalp",
-"kirik",
-"sendromu"
-],
 [
 "gururu",
 "olay",
@@ -7782,16 +7778,29 @@
 "sikayet",
 "sorusturma",
 "yildirim"
+],
+[
+"alarmi",
+"ankara",
+"den",
+"istanbul",
+"kod",
+"meteoroloji",
+"pes",
+"pese",
+"saganak",
+"sari",
+"uyari"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-27T21:52:00+00:00",
+"Haber Global": "2026-10-28T02:50:00+00:00",
 "Sonsöz (Ankara)": "2026-10-28T02:31:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-27T20:21:10+00:00",
 "Sözcü Son Dakika": "2026-10-28T02:39:15+00:00",
 "Yeni Şafak Yerel": "2026-10-28T01:00:00+00:00",
-"X / Twitter Türkiye": "2026-10-28T00:06:21.664347+00:00",
+"X / Twitter Türkiye": "2026-10-28T03:06:18.053574+00:00",
 "Olay (Bursa)": "2026-10-28T02:17:00+00:00",
 "@islamasalya": "2026-10-27T21:10:05+00:00",
 "Yeni Asır (İzmir)": "2026-10-27T22:08:26+00:00",
