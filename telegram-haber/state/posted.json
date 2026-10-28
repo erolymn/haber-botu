@@ -2252,46 +2252,13 @@
 "9ffaa066f715c379",
 "bce4056f6e544c72",
 "b87a03652bc99f0b",
-"ec36158bf1738f7b"
+"ec36158bf1738f7b",
+"251d22ee25972222",
+"fbeffe6fee202e80",
+"e86e92dfdb6246a1",
+"e6e0c8c232999600"
 ],
 "imzalar": [
-[
-"apple",
-"den",
-"fiyatlari",
-"ipad",
-"sedasiz",
-"sessiz",
-"turkiye",
-"uctu",
-"zam"
-],
-[
-"anlari",
-"caddede",
-"degil",
-"elimde",
-"engel",
-"havladi",
-"kendisi",
-"olamiyorum",
-"paylasti",
-"yururken"
-],
-[
-"acildi",
-"farki",
-"fenerbahce",
-"galatasaray",
-"puan",
-"yendi"
-],
-[
-"bursalilar",
-"dikkat",
-"iptaller",
-"yarin"
-],
 [
 "derbinin",
 "fenerbahce",
@@ -8092,10 +8059,58 @@
 "sorulmasi",
 "tayyar",
 "uyarisi"
+],
+[
+"aciklama",
+"cekilmek",
+"hizbullah",
+"ilgilenmiyoruz",
+"iliskin",
+"israil",
+"kimin",
+"liderinden",
+"secimlerine",
+"topraklarimizdan",
+"yonettigiyle",
+"zorunda"
+],
+[
+"anina",
+"elhamdulillah",
+"her",
+"limize",
+"nasibimize",
+"omrumuzun"
+],
+[
+"baskani",
+"den",
+"genel",
+"gercegi",
+"gozler",
+"itiraf",
+"manavgat",
+"niteliginde",
+"onune",
+"ozel",
+"ozgur",
+"parti",
+"rusvet",
+"serildi",
+"skandali",
+"sozler",
+"taki",
+"yeni"
+],
+[
+"arsavev",
+"fenerbahce",
+"real",
+"sociedad"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-28T19:42:00+00:00",
+"Haber Global": "2026-10-28T20:32:00+00:00",
 "Sonsöz (Ankara)": "2026-10-28T19:55:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-28T18:58:46+00:00",
@@ -8103,9 +8118,9 @@
 "Yeni Şafak Yerel": "2026-10-28T20:17:13+00:00",
 "X / Twitter Türkiye": "2026-10-28T18:08:17.217273+00:00",
 "Olay (Bursa)": "2026-10-28T19:07:52+00:00",
-"@islamasalya": "2026-10-28T19:08:39+00:00",
-"Yeni Asır (İzmir)": "2026-10-28T17:06:56+00:00",
-"İstanbul Gazetesi": "2026-10-28T19:58:00+00:00",
+"@islamasalya": "2026-10-28T20:36:00+00:00",
+"Yeni Asır (İzmir)": "2026-10-28T20:36:21+00:00",
+"İstanbul Gazetesi": "2026-10-28T20:46:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
 }
