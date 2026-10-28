@@ -2135,69 +2135,16 @@
 "258e53b3aaf76b15",
 "5c517b10613ab3e1",
 "e640f422ad5dca99",
-"059345070414d866"
+"059345070414d866",
+"5671ef4fcab90dfc",
+"45c760e796bf8f39",
+"65483cb88aa74d5c",
+"779b5b0f21959012",
+"7b57c4f5c018027f",
+"3f07088ae3ed52f7",
+"ac4ff1eb983bdc1d"
 ],
 "imzalar": [
-[
-"basladi",
-"borsa",
-"borsada",
-"durum",
-"gune",
-"nasil"
-],
-[
-"bastan",
-"bolumler",
-"degisimi",
-"hakkindaki",
-"mufredatinda",
-"sara",
-"suriye",
-"turkler",
-"yazildi"
-],
-[
-"cenaze",
-"duzenlendi",
-"filistinliler",
-"han",
-"hayatini",
-"israil",
-"kaybeden",
-"saldirisinda",
-"toreni",
-"yunus"
-],
-[
-"araniyorlardi",
-"bultenle",
-"getirildi",
-"kirmizi",
-"suclu",
-"turkiye"
-],
-[
-"buzullarin",
-"dunyayi",
-"eritiyor",
-"korkutan",
-"sonuclar",
-"yuzde"
-],
-[
-"102",
-"asan",
-"dicle",
-"donusumune",
-"elektrik",
-"led",
-"milyon",
-"nin",
-"sanliurfa",
-"ten",
-"yatirim"
-],
 [
 "500",
 "akp",
@@ -7938,19 +7885,73 @@
 "karacabey",
 "sunma",
 "toreni"
+],
+[
+"gemide",
+"kaldi",
+"kambocya",
+"krizi",
+"luks",
+"mahsur",
+"yakit",
+"yolcular"
+],
+[
+"ilde",
+"kacakcilik",
+"operasyonlari"
+],
+[
+"aydin",
+"basindan",
+"dehseti",
+"eski",
+"genc",
+"kizi",
+"sevgili",
+"vurdu"
+],
+[
+"bakandan",
+"carpitiyorsunuz",
+"fransiz",
+"suclama",
+"ulkeye",
+"yasananlari"
+],
+[
+"adimi",
+"anahtari",
+"araplarin",
+"atmazlarsa",
+"elinde",
+"kazanacak",
+"netanyahu",
+"zaferin"
+],
+[
+"araclar",
+"bodrum",
+"cadde",
+"dondu",
+"gole",
+"kaldi",
+"saganak",
+"sokaklar",
+"yolda"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-28T11:26:00+00:00",
-"Sonsöz (Ankara)": "2026-10-28T11:39:00+00:00",
+"Haber Global": "2026-10-28T11:55:00+00:00",
+"Sonsöz (Ankara)": "2026-10-28T11:59:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-28T10:33:09+00:00",
-"Sözcü Son Dakika": "2026-10-28T11:37:16+00:00",
-"Yeni Şafak Yerel": "2026-10-28T11:43:23+00:00",
-"X / Twitter Türkiye": "2026-10-28T09:06:54.404933+00:00",
-"Olay (Bursa)": "2026-10-28T11:47:20+00:00",
+"Sözcü Son Dakika": "2026-10-28T12:06:11+00:00",
+"Yeni Şafak Yerel": "2026-10-28T12:06:48+00:00",
+"X / Twitter Türkiye": "2026-10-28T12:07:42.697045+00:00",
+"Olay (Bursa)": "2026-10-28T12:03:04+00:00",
 "@islamasalya": "2026-10-28T08:02:20+00:00",
-"Yeni Asır (İzmir)": "2026-10-28T11:39:45+00:00",
+"Yeni Asır (İzmir)": "2026-10-28T11:59:25+00:00",
 "İstanbul Gazetesi": "2026-10-28T11:32:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
