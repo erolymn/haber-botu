@@ -2268,18 +2268,10 @@
 "b64edfaf42d1cfa8",
 "9fabdcb922237370",
 "3163f604feb7173b",
-"dc453e940c0ec238"
+"dc453e940c0ec238",
+"12804a1ec2f618ac"
 ],
 "imzalar": [
-[
-"baslayacak",
-"fon",
-"girdi",
-"kanunu",
-"odemeler",
-"yururluge",
-"zaman"
-],
 [
 "bursaspor",
 "durdurulamayan",
@@ -8114,11 +8106,20 @@
 "isci",
 "kastamonu",
 "uzerine"
+],
+[
+"arama",
+"calismalari",
+"devam",
+"ediyor",
+"inegol",
+"kayip",
+"kisiyi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-28T21:46:00+00:00",
-"Sonsöz (Ankara)": "2026-10-28T19:55:00+00:00",
+"Sonsöz (Ankara)": "2026-10-28T22:24:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-28T18:58:46+00:00",
 "Sözcü Son Dakika": "2026-10-28T21:25:14+00:00",
