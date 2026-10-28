@@ -2187,52 +2187,15 @@
 "3508f3ff6cc2f6fa",
 "75ef4d32a4b1029f",
 "35951454358df67d",
-"a57e656443969518"
+"a57e656443969518",
+"a00c7a60702150b6",
+"d5c54996791f19ce",
+"d43e87913a3274fb",
+"8a39d02f02208b7e",
+"efdc415150ae2c1a",
+"4cf234e3adf3e31d"
 ],
 "imzalar": [
-[
-"belediye",
-"carpisti",
-"kamyonu",
-"motosikletle",
-"tuzla",
-"yarali"
-],
-[
-"deniz",
-"gecti",
-"harekete",
-"korumak",
-"world",
-"yasamini"
-],
-[
-"bekliyor",
-"duragi",
-"hafta",
-"huzur",
-"izmir",
-"okurlarini",
-"sigacik",
-"sonu"
-],
-[
-"araniyordu",
-"bursa",
-"her",
-"operasyonla",
-"yakalandi",
-"yerde"
-],
-[
-"canli",
-"caykur",
-"hafta",
-"lig",
-"rizespor",
-"super",
-"trabzonspor"
-],
 [
 "canli",
 "caykur",
@@ -7984,20 +7947,68 @@
 "sok",
 "turan",
 "yildiz"
+],
+[
+"cagri",
+"cumhurbaskani",
+"dan",
+"herzog",
+"israil",
+"kaosu",
+"liderlere",
+"secim",
+"siyasi"
+],
+[
+"besiktas",
+"cumhuriyet",
+"duzenlendi",
+"yuruyusu"
+],
+[
+"366",
+"763",
+"aracla",
+"dan",
+"izmir",
+"izsu",
+"kritik",
+"mesaisi",
+"noktalarda",
+"onlemi",
+"personel",
+"saganak",
+"teyakkuz"
+],
+[
+"can",
+"corum",
+"feci",
+"kazada",
+"kisi",
+"pazari",
+"yaralandi"
+],
+[
+"abb",
+"den",
+"ekim",
+"etkinlik",
+"ozel"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-28T14:10:00+00:00",
-"Sonsöz (Ankara)": "2026-10-28T14:37:00+00:00",
+"Sonsöz (Ankara)": "2026-10-28T15:05:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-10-28T12:34:33+00:00",
-"Sözcü Son Dakika": "2026-10-28T14:45:45+00:00",
+"Mynet Son Dakika": "2026-10-28T14:24:46+00:00",
+"Sözcü Son Dakika": "2026-10-28T15:03:36+00:00",
 "Yeni Şafak Yerel": "2026-10-28T14:42:07+00:00",
-"X / Twitter Türkiye": "2026-10-28T12:07:42.697045+00:00",
+"X / Twitter Türkiye": "2026-10-28T15:07:44.176980+00:00",
 "Olay (Bursa)": "2026-10-28T14:36:17+00:00",
 "@islamasalya": "2026-10-28T13:39:26+00:00",
-"Yeni Asır (İzmir)": "2026-10-28T13:43:31+00:00",
-"İstanbul Gazetesi": "2026-10-28T13:00:00+00:00",
+"Yeni Asır (İzmir)": "2026-10-28T14:59:17+00:00",
+"İstanbul Gazetesi": "2026-10-28T14:47:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
 }
