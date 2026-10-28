@@ -1979,19 +1979,10 @@
 "c3128a62403c629b",
 "2ebb3d8457318720",
 "5e847edfed9f84b2",
-"a4209b5263bd6ec5"
+"a4209b5263bd6ec5",
+"6147d93788c91634"
 ],
 "imzalar": [
-[
-"aydin",
-"ertan",
-"eski",
-"gundemde",
-"kimdir",
-"milletvekili",
-"neden",
-"parti"
-],
 [
 "hatay",
 "iscilerin",
@@ -7786,11 +7777,19 @@
 "cubuk",
 "kaza",
 "korkutan"
+],
+[
+"kavga",
+"mardin",
+"nisan",
+"tekmeli",
+"toreninde",
+"yumruklu"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-27T21:52:00+00:00",
-"Sonsöz (Ankara)": "2026-10-27T23:20:00+00:00",
+"Sonsöz (Ankara)": "2026-10-28T00:19:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-27T20:21:10+00:00",
 "Sözcü Son Dakika": "2026-10-27T22:51:14+00:00",
