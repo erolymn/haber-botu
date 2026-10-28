@@ -2094,35 +2094,12 @@
 "c1531854007190da",
 "bb1ea62bb7eb7a0a",
 "f733afaa857f250d",
-"0d1b2075bb5a2a13"
+"0d1b2075bb5a2a13",
+"315b0adf7a13c526",
+"acc26e8dae033e3c",
+"c7c994a19ffe20a5"
 ],
 "imzalar": [
-[
-"baskani",
-"belediye",
-"bursa",
-"goruntuler",
-"isyan",
-"skandal"
-],
-[
-"adliyede",
-"adrese",
-"istanbul",
-"operasyon",
-"supheli",
-"zamanli"
-],
-[
-"arkeologlari",
-"bin",
-"kaldi",
-"kamerada",
-"kesif",
-"oncesinden",
-"sasirtan",
-"yil"
-],
 [
 "bakan",
 "basbakani",
@@ -7877,6 +7854,33 @@
 "mezar",
 "nin",
 "tarihi"
+],
+[
+"agza",
+"bursa",
+"geldi",
+"yurekler"
+],
+[
+"bulasici",
+"felaketi",
+"hastalik",
+"istanbul",
+"kritik",
+"riski",
+"sel",
+"sonrasi",
+"uyari"
+],
+[
+"ayriliga",
+"bakiliyordu",
+"dan",
+"gozuyle",
+"ismail",
+"kartal",
+"kesin",
+"vazgecti"
 ]
 ],
 "son_tarih": {
@@ -7884,10 +7888,10 @@
 "Sonsöz (Ankara)": "2026-10-28T09:14:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-28T08:21:59+00:00",
-"Sözcü Son Dakika": "2026-10-28T09:39:57+00:00",
-"Yeni Şafak Yerel": "2026-10-28T09:44:01+00:00",
+"Sözcü Son Dakika": "2026-10-28T10:04:37+00:00",
+"Yeni Şafak Yerel": "2026-10-28T09:58:19+00:00",
 "X / Twitter Türkiye": "2026-10-28T09:06:54.404933+00:00",
-"Olay (Bursa)": "2026-10-28T09:44:21+00:00",
+"Olay (Bursa)": "2026-10-28T09:53:36+00:00",
 "@islamasalya": "2026-10-28T08:02:20+00:00",
 "Yeni Asır (İzmir)": "2026-10-28T09:36:46+00:00",
 "İstanbul Gazetesi": "2026-10-28T09:30:00+00:00",
