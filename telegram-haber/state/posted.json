@@ -2200,53 +2200,13 @@
 "f24e7818c52f70c0",
 "effb55654c2254ee",
 "8ba3face16e1b1f4",
-"b5bf2cdb11e18fd0"
+"b5bf2cdb11e18fd0",
+"52c91011e493a119",
+"285600f7cdede3d2",
+"0c59ce1c266e8d15",
+"17a6c0f6c93d3c95"
 ],
 "imzalar": [
-[
-"araci",
-"artik",
-"bunu",
-"bursa",
-"edildi",
-"hava",
-"insansiz",
-"test",
-"yapacak"
-],
-[
-"itfaiye",
-"kafasi",
-"kayseri",
-"kediyi",
-"konserve",
-"kurtardi",
-"kutusuna",
-"sikisan"
-],
-[
-"alarm",
-"dikkat",
-"ilcelerde",
-"istanbul",
-"pes",
-"pese",
-"uyarilar",
-"verildi",
-"yasayanlar"
-],
-[
-"2027",
-"dunya",
-"kadinlar",
-"kimler",
-"kupasi",
-"nda",
-"nin",
-"rakipleri",
-"turkiye",
-"voleybol"
-],
 [
 "altinda",
 "bayrampasa",
@@ -7996,19 +7956,67 @@
 "tahliye",
 "tekin",
 "tip"
+],
+[
+"bakan",
+"butun",
+"devletimizin",
+"dolandiricilarla",
+"edecegiz",
+"gurlek",
+"imkanlariyla",
+"mucadele",
+"siber"
+],
+[
+"atesinde",
+"ege",
+"gece",
+"izmir",
+"klasigi",
+"kokorec",
+"komur",
+"mirasi",
+"sakli",
+"sehrin"
+],
+[
+"acilmadan",
+"bilgisayariniz",
+"birakanlar",
+"ele",
+"gecirilebilir",
+"guncellemesini",
+"sistem",
+"yandi",
+"yarim"
+],
+[
+"akp",
+"anketlere",
+"fon",
+"geldi",
+"gundeme",
+"kayip",
+"krizi",
+"myk",
+"parti",
+"puanlik",
+"yansidi",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-28T15:30:00+00:00",
+"Haber Global": "2026-10-28T15:40:00+00:00",
 "Sonsöz (Ankara)": "2026-10-28T15:05:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-28T14:24:46+00:00",
-"Sözcü Son Dakika": "2026-10-28T15:44:25+00:00",
-"Yeni Şafak Yerel": "2026-10-28T15:27:18+00:00",
+"Sözcü Son Dakika": "2026-10-28T16:05:26+00:00",
+"Yeni Şafak Yerel": "2026-10-28T15:59:49+00:00",
 "X / Twitter Türkiye": "2026-10-28T15:07:44.176980+00:00",
 "Olay (Bursa)": "2026-10-28T15:41:11+00:00",
 "@islamasalya": "2026-10-28T13:39:26+00:00",
-"Yeni Asır (İzmir)": "2026-10-28T14:59:17+00:00",
+"Yeni Asır (İzmir)": "2026-10-28T15:48:09+00:00",
 "İstanbul Gazetesi": "2026-10-28T14:47:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
