@@ -2247,36 +2247,12 @@
 "6c4b12e38552d663",
 "8b5945a5467e7caa",
 "a57a8a56658deaed",
-"2d97f4c052c89707"
+"2d97f4c052c89707",
+"3cd31bbace7e2dc5",
+"9ffaa066f715c379",
+"bce4056f6e544c72"
 ],
 "imzalar": [
-[
-"gordum",
-"mutlu",
-"nuri",
-"ozcan",
-"sahin",
-"salih"
-],
-[
-"asil",
-"eserin",
-"fenerbahce",
-"ona",
-"senin",
-"takim",
-"tepki"
-],
-[
-"acikladi",
-"arasinda",
-"devre",
-"konustuklarini",
-"odasinda",
-"reis",
-"soyunma",
-"thomas"
-],
 [
 "bursaspor",
 "iste",
@@ -8073,20 +8049,52 @@
 "kullandirana",
 "olanlar",
 "riski"
+],
+[
+"alisveriste",
+"degisti",
+"donem",
+"gore",
+"sayilari",
+"taksit",
+"taksitli",
+"urunlere",
+"yeni"
+],
+[
+"103",
+"cumhuriyet",
+"dolayisiyla",
+"duzenledi",
+"istanbul",
+"resepsiyon",
+"valiligi",
+"yili"
+],
+[
+"aciklama",
+"birakti",
+"galatasaray",
+"ismail",
+"jakobs",
+"milli",
+"senegal",
+"takimi",
+"yildizindan"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-28T19:42:00+00:00",
-"Sonsöz (Ankara)": "2026-10-28T19:43:00+00:00",
+"Sonsöz (Ankara)": "2026-10-28T19:55:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-28T18:58:46+00:00",
-"Sözcü Son Dakika": "2026-10-28T19:20:54+00:00",
+"Sözcü Son Dakika": "2026-10-28T19:59:43+00:00",
 "Yeni Şafak Yerel": "2026-10-28T19:38:32+00:00",
 "X / Twitter Türkiye": "2026-10-28T18:08:17.217273+00:00",
 "Olay (Bursa)": "2026-10-28T19:07:52+00:00",
 "@islamasalya": "2026-10-28T19:08:39+00:00",
 "Yeni Asır (İzmir)": "2026-10-28T17:06:56+00:00",
-"İstanbul Gazetesi": "2026-10-28T16:54:00+00:00",
+"İstanbul Gazetesi": "2026-10-28T19:58:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
 }
