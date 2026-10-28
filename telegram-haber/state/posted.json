@@ -1985,16 +1985,10 @@
 "fc3badd9e4551af3",
 "aa9e3f671720e76d",
 "df4da8e128f6c864",
-"4763bbfcd033739c"
+"4763bbfcd033739c",
+"780da796f738ebf8"
 ],
 "imzalar": [
-[
-"bin",
-"bitti",
-"ibb",
-"konut",
-"vermiyor"
-],
 [
 "belli",
 "brezilya",
@@ -7775,6 +7769,15 @@
 "saray",
 "yapiyor",
 "yapti"
+],
+[
+"bursa",
+"guzel",
+"haberler",
+"markasi",
+"nin",
+"olur",
+"yeniden"
 ]
 ],
 "son_tarih": {
@@ -7785,7 +7788,7 @@
 "Sözcü Son Dakika": "2026-10-28T01:30:43+00:00",
 "Yeni Şafak Yerel": "2026-10-28T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-10-28T00:06:21.664347+00:00",
-"Olay (Bursa)": "2026-10-27T21:03:46+00:00",
+"Olay (Bursa)": "2026-10-28T02:05:55+00:00",
 "@islamasalya": "2026-10-27T21:10:05+00:00",
 "Yeni Asır (İzmir)": "2026-10-27T22:08:26+00:00",
 "İstanbul Gazetesi": "2026-10-27T21:24:00+00:00",
