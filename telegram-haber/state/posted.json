@@ -2244,40 +2244,12 @@
 "2f1c9c0e8c087deb",
 "70cb7707701ec5a1",
 "03fcad408be52fca",
-"6c4b12e38552d663"
+"6c4b12e38552d663",
+"8b5945a5467e7caa",
+"a57a8a56658deaed",
+"2d97f4c052c89707"
 ],
 "imzalar": [
-[
-"ankara",
-"basibos",
-"dehseti",
-"halinde",
-"kopek",
-"saldirdilar",
-"suru"
-],
-[
-"den",
-"dondu",
-"gol",
-"kameralara",
-"olay",
-"osimhen",
-"sevinci"
-],
-[
-"anlar",
-"besiktas",
-"damga",
-"gol",
-"italiano",
-"macina",
-"olay",
-"ridvan",
-"sevinci",
-"vuran",
-"yilmaz"
-],
 [
 "gordum",
 "mutlu",
@@ -8071,15 +8043,45 @@
 "silivri",
 "suruyor",
 "tugberk"
+],
+[
+"disi",
+"itiraz",
+"milyonluk",
+"olaylar",
+"sira",
+"skandali",
+"tff",
+"zinciri"
+],
+[
+"akalan",
+"kazasinda",
+"memuru",
+"polis",
+"sehit",
+"tayfun",
+"trafik",
+"yaralanan"
+],
+[
+"banka",
+"bloke",
+"dikkat",
+"hesabi",
+"iban",
+"kullandirana",
+"olanlar",
+"riski"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-28T19:20:00+00:00",
-"Sonsöz (Ankara)": "2026-10-28T18:02:00+00:00",
+"Haber Global": "2026-10-28T19:42:00+00:00",
+"Sonsöz (Ankara)": "2026-10-28T19:43:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-28T18:58:46+00:00",
 "Sözcü Son Dakika": "2026-10-28T19:20:54+00:00",
-"Yeni Şafak Yerel": "2026-10-28T19:21:03+00:00",
+"Yeni Şafak Yerel": "2026-10-28T19:38:32+00:00",
 "X / Twitter Türkiye": "2026-10-28T18:08:17.217273+00:00",
 "Olay (Bursa)": "2026-10-28T19:07:52+00:00",
 "@islamasalya": "2026-10-28T19:08:39+00:00",
