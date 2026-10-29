@@ -2578,18 +2578,10 @@
 "72752b04f9e8ea6b",
 "ec61dce28f0612df",
 "f012f514c30cec4e",
-"8cbfd52f7802c4bd"
+"8cbfd52f7802c4bd",
+"5ebafce8e8f7fbb8"
 ],
 "imzalar": [
-[
-"arac",
-"carpisti",
-"mardin",
-"olu",
-"otomobil",
-"ticari",
-"yaralilar"
-],
 [
 "ayriligi",
 "dan",
@@ -8461,11 +8453,18 @@
 "ozel",
 "silueti",
 "solen"
+],
+[
+"almak",
+"dehseti",
+"isterken",
+"topunu",
+"yasadi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-29T21:52:00+00:00",
-"Sonsöz (Ankara)": "2026-10-29T22:20:00+00:00",
+"Sonsöz (Ankara)": "2026-10-29T22:54:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-29T20:14:20+00:00",
 "Sözcü Son Dakika": "2026-10-29T22:04:06+00:00",
