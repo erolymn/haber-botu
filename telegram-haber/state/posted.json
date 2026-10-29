@@ -2478,53 +2478,14 @@
 "ad87c74c019c3365",
 "6537f87324ea3184",
 "cf1ac5d39c56b205",
-"3dd2a32b416ee3b8"
+"3dd2a32b416ee3b8",
+"015369906e198f68",
+"29738ba37aa9764d",
+"b89e2ce3721a5448",
+"1032bc1e03941b0a",
+"c6f720c5bfc49190"
 ],
 "imzalar": [
-[
-"ataturk",
-"cumhuriyet",
-"gizli",
-"masasindaki",
-"plani",
-"sir",
-"zafer"
-],
-[
-"cikti",
-"dan",
-"hakim",
-"ilk",
-"karsisina",
-"kez",
-"olay",
-"sadettin",
-"saran",
-"sozler"
-],
-[
-"2027",
-"acilacak",
-"kutuphane",
-"nesil",
-"yeni"
-],
-[
-"anma",
-"ataturk",
-"gunu",
-"kasim",
-"resmi",
-"tatil"
-],
-[
-"ekim",
-"eskisehir",
-"provasi",
-"semalarinda",
-"soloturk",
-"ten"
-],
 [
 "aglarini",
 "basaksehir",
@@ -8409,19 +8370,64 @@
 "seritleri",
 "sisli",
 "taksiciler"
+],
+[
+"asilsizdir",
+"deki",
+"dmm",
+"iddialari",
+"israil",
+"mudahale",
+"secimlere"
+],
+[
+"aglayan",
+"agliyor",
+"aman",
+"burasi",
+"gercekten",
+"huzunlu",
+"izmir",
+"magara",
+"romantik",
+"rota"
+],
+[
+"bursa",
+"getirdi",
+"mantar",
+"onlari",
+"tutkusu"
+],
+[
+"acti",
+"dava",
+"hakan",
+"medyadaki",
+"mert",
+"paylasim",
+"sosyal"
+],
+[
+"doktu",
+"nin",
+"saclarini",
+"sena",
+"soykirimin",
+"uzuntusu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-29T14:04:00+00:00",
+"Haber Global": "2026-10-29T14:26:00+00:00",
 "Sonsöz (Ankara)": "2026-10-29T14:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-29T13:01:43+00:00",
-"Sözcü Son Dakika": "2026-10-29T14:28:33+00:00",
-"Yeni Şafak Yerel": "2026-10-29T14:29:46+00:00",
+"Sözcü Son Dakika": "2026-10-29T14:42:55+00:00",
+"Yeni Şafak Yerel": "2026-10-29T14:45:00+00:00",
 "X / Twitter Türkiye": "2026-10-29T12:10:06.117812+00:00",
-"Olay (Bursa)": "2026-10-29T14:03:53+00:00",
+"Olay (Bursa)": "2026-10-29T14:38:22+00:00",
 "@islamasalya": "2026-10-29T10:33:31+00:00",
-"Yeni Asır (İzmir)": "2026-10-29T14:16:14+00:00",
+"Yeni Asır (İzmir)": "2026-10-29T14:36:47+00:00",
 "İstanbul Gazetesi": "2026-10-29T13:50:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
