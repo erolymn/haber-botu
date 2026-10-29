@@ -2576,29 +2576,11 @@
 "bbb4d1530a7f26b0",
 "12ab8e85788411bf",
 "72752b04f9e8ea6b",
-"ec61dce28f0612df"
+"ec61dce28f0612df",
+"f012f514c30cec4e",
+"8cbfd52f7802c4bd"
 ],
 "imzalar": [
-[
-"avm",
-"binyamin",
-"dilendi",
-"elinde",
-"gezerek",
-"leri",
-"megafonla",
-"netanyahu"
-],
-[
-"basinda",
-"belli",
-"fenerbahce",
-"goztepe",
-"kimin",
-"macinda",
-"olacagi",
-"takimin"
-],
 [
 "arac",
 "carpisti",
@@ -8459,11 +8441,31 @@
 "tasacak",
 "yayinlanacak",
 "yeni"
+],
+[
+"2026",
+"buyuk",
+"ekrani",
+"gun",
+"kpss",
+"lisans",
+"sonuclari",
+"sorgulama"
+],
+[
+"ankara",
+"atakule",
+"ataturk",
+"ekim",
+"gorsel",
+"ozel",
+"silueti",
+"solen"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-10-29T21:52:00+00:00",
-"Sonsöz (Ankara)": "2026-10-29T20:34:00+00:00",
+"Sonsöz (Ankara)": "2026-10-29T22:20:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-29T20:14:20+00:00",
 "Sözcü Son Dakika": "2026-10-29T22:04:06+00:00",
@@ -8471,7 +8473,7 @@
 "X / Twitter Türkiye": "2026-10-29T21:11:20.861972+00:00",
 "Olay (Bursa)": "2026-10-29T20:15:42+00:00",
 "@islamasalya": "2026-10-29T17:11:07+00:00",
-"Yeni Asır (İzmir)": "2026-10-29T22:06:43+00:00",
+"Yeni Asır (İzmir)": "2026-10-29T22:14:57+00:00",
 "İstanbul Gazetesi": "2026-10-29T21:34:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
