@@ -2572,54 +2572,13 @@
 "f0d199f5fb9107fb",
 "6472664f96069715",
 "66df0b00dd1af124",
-"bc40d9d1b9471a0c"
+"bc40d9d1b9471a0c",
+"bbb4d1530a7f26b0",
+"12ab8e85788411bf",
+"72752b04f9e8ea6b",
+"ec61dce28f0612df"
 ],
 "imzalar": [
-[
-"guclu",
-"ihtiyac",
-"kurtulmus",
-"medyaya",
-"numan",
-"turkiye"
-],
-[
-"blok",
-"cogunlugu",
-"erdi",
-"hicbir",
-"islemi",
-"israil",
-"kullanma",
-"saglayamadi",
-"sona"
-],
-[
-"blok",
-"deki",
-"genel",
-"gore",
-"gorunuyor",
-"ilk",
-"israil",
-"kapandi",
-"karsiti",
-"muhalif",
-"netanyahu",
-"onde",
-"sandiklar",
-"secimlerde",
-"sonuclara"
-],
-[
-"eziyetle",
-"gulter",
-"hastalara",
-"kez",
-"suclaniyor",
-"tugyan",
-"ulkem"
-],
 [
 "avm",
 "binyamin",
@@ -8461,19 +8420,58 @@
 "rusvetle",
 "suclanan",
 "yoneticiye"
+],
+[
+"asacak",
+"bin",
+"carpici",
+"cikti",
+"emekli",
+"lirayi",
+"ortaya",
+"rakam",
+"zamminda"
+],
+[
+"agir",
+"biri",
+"devrildi",
+"kamyon",
+"kisi",
+"patates",
+"sivas",
+"yaralandi",
+"yuklu"
+],
+[
+"aciklama",
+"dervisoglu",
+"geldi",
+"goruntulerle",
+"ilgili",
+"ndan"
+],
+[
+"aksam",
+"bolum",
+"deniz",
+"hafta",
+"tasacak",
+"yayinlanacak",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-29T21:20:00+00:00",
+"Haber Global": "2026-10-29T21:52:00+00:00",
 "Sonsöz (Ankara)": "2026-10-29T20:34:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-29T20:14:20+00:00",
-"Sözcü Son Dakika": "2026-10-29T21:49:11+00:00",
-"Yeni Şafak Yerel": "2026-10-29T21:48:41+00:00",
+"Sözcü Son Dakika": "2026-10-29T22:04:06+00:00",
+"Yeni Şafak Yerel": "2026-10-29T21:52:58+00:00",
 "X / Twitter Türkiye": "2026-10-29T21:11:20.861972+00:00",
 "Olay (Bursa)": "2026-10-29T20:15:42+00:00",
 "@islamasalya": "2026-10-29T17:11:07+00:00",
-"Yeni Asır (İzmir)": "2026-10-29T19:31:04+00:00",
+"Yeni Asır (İzmir)": "2026-10-29T22:06:43+00:00",
 "İstanbul Gazetesi": "2026-10-29T21:34:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
