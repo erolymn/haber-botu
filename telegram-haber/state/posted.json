@@ -2300,51 +2300,13 @@
 "0cb1269922b4375d",
 "d33a298ceca84c07",
 "bded575075b1bec6",
-"d1104be781262dbd"
+"d1104be781262dbd",
+"eec414f9745cda53",
+"0da5a1f1b358c6c4",
+"9190c78e06f6a3c0",
+"c50aecfdc6f02071"
 ],
 "imzalar": [
-[
-"fenerbahce",
-"galatasaray",
-"lig",
-"maci",
-"siralama",
-"sonrasi",
-"super",
-"tablo"
-],
-[
-"cop31",
-"dan",
-"kuluplerine",
-"kurum",
-"lig",
-"murat",
-"super",
-"tesekkur"
-],
-[
-"bahcelievler",
-"binadaki",
-"daire",
-"duvari",
-"edildi",
-"iki",
-"istinat",
-"tahliye",
-"yikildi"
-],
-[
-"etmek",
-"fenerbahce",
-"iddiasi",
-"ismail",
-"istedigi",
-"istifa",
-"kartal",
-"one",
-"suruldu"
-],
 [
 "altin",
 "futbolcu",
@@ -8227,19 +8189,55 @@
 "kararini",
 "teknik",
 "verdi"
+],
+[
+"acik",
+"bugun",
+"ekim",
+"nobetci",
+"noter",
+"noterler"
+],
+[
+"bogazi",
+"devrim",
+"dusuruldu",
+"hurmuz",
+"iha",
+"iran",
+"muhafizlari",
+"nda",
+"tipi"
+],
+[
+"elektrik",
+"ilcede",
+"istanbul",
+"kesintisi",
+"saatlik"
+],
+[
+"duzenledigi",
+"gazze",
+"hayatini",
+"israil",
+"kaybetti",
+"kisi",
+"saldirilarda",
+"yaralandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-29T05:00:00+00:00",
+"Haber Global": "2026-10-29T05:21:00+00:00",
 "Sonsöz (Ankara)": "2026-10-29T02:14:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-29T04:17:59+00:00",
-"Sözcü Son Dakika": "2026-10-29T05:06:33+00:00",
-"Yeni Şafak Yerel": "2026-10-29T05:07:24+00:00",
+"Sözcü Son Dakika": "2026-10-29T05:25:49+00:00",
+"Yeni Şafak Yerel": "2026-10-29T05:27:54+00:00",
 "X / Twitter Türkiye": "2026-10-29T03:09:26.605284+00:00",
 "Olay (Bursa)": "2026-10-29T02:03:21+00:00",
 "@islamasalya": "2026-10-28T20:36:00+00:00",
-"Yeni Asır (İzmir)": "2026-10-29T03:50:16+00:00",
+"Yeni Asır (İzmir)": "2026-10-29T05:20:43+00:00",
 "İstanbul Gazetesi": "2026-10-28T21:00:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
