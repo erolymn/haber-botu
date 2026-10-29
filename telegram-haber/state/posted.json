@@ -2422,56 +2422,14 @@
 "fdd0486b127112d0",
 "9145e9bed3ec4a6a",
 "b6d71d6d8bc9d27e",
-"4c91d87dfe8aa276"
+"4c91d87dfe8aa276",
+"44d607558141aff7",
+"9ac660a78d7a4c5c",
+"2b68abedcdd70aee",
+"0363316523c0230c",
+"082698a46544b40f"
 ],
 "imzalar": [
-[
-"belli",
-"can",
-"kazada",
-"kimlikleri",
-"korkunc",
-"vermislerdi"
-],
-[
-"edirne",
-"gocmen",
-"kacak",
-"kisi",
-"tutuklandi",
-"yakalandi"
-],
-[
-"aciklanacak",
-"genclik",
-"iskur",
-"nasil",
-"programi",
-"sonuclari",
-"sorgulanir",
-"zaman"
-],
-[
-"acti",
-"ates",
-"dur",
-"havaya",
-"ihtarina",
-"kacti",
-"motosikletli",
-"polis",
-"uymayan"
-],
-[
-"anlamli",
-"ayeti",
-"dokunus",
-"duvarina",
-"konya",
-"mest",
-"oku",
-"okul"
-],
 [
 "altinda",
 "evlerinde",
@@ -8347,19 +8305,69 @@
 "nin",
 "turk",
 "yil"
+],
+[
+"erkan",
+"kimdir",
+"unal"
+],
+[
+"bayrami",
+"bilal",
+"cumhuriyet",
+"dan",
+"emanet",
+"gelecek",
+"mesaji",
+"ortak",
+"saygili"
+],
+[
+"120",
+"bin",
+"daki",
+"dolu",
+"ele",
+"gecirildi",
+"istanbul",
+"kacak",
+"makaron",
+"operasyonunda",
+"sigara"
+],
+[
+"acikladi",
+"cikti",
+"flaslar",
+"gizem",
+"kadini",
+"ortaya",
+"patlayinca",
+"yanindaki"
+],
+[
+"baskan",
+"belediye",
+"biba",
+"bursa",
+"buyuksehir",
+"cumhuriyet",
+"dan",
+"mesaji",
+"vekili"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-29T11:24:00+00:00",
+"Haber Global": "2026-10-29T11:32:00+00:00",
 "Sonsöz (Ankara)": "2026-10-29T11:26:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-29T11:01:11+00:00",
-"Sözcü Son Dakika": "2026-10-29T11:26:49+00:00",
-"Yeni Şafak Yerel": "2026-10-29T11:27:34+00:00",
+"Sözcü Son Dakika": "2026-10-29T11:43:49+00:00",
+"Yeni Şafak Yerel": "2026-10-29T11:42:39+00:00",
 "X / Twitter Türkiye": "2026-10-29T09:10:05.862049+00:00",
-"Olay (Bursa)": "2026-10-29T11:29:22+00:00",
+"Olay (Bursa)": "2026-10-29T11:49:51+00:00",
 "@islamasalya": "2026-10-29T10:33:31+00:00",
-"Yeni Asır (İzmir)": "2026-10-29T11:18:27+00:00",
+"Yeni Asır (İzmir)": "2026-10-29T11:36:18+00:00",
 "İstanbul Gazetesi": "2026-10-29T11:00:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
