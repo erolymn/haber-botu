@@ -2433,65 +2433,16 @@
 "f64f136b9783a28d",
 "2399cb2183aee8e4",
 "10887f5343c6bcef",
-"74f323d057e71d85"
+"74f323d057e71d85",
+"bfc9fb408231b3b9",
+"15405db2a7fccd2b",
+"851d22c7164952e7",
+"026921f9bb33d7c2",
+"d58c23f3f28ecbcf",
+"a3b3011538aa58a2",
+"837ee165b5c4d393"
 ],
 "imzalar": [
-[
-"almiyor",
-"anlasmasi",
-"hedef",
-"hicbir",
-"komisyonda",
-"mekke",
-"teklifi",
-"ulkeyi"
-],
-[
-"bahceli",
-"basladi",
-"bestepe",
-"erdogan",
-"gorusme",
-"kabul"
-],
-[
-"akkuyu",
-"asama",
-"kaydedildi",
-"ngs"
-],
-[
-"barikat",
-"cekti",
-"cuvallariyla",
-"dikkat",
-"istanbul",
-"kum",
-"kuruldu",
-"onlemi",
-"sel"
-],
-[
-"altyapisi",
-"dagitim",
-"enerjide",
-"gucleniyor"
-],
-[
-"adliyeye",
-"cekti",
-"dikkat",
-"geldi",
-"imajiyla",
-"sadettin",
-"saran",
-"yeni"
-],
-[
-"alarm",
-"kirmizi",
-"komsuda"
-],
 [
 "dehset",
 "emekli",
@@ -8357,20 +8308,88 @@
 "goren",
 "gunesi",
 "kostu"
+],
+[
+"bogaz",
+"camii",
+"kiyisinda",
+"sakli",
+"tarih",
+"vanikoy"
+],
+[
+"baba",
+"boyle",
+"calisti",
+"hastanede",
+"kizini",
+"kurup",
+"oldurmeye",
+"olmaz",
+"olsun",
+"pusu"
+],
+[
+"araya",
+"cumhurbaskani",
+"erdogan",
+"geldi",
+"mirziyoyev",
+"ozbekistan"
+],
+[
+"karisan",
+"kavgaya",
+"kisi",
+"silahli",
+"tutuklandi"
+],
+[
+"ayinda",
+"fenerbahce",
+"gelismesi",
+"guendouzi",
+"kararini",
+"ocak",
+"verdi",
+"yonetim"
+],
+[
+"abd",
+"derin",
+"donduruculari",
+"donusturdu",
+"firina",
+"gida",
+"saldiri",
+"siber",
+"tonlarca",
+"uslerine",
+"ziyan"
+],
+[
+"acti",
+"ekim",
+"gururu",
+"isin",
+"kapilarini",
+"tcg",
+"tekirdag",
+"ziyarete"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-29T11:50:00+00:00",
+"Haber Global": "2026-10-29T12:13:00+00:00",
 "Sonsöz (Ankara)": "2026-10-29T11:56:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-10-29T11:01:11+00:00",
-"Sözcü Son Dakika": "2026-10-29T12:07:33+00:00",
-"Yeni Şafak Yerel": "2026-10-29T11:42:39+00:00",
+"Mynet Son Dakika": "2026-10-29T12:08:13+00:00",
+"Sözcü Son Dakika": "2026-10-29T12:23:56+00:00",
+"Yeni Şafak Yerel": "2026-10-29T12:28:54+00:00",
 "X / Twitter Türkiye": "2026-10-29T12:10:06.117812+00:00",
-"Olay (Bursa)": "2026-10-29T12:09:52+00:00",
+"Olay (Bursa)": "2026-10-29T12:17:05+00:00",
 "@islamasalya": "2026-10-29T10:33:31+00:00",
-"Yeni Asır (İzmir)": "2026-10-29T11:36:18+00:00",
-"İstanbul Gazetesi": "2026-10-29T11:54:00+00:00",
+"Yeni Asır (İzmir)": "2026-10-29T12:17:26+00:00",
+"İstanbul Gazetesi": "2026-10-29T12:00:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
 }
