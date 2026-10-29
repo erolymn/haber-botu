@@ -2563,28 +2563,12 @@
 "446d3f2ad7509c30",
 "62d8ea69bbda18c7",
 "7113886785b2dfe8",
-"cc503842e8c7960b"
+"cc503842e8c7960b",
+"006017796fb88082",
+"cd1753f9fd980dd5",
+"6fa3048ebbacf18f"
 ],
 "imzalar": [
-[
-"bin",
-"gazzeli",
-"lim",
-"sehit",
-"seyh"
-],
-[
-"alindi",
-"ataturk",
-"bayragina",
-"bulunan",
-"gozaltina",
-"hakaret",
-"icerikli",
-"ogretmen",
-"paylasimda",
-"turk"
-],
 [
 "alev",
 "arnavutkoy",
@@ -8446,16 +8430,36 @@
 "eskisehirspor",
 "kapti",
 "turu"
+],
+[
+"ait",
+"askeri",
+"baris",
+"dustu",
+"gucune",
+"helikopter",
+"olu",
+"yarali"
+],
+[
+"caddeler",
+"dondu",
+"etkisini",
+"gole",
+"gosterdi",
+"saganak",
+"tekirdag",
+"yagis"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-29T20:39:00+00:00",
+"Haber Global": "2026-10-29T21:08:00+00:00",
 "Sonsöz (Ankara)": "2026-10-29T20:34:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-29T20:14:20+00:00",
-"Sözcü Son Dakika": "2026-10-29T20:49:19+00:00",
+"Sözcü Son Dakika": "2026-10-29T20:54:21+00:00",
 "Yeni Şafak Yerel": "2026-10-29T20:47:30+00:00",
-"X / Twitter Türkiye": "2026-10-29T18:10:45.295062+00:00",
+"X / Twitter Türkiye": "2026-10-29T21:11:20.861972+00:00",
 "Olay (Bursa)": "2026-10-29T20:15:42+00:00",
 "@islamasalya": "2026-10-29T17:11:07+00:00",
 "Yeni Asır (İzmir)": "2026-10-29T19:31:04+00:00",
