@@ -2292,30 +2292,12 @@
 "0a7f5abd815e09da",
 "7f696d05ee0e5f7a",
 "520d066fa292b061",
-"9fde7c0bbfc6cc44"
+"9fde7c0bbfc6cc44",
+"835501ec08645a55",
+"1e97ed72260a02d6",
+"a3f6d043f8c5d173"
 ],
 "imzalar": [
-[
-"bakanliktan",
-"baskinina",
-"dikkat",
-"saganak",
-"sel",
-"uyarisi"
-],
-[
-"akp",
-"arpaliktan",
-"cikti",
-"liler"
-],
-[
-"bursali",
-"enerji",
-"gelecegin",
-"liderinden",
-"uyarisi"
-],
 [
 "birebir",
 "bursa",
@@ -8197,14 +8179,43 @@
 "perisan",
 "sozler",
 "tugay"
+],
+[
+"alarm",
+"bakan",
+"ciftci",
+"duyurdu",
+"geliyor",
+"ilde",
+"kuvvetli",
+"verildi",
+"yagis"
+],
+[
+"bugun",
+"dikkat",
+"istanbullular",
+"kapatildi",
+"trafige",
+"yollar"
+],
+[
+"anasindan",
+"babayigit",
+"dogmadi",
+"kim",
+"meydan",
+"oglumu",
+"okuyan",
+"tutuklayacak"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-29T03:42:00+00:00",
+"Haber Global": "2026-10-29T04:22:00+00:00",
 "Sonsöz (Ankara)": "2026-10-29T02:14:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-10-28T18:58:46+00:00",
-"Sözcü Son Dakika": "2026-10-29T04:06:22+00:00",
+"Mynet Son Dakika": "2026-10-29T04:17:59+00:00",
+"Sözcü Son Dakika": "2026-10-29T04:27:23+00:00",
 "Yeni Şafak Yerel": "2026-10-29T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-10-29T03:09:26.605284+00:00",
 "Olay (Bursa)": "2026-10-29T02:03:21+00:00",
