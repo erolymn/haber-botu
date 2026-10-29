@@ -2440,81 +2440,16 @@
 "026921f9bb33d7c2",
 "d58c23f3f28ecbcf",
 "a3b3011538aa58a2",
-"837ee165b5c4d393"
+"837ee165b5c4d393",
+"e28b76789433b778",
+"f27382ccef436546",
+"69a17432f47dcc8d",
+"239d634527cbc3b2",
+"271e3a324588963b",
+"ec82f3b7a1bd1d21",
+"0f690857a73fd113"
 ],
 "imzalar": [
-[
-"dehset",
-"emekli",
-"intihar",
-"kardesini",
-"oldurup",
-"polis",
-"sacti"
-],
-[
-"bulunan",
-"cezasi",
-"hukumlu",
-"izmir",
-"yakalandi",
-"yil"
-],
-[
-"belli",
-"derbiden",
-"haftanin",
-"isim",
-"lig",
-"super",
-"tek"
-],
-[
-"can",
-"cocuklarini",
-"feci",
-"iterek",
-"kendisi",
-"kurtardi",
-"sekilde",
-"verdi"
-],
-[
-"aciklama",
-"araya",
-"bakan",
-"cemil",
-"cevre",
-"geldi",
-"izmir",
-"kritik",
-"proje",
-"rahatlatacak",
-"trafigini",
-"tugay",
-"uraloglu",
-"yolu"
-],
-[
-"ankara",
-"arda",
-"davasi",
-"iddiasi",
-"kan",
-"mamak",
-"nin",
-"olumunde",
-"yasindaki"
-],
-[
-"belediyesi",
-"egitimi",
-"inegol",
-"nden",
-"personele",
-"temelleri",
-"yalin"
-],
 [
 "boyle",
 "dedigi",
@@ -8376,20 +8311,73 @@
 "tcg",
 "tekirdag",
 "ziyarete"
+],
+[
+"baslayacak",
+"dgs",
+"kayitlari",
+"yerlestirme",
+"zaman"
+],
+[
+"galatasaray",
+"hazirliklarini",
+"konyaspor",
+"macinin",
+"tamamladi"
+],
+[
+"bos",
+"girdi",
+"hastaneye",
+"kizini",
+"odada",
+"vurmak",
+"yakalandi"
+],
+[
+"aileden",
+"ayni",
+"corum",
+"feci",
+"hayatini",
+"kaybetti",
+"kaza",
+"kisi"
+],
+[
+"bursalilara",
+"duyuru",
+"kadar",
+"kapali",
+"kasim",
+"onemli"
+],
+[
+"aliyev",
+"gelmiyor",
+"turkiye"
+],
+[
+"coktu",
+"kapadokya",
+"olu",
+"peribacasi",
+"yaralilar"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-29T12:13:00+00:00",
-"Sonsöz (Ankara)": "2026-10-29T11:56:00+00:00",
+"Haber Global": "2026-10-29T12:34:00+00:00",
+"Sonsöz (Ankara)": "2026-10-29T12:41:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-29T12:08:13+00:00",
-"Sözcü Son Dakika": "2026-10-29T12:23:56+00:00",
-"Yeni Şafak Yerel": "2026-10-29T12:28:54+00:00",
+"Sözcü Son Dakika": "2026-10-29T12:47:33+00:00",
+"Yeni Şafak Yerel": "2026-10-29T12:49:04+00:00",
 "X / Twitter Türkiye": "2026-10-29T12:10:06.117812+00:00",
-"Olay (Bursa)": "2026-10-29T12:17:05+00:00",
+"Olay (Bursa)": "2026-10-29T12:46:06+00:00",
 "@islamasalya": "2026-10-29T10:33:31+00:00",
-"Yeni Asır (İzmir)": "2026-10-29T12:17:26+00:00",
-"İstanbul Gazetesi": "2026-10-29T12:00:00+00:00",
+"Yeni Asır (İzmir)": "2026-10-29T12:24:14+00:00",
+"İstanbul Gazetesi": "2026-10-29T12:39:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
 }
