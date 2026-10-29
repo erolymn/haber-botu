@@ -2526,49 +2526,14 @@
 "224c1d1ca8dca710",
 "ba28d941173f925e",
 "7f76f1e85b698bd7",
-"a5c4ef5b338cc017"
+"a5c4ef5b338cc017",
+"78ccf86d8840c6ca",
+"2783bae27a59eb22",
+"1bfa8f77a8e1d30c",
+"045d182b539a8802",
+"8b889bd12ca1a55b"
 ],
 "imzalar": [
-[
-"elazigspor",
-"elendi",
-"kupasi",
-"ndan",
-"turkiye",
-"vanspor"
-],
-[
-"avdagic",
-"buyuk",
-"farkla",
-"ito",
-"kazandi",
-"listesi",
-"secimleri",
-"secimlerinde",
-"sekib"
-],
-[
-"bogazi",
-"dron",
-"gecisi",
-"istanbul",
-"kapandi",
-"nedeniyle",
-"saldirisina",
-"tankerin",
-"trafige",
-"ugrayan"
-],
-[
-"dinozor",
-"dudak",
-"fiyata",
-"iskeleti",
-"metrelik",
-"satildi",
-"ucuklatan"
-],
 [
 "emekliye",
 "formulu",
@@ -8418,20 +8383,54 @@
 "tugyan",
 "yeni",
 "yogun"
+],
+[
+"carpti",
+"cekiciye",
+"halindeki",
+"iett",
+"otobusu",
+"park"
+],
+[
+"cagdas",
+"cavus",
+"hocasi",
+"sivasspor",
+"yeni"
+],
+[
+"golle",
+"kasimpasa",
+"tura",
+"yukseldi"
+],
+[
+"alarm",
+"arabistan",
+"devreye",
+"girdi",
+"hava",
+"patlama",
+"savunma",
+"sesleri",
+"sistemleri",
+"suudi",
+"verildi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-29T17:18:00+00:00",
+"Haber Global": "2026-10-29T17:59:00+00:00",
 "Sonsöz (Ankara)": "2026-10-29T16:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-29T17:21:28+00:00",
-"Sözcü Son Dakika": "2026-10-29T17:35:26+00:00",
-"Yeni Şafak Yerel": "2026-10-29T17:49:17+00:00",
-"X / Twitter Türkiye": "2026-10-29T15:10:46.351179+00:00",
+"Sözcü Son Dakika": "2026-10-29T18:00:18+00:00",
+"Yeni Şafak Yerel": "2026-10-29T18:03:54+00:00",
+"X / Twitter Türkiye": "2026-10-29T18:10:45.295062+00:00",
 "Olay (Bursa)": "2026-10-29T17:17:53+00:00",
 "@islamasalya": "2026-10-29T17:11:07+00:00",
 "Yeni Asır (İzmir)": "2026-10-29T17:39:20+00:00",
-"İstanbul Gazetesi": "2026-10-29T17:49:00+00:00",
+"İstanbul Gazetesi": "2026-10-29T17:54:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
 }
