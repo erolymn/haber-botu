@@ -2619,49 +2619,13 @@
 "51f81949dc9e77bc",
 "98ba25a05f93a0d4",
 "30366c218c042b8c",
-"c525293d647c034f"
+"c525293d647c034f",
+"b20fb97589742dfe",
+"2761d85ae52c08cb",
+"48bbcfcb111d86be",
+"b0a356acbfad7249"
 ],
 "imzalar": [
-[
-"aciklamasi",
-"direktorlugu",
-"fenerbahce",
-"gundem",
-"isim",
-"montella",
-"onerisi",
-"teknik"
-],
-[
-"552",
-"alanlar",
-"bin",
-"emekli",
-"formul",
-"hesap",
-"iki",
-"maaslarina",
-"ocak",
-"yeni",
-"zamminda"
-],
-[
-"abd",
-"aylik",
-"bebek",
-"denilerek",
-"kaldirildi",
-"morga",
-"skandal"
-],
-[
-"acil",
-"cagrisi",
-"geldi",
-"stok",
-"ulkeden",
-"yapin"
-],
 [
 "adli",
 "ait",
@@ -8503,19 +8467,63 @@
 "sarigul",
 "sorusturmasinda",
 "yeni"
+],
+[
+"endiseleri",
+"hisseleri",
+"kuresel",
+"piyasalarda",
+"teknoloji"
+],
+[
+"ayinda",
+"bag",
+"emeklisine",
+"hesabi",
+"kadar",
+"kur",
+"maaslar",
+"ocak",
+"olacak",
+"ssk",
+"yeni",
+"zam"
+],
+[
+"belli",
+"eksik",
+"galatasaray",
+"iste",
+"kadrosu",
+"kimler",
+"konyaspor",
+"ler",
+"mac",
+"muhtemel",
+"tumosan"
+],
+[
+"ayakkabi",
+"deniz",
+"giydi",
+"kemigi",
+"kirilan",
+"legen",
+"seki",
+"topuklu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-30T05:47:00+00:00",
+"Haber Global": "2026-10-30T06:16:00+00:00",
 "Sonsöz (Ankara)": "2026-10-30T01:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-30T05:15:20+00:00",
-"Sözcü Son Dakika": "2026-10-30T06:10:22+00:00",
-"Yeni Şafak Yerel": "2026-10-30T06:03:20+00:00",
+"Sözcü Son Dakika": "2026-10-30T06:27:22+00:00",
+"Yeni Şafak Yerel": "2026-10-30T06:25:38+00:00",
 "X / Twitter Türkiye": "2026-10-30T06:12:16.229392+00:00",
 "Olay (Bursa)": "2026-10-30T02:10:00+00:00",
 "@islamasalya": "2026-10-29T17:11:07+00:00",
-"Yeni Asır (İzmir)": "2026-10-30T05:59:19+00:00",
+"Yeni Asır (İzmir)": "2026-10-30T06:21:06+00:00",
 "İstanbul Gazetesi": "2026-10-30T06:01:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
