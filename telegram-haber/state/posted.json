@@ -2702,19 +2702,10 @@
 "4a3b30371f3d252f",
 "90de7c2f7d8b64cd",
 "278a4fdb11e19757",
-"e0559f93a16ab494"
+"e0559f93a16ab494",
+"b1ba7e33e9db8968"
 ],
 "imzalar": [
-[
-"akas",
-"cem",
-"gecen",
-"hafta",
-"kaybetmisti",
-"oglunu",
-"yasamini",
-"yitirdi"
-],
 [
 "azaltabilir",
 "dis",
@@ -8606,6 +8597,14 @@
 "negatif",
 "seyretti",
 "yarisinda"
+],
+[
+"bursa",
+"cekirdekten",
+"deneyim",
+"fincana",
+"fsm",
+"yeni"
 ]
 ],
 "son_tarih": {
@@ -8616,7 +8615,7 @@
 "Sözcü Son Dakika": "2026-10-30T10:29:33+00:00",
 "Yeni Şafak Yerel": "2026-10-30T10:22:53+00:00",
 "X / Twitter Türkiye": "2026-10-30T09:12:16.898764+00:00",
-"Olay (Bursa)": "2026-10-30T10:27:27+00:00",
+"Olay (Bursa)": "2026-10-30T10:32:23+00:00",
 "@islamasalya": "2026-10-30T09:41:19+00:00",
 "Yeni Asır (İzmir)": "2026-10-30T10:02:09+00:00",
 "İstanbul Gazetesi": "2026-10-30T10:25:00+00:00",
