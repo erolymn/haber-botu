@@ -2729,72 +2729,15 @@
 "d557849a77c4dd48",
 "8568b43241de9c83",
 "1d75a6a91fc0c75d",
-"7adcea9392c2440d"
+"7adcea9392c2440d",
+"12cb9a9f5d385dcb",
+"6baa7677d5c76b5d",
+"ea7de89a8c361cbd",
+"1be3762e092077ab",
+"6656dfd8ce11a98a",
+"40646d0fa7f4b0c8"
 ],
 "imzalar": [
-[
-"ara",
-"baslayacak",
-"cuma",
-"fon",
-"gunu",
-"ilk",
-"koordinasyon",
-"kurulu",
-"odemeler",
-"toplantisi"
-],
-[
-"alindi",
-"bursa",
-"dunyasi",
-"dusunce",
-"ele",
-"kemal",
-"osmangazi",
-"yahya"
-],
-[
-"bakanligi",
-"birlik",
-"dilde",
-"disisleri",
-"fikirde",
-"iste",
-"konseyi",
-"tdt",
-"toplantisi",
-"turk",
-"yapilacak",
-"yarin",
-"yuzyili"
-],
-[
-"borsa",
-"gunu",
-"nasil",
-"tamamladi"
-],
-[
-"bine",
-"fon",
-"hesaba",
-"koordinasyon",
-"kurulu",
-"milyar",
-"odeme",
-"toplantisi",
-"yakin",
-"yapildi"
-],
-[
-"acil",
-"alarm",
-"cagri",
-"gunluk",
-"halka",
-"japonya"
-],
 [
 "bakan",
 "gorustu",
@@ -8613,17 +8556,75 @@
 "kerem",
 "milyon",
 "odeyecek"
+],
+[
+"bulusuyor",
+"devleri",
+"istanbul",
+"otel",
+"restoran",
+"sektorunun"
+],
+[
+"adini",
+"altust",
+"bilmedigi",
+"cikamiyor",
+"hastalik",
+"hayati",
+"teshisle",
+"yanlis",
+"yataktan",
+"yuzunden"
+],
+[
+"donuldu",
+"faciadan",
+"girince",
+"istanbul",
+"kanadi",
+"kopenhag",
+"kus",
+"parcalandi",
+"seferinde",
+"surusune",
+"ucak"
+],
+[
+"basketbol",
+"devinden",
+"hamlesi",
+"italyan",
+"takimi"
+],
+[
+"163",
+"ankara",
+"bildirisi",
+"dev",
+"dunyasinda",
+"imza",
+"maddelik",
+"turk",
+"yayimlandi"
+],
+[
+"kara",
+"kaymakami",
+"muratpasa",
+"topraga",
+"verildi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-30T11:26:00+00:00",
-"Sonsöz (Ankara)": "2026-10-30T11:22:00+00:00",
+"Haber Global": "2026-10-30T11:43:00+00:00",
+"Sonsöz (Ankara)": "2026-10-30T11:52:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-10-30T09:26:49+00:00",
-"Sözcü Son Dakika": "2026-10-30T11:31:49+00:00",
-"Yeni Şafak Yerel": "2026-10-30T11:28:33+00:00",
+"Mynet Son Dakika": "2026-10-30T11:46:31+00:00",
+"Sözcü Son Dakika": "2026-10-30T11:45:10+00:00",
+"Yeni Şafak Yerel": "2026-10-30T11:49:27+00:00",
 "X / Twitter Türkiye": "2026-10-30T09:12:16.898764+00:00",
-"Olay (Bursa)": "2026-10-30T11:28:47+00:00",
+"Olay (Bursa)": "2026-10-30T11:47:04+00:00",
 "@islamasalya": "2026-10-30T09:41:19+00:00",
 "Yeni Asır (İzmir)": "2026-10-30T11:08:42+00:00",
 "İstanbul Gazetesi": "2026-10-30T11:14:00+00:00",
