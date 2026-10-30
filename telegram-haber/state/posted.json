@@ -2777,35 +2777,11 @@
 "29eaf551bd71fc76",
 "f1e0f3993244c276",
 "f2dd5b10631b20ac",
-"926b49e5af6ddfdb"
+"926b49e5af6ddfdb",
+"860cc26f88dd50ff",
+"a00d9ab3e9842b9d"
 ],
 "imzalar": [
-[
-"bakani",
-"baskani",
-"belediye",
-"buyuksehir",
-"ciftci",
-"icisleri",
-"izmir",
-"kabul",
-"tugay"
-],
-[
-"altinda",
-"arazileri",
-"cenneti",
-"evler",
-"felaketi",
-"kaldi",
-"mugla",
-"nin",
-"tarim",
-"tatil",
-"turkiye",
-"yasiyor",
-"yerleri"
-],
 [
 "aya",
 "destegi",
@@ -8670,6 +8646,29 @@
 "once",
 "sakladigi",
 "servetini"
+],
+[
+"aciklanacak",
+"anketlerden",
+"emekli",
+"enflasyon",
+"gunu",
+"kritik",
+"memur",
+"oncesi",
+"sali",
+"tahmini",
+"veri",
+"viraj",
+"zammi"
+],
+[
+"bursaspor",
+"devine",
+"gol",
+"lig",
+"makinesi",
+"super"
 ]
 ],
 "son_tarih": {
@@ -8677,8 +8676,8 @@
 "Sonsöz (Ankara)": "2026-10-30T13:29:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-30T11:46:31+00:00",
-"Sözcü Son Dakika": "2026-10-30T13:51:07+00:00",
-"Yeni Şafak Yerel": "2026-10-30T13:49:11+00:00",
+"Sözcü Son Dakika": "2026-10-30T14:03:52+00:00",
+"Yeni Şafak Yerel": "2026-10-30T14:11:45+00:00",
 "X / Twitter Türkiye": "2026-10-30T12:12:59.331906+00:00",
 "Olay (Bursa)": "2026-10-30T13:42:46+00:00",
 "@islamasalya": "2026-10-30T09:41:19+00:00",
