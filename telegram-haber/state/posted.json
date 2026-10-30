@@ -2584,20 +2584,10 @@
 "19761f11000965ff",
 "6a88f5429ff24365",
 "10e018053a657a07",
-"9d9b06d5bbb43d51"
+"9d9b06d5bbb43d51",
+"1422f7c20a6a4e7b"
 ],
 "imzalar": [
-[
-"atti",
-"belediyesi",
-"chp",
-"kadikoy",
-"lileri",
-"partili",
-"tuvaletin",
-"yanina",
-"yeni"
-],
 [
 "fon",
 "sorusturmasinda",
@@ -8456,6 +8446,14 @@
 "mersin",
 "tutun",
 "yangin"
+],
+[
+"bursa",
+"dag",
+"ina",
+"odulu",
+"tarkan",
+"yil"
 ]
 ],
 "son_tarih": {
@@ -8466,7 +8464,7 @@
 "Sözcü Son Dakika": "2026-10-29T22:04:06+00:00",
 "Yeni Şafak Yerel": "2026-10-30T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-10-30T00:11:42.618941+00:00",
-"Olay (Bursa)": "2026-10-29T20:15:42+00:00",
+"Olay (Bursa)": "2026-10-30T02:10:00+00:00",
 "@islamasalya": "2026-10-29T17:11:07+00:00",
 "Yeni Asır (İzmir)": "2026-10-29T22:14:57+00:00",
 "İstanbul Gazetesi": "2026-10-29T21:34:00+00:00",
