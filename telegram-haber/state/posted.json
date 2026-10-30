@@ -2862,27 +2862,11 @@
 "867a7cf7abe10e94",
 "773df3729f794902",
 "8cb1e2ca466bd3e3",
-"6cd1de7e661ae9c6"
+"6cd1de7e661ae9c6",
+"3cd0c8395dfa7673",
+"29143033a52d96ec"
 ],
 "imzalar": [
-[
-"bayrami",
-"bozbey",
-"cumhuriyet",
-"den",
-"mesaji",
-"mustafa"
-],
-[
-"camdan",
-"carpan",
-"duzce",
-"girdi",
-"iceri",
-"motosiklet",
-"otomobile",
-"surucusu"
-],
 [
 "arap",
 "cagrisi",
@@ -8809,11 +8793,31 @@
 "orta",
 "tedirgin",
 "ucagi"
+],
+[
+"basvurusunu",
+"feridun",
+"genel",
+"nun",
+"resmi",
+"sekreterligi",
+"sinirlioglu",
+"turkiye",
+"yapti"
+],
+[
+"alman",
+"atlanta",
+"bakan",
+"fidan",
+"gorustu",
+"mevkidasi",
+"wadephul"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-30T22:26:00+00:00",
-"Sonsöz (Ankara)": "2026-10-30T22:14:00+00:00",
+"Haber Global": "2026-10-30T23:01:00+00:00",
+"Sonsöz (Ankara)": "2026-10-30T23:22:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-30T17:25:45+00:00",
 "Sözcü Son Dakika": "2026-10-30T22:35:54+00:00",
