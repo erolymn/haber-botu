@@ -18,7 +18,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  ARALIK_DK: 20               # kaç dakikada bir yayın
+  ARALIK_DK: 40               # kaç dakikada bir yayın
   SURE_DK: 330                # bir çalışmanın toplam süresi (GitHub sınırı 360)
 
 jobs:
