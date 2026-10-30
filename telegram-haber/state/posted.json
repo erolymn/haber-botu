@@ -2804,70 +2804,15 @@
 "0c6939a8309dd4f8",
 "665e97c3586b09b3",
 "436740d999ca3111",
-"341d3f55f78a77a5"
+"341d3f55f78a77a5",
+"181eed71f8561813",
+"cf1bf4df604fd8e9",
+"f3e5f5eed2038b36",
+"70298bc06cdaff4f",
+"0b8cfcd00d935d9a",
+"90a13bfbc0b79f36"
 ],
 "imzalar": [
-[
-"altinda",
-"anda",
-"bastirdi",
-"cenneti",
-"dustu",
-"kilogram",
-"metrekareye",
-"sular",
-"tatil",
-"yagis"
-],
-[
-"ayni",
-"cikacak",
-"dunya",
-"farkli",
-"futbolunda",
-"gun",
-"ilginc",
-"maca",
-"olay",
-"saatte"
-],
-[
-"cumhurbaskani",
-"daki",
-"dan",
-"erdogan",
-"ispanya",
-"kazasi",
-"mesaji",
-"taziye",
-"tren"
-],
-[
-"aksam",
-"dikkat",
-"istanbul",
-"saatlerine",
-"saganak",
-"uyarisi",
-"yeni"
-],
-[
-"aciklama",
-"belli",
-"gorev",
-"kuyt",
-"menajerinden",
-"sasirtan",
-"suresi"
-],
-[
-"bursa",
-"buyuksehir",
-"cumhuriyet",
-"den",
-"sergisi",
-"yuzleri"
-],
 [
 "aniti",
 "ataturk",
@@ -8738,20 +8683,83 @@
 "vekil",
 "yeni",
 "yol"
+],
+[
+"basladi",
+"dan",
+"dolce",
+"donus",
+"express",
+"istanbul",
+"orient",
+"roma",
+"vita",
+"yolculuguna"
+],
+[
+"ayrilik",
+"ceken",
+"deva",
+"dikkat",
+"duyurdu",
+"ertugrul",
+"istifa",
+"kararini",
+"kaya",
+"nde",
+"partisi"
+],
+[
+"aydinlatildi",
+"bakan",
+"cinayet",
+"duyurdu",
+"faili",
+"gurlek",
+"mechul"
+],
+[
+"abd",
+"baskani",
+"erecek",
+"iran",
+"savas",
+"sona",
+"trump",
+"yakinda"
+],
+[
+"altindaki",
+"cikti",
+"fark",
+"gizemli",
+"lahit",
+"ortaya",
+"surerken",
+"tarlasini",
+"topragin"
+],
+[
+"aciklamasi",
+"kotu",
+"sakatlik",
+"trabzonspor",
+"yapildi",
+"yildizindan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-30T16:05:00+00:00",
-"Sonsöz (Ankara)": "2026-10-30T15:42:00+00:00",
+"Haber Global": "2026-10-30T16:40:00+00:00",
+"Sonsöz (Ankara)": "2026-10-30T16:29:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-30T11:46:31+00:00",
-"Sözcü Son Dakika": "2026-10-30T16:11:25+00:00",
-"Yeni Şafak Yerel": "2026-10-30T16:07:38+00:00",
+"Sözcü Son Dakika": "2026-10-30T16:48:55+00:00",
+"Yeni Şafak Yerel": "2026-10-30T16:47:11+00:00",
 "X / Twitter Türkiye": "2026-10-30T15:32:05.172936+00:00",
 "Olay (Bursa)": "2026-10-30T14:42:40+00:00",
 "@islamasalya": "2026-10-30T15:37:00+00:00",
-"Yeni Asır (İzmir)": "2026-10-30T16:03:03+00:00",
-"İstanbul Gazetesi": "2026-10-30T15:26:00+00:00",
+"Yeni Asır (İzmir)": "2026-10-30T16:32:56+00:00",
+"İstanbul Gazetesi": "2026-10-30T16:14:00+00:00",
 "Kandilli Rasathanesi": "2026-10-30T14:30:01+00:00"
 }
 }
