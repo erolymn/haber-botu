@@ -2593,47 +2593,12 @@
 "92a676f23c200e74",
 "a681e8fc581672da",
 "58f99f6f1e7bfa58",
-"7d154c251bde3686"
+"7d154c251bde3686",
+"b9cde96151743592",
+"cfbb962d1e9d7d68",
+"cfe2922d161f4d3f"
 ],
 "imzalar": [
-[
-"arac",
-"carpisti",
-"hafif",
-"kafa",
-"kafaya",
-"otomobil",
-"ticari"
-],
-[
-"2026",
-"battaniye",
-"demlik",
-"ekim",
-"kasim",
-"katalogu",
-"market",
-"mum",
-"raflarda",
-"seti",
-"sok",
-"tava",
-"terlik"
-],
-[
-"akp",
-"aralarinda",
-"asuman",
-"erdogan",
-"esi",
-"holding",
-"mal",
-"pasifik",
-"tedbir",
-"varliklarina",
-"vekil",
-"yoneticisinin"
-],
 [
 "beyoglu",
 "bina",
@@ -8460,19 +8425,40 @@
 "siber",
 "videosu",
 "yasanir"
+],
+[
+"bandirmali",
+"biga",
+"bulundu",
+"cesedi",
+"gencin"
+],
+[
+"basliyor",
+"liderler",
+"tdt",
+"temasiyla",
+"turk",
+"yuzyili",
+"zirvesi"
+],
+[
+"bayram",
+"dedetas",
+"tahliyesi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-30T03:20:00+00:00",
+"Haber Global": "2026-10-30T03:55:00+00:00",
 "Sonsöz (Ankara)": "2026-10-30T01:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-30T03:16:20+00:00",
-"Sözcü Son Dakika": "2026-10-30T03:35:51+00:00",
+"Sözcü Son Dakika": "2026-10-30T04:06:17+00:00",
 "Yeni Şafak Yerel": "2026-10-30T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-10-30T03:11:45.073390+00:00",
 "Olay (Bursa)": "2026-10-30T02:10:00+00:00",
 "@islamasalya": "2026-10-29T17:11:07+00:00",
-"Yeni Asır (İzmir)": "2026-10-29T22:14:57+00:00",
+"Yeni Asır (İzmir)": "2026-10-30T03:50:20+00:00",
 "İstanbul Gazetesi": "2026-10-29T21:34:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
