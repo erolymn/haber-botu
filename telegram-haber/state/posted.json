@@ -2810,92 +2810,17 @@
 "f3e5f5eed2038b36",
 "70298bc06cdaff4f",
 "0b8cfcd00d935d9a",
-"90a13bfbc0b79f36"
+"90a13bfbc0b79f36",
+"3f95f05f1e01fdd1",
+"ee846ba6487cc202",
+"385b0911f1cb05fe",
+"ef3f993e963a380f",
+"0fa122f1920718e2",
+"a0a74de467b61b9a",
+"f99bdba544545d5f",
+"f31ab0411f6ce696"
 ],
 "imzalar": [
-[
-"aniti",
-"ataturk",
-"belediyesi",
-"celenk",
-"mudanya",
-"sundu"
-],
-[
-"dunya",
-"furkan",
-"halter",
-"madalya",
-"muhammed",
-"nda",
-"ozbek",
-"sampiyonasi",
-"ten"
-],
-[
-"fon",
-"gelisme",
-"ismin",
-"kaldirildi",
-"mal",
-"sorusturmasinda",
-"tedbiri",
-"varligi",
-"yeni"
-],
-[
-"arda",
-"avrupa",
-"buyuk",
-"devleri",
-"futbolcunun",
-"nin",
-"pesinde",
-"sok",
-"turan",
-"yildiz"
-],
-[
-"cagri",
-"cumhurbaskani",
-"dan",
-"herzog",
-"israil",
-"kaosu",
-"liderlere",
-"secim",
-"siyasi"
-],
-[
-"besiktas",
-"cumhuriyet",
-"duzenlendi",
-"yuruyusu"
-],
-[
-"366",
-"763",
-"aracla",
-"dan",
-"izmir",
-"izsu",
-"kritik",
-"mesaisi",
-"noktalarda",
-"onlemi",
-"personel",
-"saganak",
-"teyakkuz"
-],
-[
-"can",
-"corum",
-"feci",
-"kazada",
-"kisi",
-"pazari",
-"yaralandi"
-],
 [
 "abb",
 "den",
@@ -8746,20 +8671,104 @@
 "trabzonspor",
 "yapildi",
 "yildizindan"
+],
+[
+"bodrum",
+"calistilar",
+"domuzlari",
+"girmeye",
+"indi",
+"pazar",
+"sokaklara",
+"yaban",
+"yerine"
+],
+[
+"2026",
+"dunya",
+"gures",
+"kiloda",
+"sampiyonasi",
+"snyder",
+"zirve"
+],
+[
+"bakirkoy",
+"belediyesi",
+"sorusturmasinda",
+"supheliye",
+"talebi",
+"tutuklama"
+],
+[
+"mersin",
+"operasyon",
+"supheli",
+"torbacilara",
+"tutuklandi",
+"yakalanan"
+],
+[
+"cumartesi",
+"gunleri",
+"hafta",
+"hava",
+"izmir",
+"nasil",
+"olacak",
+"pazar",
+"sonu",
+"uyarisi"
+],
+[
+"aydinlatildi",
+"betonla",
+"buzdolabina",
+"cesedini",
+"ceset",
+"cinayet",
+"cinayeti",
+"deki",
+"donduran",
+"kan",
+"kapatmislardi",
+"koyup",
+"mersin",
+"mumya",
+"yillik"
+],
+[
+"baskan",
+"bursasporlu",
+"hukukcular",
+"ilk",
+"iste",
+"kongresini",
+"yapti",
+"yonetimi"
+],
+[
+"canli",
+"galatasaray",
+"hafta",
+"konyaspor",
+"lig",
+"maci",
+"super"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-30T16:40:00+00:00",
-"Sonsöz (Ankara)": "2026-10-30T16:29:00+00:00",
+"Haber Global": "2026-10-30T17:22:00+00:00",
+"Sonsöz (Ankara)": "2026-10-30T17:24:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-10-30T11:46:31+00:00",
-"Sözcü Son Dakika": "2026-10-30T16:48:55+00:00",
-"Yeni Şafak Yerel": "2026-10-30T16:47:11+00:00",
+"Mynet Son Dakika": "2026-10-30T17:25:45+00:00",
+"Sözcü Son Dakika": "2026-10-30T17:29:12+00:00",
+"Yeni Şafak Yerel": "2026-10-30T17:11:58+00:00",
 "X / Twitter Türkiye": "2026-10-30T15:32:05.172936+00:00",
-"Olay (Bursa)": "2026-10-30T14:42:40+00:00",
+"Olay (Bursa)": "2026-10-30T17:29:02+00:00",
 "@islamasalya": "2026-10-30T15:37:00+00:00",
-"Yeni Asır (İzmir)": "2026-10-30T16:32:56+00:00",
-"İstanbul Gazetesi": "2026-10-30T16:14:00+00:00",
+"Yeni Asır (İzmir)": "2026-10-30T17:24:56+00:00",
+"İstanbul Gazetesi": "2026-10-30T17:21:00+00:00",
 "Kandilli Rasathanesi": "2026-10-30T14:30:01+00:00"
 }
 }
