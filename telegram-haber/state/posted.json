@@ -2609,57 +2609,13 @@
 "89f02f0e0980d316",
 "55d9bb7d8a04701b",
 "459695c7f3c0388f",
-"a2d68b8f0d885462"
+"a2d68b8f0d885462",
+"82d4cca34eabcd92",
+"c459d787fe5c7a4f",
+"d8501302608764db",
+"c9ba97bf69fc15e5"
 ],
 "imzalar": [
-[
-"alarmi",
-"ankara",
-"den",
-"istanbul",
-"kod",
-"meteoroloji",
-"pes",
-"pese",
-"saganak",
-"sari",
-"uyari"
-],
-[
-"baslayacak",
-"emekli",
-"fon",
-"gelecek",
-"maaslarina",
-"odemeleri",
-"zam",
-"zaman"
-],
-[
-"aklini",
-"basina",
-"birlesmeli",
-"cogunluk",
-"deki",
-"durum",
-"israil",
-"netanyahu",
-"secimlerde",
-"siyonist",
-"toplamali"
-],
-[
-"aday",
-"belirledi",
-"bile",
-"direktorluk",
-"fenerbahce",
-"onunla",
-"teknik",
-"yemek",
-"yemis",
-"yildirim"
-],
 [
 "anlasmasi",
 "disisleri",
@@ -8502,19 +8458,66 @@
 "onunde",
 "sevgilisiyle",
 "yatakta"
+],
+[
+"1000",
+"cristiano",
+"dakikada",
+"dan",
+"gole",
+"hat",
+"kaldi",
+"ramak",
+"ronaldo",
+"sadece",
+"trick"
+],
+[
+"abdulkerim",
+"archie",
+"bardakci",
+"brown",
+"ceza",
+"dan",
+"derbi",
+"karar",
+"pfdk",
+"sonrasi"
+],
+[
+"baslikli",
+"butunlesmeye",
+"dan",
+"dayanismadan",
+"dunyasi",
+"erdogan",
+"makale",
+"turk",
+"yuzyili"
+],
+[
+"bolum",
+"ediyor",
+"gelen",
+"iki",
+"kizilcik",
+"oyuncu",
+"serbeti",
+"veda",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-30T05:23:00+00:00",
+"Haber Global": "2026-10-30T05:40:00+00:00",
 "Sonsöz (Ankara)": "2026-10-30T01:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-30T05:15:20+00:00",
-"Sözcü Son Dakika": "2026-10-30T05:30:11+00:00",
-"Yeni Şafak Yerel": "2026-10-30T05:02:23+00:00",
+"Sözcü Son Dakika": "2026-10-30T05:40:01+00:00",
+"Yeni Şafak Yerel": "2026-10-30T05:33:00+00:00",
 "X / Twitter Türkiye": "2026-10-30T03:11:45.073390+00:00",
 "Olay (Bursa)": "2026-10-30T02:10:00+00:00",
 "@islamasalya": "2026-10-29T17:11:07+00:00",
-"Yeni Asır (İzmir)": "2026-10-30T05:24:43+00:00",
+"Yeni Asır (İzmir)": "2026-10-30T05:39:25+00:00",
 "İstanbul Gazetesi": "2026-10-29T21:34:00+00:00",
 "Kandilli Rasathanesi": "2026-10-26T13:19:59+00:00"
 }
