@@ -2798,62 +2798,15 @@
 "aa858e0e73684f22",
 "d8dcb9049ba99fd5",
 "65f6a425830a6751",
-"99eda06d0cdda882"
+"99eda06d0cdda882",
+"edc3844208f2f77b",
+"9f52f98772a7becf",
+"0c6939a8309dd4f8",
+"665e97c3586b09b3",
+"436740d999ca3111",
+"341d3f55f78a77a5"
 ],
 "imzalar": [
-[
-"chp",
-"ertelendi",
-"kurultay",
-"takvimi"
-],
-[
-"gazze",
-"itibariyle",
-"katliam",
-"yasaniyor",
-"yine"
-],
-[
-"birligi",
-"dunyasinin",
-"islam",
-"istanbul",
-"masaya",
-"yatiriliyor"
-],
-[
-"engeli",
-"kaldi",
-"kupasi",
-"mac",
-"turkiye",
-"yagmur",
-"yarida"
-],
-[
-"bayiliyor",
-"ekonomik",
-"favorisi",
-"hem",
-"izmirliler",
-"kahvaltilarin",
-"leziz",
-"malzemeyle",
-"omlet",
-"tarife",
-"tarifi"
-],
-[
-"abd",
-"askeri",
-"buyuyor",
-"israil",
-"isteniyor",
-"kesilmesi",
-"tepki",
-"yardimlarin"
-],
 [
 "altinda",
 "anda",
@@ -8726,19 +8679,78 @@
 "topuz",
 "tutuklanmisti",
 "uzaklastirilip"
+],
+[
+"basina",
+"belgelemektedir",
+"beyuk",
+"fotograf",
+"gelenleri",
+"muhammed",
+"sehit"
+],
+[
+"adam",
+"bulundu",
+"evinde",
+"faciasi",
+"olu",
+"soba",
+"yasindaki",
+"yozgat"
+],
+[
+"deprem",
+"dev",
+"izmir",
+"kesti",
+"lik",
+"nefes",
+"senaryo",
+"tatbikati"
+],
+[
+"galatasaray",
+"konuk",
+"konyaspor",
+"oluyor"
+],
+[
+"alanda",
+"basladi",
+"bozan",
+"ezber",
+"kapali",
+"kayseri",
+"safran",
+"tarim",
+"uretimi"
+],
+[
+"deva",
+"dustu",
+"ertugrul",
+"grubu",
+"istifa",
+"kaya",
+"meclis",
+"partili",
+"vekil",
+"yeni",
+"yol"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-30T14:11:00+00:00",
-"Sonsöz (Ankara)": "2026-10-30T14:27:00+00:00",
+"Haber Global": "2026-10-30T16:05:00+00:00",
+"Sonsöz (Ankara)": "2026-10-30T15:42:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-30T11:46:31+00:00",
-"Sözcü Son Dakika": "2026-10-30T15:14:48+00:00",
-"Yeni Şafak Yerel": "2026-10-30T15:23:25+00:00",
+"Sözcü Son Dakika": "2026-10-30T16:11:25+00:00",
+"Yeni Şafak Yerel": "2026-10-30T16:07:38+00:00",
 "X / Twitter Türkiye": "2026-10-30T15:32:05.172936+00:00",
 "Olay (Bursa)": "2026-10-30T14:42:40+00:00",
-"@islamasalya": "2026-10-30T15:21:45+00:00",
-"Yeni Asır (İzmir)": "2026-10-30T15:26:54+00:00",
+"@islamasalya": "2026-10-30T15:37:00+00:00",
+"Yeni Asır (İzmir)": "2026-10-30T16:03:03+00:00",
 "İstanbul Gazetesi": "2026-10-30T15:26:00+00:00",
 "Kandilli Rasathanesi": "2026-10-30T14:30:01+00:00"
 }
