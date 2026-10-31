@@ -2905,16 +2905,10 @@
 "2d7833e4d7cc824c",
 "8d6068f095620f9c",
 "2db159daea7ea92e",
-"46498ea9781d15f6"
+"46498ea9781d15f6",
+"9f43ab6e32876ea0"
 ],
 "imzalar": [
-[
-"dondurulmus",
-"gidalar",
-"kadar",
-"konserve",
-"saglikli"
-],
 [
 "aldi",
 "hapis",
@@ -8791,6 +8785,13 @@
 "suphelilerine",
 "uyusturucu",
 "yakalandi"
+],
+[
+"alindi",
+"askiya",
+"bogazi",
+"istanbul",
+"trafigi"
 ]
 ],
 "son_tarih": {
@@ -8804,7 +8805,7 @@
 "Olay (Bursa)": "2026-10-31T06:24:46+00:00",
 "@islamasalya": "2026-10-30T21:37:12+00:00",
 "Yeni Asır (İzmir)": "2026-10-31T06:41:00+00:00",
-"İstanbul Gazetesi": "2026-10-31T06:45:00+00:00",
+"İstanbul Gazetesi": "2026-10-31T06:51:00+00:00",
 "Kandilli Rasathanesi": "2026-10-31T01:01:57+00:00"
 }
 }
