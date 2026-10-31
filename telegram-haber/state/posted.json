@@ -1,14 +1,5 @@
 {
 "gonderilen": [
-"11341e4248636a58",
-"dd60eb66dfc5a99c",
-"b6998477a68f6575",
-"73eeb0c5441a66cf",
-"bc726ac8b596c8df",
-"2d8486f59b3e53df",
-"10d68ecfe02f15bf",
-"846510af9d6514b3",
-"86ed9fba1d02b0c8",
 "c6b6df7f34cce48d",
 "1a62a77659c95b6b",
 "13d2e76ab81a69f9",
@@ -2999,89 +2990,18 @@
 "b5f464c907c02969",
 "ec5bbe7da03736cf",
 "71a4cf211ccd95aa",
-"637faa764ba2a856"
+"637faa764ba2a856",
+"244b7f27af7abc8b",
+"45df0173a9a15c7e",
+"6005bd8c9165d61d",
+"cf37bd6352a6f916",
+"2d048cad8c6334ed",
+"bf322e28d4f5e59a",
+"101d8a30b4fe5950",
+"2d1879b45d1c41a5",
+"c285ea9294e1ef3c"
 ],
 "imzalar": [
-[
-"belirtiler",
-"habercisi",
-"hayat",
-"inmenin",
-"isimden",
-"kurtaran",
-"olabilir",
-"sanilan",
-"uyarilar",
-"uzman",
-"yorgunluk"
-],
-[
-"basladi",
-"faciasi",
-"gun",
-"hizli",
-"ikinci",
-"ispanya",
-"kisi",
-"tren",
-"yas"
-],
-[
-"belirleyecek",
-"hafta",
-"kasim",
-"kritik",
-"oncesi",
-"petrolun",
-"secim",
-"yonunu"
-],
-[
-"aciklandi",
-"altinda",
-"asil",
-"binalar",
-"degil",
-"deprem",
-"hedef",
-"izmir",
-"mercek",
-"tehlike",
-"yillik"
-],
-[
-"bitmiyor",
-"etmeler",
-"gazze",
-"veda"
-],
-[
-"basket",
-"denizli",
-"uzatmada",
-"yikildi"
-],
-[
-"aldi",
-"dursun",
-"kemal",
-"odulu",
-"ozden",
-"siir",
-"uluslararasi",
-"yasar",
-"yazarimiz"
-],
-[
-"anlatti",
-"ataturk",
-"aziz",
-"degistirdi",
-"devrimleri",
-"hayatini",
-"nasil",
-"sancar"
-],
 [
 "anitkabir",
 "bahceli",
@@ -8855,20 +8775,87 @@
 "geliyor",
 "gumbur",
 "nin"
+],
+[
+"arasinda",
+"chp",
+"cikti",
+"kavga",
+"liler",
+"maltepe",
+"parti",
+"yeni"
+],
+[
+"anda",
+"ankara",
+"degisecek",
+"hava"
+],
+[
+"cikmadi",
+"duellosunda",
+"kazanan",
+"kocaelispor",
+"rizespor"
+],
+[
+"baslayip",
+"batan",
+"cikmis",
+"firmada",
+"geminin",
+"hafta",
+"ilk",
+"ise",
+"kaptani",
+"nci",
+"once",
+"seferine"
+],
+[
+"adrese",
+"baskin",
+"istanbul",
+"kablo",
+"liralik",
+"milyon",
+"vurgunu"
+],
+[
+"unutmayacagiz"
+],
+[
+"avrupa",
+"bursa",
+"dan",
+"egitim",
+"koprusu",
+"uzanan"
+],
+[
+"cikti",
+"greenwood",
+"herkes",
+"kadroda",
+"neden",
+"olmadigi",
+"ortaya",
+"sasirmisti"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-31T14:21:00+00:00",
-"Sonsöz (Ankara)": "2026-10-31T14:44:00+00:00",
+"Haber Global": "2026-10-31T15:16:00+00:00",
+"Sonsöz (Ankara)": "2026-10-31T15:15:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-10-31T14:14:53+00:00",
-"Sözcü Son Dakika": "2026-10-31T14:51:11+00:00",
-"Yeni Şafak Yerel": "2026-10-31T14:33:59+00:00",
-"X / Twitter Türkiye": "2026-10-31T12:13:54.008420+00:00",
-"Olay (Bursa)": "2026-10-31T14:54:38+00:00",
-"@islamasalya": "2026-10-31T12:57:56+00:00",
+"Mynet Son Dakika": "2026-10-31T15:17:25+00:00",
+"Sözcü Son Dakika": "2026-10-31T15:28:43+00:00",
+"Yeni Şafak Yerel": "2026-10-31T15:22:16+00:00",
+"X / Twitter Türkiye": "2026-10-31T15:34:48.566215+00:00",
+"Olay (Bursa)": "2026-10-31T15:26:36+00:00",
+"@islamasalya": "2026-10-31T15:24:10+00:00",
 "Yeni Asır (İzmir)": "2026-10-31T14:36:19+00:00",
-"İstanbul Gazetesi": "2026-10-31T13:45:00+00:00",
+"İstanbul Gazetesi": "2026-10-31T15:09:00+00:00",
 "Kandilli Rasathanesi": "2026-10-31T13:16:00+00:00"
 }
 }
