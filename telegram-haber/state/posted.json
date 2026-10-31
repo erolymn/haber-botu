@@ -2867,20 +2867,10 @@
 "29143033a52d96ec",
 "67d98fa8b9daa7b6",
 "42a9d56810bc7f74",
-"4ae658e1979df809"
+"4ae658e1979df809",
+"579ab7d605ee1534"
 ],
 "imzalar": [
-[
-"103",
-"ankara",
-"cumhuriyet",
-"dunyasi",
-"ses",
-"tek",
-"turk",
-"uncu",
-"yilinda"
-],
 [
 "asgari",
 "ceken",
@@ -8804,10 +8794,18 @@
 "goruntu",
 "istanbul",
 "pes"
+],
+[
+"carpti",
+"edirne",
+"otobusu",
+"tir",
+"yarali",
+"yolcu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-30T23:43:00+00:00",
+"Haber Global": "2026-10-31T00:25:00+00:00",
 "Sonsöz (Ankara)": "2026-10-31T00:05:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-30T17:25:45+00:00",
