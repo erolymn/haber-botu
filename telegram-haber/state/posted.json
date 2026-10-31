@@ -2868,44 +2868,13 @@
 "67d98fa8b9daa7b6",
 "42a9d56810bc7f74",
 "4ae658e1979df809",
-"579ab7d605ee1534"
+"579ab7d605ee1534",
+"4f47e839d69231b7",
+"d6a2f1c5daacc868",
+"44402e3dde172ac8",
+"2a7a781ba4835115"
 ],
 "imzalar": [
-[
-"asgari",
-"ceken",
-"dikkat",
-"gulduren",
-"kulis",
-"olacak",
-"ucret",
-"yil",
-"yuzleri"
-],
-[
-"abd",
-"baskani",
-"bogazin",
-"cumhurbaskani",
-"detayi",
-"erdogan",
-"gorustu",
-"hurmuz",
-"telefonda",
-"trump",
-"yemen"
-],
-[
-"dansi",
-"den",
-"goruntuler",
-"grubun",
-"gundem",
-"ilginc",
-"izmir",
-"ortodoks",
-"yahudi"
-],
 [
 "bursa",
 "daki",
@@ -8802,20 +8771,45 @@
 "tir",
 "yarali",
 "yolcu"
+],
+[
+"ayriliga",
+"dunyasinda",
+"turk",
+"yer"
+],
+[
+"arabistan",
+"arap",
+"duyurdu",
+"iha",
+"koalisyonu",
+"saldirisini",
+"suudi",
+"yonelik"
+],
+[
+"aralaniyor",
+"ceset",
+"cinayetinde",
+"mumya",
+"perdesi",
+"sir",
+"yillik"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-31T00:25:00+00:00",
-"Sonsöz (Ankara)": "2026-10-31T00:05:00+00:00",
+"Haber Global": "2026-10-31T01:08:00+00:00",
+"Sonsöz (Ankara)": "2026-10-31T01:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-30T17:25:45+00:00",
 "Sözcü Son Dakika": "2026-10-30T22:35:54+00:00",
-"Yeni Şafak Yerel": "2026-10-30T21:53:17+00:00",
+"Yeni Şafak Yerel": "2026-10-31T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-10-31T00:12:40.616150+00:00",
 "Olay (Bursa)": "2026-10-30T21:33:00+00:00",
 "@islamasalya": "2026-10-30T21:37:12+00:00",
 "Yeni Asır (İzmir)": "2026-10-30T21:31:11+00:00",
 "İstanbul Gazetesi": "2026-10-30T21:19:00+00:00",
-"Kandilli Rasathanesi": "2026-10-30T21:43:10+00:00"
+"Kandilli Rasathanesi": "2026-10-31T01:01:57+00:00"
 }
 }
