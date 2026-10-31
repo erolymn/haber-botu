@@ -1,12 +1,5 @@
 {
 "gonderilen": [
-"c6b6df7f34cce48d",
-"1a62a77659c95b6b",
-"13d2e76ab81a69f9",
-"abbb553f3f6228c0",
-"9d00f2ba5cfcd113",
-"69414a11b444ab42",
-"94e3c86a2c214647",
 "f65041d613bfd79e",
 "4b4fdb5cf36a7588",
 "04052b39449019f7",
@@ -2999,89 +2992,16 @@
 "bf322e28d4f5e59a",
 "101d8a30b4fe5950",
 "2d1879b45d1c41a5",
-"c285ea9294e1ef3c"
+"c285ea9294e1ef3c",
+"32c611eb8b206c4e",
+"05518144d6cff720",
+"f73d7b6e4fcbc2e8",
+"d47cd8d8c8daa3fc",
+"a8582c8d485d1031",
+"bd15a1c1249c1225",
+"f01185e38d373cf6"
 ],
 "imzalar": [
-[
-"anitkabir",
-"bahceli",
-"dervisoglu",
-"indi",
-"kol",
-"kola",
-"merdivenlerinden"
-],
-[
-"adam",
-"anlar",
-"cocuklarin",
-"elazig",
-"gozyaslarini",
-"isitan",
-"olurum",
-"sarkisi",
-"sonrasi",
-"turkiyem",
-"tutamadi",
-"yasli",
-"yurekleri"
-],
-[
-"anime",
-"bleach",
-"efsanevi",
-"erdi",
-"kapanis",
-"ozel",
-"sona",
-"videosuyla",
-"yil"
-],
-[
-"deki",
-"deprem",
-"depremzedeler",
-"edildi",
-"faciasinin",
-"gecti",
-"insa",
-"izmir",
-"konutlar",
-"uzerinden",
-"yil"
-],
-[
-"butun",
-"coskuyla",
-"cumhuriyet",
-"ilceler",
-"kayyum",
-"kutlarken",
-"unuttu"
-],
-[
-"askere",
-"ekmek",
-"eve",
-"gidenler",
-"iste",
-"nin",
-"ocagi",
-"once",
-"sirri",
-"ugruyor"
-],
-[
-"bayrak",
-"geldi",
-"ilk",
-"milletvekilinden",
-"mudahale",
-"ogrenci",
-"tasiyan",
-"yere",
-"yigildi"
-],
 [
 "cinayetin",
 "islenen",
@@ -8842,20 +8762,85 @@
 "olmadigi",
 "ortaya",
 "sasirmisti"
+],
+[
+"dunya",
+"gurescilerden",
+"madalya",
+"milli",
+"nda",
+"sampiyonasi",
+"tek"
+],
+[
+"cumhurbaskanligi",
+"cumhuriyet",
+"kosusu",
+"yapildi"
+],
+[
+"350",
+"bursa",
+"ele",
+"gecirildi",
+"kilo",
+"tam"
+],
+[
+"adil",
+"barisin",
+"cumhurbaskani",
+"erdogan",
+"kaybedeni",
+"olmaz"
+],
+[
+"basin",
+"baskan",
+"dolmabahce",
+"erdogan",
+"konusuyor",
+"kritik",
+"ortak",
+"toplantisinda",
+"zelenski",
+"zirve"
+],
+[
+"baris",
+"cumhurbaskani",
+"dolmabahce",
+"erdogan",
+"gayrete",
+"gorustu",
+"haziriz",
+"her",
+"turlu",
+"ukrayna",
+"zelenskiy"
+],
+[
+"alkollu",
+"ceza",
+"dur",
+"ihtarina",
+"rekor",
+"surucuye",
+"uymayan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-31T15:16:00+00:00",
-"Sonsöz (Ankara)": "2026-10-31T15:15:00+00:00",
+"Haber Global": "2026-10-31T15:58:00+00:00",
+"Sonsöz (Ankara)": "2026-10-31T15:35:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-31T15:17:25+00:00",
-"Sözcü Son Dakika": "2026-10-31T15:28:43+00:00",
-"Yeni Şafak Yerel": "2026-10-31T15:22:16+00:00",
+"Sözcü Son Dakika": "2026-10-31T16:12:12+00:00",
+"Yeni Şafak Yerel": "2026-10-31T15:58:12+00:00",
 "X / Twitter Türkiye": "2026-10-31T15:34:48.566215+00:00",
-"Olay (Bursa)": "2026-10-31T15:26:36+00:00",
+"Olay (Bursa)": "2026-10-31T15:52:30+00:00",
 "@islamasalya": "2026-10-31T15:24:10+00:00",
-"Yeni Asır (İzmir)": "2026-10-31T14:36:19+00:00",
-"İstanbul Gazetesi": "2026-10-31T15:09:00+00:00",
+"Yeni Asır (İzmir)": "2026-10-31T15:58:04+00:00",
+"İstanbul Gazetesi": "2026-10-31T15:46:00+00:00",
 "Kandilli Rasathanesi": "2026-10-31T13:16:00+00:00"
 }
 }
