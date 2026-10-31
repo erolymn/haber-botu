@@ -1,6 +1,5 @@
 {
 "gonderilen": [
-"21714945bc1585c3",
 "f97a10c8157660c9",
 "7e8b19a7964dcc03",
 "7a6b32476e737d1d",
@@ -2999,20 +2998,10 @@
 "c89dffe94ab28d0f",
 "4b5d0150d9bb2d30",
 "c7f957f95ac28106",
-"6881d450287b6124"
+"6881d450287b6124",
+"b0468f5e01309615"
 ],
 "imzalar": [
-[
-"baskan",
-"belediye",
-"biba",
-"bursa",
-"buyuksehir",
-"cumhuriyet",
-"dan",
-"mesaji",
-"vekili"
-],
 [
 "agustostan",
 "asti",
@@ -8838,10 +8827,19 @@
 "dehset",
 "minibus",
 "sacti"
+],
+[
+"arac",
+"atti",
+"bingol",
+"olu",
+"takla",
+"ticari",
+"yarali"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-31T22:44:00+00:00",
+"Haber Global": "2026-10-31T23:19:00+00:00",
 "Sonsöz (Ankara)": "2026-10-31T22:32:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-31T17:10:28+00:00",
