@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"5eed67b1593429ff",
-"76571ff24ce0b5f3",
-"f2c15b56b5c6856b",
-"a85fdd417c23dcc4",
 "4e9c4a705f0305ff",
 "a8b4a5a09ea756dd",
 "dbc2880fb176aaff",
@@ -2999,34 +2995,13 @@
 "37a50687ad6450d3",
 "7751487675ff3ff7",
 "0a4aefcc413cb243",
-"9c1a62e87cefc0fe"
+"9c1a62e87cefc0fe",
+"7b3304e05bfd9b7c",
+"4cadacf6f1046311",
+"be9fbf7f557c7a40",
+"383522dd90203af5"
 ],
 "imzalar": [
-[
-"kagithane",
-"kaldiriliyor",
-"kayan",
-"selde",
-"toprak"
-],
-[
-"103",
-"basladi",
-"coskusu",
-"cumhuriyet",
-"izmir",
-"kutlamalari",
-"uncu",
-"yil"
-],
-[
-"dedetas",
-"hakkinda",
-"karari",
-"sinem",
-"tahliye",
-"verildi"
-],
 [
 "baykuslara",
 "oluyor",
@@ -8832,18 +8807,44 @@
 "kcohkb7qcilhczkqibvyst",
 "takip",
 "whatsapp"
+],
+[
+"cikti",
+"etkinlikte",
+"kavga",
+"ovgu",
+"parti",
+"sonrasi",
+"yeni"
+],
+[
+"basardi",
+"gitmeden",
+"hafiz",
+"kursa",
+"yasinda"
+],
+[
+"bayern",
+"borussia",
+"der",
+"dortmund",
+"kacti",
+"klassiker",
+"munih",
+"yakaladi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-31T19:23:00+00:00",
+"Haber Global": "2026-10-31T20:49:00+00:00",
 "Sonsöz (Ankara)": "2026-10-31T17:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-31T17:10:28+00:00",
-"Sözcü Son Dakika": "2026-10-31T19:59:25+00:00",
-"Yeni Şafak Yerel": "2026-10-31T20:06:03+00:00",
+"Sözcü Son Dakika": "2026-10-31T20:42:27+00:00",
+"Yeni Şafak Yerel": "2026-10-31T20:47:15+00:00",
 "X / Twitter Türkiye": "2026-10-31T18:15:25.225677+00:00",
 "Olay (Bursa)": "2026-10-31T19:11:03+00:00",
-"@islamasalya": "2026-10-31T20:10:09+00:00",
+"@islamasalya": "2026-10-31T20:18:18+00:00",
 "Yeni Asır (İzmir)": "2026-10-31T19:34:44+00:00",
 "İstanbul Gazetesi": "2026-10-31T18:32:00+00:00",
 "Kandilli Rasathanesi": "2026-10-31T13:16:00+00:00"
