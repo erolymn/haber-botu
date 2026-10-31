@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"f65041d613bfd79e",
-"4b4fdb5cf36a7588",
-"04052b39449019f7",
-"92227c5a391015a7",
-"4c6ae826b59b72dc",
-"3f0f85fe406dffe0",
-"9908fdfcb95fdad5",
-"06107ab80f6d5fbc",
 "317b3ec2fb661e07",
 "aad27c014fd4166b",
 "d90d06bd3c2c3eec",
@@ -2999,78 +2991,17 @@
 "d47cd8d8c8daa3fc",
 "a8582c8d485d1031",
 "bd15a1c1249c1225",
-"f01185e38d373cf6"
+"f01185e38d373cf6",
+"f27706e13c9b4026",
+"f71872869edc20fc",
+"e5c49611fd4fe22d",
+"f57cc63d7880d60a",
+"67e31905f6e0ce89",
+"d43d07d522167fb3",
+"728df879743318cf",
+"06dae5d439bf834a"
 ],
 "imzalar": [
-[
-"cinayetin",
-"islenen",
-"istanbul",
-"izmir",
-"suphelisi",
-"yakalandi"
-],
-[
-"200",
-"alanda",
-"coban",
-"daglik",
-"elazig",
-"hayvan",
-"kalan",
-"kucukbas",
-"kurtarildi",
-"mahsur"
-],
-[
-"bandirmaspor",
-"belli",
-"bursaspor",
-"hakemi",
-"macinin"
-],
-[
-"akima",
-"ayi",
-"direkte",
-"kapilan",
-"yavru"
-],
-[
-"arac",
-"arizalanan",
-"kazaya",
-"nda",
-"neden",
-"otoyolu",
-"tem"
-],
-[
-"dinlenen",
-"hastaneye",
-"karari",
-"milyonlarca",
-"rapci",
-"yatis",
-"zorunlu"
-],
-[
-"baslayinca",
-"duygulandirdi",
-"herkesi",
-"minik",
-"ogrencinin",
-"yagmur",
-"yaptigi"
-],
-[
-"gerceklestirdi",
-"israil",
-"itibariyle",
-"katliam",
-"siyonist",
-"yeni"
-],
 [
 "bahceli",
 "cekti",
@@ -8827,20 +8758,93 @@
 "rekor",
 "surucuye",
 "uymayan"
+],
+[
+"besinler",
+"degil",
+"gercek",
+"hakkinda",
+"meyveymis",
+"sebze",
+"sok",
+"tabaginizdaki"
+],
+[
+"apartmanda",
+"diyarbakir",
+"katli",
+"panigi",
+"yangin"
+],
+[
+"dan",
+"gumus",
+"halterci",
+"kaan",
+"kahriman",
+"madalya",
+"milli"
+],
+[
+"bitmiyor",
+"etmeler",
+"filistin",
+"veda"
+],
+[
+"baskani",
+"bursaspor",
+"celik",
+"dolduran",
+"enes",
+"hinc",
+"hinca",
+"paylasti",
+"stadyumu"
+],
+[
+"diyarbakir",
+"fuhus",
+"ilde",
+"merkezli",
+"operasyonu",
+"supheli",
+"tutuklandi"
+],
+[
+"bomba",
+"canli",
+"cildirtti",
+"fenerbahceli",
+"hatasiyla",
+"hemen",
+"sutlayin",
+"yildiz"
+],
+[
+"dudak",
+"edilen",
+"fuhus",
+"kameralara",
+"pazarligi",
+"rakamlar",
+"telaffuz",
+"ucuklatti",
+"yansidi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-31T15:58:00+00:00",
-"Sonsöz (Ankara)": "2026-10-31T15:35:00+00:00",
+"Haber Global": "2026-10-31T16:42:00+00:00",
+"Sonsöz (Ankara)": "2026-10-31T16:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-31T15:17:25+00:00",
-"Sözcü Son Dakika": "2026-10-31T16:12:12+00:00",
-"Yeni Şafak Yerel": "2026-10-31T15:58:12+00:00",
+"Sözcü Son Dakika": "2026-10-31T16:46:15+00:00",
+"Yeni Şafak Yerel": "2026-10-31T16:44:18+00:00",
 "X / Twitter Türkiye": "2026-10-31T15:34:48.566215+00:00",
-"Olay (Bursa)": "2026-10-31T15:52:30+00:00",
-"@islamasalya": "2026-10-31T15:24:10+00:00",
-"Yeni Asır (İzmir)": "2026-10-31T15:58:04+00:00",
-"İstanbul Gazetesi": "2026-10-31T15:46:00+00:00",
+"Olay (Bursa)": "2026-10-31T16:37:48+00:00",
+"@islamasalya": "2026-10-31T16:35:01+00:00",
+"Yeni Asır (İzmir)": "2026-10-31T16:12:27+00:00",
+"İstanbul Gazetesi": "2026-10-31T16:33:00+00:00",
 "Kandilli Rasathanesi": "2026-10-31T13:16:00+00:00"
 }
 }
