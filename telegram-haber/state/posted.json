@@ -2898,74 +2898,16 @@
 "5bff44c4b22334bf",
 "7ff15215f5f09166",
 "50cb4c4fa771b66a",
-"4b111b26b8017701"
+"4b111b26b8017701",
+"1bd8398762c40343",
+"9eb15efe67dfec5b",
+"59eb9a25cbb7f624",
+"2d7833e4d7cc824c",
+"8d6068f095620f9c",
+"2db159daea7ea92e",
+"46498ea9781d15f6"
 ],
 "imzalar": [
-[
-"aracin",
-"karistigi",
-"kazada",
-"polis",
-"sehit",
-"yarali"
-],
-[
-"asildi",
-"bayragi",
-"fatih",
-"koprusu",
-"mehmet",
-"sultan",
-"turk"
-],
-[
-"bursa",
-"cift",
-"jandarma",
-"kalan",
-"mahsur",
-"oldular",
-"seferber",
-"sirtinda",
-"tasidi",
-"yasli"
-],
-[
-"demir",
-"dusen",
-"insaatta",
-"isci",
-"kastamonu",
-"uzerine"
-],
-[
-"arama",
-"calismalari",
-"devam",
-"ediyor",
-"inegol",
-"kayip",
-"kisiyi"
-],
-[
-"abd",
-"adaylarina",
-"baskan",
-"cagrisi",
-"eski",
-"gazze",
-"yetkililerden"
-],
-[
-"boyle",
-"bulundu",
-"bursa",
-"cift",
-"kaybolan",
-"mantar",
-"toplarken",
-"yasli"
-],
 [
 "dondurulmus",
 "gidalar",
@@ -8781,20 +8723,88 @@
 "askerimiz",
 "msb",
 "sehit"
+],
+[
+"cumhurbaskani",
+"dondurdu",
+"geri",
+"havadayken",
+"krizi",
+"ucagini",
+"ulkede",
+"yargi"
+],
+[
+"agir",
+"artti",
+"faturasi",
+"gecim",
+"kat",
+"maas",
+"yilin"
+],
+[
+"altin",
+"dunya",
+"hedef",
+"izmir",
+"kizi",
+"madalyasi",
+"olimpiyat",
+"sahnesinde",
+"simdi"
+],
+[
+"artik",
+"brezilya",
+"hazinesi",
+"iki",
+"ilde",
+"kuruldu",
+"nin",
+"turkiye",
+"uretim",
+"ussu"
+],
+[
+"arac",
+"dan",
+"dugunden",
+"hayali",
+"kocalara",
+"kotu",
+"kuran",
+"yargitay"
+],
+[
+"dronlu",
+"kadikoy",
+"operasyonu",
+"uyusturucu"
+],
+[
+"destekli",
+"dron",
+"kadikoy",
+"kisi",
+"operasyon",
+"suphelilerine",
+"uyusturucu",
+"yakalandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-31T05:39:00+00:00",
-"Sonsöz (Ankara)": "2026-10-31T06:01:00+00:00",
+"Haber Global": "2026-10-31T06:40:00+00:00",
+"Sonsöz (Ankara)": "2026-10-31T06:46:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-31T05:55:09+00:00",
-"Sözcü Son Dakika": "2026-10-31T06:02:59+00:00",
-"Yeni Şafak Yerel": "2026-10-31T06:11:40+00:00",
+"Sözcü Son Dakika": "2026-10-31T06:43:13+00:00",
+"Yeni Şafak Yerel": "2026-10-31T06:47:28+00:00",
 "X / Twitter Türkiye": "2026-10-31T06:13:12.171072+00:00",
-"Olay (Bursa)": "2026-10-31T06:12:34+00:00",
+"Olay (Bursa)": "2026-10-31T06:24:46+00:00",
 "@islamasalya": "2026-10-30T21:37:12+00:00",
-"Yeni Asır (İzmir)": "2026-10-31T05:42:36+00:00",
-"İstanbul Gazetesi": "2026-10-30T21:19:00+00:00",
+"Yeni Asır (İzmir)": "2026-10-31T06:41:00+00:00",
+"İstanbul Gazetesi": "2026-10-31T06:45:00+00:00",
 "Kandilli Rasathanesi": "2026-10-31T01:01:57+00:00"
 }
 }
