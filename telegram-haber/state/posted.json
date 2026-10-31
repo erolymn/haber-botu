@@ -2872,43 +2872,12 @@
 "4f47e839d69231b7",
 "d6a2f1c5daacc868",
 "44402e3dde172ac8",
-"2a7a781ba4835115"
+"2a7a781ba4835115",
+"0643c9585750b47f",
+"84949118ef72c014",
+"a535e3120d64fc10"
 ],
 "imzalar": [
-[
-"bursa",
-"daki",
-"denetim",
-"dikkat",
-"eds",
-"iste",
-"noktalari",
-"radar",
-"suruculer"
-],
-[
-"asirlarin",
-"baslayip",
-"cehd",
-"dua",
-"emanettir",
-"kalbinde",
-"mukaddes",
-"nefesinde",
-"nesilden",
-"nesile",
-"omrun",
-"sehadet",
-"tasinan",
-"yankilanan"
-],
-[
-"besiktas",
-"cekismeli",
-"kaybetti",
-"macta",
-"olympiakos"
-],
 [
 "ceken",
 "cumhurbaskani",
@@ -8796,17 +8765,41 @@
 "perdesi",
 "sir",
 "yillik"
+],
+[
+"ankara",
+"baba",
+"cifte",
+"cinayet",
+"hamile",
+"kizini",
+"oldurdu",
+"yasindaki"
+],
+[
+"alevlere",
+"kocaeli",
+"otomobil",
+"teslim"
+],
+[
+"ali",
+"deli",
+"inan",
+"mehmet",
+"para",
+"yazdi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-31T01:08:00+00:00",
-"Sonsöz (Ankara)": "2026-10-31T01:10:00+00:00",
+"Haber Global": "2026-10-31T01:47:00+00:00",
+"Sonsöz (Ankara)": "2026-10-31T01:36:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-30T17:25:45+00:00",
 "Sözcü Son Dakika": "2026-10-30T22:35:54+00:00",
 "Yeni Şafak Yerel": "2026-10-31T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-10-31T00:12:40.616150+00:00",
-"Olay (Bursa)": "2026-10-30T21:33:00+00:00",
+"Olay (Bursa)": "2026-10-31T02:09:08+00:00",
 "@islamasalya": "2026-10-30T21:37:12+00:00",
 "Yeni Asır (İzmir)": "2026-10-30T21:31:11+00:00",
 "İstanbul Gazetesi": "2026-10-30T21:19:00+00:00",
