@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"3f083394de555f8f",
-"4b502a467b01b1ee",
-"92dc2f86c66dc30a",
-"32a1b04d6ea33393",
 "c8f73a2c18b68005",
 "662f4c3917ff88f0",
 "9056d28e46d12509",
@@ -2999,51 +2995,13 @@
 "4a68eb3c3c7b0796",
 "b8bcae7e2803f47d",
 "5e6bce47cf0397a8",
-"8c4daae552c792c5"
+"8c4daae552c792c5",
+"a4a37dc5e65d43f8",
+"f98daeab627496fe",
+"0ab693b9caa4fdae",
+"159fe66349af1a9f"
 ],
 "imzalar": [
-[
-"aktuel",
-"bim",
-"cuma",
-"ekim",
-"indirimde",
-"kasim",
-"katalogu"
-],
-[
-"bakanligi",
-"gazze",
-"getirildi",
-"hastanelere",
-"icerisinde",
-"saat",
-"saglik",
-"sehit",
-"yarali"
-],
-[
-"dan",
-"obama",
-"sert",
-"sozler",
-"trump"
-],
-[
-"2027",
-"bakan",
-"basliyor",
-"ceyreginde",
-"duyurdu",
-"hizli",
-"ilk",
-"milli",
-"nin",
-"tasimaya",
-"tren",
-"uraloglu",
-"yolcu"
-],
 [
 "anlayamadik",
 "gundem",
@@ -8828,17 +8786,56 @@
 "sizinti",
 "treninde",
 "yuk"
+],
+[
+"anlar",
+"bursa",
+"dehset",
+"kamerada",
+"olu"
+],
+[
+"calisacagiz",
+"dirk",
+"geri",
+"guvenimizi",
+"kazanmaya",
+"kuyt"
+],
+[
+"aci",
+"cozemiyor",
+"fenerbahce",
+"sorunu",
+"tablo",
+"turlu"
+],
+[
+"apartman",
+"bosaltildi",
+"catirdama",
+"dort",
+"dustu",
+"fayanslar",
+"firindaki",
+"geldi",
+"katli",
+"kolonlardan",
+"korkusu",
+"sesleri",
+"yasadilar",
+"yikilma"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-31T17:59:00+00:00",
+"Haber Global": "2026-10-31T19:23:00+00:00",
 "Sonsöz (Ankara)": "2026-10-31T17:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-31T17:10:28+00:00",
-"Sözcü Son Dakika": "2026-10-31T18:53:37+00:00",
-"Yeni Şafak Yerel": "2026-10-31T18:54:08+00:00",
+"Sözcü Son Dakika": "2026-10-31T19:27:06+00:00",
+"Yeni Şafak Yerel": "2026-10-31T19:31:42+00:00",
 "X / Twitter Türkiye": "2026-10-31T18:15:25.225677+00:00",
-"Olay (Bursa)": "2026-10-31T16:37:48+00:00",
+"Olay (Bursa)": "2026-10-31T19:11:03+00:00",
 "@islamasalya": "2026-10-31T18:00:25+00:00",
 "Yeni Asır (İzmir)": "2026-10-31T18:11:46+00:00",
 "İstanbul Gazetesi": "2026-10-31T18:32:00+00:00",
