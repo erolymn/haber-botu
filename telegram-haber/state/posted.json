@@ -1,10 +1,5 @@
 {
 "gonderilen": [
-"1644a85c40fa5298",
-"6b858e6fc8697830",
-"1fdc6b21a4512156",
-"62e4fd2e1d4e107b",
-"9c6a3916ff515d92",
 "6f8edd44bc639094",
 "130326187c5c5cc3",
 "9e648779c7b8d8f6",
@@ -2999,31 +2994,14 @@
 "9a2a7f93bb356f4e",
 "b654a4b8bf97bfff",
 "84e1ea7a92706a3d",
-"23e9de98e551e31b"
+"23e9de98e551e31b",
+"28193de75c860aab",
+"922ba7d412144a71",
+"3d93220d7a84d8f8",
+"f0b8562e07ee8abe",
+"479817a879ccf20f"
 ],
 "imzalar": [
-[
-"bulundu",
-"ceset",
-"gizemli",
-"kayaliklarda"
-],
-[
-"ankara",
-"azerbaycanli",
-"bakan",
-"bayramov",
-"fidan",
-"gorustu",
-"mevkidasi"
-],
-[
-"detayi",
-"ekim",
-"erdogan",
-"kaan",
-"tercihinde"
-],
 [
 "coskusu",
 "ekim",
@@ -8825,18 +8803,46 @@
 "taktikle",
 "vitrinindeki",
 "yil"
+],
+[
+"agir",
+"fenerbahce",
+"kadikoy",
+"yarali"
+],
+[
+"ali",
+"aziz",
+"baskan",
+"birakmadi",
+"celikler",
+"demedigini",
+"serdar",
+"sildi",
+"tarihten",
+"yildirim"
+],
+[
+"bakanlik",
+"kodla",
+"sari",
+"siddetli",
+"turuncu",
+"uyardi",
+"uyarisi",
+"yagis"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-31T17:27:00+00:00",
+"Haber Global": "2026-10-31T17:59:00+00:00",
 "Sonsöz (Ankara)": "2026-10-31T17:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-31T17:10:28+00:00",
-"Sözcü Son Dakika": "2026-10-31T17:32:21+00:00",
-"Yeni Şafak Yerel": "2026-10-31T17:27:31+00:00",
-"X / Twitter Türkiye": "2026-10-31T15:34:48.566215+00:00",
+"Sözcü Son Dakika": "2026-10-31T18:14:09+00:00",
+"Yeni Şafak Yerel": "2026-10-31T18:11:05+00:00",
+"X / Twitter Türkiye": "2026-10-31T18:15:25.225677+00:00",
 "Olay (Bursa)": "2026-10-31T16:37:48+00:00",
-"@islamasalya": "2026-10-31T16:35:01+00:00",
+"@islamasalya": "2026-10-31T18:00:25+00:00",
 "Yeni Asır (İzmir)": "2026-10-31T16:12:27+00:00",
 "İstanbul Gazetesi": "2026-10-31T17:32:00+00:00",
 "Kandilli Rasathanesi": "2026-10-31T13:16:00+00:00"
