@@ -2942,97 +2942,18 @@
 "a99bb7d9cc93f5f5",
 "5302ac95480f5a6e",
 "a45e1f53b3e7f3f1",
-"56e556fad8a64b39"
+"56e556fad8a64b39",
+"02b49703418443c4",
+"fd0834cf209696eb",
+"b5ce2e3c6d5f8bf7",
+"c391026f02a674ca",
+"c6caf4e7b6a02cc3",
+"c74951937105ae70",
+"fc72844c06de0a73",
+"7c1c11aaae0f0379",
+"87a98307544d34e0"
 ],
 "imzalar": [
-[
-"basin",
-"diyarbakir",
-"duragi",
-"egitim",
-"ilan",
-"kurumu",
-"nun",
-"uncu"
-],
-[
-"akaryakit",
-"akaryakita",
-"benzin",
-"benzine",
-"ekim",
-"fiyatlari",
-"geldi",
-"indirim",
-"kac",
-"lpg",
-"motorin",
-"zam"
-],
-[
-"davayi",
-"kaybetti",
-"sahipleri",
-"tesla"
-],
-[
-"ayirtti",
-"batrakov",
-"dev",
-"devi",
-"dustugu",
-"hamleyi",
-"ilk",
-"ingiliz",
-"kuluplerin",
-"liverpool",
-"pesine",
-"rus",
-"yapti",
-"yer",
-"yildiz"
-],
-[
-"bagimsizlik",
-"baskani",
-"birlik",
-"dan",
-"ekim",
-"kalin",
-"mesajinda",
-"mit",
-"vurgusu"
-],
-[
-"gelmeyin",
-"karistirdi",
-"kotu",
-"lise",
-"mesaji",
-"ogrencisinin",
-"okula",
-"olacak",
-"ortaligi"
-],
-[
-"bugun",
-"cumhurbaskani",
-"dunden",
-"erdogan",
-"gucludur",
-"hamdolsun",
-"turkiye"
-],
-[
-"dan",
-"dogru",
-"ekim",
-"erdogan",
-"gelecege",
-"guclu",
-"ilerliyoruz",
-"mesaji"
-],
 [
 "aman",
 "dikkat",
@@ -8818,20 +8739,102 @@
 "toki",
 "yapilacak",
 "zaman"
+],
+[
+"gozalti",
+"kiyafetiyle",
+"paylasima",
+"polis"
+],
+[
+"bulup",
+"deger",
+"ekonomiye",
+"hazinelerini",
+"hobisi",
+"katiyorlar",
+"kuzenlerin",
+"meslekleri",
+"nin",
+"sakli",
+"samsunlu",
+"turkiye"
+],
+[
+"binanin",
+"katli",
+"kurdular",
+"otoyolu",
+"uzerine"
+],
+[
+"arka",
+"bacaklari",
+"edildi",
+"kirik",
+"kopek",
+"tedavi"
+],
+[
+"aktuel",
+"buharli",
+"esyalarinda",
+"gecerli",
+"indirim",
+"kadar",
+"kasim",
+"katalog",
+"sok",
+"temizleyici",
+"tiftik",
+"urun"
+],
+[
+"anayasa",
+"cikti",
+"cumhurbaskani",
+"detaylari",
+"girmis",
+"iceri",
+"krizinin",
+"mahkemesi",
+"nawrocki",
+"ortaya",
+"polonya",
+"testereyle",
+"yangin",
+"yeri"
+],
+[
+"cocuk",
+"devam",
+"ediyor",
+"isgalci",
+"israil",
+"oldurmeye"
+],
+[
+"duzenlenen",
+"firinci",
+"hayatini",
+"kaybetti",
+"markete",
+"saldirida",
+"silahli"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-31T09:59:00+00:00",
-"Sonsöz (Ankara)": "2026-10-31T10:05:00+00:00",
+"Haber Global": "2026-10-31T10:46:00+00:00",
+"Sonsöz (Ankara)": "2026-10-31T10:41:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-10-31T05:55:09+00:00",
-"Sözcü Son Dakika": "2026-10-31T10:06:46+00:00",
-"Yeni Şafak Yerel": "2026-10-31T10:12:00+00:00",
+"Mynet Son Dakika": "2026-10-31T10:43:15+00:00",
+"Sözcü Son Dakika": "2026-10-31T10:37:44+00:00",
+"Yeni Şafak Yerel": "2026-10-31T10:34:04+00:00",
 "X / Twitter Türkiye": "2026-10-31T09:33:54.505172+00:00",
-"Olay (Bursa)": "2026-10-31T09:58:55+00:00",
-"@islamasalya": "2026-10-31T10:10:20+00:00",
-"Yeni Asır (İzmir)": "2026-10-31T10:04:13+00:00",
+"Olay (Bursa)": "2026-10-31T10:28:06+00:00",
+"@islamasalya": "2026-10-31T10:44:08+00:00",
+"Yeni Asır (İzmir)": "2026-10-31T10:41:12+00:00",
 "İstanbul Gazetesi": "2026-10-31T10:01:00+00:00",
-"Kandilli Rasathanesi": "2026-10-31T01:01:57+00:00"
+"Kandilli Rasathanesi": "2026-10-31T09:52:37+00:00"
 }
 }
