@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"b2eb9df24b6e2e55",
-"4542924abed11f98",
-"0b5f9bd609f535f0",
-"80a09fcc7e5d6fb6",
 "21714945bc1585c3",
 "f97a10c8157660c9",
 "7e8b19a7964dcc03",
@@ -2999,48 +2995,13 @@
 "d9e36c7ddf95d524",
 "7cd3e1d4fd4886e4",
 "b8600d5f58a33e9f",
-"4e126ca78510995a"
+"4e126ca78510995a",
+"c89dffe94ab28d0f",
+"4b5d0150d9bb2d30",
+"c7f957f95ac28106",
+"6881d450287b6124"
 ],
 "imzalar": [
-[
-"erkan",
-"kimdir",
-"unal"
-],
-[
-"bayrami",
-"bilal",
-"cumhuriyet",
-"dan",
-"emanet",
-"gelecek",
-"mesaji",
-"ortak",
-"saygili"
-],
-[
-"120",
-"bin",
-"daki",
-"dolu",
-"ele",
-"gecirildi",
-"istanbul",
-"kacak",
-"makaron",
-"operasyonunda",
-"sigara"
-],
-[
-"acikladi",
-"cikti",
-"flaslar",
-"gizem",
-"kadini",
-"ortaya",
-"patlayinca",
-"yanindaki"
-],
 [
 "baskan",
 "belediye",
@@ -8846,19 +8807,50 @@
 "ortaya",
 "sosyal",
 "sure"
+],
+[
+"alindi",
+"erdogan",
+"gorevden",
+"imzasiyla",
+"isim"
+],
+[
+"aktuel",
+"indirim",
+"kasim",
+"katalogu",
+"kooperatif",
+"kredi",
+"marketleri",
+"tarim"
+],
+[
+"dokulen",
+"hatay",
+"kazaya",
+"neden",
+"yag",
+"yola"
+],
+[
+"bursa",
+"dehset",
+"minibus",
+"sacti"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-31T21:52:00+00:00",
-"Sonsöz (Ankara)": "2026-10-31T22:11:00+00:00",
+"Haber Global": "2026-10-31T22:44:00+00:00",
+"Sonsöz (Ankara)": "2026-10-31T22:32:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-31T17:10:28+00:00",
-"Sözcü Son Dakika": "2026-10-31T21:26:02+00:00",
+"Sözcü Son Dakika": "2026-10-31T22:15:12+00:00",
 "Yeni Şafak Yerel": "2026-10-31T21:49:01+00:00",
 "X / Twitter Türkiye": "2026-10-31T21:35:24.523218+00:00",
 "Olay (Bursa)": "2026-10-31T19:11:03+00:00",
 "@islamasalya": "2026-10-31T20:18:18+00:00",
-"Yeni Asır (İzmir)": "2026-10-31T21:51:57+00:00",
+"Yeni Asır (İzmir)": "2026-10-31T22:21:26+00:00",
 "İstanbul Gazetesi": "2026-10-31T21:11:00+00:00",
 "Kandilli Rasathanesi": "2026-10-31T13:16:00+00:00"
 }
