@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"52290e51b2ea14b6",
-"7dbddc8a2ffd4db6",
-"b08f89588ef8ff62",
-"2d8a8f2498f699b7",
 "ffaa47821143d7bf",
 "6d8940db6c6e0646",
 "2458c4bf6d118b17",
@@ -2999,49 +2995,13 @@
 "6a8920932bade564",
 "e7e5a3fc270931f2",
 "a22f6d34c81074ec",
-"96d7460b3203471a"
+"96d7460b3203471a",
+"470801c3ec0f1b8d",
+"1ba3d66ad9641d4c",
+"31afc7d0421ea7f6",
+"75b9d13a35462de3"
 ],
 "imzalar": [
-[
-"binance",
-"cekmeyi",
-"dolar",
-"donduruldu",
-"durdurdu",
-"milyar",
-"para",
-"yatirma"
-],
-[
-"ciftle",
-"detay",
-"genc",
-"hayatini",
-"ilgili",
-"kahreden",
-"kapadokya",
-"kaybeden"
-],
-[
-"aldi",
-"annesini",
-"ardindan",
-"diye",
-"intihara",
-"kalkisti",
-"para",
-"rehin",
-"vermedi"
-],
-[
-"2026",
-"aciklandi",
-"kpss",
-"lisans",
-"sinav",
-"sinavi",
-"sonuclari"
-],
 [
 "galatasaray",
 "havalara",
@@ -8836,15 +8796,57 @@
 "pozisyonu",
 "siyah",
 "vlahovic"
+],
+[
+"basit",
+"derbiyi",
+"fenerbahce",
+"hatalarimiz",
+"kazandi",
+"set",
+"vermeden"
+],
+[
+"198",
+"600",
+"ayakla",
+"bin",
+"binayi",
+"robot",
+"tasidilar",
+"tonluk"
+],
+[
+"atese",
+"atolyesini",
+"bobin",
+"eyupsultan",
+"firlatti",
+"iplik",
+"polislere",
+"tahta",
+"verdi"
+],
+[
+"bunu",
+"cozmemiz",
+"dan",
+"italiano",
+"itiraf",
+"kasimpasa",
+"lazim",
+"maci",
+"sonrasi",
+"vincenzo"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-01T18:06:00+00:00",
-"Sonsöz (Ankara)": "2026-11-01T17:01:00+00:00",
+"Haber Global": "2026-11-01T18:31:00+00:00",
+"Sonsöz (Ankara)": "2026-11-01T18:46:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-01T14:51:33+00:00",
-"Sözcü Son Dakika": "2026-11-01T18:15:53+00:00",
-"Yeni Şafak Yerel": "2026-11-01T18:02:07+00:00",
+"Sözcü Son Dakika": "2026-11-01T18:44:25+00:00",
+"Yeni Şafak Yerel": "2026-11-01T18:53:04+00:00",
 "X / Twitter Türkiye": "2026-11-01T18:17:42.020806+00:00",
 "Olay (Bursa)": "2026-11-01T17:43:51+00:00",
 "@islamasalya": "2026-11-01T17:59:56+00:00",
