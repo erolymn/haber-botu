@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"4c9491f65cca28d3",
-"a23af93a9417753d",
-"b6a0c0311da1c9be",
 "e089718aa877dcb3",
 "e21aae41cfec458d",
 "31212830d28ef0bb",
@@ -2999,39 +2996,12 @@
 "e18e963dd741cc13",
 "c71608f57ca0564a",
 "6e3bfe68f17d4d96",
-"73b5801aed952e8f"
+"73b5801aed952e8f",
+"dc05b335ef579322",
+"031bd14bfc692bd6",
+"519df2aff6c81103"
 ],
 "imzalar": [
-[
-"cuma",
-"ekim",
-"hafta",
-"hutbesi",
-"konusu",
-"yayimlandi"
-],
-[
-"cokme",
-"gaziosmanpasa",
-"geldi",
-"meydana",
-"saganak",
-"sonrasi",
-"yolda"
-],
-[
-"ardindan",
-"binasinda",
-"depremin",
-"edilen",
-"insa",
-"saat",
-"sabitlendi",
-"tarihi",
-"valilik",
-"yeniden",
-"yillik"
-],
 [
 "dalga",
 "gozaltinda",
@@ -8845,15 +8815,46 @@
 "plaj",
 "sampiyonasi",
 "sona"
+],
+[
+"aranacak",
+"arayicinin",
+"bulunursa",
+"define",
+"ilde",
+"olacak",
+"yuzde"
+],
+[
+"alti",
+"arac",
+"carpisti",
+"cocuk",
+"dordu",
+"iki",
+"mardin",
+"yarali"
+],
+[
+"acikladi",
+"ahmet",
+"gercegi",
+"iddialari",
+"mekin",
+"olum",
+"oyuncu",
+"torunu",
+"usta",
+"yayildi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-01T21:17:00+00:00",
+"Haber Global": "2026-11-01T21:49:00+00:00",
 "Sonsöz (Ankara)": "2026-11-01T18:46:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-01T14:51:33+00:00",
-"Sözcü Son Dakika": "2026-11-01T21:37:45+00:00",
-"Yeni Şafak Yerel": "2026-11-01T21:34:41+00:00",
+"Sözcü Son Dakika": "2026-11-01T22:10:06+00:00",
+"Yeni Şafak Yerel": "2026-11-01T21:49:24+00:00",
 "X / Twitter Türkiye": "2026-11-01T21:38:13.133883+00:00",
 "Olay (Bursa)": "2026-11-01T21:13:32+00:00",
 "@islamasalya": "2026-11-01T21:03:14+00:00",
