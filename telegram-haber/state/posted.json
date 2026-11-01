@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"108fe25e0c0149a1",
-"b9da39bd8dc9ead1",
 "c416e2ced429d437",
 "2b338b56b75e95ff",
 "71f4baa223111a51",
@@ -2999,29 +2997,11 @@
 "1b66c5d3538c5ca6",
 "a4b6fd86530f9339",
 "e66c3cf320f5a51b",
-"623d3633d2b3f6ac"
+"623d3633d2b3f6ac",
+"f0f50b85ca632d87",
+"aee594c01c1ccdfc"
 ],
 "imzalar": [
-[
-"baba",
-"boyle",
-"calisti",
-"hastanede",
-"kizini",
-"kurup",
-"oldurmeye",
-"olmaz",
-"olsun",
-"pusu"
-],
-[
-"araya",
-"cumhurbaskani",
-"erdogan",
-"geldi",
-"mirziyoyev",
-"ozbekistan"
-],
 [
 "karisan",
 "kavgaya",
@@ -8833,17 +8813,41 @@
 "hatay",
 "motosiklet",
 "yarali"
+],
+[
+"bicaklanan",
+"bogazindan",
+"dugun",
+"hayatini",
+"kanli",
+"kavga",
+"kaybetti",
+"kisi",
+"salonunda"
+],
+[
+"bursa",
+"evlat",
+"gosteren",
+"ilgi",
+"kapasite",
+"milyon",
+"modern",
+"nin",
+"ucus",
+"ussu",
+"uvey"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-01T01:29:00+00:00",
-"Sonsöz (Ankara)": "2026-11-01T00:37:00+00:00",
+"Sonsöz (Ankara)": "2026-11-01T02:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-31T17:10:28+00:00",
 "Sözcü Son Dakika": "2026-11-01T01:08:50+00:00",
 "Yeni Şafak Yerel": "2026-11-01T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-01T00:15:54.180272+00:00",
-"Olay (Bursa)": "2026-10-31T19:11:03+00:00",
+"Olay (Bursa)": "2026-11-01T02:13:17+00:00",
 "@islamasalya": "2026-10-31T20:18:18+00:00",
 "Yeni Asır (İzmir)": "2026-10-31T22:21:26+00:00",
 "İstanbul Gazetesi": "2026-10-31T21:11:00+00:00",
