@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"e089718aa877dcb3",
-"e21aae41cfec458d",
 "31212830d28ef0bb",
 "ac1cac4ad5c1f512",
 "c7ffbcdb5598c164",
@@ -2999,25 +2997,11 @@
 "73b5801aed952e8f",
 "dc05b335ef579322",
 "031bd14bfc692bd6",
-"519df2aff6c81103"
+"519df2aff6c81103",
+"915854258d438990",
+"e9a8397597790bb3"
 ],
 "imzalar": [
-[
-"dalga",
-"gozaltinda",
-"kisi",
-"operasyon",
-"sarigul",
-"sorusturmasinda",
-"yeni"
-],
-[
-"endiseleri",
-"hisseleri",
-"kuresel",
-"piyasalarda",
-"teknoloji"
-],
 [
 "ayinda",
 "bag",
@@ -8846,14 +8830,32 @@
 "torunu",
 "usta",
 "yayildi"
+],
+[
+"aziz",
+"destek",
+"olmuslardi",
+"rakip",
+"secimde",
+"surpriz",
+"yildirim"
+],
+[
+"arac",
+"bolu",
+"carpisti",
+"hafif",
+"olu",
+"otomobil",
+"ticari"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-01T21:49:00+00:00",
-"Sonsöz (Ankara)": "2026-11-01T18:46:00+00:00",
+"Sonsöz (Ankara)": "2026-11-01T22:45:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-01T14:51:33+00:00",
-"Sözcü Son Dakika": "2026-11-01T22:10:06+00:00",
+"Sözcü Son Dakika": "2026-11-01T22:34:25+00:00",
 "Yeni Şafak Yerel": "2026-11-01T21:49:24+00:00",
 "X / Twitter Türkiye": "2026-11-01T21:38:13.133883+00:00",
 "Olay (Bursa)": "2026-11-01T21:13:32+00:00",
