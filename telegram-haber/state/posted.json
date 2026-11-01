@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"c416e2ced429d437",
-"2b338b56b75e95ff",
-"71f4baa223111a51",
 "0311feff25ebc0f9",
 "09b11ab5916d9f25",
 "e02b51bc9301fafb",
@@ -2999,39 +2996,12 @@
 "e66c3cf320f5a51b",
 "623d3633d2b3f6ac",
 "f0f50b85ca632d87",
-"aee594c01c1ccdfc"
+"aee594c01c1ccdfc",
+"9ab299d2c97d7621",
+"46dd2a5147b7a8b2",
+"807b579dec474c07"
 ],
 "imzalar": [
-[
-"karisan",
-"kavgaya",
-"kisi",
-"silahli",
-"tutuklandi"
-],
-[
-"ayinda",
-"fenerbahce",
-"gelismesi",
-"guendouzi",
-"kararini",
-"ocak",
-"verdi",
-"yonetim"
-],
-[
-"abd",
-"derin",
-"donduruculari",
-"donusturdu",
-"firina",
-"gida",
-"saldiri",
-"siber",
-"tonlarca",
-"uslerine",
-"ziyan"
-],
 [
 "acti",
 "ekim",
@@ -8837,17 +8807,48 @@
 "ucus",
 "ussu",
 "uvey"
+],
+[
+"baska",
+"bursa",
+"bursalilar",
+"dururken",
+"gider",
+"havaalani",
+"neden",
+"yere"
+],
+[
+"bakan",
+"cihazi",
+"icinde",
+"iki",
+"memisoglu",
+"ultrason",
+"uretecegiz",
+"yerli",
+"yil"
+],
+[
+"ayasofya",
+"bildiginiz",
+"cumhuriyet",
+"evet",
+"gibi",
+"hayir",
+"imami",
+"laiklige"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-01T01:29:00+00:00",
-"Sonsöz (Ankara)": "2026-11-01T02:12:00+00:00",
+"Sonsöz (Ankara)": "2026-11-01T02:18:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-31T17:10:28+00:00",
-"Sözcü Son Dakika": "2026-11-01T01:08:50+00:00",
+"Sözcü Son Dakika": "2026-11-01T02:47:58+00:00",
 "Yeni Şafak Yerel": "2026-11-01T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-01T00:15:54.180272+00:00",
-"Olay (Bursa)": "2026-11-01T02:13:17+00:00",
+"Olay (Bursa)": "2026-11-01T02:17:22+00:00",
 "@islamasalya": "2026-10-31T20:18:18+00:00",
 "Yeni Asır (İzmir)": "2026-10-31T22:21:26+00:00",
 "İstanbul Gazetesi": "2026-10-31T21:11:00+00:00",
