@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"f97a10c8157660c9",
-"7e8b19a7964dcc03",
 "7a6b32476e737d1d",
 "fad33f51c47c5a21",
 "23e8d7c5dc954a3b",
@@ -2999,21 +2997,11 @@
 "4b5d0150d9bb2d30",
 "c7f957f95ac28106",
 "6881d450287b6124",
-"b0468f5e01309615"
+"b0468f5e01309615",
+"4a7298717c13e7cc",
+"e350d3a0b56f4f27"
 ],
 "imzalar": [
-[
-"agustostan",
-"asti",
-"bini",
-"can",
-"dso",
-"kaybi",
-"sayisi",
-"yana",
-"yaralanma",
-"yemen"
-],
 [
 "akas",
 "can",
@@ -8836,16 +8824,24 @@
 "takla",
 "ticari",
 "yarali"
+],
+[
+"aranan",
+"cinsel",
+"hukumlu",
+"sucundan",
+"taciz",
+"yakalandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-31T23:19:00+00:00",
+"Haber Global": "2026-10-31T23:52:00+00:00",
 "Sonsöz (Ankara)": "2026-10-31T22:32:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-31T17:10:28+00:00",
 "Sözcü Son Dakika": "2026-10-31T22:15:12+00:00",
 "Yeni Şafak Yerel": "2026-10-31T21:49:01+00:00",
-"X / Twitter Türkiye": "2026-10-31T21:35:24.523218+00:00",
+"X / Twitter Türkiye": "2026-11-01T00:15:54.180272+00:00",
 "Olay (Bursa)": "2026-10-31T19:11:03+00:00",
 "@islamasalya": "2026-10-31T20:18:18+00:00",
 "Yeni Asır (İzmir)": "2026-10-31T22:21:26+00:00",
