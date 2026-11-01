@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"31212830d28ef0bb",
-"ac1cac4ad5c1f512",
 "c7ffbcdb5598c164",
 "d2e0d0615613b7fa",
 "0b9f290dccc30a9b",
@@ -2999,36 +2997,11 @@
 "031bd14bfc692bd6",
 "519df2aff6c81103",
 "915854258d438990",
-"e9a8397597790bb3"
+"e9a8397597790bb3",
+"4a9f98147e3178fd",
+"7f84442aa487efb2"
 ],
 "imzalar": [
-[
-"ayinda",
-"bag",
-"emeklisine",
-"hesabi",
-"kadar",
-"kur",
-"maaslar",
-"ocak",
-"olacak",
-"ssk",
-"yeni",
-"zam"
-],
-[
-"belli",
-"eksik",
-"galatasaray",
-"iste",
-"kadrosu",
-"kimler",
-"konyaspor",
-"ler",
-"mac",
-"muhtemel",
-"tumosan"
-],
 [
 "ayakkabi",
 "deniz",
@@ -8848,14 +8821,31 @@
 "olu",
 "otomobil",
 "ticari"
+],
+[
+"agir",
+"bicakli",
+"kavga",
+"kayseri",
+"kisi",
+"yaralandi"
+],
+[
+"100",
+"1000",
+"adimi",
+"bahceli",
+"ilce",
+"nin",
+"secim"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-01T21:49:00+00:00",
-"Sonsöz (Ankara)": "2026-11-01T22:45:00+00:00",
+"Sonsöz (Ankara)": "2026-11-01T23:09:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-01T14:51:33+00:00",
-"Sözcü Son Dakika": "2026-11-01T22:34:25+00:00",
+"Sözcü Son Dakika": "2026-11-01T23:30:12+00:00",
 "Yeni Şafak Yerel": "2026-11-01T21:49:24+00:00",
 "X / Twitter Türkiye": "2026-11-01T21:38:13.133883+00:00",
 "Olay (Bursa)": "2026-11-01T21:13:32+00:00",
