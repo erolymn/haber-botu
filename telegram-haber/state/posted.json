@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"dd57dd4c0731c78f",
-"affd9ced6780690a",
-"6697e193c47fd09c",
-"fc7830b6ff8653aa",
-"2a61a5defa199f31",
-"03e6354fa24470d8",
-"7f1d5a4c1efef309",
-"e299fd75c3c54179",
 "b28edc2d06bfad6b",
 "15ada4cd0ea32c8c",
 "71e2bf34fba7552e",
@@ -2999,85 +2991,17 @@
 "4aa3972492ee8a15",
 "a8864b1f06c00889",
 "745a5abead3868fd",
-"3015cd5ca10ef601"
+"3015cd5ca10ef601",
+"3535bf0336cfb313",
+"e987c73a52142d99",
+"b5aa360b62c0798b",
+"f43080327fc0465e",
+"5e38655332f74f85",
+"13fc5e0929fd1a1e",
+"25c1e04173f7b6d5",
+"f26e037c246b930a"
 ],
 "imzalar": [
-[
-"araclariyla",
-"buyukdere",
-"caddesi",
-"kapatti",
-"ndeki",
-"protesto",
-"seritleri",
-"sisli",
-"taksiciler"
-],
-[
-"asilsizdir",
-"deki",
-"dmm",
-"iddialari",
-"israil",
-"mudahale",
-"secimlere"
-],
-[
-"aglayan",
-"agliyor",
-"aman",
-"burasi",
-"gercekten",
-"huzunlu",
-"izmir",
-"magara",
-"romantik",
-"rota"
-],
-[
-"bursa",
-"getirdi",
-"mantar",
-"onlari",
-"tutkusu"
-],
-[
-"acti",
-"dava",
-"hakan",
-"medyadaki",
-"mert",
-"paylasim",
-"sosyal"
-],
-[
-"doktu",
-"nin",
-"saclarini",
-"sena",
-"soykirimin",
-"uzuntusu"
-],
-[
-"belli",
-"cesedin",
-"deki",
-"faciada",
-"izmir",
-"kimligi",
-"nci",
-"silivri",
-"topraga",
-"verilecek"
-],
-[
-"canindan",
-"degerli",
-"degildir",
-"hicbir",
-"insanin",
-"paket"
-],
 [
 "aciklarinda",
 "demirleyen",
@@ -8875,20 +8799,92 @@
 "mezunlari",
 "turk",
 "universiteleri"
+],
+[
+"ayni",
+"bagcilar",
+"carpti",
+"gelen",
+"iki",
+"kez",
+"kisi",
+"motosiklete",
+"yaralandi",
+"yardima"
+],
+[
+"400",
+"agac",
+"bin",
+"google",
+"indi",
+"karisti",
+"kesti",
+"koylere",
+"kurtlar",
+"ulke"
+],
+[
+"ilce",
+"olabilir"
+],
+[
+"dolarlik",
+"hedef",
+"kazakistan",
+"milyar",
+"ticaretinde",
+"turkiye"
+],
+[
+"100",
+"1000",
+"aciklamasi",
+"bahceli",
+"den",
+"geliyor",
+"ilce",
+"projesi",
+"yeni"
+],
+[
+"dunya",
+"gazetesinin",
+"gozalti",
+"guner",
+"sahibi",
+"umut"
+],
+[
+"burak",
+"corum",
+"firtinasi",
+"yilmaz"
+],
+[
+"aylik",
+"bankalarda",
+"bin",
+"faiz",
+"getiri",
+"kizisti",
+"liraya",
+"tirmandi",
+"yarisi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-01T08:10:00+00:00",
-"Sonsöz (Ankara)": "2026-11-01T07:49:00+00:00",
+"Haber Global": "2026-11-01T08:30:00+00:00",
+"Sonsöz (Ankara)": "2026-11-01T08:40:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-01T07:14:40+00:00",
-"Sözcü Son Dakika": "2026-11-01T08:13:15+00:00",
-"Yeni Şafak Yerel": "2026-11-01T08:08:55+00:00",
+"Mynet Son Dakika": "2026-11-01T08:32:07+00:00",
+"Sözcü Son Dakika": "2026-11-01T08:51:10+00:00",
+"Yeni Şafak Yerel": "2026-11-01T08:50:13+00:00",
 "X / Twitter Türkiye": "2026-11-01T06:16:23.273326+00:00",
-"Olay (Bursa)": "2026-11-01T08:11:36+00:00",
+"Olay (Bursa)": "2026-11-01T08:49:40+00:00",
 "@islamasalya": "2026-10-31T20:18:18+00:00",
-"Yeni Asır (İzmir)": "2026-11-01T08:08:02+00:00",
-"İstanbul Gazetesi": "2026-11-01T08:02:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-01T08:45:07+00:00",
+"İstanbul Gazetesi": "2026-11-01T08:15:00+00:00",
 "Kandilli Rasathanesi": "2026-10-31T13:16:00+00:00"
 }
 }
