@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"e917153c02ce8520",
-"6c02d6ee8b4624a7",
-"05790c4dba0f0658",
 "0638940533e534b5",
 "34336ab5fb79d196",
 "5d650381216676e3",
@@ -2999,35 +2996,12 @@
 "807b579dec474c07",
 "588fc823a1685895",
 "3b7c990138b56bdf",
-"9236947ced65b1a3"
+"9236947ced65b1a3",
+"ec9cf2947a47d6b3",
+"ed9785a10d22b046",
+"f27cfed0cb6eace7"
 ],
 "imzalar": [
-[
-"galatasaray",
-"hazirliklarini",
-"konyaspor",
-"macinin",
-"tamamladi"
-],
-[
-"bos",
-"girdi",
-"hastaneye",
-"kizini",
-"odada",
-"vurmak",
-"yakalandi"
-],
-[
-"aileden",
-"ayni",
-"corum",
-"feci",
-"hayatini",
-"kaybetti",
-"kaza",
-"kisi"
-],
 [
 "bursalilara",
 "duyuru",
@@ -8844,19 +8818,49 @@
 "tarihinde",
 "turkiye",
 "yeni"
+],
+[
+"korfez",
+"sonrasi",
+"temizligi",
+"yagmur",
+"yapildi",
+"yuzey"
+],
+[
+"dan",
+"hamaney",
+"iran",
+"kullanacagiz",
+"silahlar",
+"talimat",
+"tehdit",
+"ustune",
+"verdi",
+"yeni"
+],
+[
+"bircok",
+"bogaz",
+"bugun",
+"dahil",
+"istanbul",
+"kapali",
+"koprusu",
+"yol"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-01T03:28:00+00:00",
+"Haber Global": "2026-11-01T04:08:00+00:00",
 "Sonsöz (Ankara)": "2026-11-01T03:31:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-31T17:10:28+00:00",
-"Sözcü Son Dakika": "2026-11-01T02:47:58+00:00",
+"Sözcü Son Dakika": "2026-11-01T04:11:08+00:00",
 "Yeni Şafak Yerel": "2026-11-01T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-01T03:35:52.961729+00:00",
 "Olay (Bursa)": "2026-11-01T02:17:22+00:00",
 "@islamasalya": "2026-10-31T20:18:18+00:00",
-"Yeni Asır (İzmir)": "2026-10-31T22:21:26+00:00",
+"Yeni Asır (İzmir)": "2026-11-01T03:50:14+00:00",
 "İstanbul Gazetesi": "2026-10-31T21:11:00+00:00",
 "Kandilli Rasathanesi": "2026-10-31T13:16:00+00:00"
 }
