@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"0311feff25ebc0f9",
-"09b11ab5916d9f25",
-"e02b51bc9301fafb",
 "e917153c02ce8520",
 "6c02d6ee8b4624a7",
 "05790c4dba0f0658",
@@ -2999,26 +2996,12 @@
 "aee594c01c1ccdfc",
 "9ab299d2c97d7621",
 "46dd2a5147b7a8b2",
-"807b579dec474c07"
+"807b579dec474c07",
+"588fc823a1685895",
+"3b7c990138b56bdf",
+"9236947ced65b1a3"
 ],
 "imzalar": [
-[
-"acti",
-"ekim",
-"gururu",
-"isin",
-"kapilarini",
-"tcg",
-"tekirdag",
-"ziyarete"
-],
-[
-"baslayacak",
-"dgs",
-"kayitlari",
-"yerlestirme",
-"zaman"
-],
 [
 "galatasaray",
 "hazirliklarini",
@@ -8838,16 +8821,39 @@
 "hayir",
 "imami",
 "laiklige"
+],
+[
+"alarmi",
+"apar",
+"bagcilar",
+"binalar",
+"catlak",
+"edildi",
+"gece",
+"tahliye",
+"topar",
+"yarisi"
+],
+[
+"acildi",
+"egitim",
+"harf",
+"inkilabi",
+"nin",
+"sayfa",
+"tarihinde",
+"turkiye",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-01T01:29:00+00:00",
-"Sonsöz (Ankara)": "2026-11-01T02:18:00+00:00",
+"Haber Global": "2026-11-01T03:28:00+00:00",
+"Sonsöz (Ankara)": "2026-11-01T03:31:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-31T17:10:28+00:00",
 "Sözcü Son Dakika": "2026-11-01T02:47:58+00:00",
 "Yeni Şafak Yerel": "2026-11-01T01:00:00+00:00",
-"X / Twitter Türkiye": "2026-11-01T00:15:54.180272+00:00",
+"X / Twitter Türkiye": "2026-11-01T03:35:52.961729+00:00",
 "Olay (Bursa)": "2026-11-01T02:17:22+00:00",
 "@islamasalya": "2026-10-31T20:18:18+00:00",
 "Yeni Asır (İzmir)": "2026-10-31T22:21:26+00:00",
