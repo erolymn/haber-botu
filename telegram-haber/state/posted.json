@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"cd1499e7af69cba8",
-"547f2c4d7372f544",
-"4ec1b12b960e7e6b",
-"4139a75f83790ee8",
-"3a8d0fafa23be6bc",
-"0ffbfb247157ebaa",
-"2c6c02df448292e8",
-"4584048ad8a7a4e8",
 "beb73a17e425ab1c",
 "c1cf08c7020c7f06",
 "d353621f8037bcd3",
@@ -2999,91 +2991,17 @@
 "93e040c6ee97aef6",
 "8aad0a898ab9d7eb",
 "74c0250c93400fe1",
-"938446040d797bd8"
+"938446040d797bd8",
+"a5b2ef940c86037e",
+"9e09fb4bbcb693c1",
+"f9a48c846a4a4fb1",
+"2faaa5aae8830c10",
+"64d0eb60a6987a6a",
+"dc37a824de204f2f",
+"3685e96c87eb66e7",
+"d850a7e5ddc32f96"
 ],
 "imzalar": [
-[
-"asri",
-"cumhurbaskani",
-"donemi",
-"edecegiz",
-"erdogan",
-"mucadele",
-"onumuzdeki",
-"turk",
-"yapmak"
-],
-[
-"altinordu",
-"arada",
-"cocuk",
-"coskusu",
-"cumhuriyet",
-"festivali",
-"futbol",
-"heyecani",
-"nde",
-"yasandi"
-],
-[
-"388",
-"anlamli",
-"bin",
-"ekim",
-"gurur",
-"hakkari",
-"hareket",
-"jak",
-"metrede",
-"ozel",
-"timlerinden",
-"yildizli"
-],
-[
-"bileti",
-"fenerbahce",
-"guendouzi",
-"guvendigi",
-"isimdi",
-"ismail",
-"kartal",
-"kesildi",
-"nin"
-],
-[
-"aci",
-"bilanco",
-"cokmesinde",
-"deki",
-"goreme",
-"olu",
-"peribacasi",
-"yarali"
-],
-[
-"basin",
-"dertte",
-"direktoru",
-"pentagon",
-"strateji",
-"tan",
-"tehdit",
-"trump"
-],
-[
-"alindi",
-"bilgi",
-"gizli",
-"gorevden",
-"pentagon",
-"sizintisi"
-],
-[
-"allah",
-"kirdir",
-"zalimlere",
-"zalimleri"
-],
 [
 "bogazi",
 "carpti",
@@ -8859,20 +8777,97 @@
 "ankarali",
 "kucuk",
 "sunucusu"
+],
+[
+"afyon",
+"anlar",
+"attilar",
+"bina",
+"disari",
+"dolu",
+"kendilerini",
+"korku",
+"panikle",
+"sandilar",
+"yikiliyor"
+],
+[
+"bulutlari",
+"eden",
+"golu",
+"goruntuler",
+"mest",
+"olusturdu",
+"sapanca",
+"sis"
+],
+[
+"degildir",
+"konusu",
+"olayin",
+"ortmek",
+"soz",
+"uzerini"
+],
+[
+"acil",
+"alarmda",
+"durum",
+"edildi",
+"ilan",
+"nedeniyle",
+"nino",
+"ulke"
+],
+[
+"her",
+"itibariyle",
+"katliam",
+"yerde"
+],
+[
+"basligi",
+"bombali",
+"den",
+"denemesi",
+"kore",
+"kuzey",
+"misket",
+"savas"
+],
+[
+"divan",
+"haciosmanoglu",
+"hakkinda",
+"ibrahim",
+"ihrac",
+"kurulu",
+"nden",
+"talebi",
+"trabzonspor",
+"uyesi"
+],
+[
+"acmadi",
+"ahmet",
+"aradi",
+"hakan",
+"mustafa",
+"sarigul"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-01T10:07:00+00:00",
-"Sonsöz (Ankara)": "2026-11-01T10:16:00+00:00",
+"Haber Global": "2026-11-01T10:44:00+00:00",
+"Sonsöz (Ankara)": "2026-11-01T10:42:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-01T08:32:07+00:00",
-"Sözcü Son Dakika": "2026-11-01T10:13:52+00:00",
-"Yeni Şafak Yerel": "2026-11-01T10:14:38+00:00",
+"Sözcü Son Dakika": "2026-11-01T10:53:08+00:00",
+"Yeni Şafak Yerel": "2026-11-01T10:53:08+00:00",
 "X / Twitter Türkiye": "2026-11-01T09:36:23.514063+00:00",
-"Olay (Bursa)": "2026-11-01T10:14:01+00:00",
-"@islamasalya": "2026-10-31T20:18:18+00:00",
-"Yeni Asır (İzmir)": "2026-11-01T10:10:56+00:00",
-"İstanbul Gazetesi": "2026-11-01T09:50:00+00:00",
+"Olay (Bursa)": "2026-11-01T10:50:43+00:00",
+"@islamasalya": "2026-11-01T10:48:15+00:00",
+"Yeni Asır (İzmir)": "2026-11-01T10:32:39+00:00",
+"İstanbul Gazetesi": "2026-11-01T10:38:00+00:00",
 "Kandilli Rasathanesi": "2026-10-31T13:16:00+00:00"
 }
 }
