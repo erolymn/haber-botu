@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"7a6b32476e737d1d",
-"fad33f51c47c5a21",
 "23e8d7c5dc954a3b",
 "cbfb84901b9b705b",
 "76d5d5719dc748c4",
@@ -2999,25 +2997,11 @@
 "6881d450287b6124",
 "b0468f5e01309615",
 "4a7298717c13e7cc",
-"e350d3a0b56f4f27"
+"e350d3a0b56f4f27",
+"055e05becf022a2d",
+"1b66c5d3538c5ca6"
 ],
 "imzalar": [
-[
-"akas",
-"can",
-"cem",
-"genel",
-"ugurlandi",
-"yayin",
-"yayinlari",
-"yolculuguna",
-"yonetmeni"
-],
-[
-"gocmen",
-"kacak",
-"yakalandi"
-],
 [
 "buyuk",
 "cikarinca",
@@ -8832,11 +8816,31 @@
 "sucundan",
 "taciz",
 "yakalandi"
+],
+[
+"basladi",
+"donem",
+"medyada",
+"resmen",
+"siniri",
+"sosyal",
+"yas",
+"yeni",
+"yururlukte"
+],
+[
+"devrildi",
+"hatay",
+"iki",
+"kenarina",
+"otomobil",
+"yarali",
+"yol"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-10-31T23:52:00+00:00",
-"Sonsöz (Ankara)": "2026-10-31T22:32:00+00:00",
+"Haber Global": "2026-11-01T00:41:00+00:00",
+"Sonsöz (Ankara)": "2026-11-01T00:37:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-10-31T17:10:28+00:00",
 "Sözcü Son Dakika": "2026-10-31T22:15:12+00:00",
