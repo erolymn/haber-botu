@@ -1,14 +1,5 @@
 {
 "gonderilen": [
-"2548b7c91c3003fd",
-"62d1c55384e66b62",
-"94a164c911ec5e77",
-"d0b74e923c939844",
-"e37b1a7a8a30e75e",
-"577765f6b23b4a01",
-"f9c893d954c8b1e5",
-"577a495778c864ca",
-"41e016e92ca14a1f",
 "8040b53ff63ae275",
 "f54e98622a37e7de",
 "adf747598fb753f5",
@@ -2999,94 +2990,18 @@
 "a92a3fec7e37d0bf",
 "423e9f811bb9bf70",
 "9aa8644e1e0409c8",
-"dbf087c12e8540ce"
+"dbf087c12e8540ce",
+"3f048006c6d9627a",
+"4dc52cb88dd10b55",
+"a5ec53e32545a53a",
+"4c5881eb82a9cd63",
+"82e84c7358d390cb",
+"67d9c79d065875ff",
+"92a219c136f84ea3",
+"aaf60c674a74144d",
+"06ae1b7195216866"
 ],
 "imzalar": [
-[
-"altinda",
-"bursa",
-"cumhuriyet",
-"saganak",
-"yuruyusu"
-],
-[
-"ali",
-"corluspor",
-"dan",
-"gol",
-"kol",
-"muhtesem",
-"yavuz"
-],
-[
-"aldi",
-"arabistan",
-"aramco",
-"devi",
-"hedef",
-"husiler",
-"kez",
-"patlama",
-"petrol",
-"riyad",
-"sesleri",
-"suudi"
-],
-[
-"arasinda",
-"erdogan",
-"gorusmesi",
-"ikinci",
-"saatte",
-"telefon",
-"trump"
-],
-[
-"ahmet",
-"baskani",
-"belediye",
-"esenyurt",
-"katildi",
-"ozer",
-"parti",
-"yeni"
-],
-[
-"abd",
-"adresi",
-"baskan",
-"baskani",
-"erdogan",
-"guvenin",
-"istikrar",
-"tan",
-"tdt",
-"telefonu",
-"trump",
-"zirvesi"
-],
-[
-"dan",
-"emine",
-"erdogan",
-"paylasimi",
-"tdt",
-"zirvesi"
-],
-[
-"bakimdaki",
-"dosyasina",
-"girdi",
-"goruntusu",
-"gullu",
-"halay",
-"kizi",
-"nun",
-"sorusturma",
-"tugyan",
-"yeni",
-"yogun"
-],
 [
 "carpti",
 "cekiciye",
@@ -8850,20 +8765,100 @@
 "piknikcilerin",
 "sofrasina",
 "tilki"
+],
+[
+"bicakli",
+"dugun",
+"gelisme",
+"kavgada",
+"kucukcekmece",
+"salonundaki",
+"yeni"
+],
+[
+"alarmi",
+"dikkat",
+"ege",
+"izmir",
+"kuvvetli",
+"mugla",
+"olacak",
+"saganak",
+"yasayanlar"
+],
+[
+"kepcesi",
+"kullandigi",
+"sonu",
+"trakorun"
+],
+[
+"511",
+"940",
+"besiktasli",
+"bin",
+"futbolcuya",
+"kayserispor",
+"lira",
+"milyon",
+"odeyecek"
+],
+[
+"babasini",
+"bombardimanda",
+"cocugun",
+"daglayan",
+"duzenledigi",
+"feryadi",
+"gazze",
+"israil",
+"kaybeden",
+"siyonist",
+"yurekleri"
+],
+[
+"ankette",
+"bomba",
+"dus",
+"muhalefete",
+"oncesi",
+"sandik",
+"soguk",
+"sonuc"
+],
+[
+"akilalmaz",
+"almak",
+"boyle",
+"kazayi",
+"kurguladilar",
+"oyun",
+"para",
+"sigortadan"
+],
+[
+"acildi",
+"bursa",
+"buyugu",
+"dev",
+"nin",
+"spor",
+"tesisi",
+"turkiye"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-01T11:19:00+00:00",
-"Sonsöz (Ankara)": "2026-11-01T11:12:00+00:00",
+"Haber Global": "2026-11-01T12:11:00+00:00",
+"Sonsöz (Ankara)": "2026-11-01T11:54:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-01T11:13:23+00:00",
-"Sözcü Son Dakika": "2026-11-01T11:20:13+00:00",
-"Yeni Şafak Yerel": "2026-11-01T11:20:45+00:00",
-"X / Twitter Türkiye": "2026-11-01T09:36:23.514063+00:00",
-"Olay (Bursa)": "2026-11-01T11:32:18+00:00",
-"@islamasalya": "2026-11-01T11:28:30+00:00",
-"Yeni Asır (İzmir)": "2026-11-01T11:12:59+00:00",
-"İstanbul Gazetesi": "2026-11-01T10:54:00+00:00",
+"Sözcü Son Dakika": "2026-11-01T12:02:23+00:00",
+"Yeni Şafak Yerel": "2026-11-01T12:10:04+00:00",
+"X / Twitter Türkiye": "2026-11-01T12:17:06.497336+00:00",
+"Olay (Bursa)": "2026-11-01T12:12:52+00:00",
+"@islamasalya": "2026-11-01T12:04:55+00:00",
+"Yeni Asır (İzmir)": "2026-11-01T11:44:55+00:00",
+"İstanbul Gazetesi": "2026-11-01T11:38:00+00:00",
 "Kandilli Rasathanesi": "2026-10-31T13:16:00+00:00"
 }
 }
