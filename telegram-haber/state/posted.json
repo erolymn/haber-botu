@@ -1,10 +1,5 @@
 {
 "gonderilen": [
-"3ae0e23adc72014d",
-"493683bcb5bf2514",
-"2bb792ad76370a50",
-"5a4468a0f4876860",
-"87694e6c465c77c3",
 "6c19b7b7b373cccd",
 "5f9104528907aa2d",
 "480b2940ad4cf57e",
@@ -2999,59 +2994,14 @@
 "618676c746e4f545",
 "a171388186baff48",
 "dd7078f5762d82fc",
-"0af9e710e31e0dfb"
+"0af9e710e31e0dfb",
+"524c81aa7e4aaeda",
+"3a48f9723c2395b0",
+"cfa9340f6268bcf8",
+"b7378ab4a9ce0808",
+"21a082f9ff205fe4"
 ],
 "imzalar": [
-[
-"acacagiz",
-"ahmed",
-"deki",
-"dusurecegiz",
-"eisenkot",
-"israil",
-"lideri",
-"netanyahu",
-"nin",
-"onunu",
-"partisi",
-"taal",
-"tiybi"
-],
-[
-"ayrilmasina",
-"bakiliyordu",
-"brezilya",
-"dan",
-"donuyor",
-"galatasaray",
-"geri",
-"gozuyle",
-"kesin"
-],
-[
-"gunu",
-"mutlu",
-"osimhen",
-"victor"
-],
-[
-"carpisti",
-"iki",
-"inegol",
-"kardes",
-"motosiklet",
-"otomobille",
-"yaralandi"
-],
-[
-"cezasi",
-"cin",
-"eski",
-"idam",
-"rusvetle",
-"suclanan",
-"yoneticiye"
-],
 [
 "asacak",
 "bin",
@@ -8809,17 +8759,73 @@
 "operasyonunda",
 "telefon",
 "tutuklama"
+],
+[
+"afisi",
+"akp",
+"bayrami",
+"belediyenin",
+"cumhuriyet",
+"tartisma",
+"yaratti"
+],
+[
+"ankara",
+"guney",
+"kore",
+"lezzeti",
+"nin",
+"sofrasinda"
+],
+[
+"aracla",
+"carpisti",
+"hafif",
+"kamyoneti",
+"kutahya",
+"olu",
+"sayida",
+"sut",
+"ticari",
+"toplama",
+"yarali"
+],
+[
+"acikladi",
+"anderson",
+"begeni",
+"eden",
+"gercegi",
+"soke",
+"talisca",
+"yagdi",
+"yoruma"
+],
+[
+"atesle",
+"bursa",
+"bursaspor",
+"deki",
+"eski",
+"gordu",
+"ismi",
+"kirmizi",
+"lig",
+"oynuyor",
+"puani",
+"silinen",
+"takimi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-01T15:58:00+00:00",
-"Sonsöz (Ankara)": "2026-11-01T15:55:00+00:00",
+"Haber Global": "2026-11-01T16:49:00+00:00",
+"Sonsöz (Ankara)": "2026-11-01T16:46:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-01T14:51:33+00:00",
-"Sözcü Son Dakika": "2026-11-01T16:08:18+00:00",
-"Yeni Şafak Yerel": "2026-11-01T15:49:35+00:00",
+"Sözcü Son Dakika": "2026-11-01T16:20:22+00:00",
+"Yeni Şafak Yerel": "2026-11-01T16:49:55+00:00",
 "X / Twitter Türkiye": "2026-11-01T15:37:42.938622+00:00",
-"Olay (Bursa)": "2026-11-01T14:27:54+00:00",
+"Olay (Bursa)": "2026-11-01T16:55:21+00:00",
 "@islamasalya": "2026-11-01T16:01:10+00:00",
 "Yeni Asır (İzmir)": "2026-11-01T14:40:47+00:00",
 "İstanbul Gazetesi": "2026-11-01T16:12:00+00:00",
