@@ -1,14 +1,5 @@
 {
 "gonderilen": [
-"beb73a17e425ab1c",
-"c1cf08c7020c7f06",
-"d353621f8037bcd3",
-"3b705c13f45bb2d8",
-"d0493f6fe53cbddb",
-"846d98f3c1c315eb",
-"1778d135a2129c75",
-"826db171e3f950c9",
-"950abcc3bdb06177",
 "2548b7c91c3003fd",
 "62d1c55384e66b62",
 "94a164c911ec5e77",
@@ -2999,88 +2990,18 @@
 "64d0eb60a6987a6a",
 "dc37a824de204f2f",
 "3685e96c87eb66e7",
-"d850a7e5ddc32f96"
+"d850a7e5ddc32f96",
+"7a2725d4b49368f8",
+"dc236f9e9d188b8c",
+"d974038775c19b15",
+"ca922163b28fceda",
+"ab04920865622a25",
+"a92a3fec7e37d0bf",
+"423e9f811bb9bf70",
+"9aa8644e1e0409c8",
+"dbf087c12e8540ce"
 ],
 "imzalar": [
-[
-"bogazi",
-"carpti",
-"duyurdu",
-"hurmuz",
-"iran",
-"mayina",
-"nda",
-"petrol",
-"tankeri"
-],
-[
-"ada",
-"adasi",
-"deniyor",
-"ege",
-"gizemli",
-"neden",
-"tavuk"
-],
-[
-"artik",
-"basliyor",
-"donem",
-"onunde",
-"radarin",
-"trafikte",
-"yavaslamak",
-"yeni",
-"yetmeyecek"
-],
-[
-"ankara",
-"antalya",
-"ciktilar",
-"cop31",
-"dan",
-"destegi",
-"otobus",
-"yola"
-],
-[
-"altinda",
-"bombardiman",
-"gazze",
-"itibariyle",
-"siddetli"
-],
-[
-"antibiyotik",
-"direnci",
-"kuresel",
-"olmayi",
-"saglik",
-"surduruyor",
-"tehdidi"
-],
-[
-"cumhurbaskani",
-"dunyasi",
-"erdogan",
-"karsiladi",
-"liderlerini",
-"turk"
-],
-[
-"gazze",
-"isgalci",
-"israil",
-"itibariyle",
-"vuruyor"
-],
-[
-"ankara",
-"dairenin",
-"dogal",
-"gazi",
-"patladi"
-],
 [
 "altinda",
 "bursa",
@@ -8854,20 +8775,95 @@
 "hakan",
 "mustafa",
 "sarigul"
+],
+[
+"altin",
+"odul",
+"portakal",
+"tas",
+"tuy"
+],
+[
+"basliyor",
+"haftaya",
+"hareketli",
+"meclis"
+],
+[
+"alanlar",
+"aycicek",
+"cikti",
+"dikkat",
+"gul",
+"icinden",
+"kekik",
+"lavanta",
+"yagi"
+],
+[
+"carpti",
+"diyerek",
+"gitmek",
+"hastaneye",
+"hayatini",
+"istemedi",
+"kaybetti",
+"kisa",
+"klima",
+"sure"
+],
+[
+"acti",
+"ates",
+"calisan",
+"evinde",
+"iscilere",
+"karakola",
+"sahis",
+"sigindi",
+"yarali"
+],
+[
+"adayi",
+"anketinde",
+"carpici",
+"cumhurbaskani",
+"muhalefetin",
+"sonuclar"
+],
+[
+"altay",
+"kazanamiyor",
+"onunde",
+"taraftari"
+],
+[
+"artarak",
+"devam",
+"ediyor",
+"kervani",
+"sehitler"
+],
+[
+"kizil",
+"ortak",
+"piknikcilerin",
+"sofrasina",
+"tilki"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-01T10:44:00+00:00",
-"Sonsöz (Ankara)": "2026-11-01T10:42:00+00:00",
+"Haber Global": "2026-11-01T11:19:00+00:00",
+"Sonsöz (Ankara)": "2026-11-01T11:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-01T08:32:07+00:00",
-"Sözcü Son Dakika": "2026-11-01T10:53:08+00:00",
-"Yeni Şafak Yerel": "2026-11-01T10:53:08+00:00",
+"Mynet Son Dakika": "2026-11-01T11:13:23+00:00",
+"Sözcü Son Dakika": "2026-11-01T11:20:13+00:00",
+"Yeni Şafak Yerel": "2026-11-01T11:20:45+00:00",
 "X / Twitter Türkiye": "2026-11-01T09:36:23.514063+00:00",
-"Olay (Bursa)": "2026-11-01T10:50:43+00:00",
-"@islamasalya": "2026-11-01T10:48:15+00:00",
-"Yeni Asır (İzmir)": "2026-11-01T10:32:39+00:00",
-"İstanbul Gazetesi": "2026-11-01T10:38:00+00:00",
+"Olay (Bursa)": "2026-11-01T11:32:18+00:00",
+"@islamasalya": "2026-11-01T11:28:30+00:00",
+"Yeni Asır (İzmir)": "2026-11-01T11:12:59+00:00",
+"İstanbul Gazetesi": "2026-11-01T10:54:00+00:00",
 "Kandilli Rasathanesi": "2026-10-31T13:16:00+00:00"
 }
 }
