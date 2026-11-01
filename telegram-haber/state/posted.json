@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"0638940533e534b5",
-"34336ab5fb79d196",
-"5d650381216676e3",
-"8a755d6a5d1d4f10",
 "f753cb4cdee76dc7",
 "fab98da1d03d467c",
 "f59f94fbff707fea",
@@ -2999,43 +2995,13 @@
 "9236947ced65b1a3",
 "ec9cf2947a47d6b3",
 "ed9785a10d22b046",
-"f27cfed0cb6eace7"
+"f27cfed0cb6eace7",
+"4757cb76dc833e62",
+"0db9a7c754247b3b",
+"7b1dee6f9a822530",
+"53873e6b0914b8f2"
 ],
 "imzalar": [
-[
-"bursalilara",
-"duyuru",
-"kadar",
-"kapali",
-"kasim",
-"onemli"
-],
-[
-"aliyev",
-"gelmiyor",
-"turkiye"
-],
-[
-"coktu",
-"kapadokya",
-"olu",
-"peribacasi",
-"yaralilar"
-],
-[
-"2027",
-"belli",
-"doktor",
-"hesap",
-"kadar",
-"maasi",
-"maaslari",
-"memur",
-"ogretmen",
-"olacak",
-"polis",
-"yeni"
-],
 [
 "aliyev",
 "ankara",
@@ -8848,15 +8814,55 @@
 "kapali",
 "koprusu",
 "yol"
+],
+[
+"bazi",
+"istanbul",
+"kapatildi",
+"maratonu",
+"nedeniyle",
+"trafige",
+"yollar"
+],
+[
+"bitti",
+"cocuklar",
+"donem",
+"donemi",
+"kaydirma",
+"medyada",
+"sonsuz",
+"sosyal",
+"turkiye",
+"yeni"
+],
+[
+"bekleniyor",
+"bircok",
+"dahil",
+"istanbul",
+"kentte",
+"meteoroloji",
+"raporu",
+"saganak",
+"yayimladi",
+"yeni"
+],
+[
+"cezasi",
+"gokce",
+"hapis",
+"lik",
+"milyarder"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-01T04:08:00+00:00",
+"Haber Global": "2026-11-01T04:36:00+00:00",
 "Sonsöz (Ankara)": "2026-11-01T03:31:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-10-31T17:10:28+00:00",
-"Sözcü Son Dakika": "2026-11-01T04:11:08+00:00",
-"Yeni Şafak Yerel": "2026-11-01T01:00:00+00:00",
+"Mynet Son Dakika": "2026-11-01T04:24:37+00:00",
+"Sözcü Son Dakika": "2026-11-01T04:53:13+00:00",
+"Yeni Şafak Yerel": "2026-11-01T04:19:00+00:00",
 "X / Twitter Türkiye": "2026-11-01T03:35:52.961729+00:00",
 "Olay (Bursa)": "2026-11-01T02:17:22+00:00",
 "@islamasalya": "2026-10-31T20:18:18+00:00",
