@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"0a7d52e7dd9cfc41",
-"07432d0d487c9dee",
-"2ac1296ca8c6ec0f",
-"bd3d0738b97f07b7",
 "61edd9fca27f0fb8",
 "6d733e52b7ab56b5",
 "74ba444995ae9687",
@@ -2999,53 +2995,13 @@
 "e39381e63fb5d299",
 "3fa02db3aeb86ad6",
 "fcc6b87524a26ff9",
-"5b2d881c414ca453"
+"5b2d881c414ca453",
+"981b7b986c13a8fe",
+"d7e916b85f416c46",
+"9b5a678bbefdb001",
+"b02ecf8bfcede774"
 ],
 "imzalar": [
-[
-"basliyor",
-"bugun",
-"fonlarda",
-"ilk",
-"odemeler",
-"surecindeki",
-"tasfiye"
-],
-[
-"650",
-"cilgin",
-"devi",
-"dunya",
-"euroluk",
-"futbolunun",
-"iki",
-"milyon",
-"paylasacak",
-"proje",
-"stadi",
-"takimdan",
-"yeni"
-],
-[
-"buyukdeniz",
-"edildi",
-"hastanede",
-"infaz",
-"mekin",
-"sokakta",
-"vuruldu"
-],
-[
-"akaryakit",
-"gunu",
-"kapida",
-"oynayacak",
-"pazar",
-"tabelalari",
-"yeni",
-"yerinden",
-"zam"
-],
 [
 "deplasmanina",
 "galatasaray",
@@ -8845,20 +8801,65 @@
 "iman",
 "oldular",
 "sehid"
+],
+[
+"denetimi",
+"destekli",
+"gece",
+"helikopter",
+"huzur",
+"istanbul",
+"yarisi"
+],
+[
+"baskisi",
+"basladi",
+"dan",
+"ellerini",
+"iran",
+"netanyahu",
+"ovusturmaya",
+"saldiri",
+"secim",
+"sonrasi",
+"trump",
+"yeni"
+],
+[
+"belozoglu",
+"emre",
+"fenerbahce",
+"goreve",
+"olmak",
+"talip",
+"yakisiksiz"
+],
+[
+"cem",
+"daltonlar",
+"fenerbahce",
+"golbasi",
+"lideri",
+"plani",
+"saldiri",
+"silahli",
+"suphelisi",
+"tribun",
+"yakalandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-01T19:23:00+00:00",
+"Haber Global": "2026-11-01T20:12:00+00:00",
 "Sonsöz (Ankara)": "2026-11-01T18:46:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-01T14:51:33+00:00",
-"Sözcü Son Dakika": "2026-11-01T19:14:07+00:00",
-"Yeni Şafak Yerel": "2026-11-01T19:21:54+00:00",
+"Sözcü Son Dakika": "2026-11-01T20:17:19+00:00",
+"Yeni Şafak Yerel": "2026-11-01T20:08:16+00:00",
 "X / Twitter Türkiye": "2026-11-01T18:17:42.020806+00:00",
 "Olay (Bursa)": "2026-11-01T19:16:18+00:00",
 "@islamasalya": "2026-11-01T19:33:59+00:00",
 "Yeni Asır (İzmir)": "2026-11-01T14:40:47+00:00",
-"İstanbul Gazetesi": "2026-11-01T19:12:00+00:00",
+"İstanbul Gazetesi": "2026-11-01T20:03:00+00:00",
 "Kandilli Rasathanesi": "2026-10-31T13:16:00+00:00"
 }
 }
