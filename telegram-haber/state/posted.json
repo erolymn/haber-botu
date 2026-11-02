@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"e4046d9a48f23fe0",
-"a46d59523d9c004e",
-"e44aeaf942363822",
-"60955a0ffc83ae7f",
-"605ea13ffb3e8120",
-"1b9f67e3f74a2773",
-"baaf7ac3768cc51f",
-"f44c0ffaac83a629",
 "db4ab08d2d4aa0d8",
 "98f66c3e32681002",
 "4e3b0a7fc47929d4",
@@ -2999,81 +2991,17 @@
 "7ce968de5c9f8940",
 "a58672525f130b48",
 "3491de112f9b18c5",
-"cbfaf77d2e89f435"
+"cbfaf77d2e89f435",
+"89a4bef6a099b696",
+"3f7257483013fb2b",
+"1cb0cee997fe4c19",
+"e84907a4e738162a",
+"1aefeb84a3223e25",
+"3b7fd7f31431a5b2",
+"565fc261cc45cbcd",
+"31964c27b0ca966c"
 ],
 "imzalar": [
-[
-"ailenin",
-"aldi",
-"bulundugu",
-"evini",
-"gazze",
-"hedef",
-"israil",
-"ordusu",
-"tahliye",
-"uyarisinda"
-],
-[
-"ceza",
-"kisiye",
-"kumar",
-"oynayan"
-],
-[
-"duzenleyecek",
-"hafta",
-"osym",
-"sinav",
-"sonu"
-],
-[
-"abd",
-"arsivinden",
-"belgeler",
-"cia",
-"cikan",
-"dosyasi",
-"gizli",
-"nin",
-"turkiye"
-],
-[
-"carpti",
-"gecen",
-"iett",
-"otobusunun",
-"otomobil",
-"yanindan",
-"yayaya"
-],
-[
-"acan",
-"bursa",
-"hirsiz",
-"kadin",
-"kapilari",
-"kartla",
-"yakalandi"
-],
-[
-"2026",
-"borsa",
-"ekim",
-"gunun",
-"ilk",
-"negatif",
-"seyretti",
-"yarisinda"
-],
-[
-"bursa",
-"cekirdekten",
-"deneyim",
-"fincana",
-"fsm",
-"yeni"
-],
 [
 "avrupa",
 "borsalari",
@@ -8807,19 +8735,94 @@
 "okullarda",
 "rona",
 "sube"
+],
+[
+"ibrahim",
+"komutani",
+"muhammed",
+"saha",
+"sahhar",
+"sehit"
+],
+[
+"alkol",
+"cevresinde",
+"fenerbahce",
+"satisina",
+"stadi",
+"yasak"
+],
+[
+"belirledi",
+"direktorunu",
+"fenerbahce",
+"goztepe",
+"karar",
+"sonrasi",
+"surpriz",
+"teknik",
+"yeni",
+"yenilgisi"
+],
+[
+"aciklamanin",
+"aralarinda",
+"degistiriyor",
+"gizli",
+"ibb",
+"satir",
+"sorusunun",
+"yaniti"
+],
+[
+"ahlaksizca",
+"calisanlari",
+"goruyoruz",
+"olmaya",
+"sahibi",
+"varlik"
+],
+[
+"arasi",
+"dakikaya",
+"dusecek",
+"gaziantep",
+"hizli",
+"mersin",
+"saat",
+"trenle"
+],
+[
+"asan",
+"bulustu",
+"bursa",
+"coskusu",
+"cumhuriyet",
+"engelleri",
+"sevgiyle"
+],
+[
+"abd",
+"bayrami",
+"bulandi",
+"cadilar",
+"hayatini",
+"kana",
+"kaybetti",
+"kisi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-02T09:12:00+00:00",
-"Sonsöz (Ankara)": "2026-11-02T09:38:00+00:00",
+"Haber Global": "2026-11-02T10:14:00+00:00",
+"Sonsöz (Ankara)": "2026-11-02T09:52:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-02T09:35:11+00:00",
-"Sözcü Son Dakika": "2026-11-02T09:31:47+00:00",
-"Yeni Şafak Yerel": "2026-11-02T09:36:05+00:00",
+"Mynet Son Dakika": "2026-11-02T10:08:37+00:00",
+"Sözcü Son Dakika": "2026-11-02T10:03:33+00:00",
+"Yeni Şafak Yerel": "2026-11-02T10:12:33+00:00",
 "X / Twitter Türkiye": "2026-11-02T09:39:18.747149+00:00",
-"Olay (Bursa)": "2026-11-02T09:38:24+00:00",
-"@islamasalya": "2026-11-02T08:44:23+00:00",
-"Yeni Asır (İzmir)": "2026-11-02T09:25:28+00:00",
+"Olay (Bursa)": "2026-11-02T10:12:57+00:00",
+"@islamasalya": "2026-11-02T09:51:09+00:00",
+"Yeni Asır (İzmir)": "2026-11-02T09:53:34+00:00",
 "İstanbul Gazetesi": "2026-11-02T09:25:00+00:00",
 "Kandilli Rasathanesi": "2026-11-02T08:59:22+00:00"
 }
