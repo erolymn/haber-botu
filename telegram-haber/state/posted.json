@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"5ae675018ca7fdac",
-"4b7cfc402867bf18",
-"b94d36231d6dd18c",
-"dda9d9eddc7a1f57",
 "1b039af01554d9b2",
 "ab54b13bb7c2dc5e",
 "a89b539e61ceb8ab",
@@ -2999,51 +2995,13 @@
 "1c07b8a0b4f5187b",
 "a8307aa8c31d49d0",
 "0add774ea94cea7c",
-"7da479ca26d640d4"
+"7da479ca26d640d4",
+"4e1f26bd842ed634",
+"c7f37cda474e8f2a",
+"d1e25c0caedbf8d2",
+"06432738a4ea304c"
 ],
 "imzalar": [
-[
-"boca",
-"gelecek",
-"juniors",
-"karsi",
-"karsiya",
-"plate",
-"river",
-"superclasico"
-],
-[
-"baska",
-"baskanligi",
-"belediye",
-"cezaevine",
-"fevzi",
-"gorevinden",
-"milas",
-"nakledildi",
-"topuz",
-"tutuklanmisti",
-"uzaklastirilip"
-],
-[
-"basina",
-"belgelemektedir",
-"beyuk",
-"fotograf",
-"gelenleri",
-"muhammed",
-"sehit"
-],
-[
-"adam",
-"bulundu",
-"evinde",
-"faciasi",
-"olu",
-"soba",
-"yasindaki",
-"yozgat"
-],
 [
 "deprem",
 "dev",
@@ -8854,20 +8812,58 @@
 "krizi",
 "netanyahu",
 "plani"
+],
+[
+"atti",
+"degisti",
+"durumu",
+"genclerbirligi",
+"gol",
+"lig",
+"puan",
+"super"
+],
+[
+"coktu",
+"esenyurt",
+"etkili",
+"istanbul",
+"saganak",
+"yol"
+],
+[
+"basladi",
+"dikkat",
+"istanbul",
+"onumuzdeki",
+"saate",
+"uyardi",
+"valilik",
+"yagis"
+],
+[
+"antalya",
+"dustu",
+"etkili",
+"eve",
+"gok",
+"gurultulu",
+"saganak",
+"yildirim"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-02T18:38:00+00:00",
+"Haber Global": "2026-11-02T19:29:00+00:00",
 "Sonsöz (Ankara)": "2026-11-02T18:06:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-02T15:00:49+00:00",
-"Sözcü Son Dakika": "2026-11-02T18:53:55+00:00",
-"Yeni Şafak Yerel": "2026-11-02T18:56:06+00:00",
+"Sözcü Son Dakika": "2026-11-02T19:33:34+00:00",
+"Yeni Şafak Yerel": "2026-11-02T19:36:35+00:00",
 "X / Twitter Türkiye": "2026-11-02T18:20:49.159003+00:00",
 "Olay (Bursa)": "2026-11-02T18:28:29+00:00",
 "@islamasalya": "2026-11-02T18:40:24+00:00",
 "Yeni Asır (İzmir)": "2026-11-02T17:14:39+00:00",
-"İstanbul Gazetesi": "2026-11-02T18:44:00+00:00",
+"İstanbul Gazetesi": "2026-11-02T19:37:00+00:00",
 "Kandilli Rasathanesi": "2026-11-02T17:58:04+00:00"
 }
 }
