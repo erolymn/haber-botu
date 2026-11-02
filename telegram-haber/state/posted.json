@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"e970f2a628f6fa77",
-"681268854f221ff4",
 "11d5acf2d2a4e225",
 "b5c793eae62093db",
 "960bd89c6f7ce47d",
@@ -2999,32 +2997,11 @@
 "7f84442aa487efb2",
 "cb1f97bb98c26e3e",
 "18119271fb91b853",
-"7abf984e7a62dd41"
+"7abf984e7a62dd41",
+"8d359404e9f6f8f2",
+"ac3c8f1a6cff4977"
 ],
 "imzalar": [
-[
-"cekti",
-"dikkat",
-"facia",
-"hali",
-"kapadokya",
-"onceki",
-"peribacasinin",
-"sarsan",
-"yikilan"
-],
-[
-"300",
-"bakin",
-"degisti",
-"gunluk",
-"hayati",
-"kalcalariyla",
-"kirdi",
-"nasil",
-"rekor",
-"santimetrelik"
-],
 [
 "change",
 "istanbul",
@@ -8838,14 +8815,31 @@
 "anamadi",
 "baskan",
 "cumhuriyet"
+],
+[
+"faciasi",
+"hayatini",
+"kaybetti",
+"kusadasi",
+"motosiklet",
+"nda",
+"surucusu",
+"yagmur"
+],
+[
+"anketi",
+"girerse",
+"isimler",
+"konusulan",
+"siyasete"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-01T21:49:00+00:00",
-"Sonsöz (Ankara)": "2026-11-01T23:51:00+00:00",
+"Sonsöz (Ankara)": "2026-11-02T00:46:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-01T14:51:33+00:00",
-"Sözcü Son Dakika": "2026-11-02T00:00:12+00:00",
+"Sözcü Son Dakika": "2026-11-02T00:54:57+00:00",
 "Yeni Şafak Yerel": "2026-11-01T21:49:24+00:00",
 "X / Twitter Türkiye": "2026-11-02T00:18:14.047689+00:00",
 "Olay (Bursa)": "2026-11-01T21:13:32+00:00",
