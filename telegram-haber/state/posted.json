@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"b8e180a6188fdd55",
-"1dc5af2fbcf009c8",
 "b497633c081ecf64",
 "fb1e608bc674b049",
 "add083a41eecb4fe",
@@ -2999,28 +2997,11 @@
 "ac3c8f1a6cff4977",
 "36455112a0abaaef",
 "467ed403a690bf89",
-"accd67a7c3e685a6"
+"accd67a7c3e685a6",
+"3e0ee767f33b02ad",
+"23c72a97c9b5e020"
 ],
 "imzalar": [
-[
-"aciklama",
-"aykut",
-"cagrildi",
-"donemi",
-"fenerbahce",
-"iii",
-"istanbul",
-"kocaman",
-"resmi"
-],
-[
-"bahcelievler",
-"bayrami",
-"bedel",
-"cumhuriyet",
-"damgasi",
-"mela"
-],
 [
 "alarm",
 "bhutan",
@@ -8835,6 +8816,22 @@
 "yabanci",
 "yerine",
 "yerli"
+],
+[
+"aci",
+"bursa",
+"felaketin",
+"gercegi",
+"iste",
+"nin",
+"vurdugu",
+"yerler",
+"yillik"
+],
+[
+"beyin",
+"hayati",
+"soru"
 ]
 ],
 "son_tarih": {
@@ -8842,10 +8839,10 @@
 "Sonsöz (Ankara)": "2026-11-02T01:17:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-01T14:51:33+00:00",
-"Sözcü Son Dakika": "2026-11-02T01:33:57+00:00",
+"Sözcü Son Dakika": "2026-11-02T02:16:05+00:00",
 "Yeni Şafak Yerel": "2026-11-02T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-02T00:18:14.047689+00:00",
-"Olay (Bursa)": "2026-11-01T21:13:32+00:00",
+"Olay (Bursa)": "2026-11-02T02:11:18+00:00",
 "@islamasalya": "2026-11-01T21:03:14+00:00",
 "Yeni Asır (İzmir)": "2026-11-01T21:29:21+00:00",
 "İstanbul Gazetesi": "2026-11-01T21:01:00+00:00",
