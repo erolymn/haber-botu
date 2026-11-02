@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"b497633c081ecf64",
-"fb1e608bc674b049",
 "add083a41eecb4fe",
 "4752bc6ab885104d",
 "8495d67ae1e022d4",
@@ -2999,26 +2997,11 @@
 "467ed403a690bf89",
 "accd67a7c3e685a6",
 "3e0ee767f33b02ad",
-"23c72a97c9b5e020"
+"23c72a97c9b5e020",
+"b863f5eabf8c3f29",
+"02d09d5820620ddb"
 ],
 "imzalar": [
-[
-"alarm",
-"bhutan",
-"buzul",
-"golu",
-"hindistan",
-"patladi",
-"verildi"
-],
-[
-"bursaspor",
-"edildi",
-"isim",
-"kotu",
-"mactan",
-"men"
-],
 [
 "adim",
 "den",
@@ -8832,14 +8815,30 @@
 "beyin",
 "hayati",
 "soru"
+],
+[
+"tasindi",
+"teroristbasi"
+],
+[
+"ayni",
+"bulustu",
+"dunya",
+"farkli",
+"guinness",
+"insan",
+"kirildi",
+"kitap",
+"milletten",
+"rekoru"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-01T21:49:00+00:00",
-"Sonsöz (Ankara)": "2026-11-02T01:17:00+00:00",
+"Sonsöz (Ankara)": "2026-11-02T02:41:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-01T14:51:33+00:00",
-"Sözcü Son Dakika": "2026-11-02T02:16:05+00:00",
+"Sözcü Son Dakika": "2026-11-02T02:35:16+00:00",
 "Yeni Şafak Yerel": "2026-11-02T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-02T00:18:14.047689+00:00",
 "Olay (Bursa)": "2026-11-02T02:11:18+00:00",
