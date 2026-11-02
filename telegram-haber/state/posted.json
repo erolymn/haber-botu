@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"0021585b3dc115f4",
-"5c9efd4edbc316bf",
-"a71fabe9191d24e2",
 "f89e8f968e561c1d",
 "c75dbee82ffcd0d9",
 "0ed0868b8b978a97",
@@ -2999,42 +2996,12 @@
 "77f83e0d4b44dfc1",
 "889412e2664967ff",
 "c4c77673c6045025",
-"c79b77d702a3aa87"
+"c79b77d702a3aa87",
+"6fd50b35682e381a",
+"11895c25a53be2fb",
+"3d3f2e44023ce145"
 ],
 "imzalar": [
-[
-"canli",
-"galatasaray",
-"hafta",
-"konyaspor",
-"lig",
-"maci",
-"super"
-],
-[
-"aciklamasi",
-"adim",
-"baskani",
-"dan",
-"duran",
-"gelecegimiz",
-"iletisim",
-"ortak",
-"tarihi",
-"tdt",
-"zirvesi"
-],
-[
-"buzdolabina",
-"ceset",
-"cozuldu",
-"detaylar",
-"dondurdu",
-"kan",
-"koyup",
-"mumya",
-"sirri"
-],
 [
 "cocuguna",
 "dogan",
@@ -8816,15 +8783,45 @@
 "kizilirmak",
 "otomobildeki",
 "sahsin"
+],
+[
+"alti",
+"ambulans",
+"calisani",
+"carpisti",
+"manisa",
+"saglik",
+"traktorle",
+"ucu",
+"yarali"
+],
+[
+"borsasi",
+"gunu",
+"kapatti",
+"karisik",
+"new",
+"seyirle",
+"york"
+],
+[
+"bebek",
+"destegi",
+"hamilelere",
+"indi",
+"olumleri",
+"para",
+"verildi",
+"yariya"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-02T21:31:00+00:00",
-"Sonsöz (Ankara)": "2026-11-02T19:53:00+00:00",
+"Haber Global": "2026-11-02T22:00:00+00:00",
+"Sonsöz (Ankara)": "2026-11-02T22:09:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-02T19:41:02+00:00",
 "Sözcü Son Dakika": "2026-11-02T21:31:32+00:00",
-"Yeni Şafak Yerel": "2026-11-02T21:39:16+00:00",
+"Yeni Şafak Yerel": "2026-11-02T21:47:48+00:00",
 "X / Twitter Türkiye": "2026-11-02T21:00:48.308568+00:00",
 "Olay (Bursa)": "2026-11-02T21:17:53+00:00",
 "@islamasalya": "2026-11-02T20:19:12+00:00",
