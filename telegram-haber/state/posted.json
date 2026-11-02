@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"2535a2a1e4b457f2",
-"8eb9e9cf3809cb32",
-"611ffbb9b2cfdbed",
-"f79035cbfc204794",
 "752c62b7c2479c4f",
 "2f8eb02a3b237cf2",
 "437fc15180d38fd1",
@@ -2999,49 +2995,13 @@
 "fa3beb93cca1c17c",
 "fb3970110bd50104",
 "af404f5e97ea63de",
-"d2018bb6a7e7b4ac"
+"d2018bb6a7e7b4ac",
+"843fe130cdf76742",
+"30fc3f490c4877df",
+"887dcf3b667d1226",
+"b3efe61b8161d711"
 ],
 "imzalar": [
-[
-"ayinda",
-"ekim",
-"ekonomik",
-"endeksi",
-"geriledi",
-"guven"
-],
-[
-"blazers",
-"boozer",
-"cameron",
-"double",
-"grizzlies",
-"macta",
-"triple",
-"yaptigi",
-"yendi"
-],
-[
-"aile",
-"ayriliga",
-"azerbaycan",
-"basladi",
-"erdogan",
-"fotografinda",
-"golgesinde",
-"krizinin",
-"tdt",
-"yer",
-"yoktur"
-],
-[
-"artti",
-"geliri",
-"nin",
-"turizm",
-"turkiye",
-"yuzde"
-],
 [
 "ankara",
 "bulustular",
@@ -8821,15 +8781,67 @@
 "piyasalarin",
 "sali",
 "vurdu"
+],
+[
+"emeklilik",
+"eyt",
+"kaciran",
+"kademeli",
+"meclis",
+"milyonlar",
+"teklifi",
+"umut",
+"yeni"
+],
+[
+"600",
+"bolgesine",
+"detayi",
+"dustu",
+"edildi",
+"kisi",
+"olu",
+"ozel",
+"sayida",
+"tahliye",
+"trump",
+"ucak",
+"yerlesim"
+],
+[
+"500",
+"araclar",
+"arayanlara",
+"bin",
+"butceyle",
+"fiyatli",
+"iste",
+"lira",
+"model",
+"onerisi",
+"otomobil",
+"uygun"
+],
+[
+"acildi",
+"bati",
+"bulgaristan",
+"cikti",
+"degistirecek",
+"dengesini",
+"rusya",
+"sandiklar",
+"sonuc",
+"tarihi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-02T04:12:00+00:00",
+"Haber Global": "2026-11-02T04:21:00+00:00",
 "Sonsöz (Ankara)": "2026-11-02T03:49:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-02T03:55:01+00:00",
-"Sözcü Son Dakika": "2026-11-02T04:16:51+00:00",
-"Yeni Şafak Yerel": "2026-11-02T01:00:00+00:00",
+"Mynet Son Dakika": "2026-11-02T04:32:59+00:00",
+"Sözcü Son Dakika": "2026-11-02T04:56:11+00:00",
+"Yeni Şafak Yerel": "2026-11-02T04:42:23+00:00",
 "X / Twitter Türkiye": "2026-11-02T03:38:40.653558+00:00",
 "Olay (Bursa)": "2026-11-02T03:03:11+00:00",
 "@islamasalya": "2026-11-01T21:03:14+00:00",
