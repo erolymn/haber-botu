@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"5da63d115bd51ae4",
-"c98717b606f58102",
-"30e4ad86d995ff66",
-"a249c84e0547c3e1",
-"6a837eb939eabb63",
-"37fc92ccda65099f",
-"b62924c0303d1518",
-"8b03ba6525a62cba",
 "78dfe7e98ed07313",
 "47e724cf7b156f65",
 "13119f8f06db8015",
@@ -2999,85 +2991,17 @@
 "b079b77061b7daf9",
 "3518cca8d548558f",
 "be8e7aca92baf931",
-"846887ae65ce4d0a"
+"846887ae65ce4d0a",
+"782e693ff728ccee",
+"76112f8765644c15",
+"bfc1a26674f4071a",
+"b42fe1440f793671",
+"954639dde02e81e7",
+"798f18524ab3bf80",
+"0887bce924f6d082",
+"87d2ae6586c91104"
 ],
 "imzalar": [
-[
-"daki",
-"derinlesiyor",
-"faciada",
-"kapadokya",
-"sorusturma"
-],
-[
-"198",
-"ilde",
-"operasyonu",
-"organize",
-"suc",
-"supheli",
-"tutuklama",
-"yakalandi"
-],
-[
-"alisveris",
-"buna",
-"buyuk",
-"dikkat",
-"indirimlerinde",
-"kasim",
-"tuzak",
-"yaparken"
-],
-[
-"avcilar",
-"bekci",
-"kavgasi",
-"okul",
-"onunde",
-"park",
-"veliyi",
-"vurdu",
-"yer"
-],
-[
-"fenerbahce",
-"goztepe",
-"kacta",
-"kadikoy",
-"kritik",
-"maci",
-"randevu",
-"saat"
-],
-[
-"besiktas",
-"edecek",
-"euro",
-"joe",
-"milyon",
-"teklif",
-"tuttomercato",
-"willock"
-],
-[
-"aldi",
-"can",
-"chatgpt",
-"davasi",
-"olumcul",
-"tavsiyesi",
-"yapay",
-"yonlendirme",
-"zeka"
-],
-[
-"bursa",
-"gorenler",
-"kisiyi",
-"polise",
-"versin"
-],
 [
 "dereye",
 "otomobil",
@@ -8829,20 +8753,94 @@
 "fiyati",
 "istanbul",
 "salataligin"
+],
+[
+"bahceli",
+"cikisi",
+"ilcelik",
+"liste",
+"nin",
+"sonrasi"
+],
+[
+"baglantilara",
+"dikkat",
+"dogrulama",
+"medyada",
+"sakin",
+"sosyal",
+"tiklamayin",
+"tuzagina",
+"yas"
+],
+[
+"cikti",
+"emir",
+"ifadesi",
+"ortaya",
+"sarigul"
+],
+[
+"devirdi",
+"doncic",
+"lakers",
+"luka",
+"raptors",
+"toronto",
+"yeniden",
+"yildizlasti"
+],
+[
+"antalya",
+"bulusuyor",
+"cop31",
+"dev",
+"dunya",
+"hazir",
+"liderleri",
+"organizasyon"
+],
+[
+"bagladi",
+"celtics",
+"seriye"
+],
+[
+"430",
+"bakanlik",
+"dikkat",
+"euro",
+"getirenler",
+"kiyafet",
+"tan",
+"uyarisi",
+"yurtdisindan"
+],
+[
+"cozsun",
+"diye",
+"dunya",
+"dusuyor",
+"efsane",
+"evrenin",
+"gondermisti",
+"nasa",
+"sirlarini",
+"yillik"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-02T06:48:00+00:00",
-"Sonsöz (Ankara)": "2026-11-02T06:53:00+00:00",
+"Haber Global": "2026-11-02T07:23:00+00:00",
+"Sonsöz (Ankara)": "2026-11-02T07:29:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-02T05:43:27+00:00",
-"Sözcü Son Dakika": "2026-11-02T06:57:27+00:00",
-"Yeni Şafak Yerel": "2026-11-02T06:54:36+00:00",
+"Mynet Son Dakika": "2026-11-02T06:59:55+00:00",
+"Sözcü Son Dakika": "2026-11-02T07:35:38+00:00",
+"Yeni Şafak Yerel": "2026-11-02T07:30:20+00:00",
 "X / Twitter Türkiye": "2026-11-02T06:18:40.311796+00:00",
-"Olay (Bursa)": "2026-11-02T06:52:00+00:00",
+"Olay (Bursa)": "2026-11-02T07:34:29+00:00",
 "@islamasalya": "2026-11-01T21:03:14+00:00",
-"Yeni Asır (İzmir)": "2026-11-02T06:25:44+00:00",
-"İstanbul Gazetesi": "2026-11-02T06:40:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-02T07:00:59+00:00",
+"İstanbul Gazetesi": "2026-11-02T07:16:00+00:00",
 "Kandilli Rasathanesi": "2026-10-31T13:16:00+00:00"
 }
 }
