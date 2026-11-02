@@ -1,6 +1,5 @@
 {
 "gonderilen": [
-"f89e8f968e561c1d",
 "c75dbee82ffcd0d9",
 "0ed0868b8b978a97",
 "f202f8d5cd909edf",
@@ -2999,20 +2998,10 @@
 "c79b77d702a3aa87",
 "6fd50b35682e381a",
 "11895c25a53be2fb",
-"3d3f2e44023ce145"
+"3d3f2e44023ce145",
+"2f95bb5d5378c180"
 ],
 "imzalar": [
-[
-"cocuguna",
-"dogan",
-"duygulandirdi",
-"galatasaraylilari",
-"geldi",
-"konya",
-"osimhen",
-"ragmen",
-"yeni"
-],
 [
 "istanbul",
 "kisi",
@@ -8813,11 +8802,18 @@
 "para",
 "verildi",
 "yariya"
+],
+[
+"diyarbakir",
+"feci",
+"kaza",
+"olu",
+"yarali"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-02T22:00:00+00:00",
-"Sonsöz (Ankara)": "2026-11-02T22:09:00+00:00",
+"Sonsöz (Ankara)": "2026-11-02T22:48:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-02T19:41:02+00:00",
 "Sözcü Son Dakika": "2026-11-02T21:31:32+00:00",
