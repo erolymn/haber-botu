@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"add083a41eecb4fe",
-"4752bc6ab885104d",
-"8495d67ae1e022d4",
-"f42100c8d76db6f9",
 "a1e108415522c15c",
 "d630f9425bcf8c9b",
 "7f30a01393768470",
@@ -2999,35 +2995,13 @@
 "3e0ee767f33b02ad",
 "23c72a97c9b5e020",
 "b863f5eabf8c3f29",
-"02d09d5820620ddb"
+"02d09d5820620ddb",
+"ec060765efdcd443",
+"79d691aeea537fd8",
+"21ae504a17ed3b98",
+"c2174cff639805f7"
 ],
 "imzalar": [
-[
-"adim",
-"den",
-"ilk",
-"resmi",
-"turkiye",
-"volkswagen"
-],
-[
-"124",
-"bin",
-"dayandi",
-"siniri",
-"yoksulluk"
-],
-[
-"galatasaray",
-"hangi",
-"kacta",
-"kanalda",
-"maci",
-"saat",
-"sifresiz",
-"stuttgart",
-"zaman"
-],
 [
 "adliyeye",
 "babasi",
@@ -8831,17 +8805,46 @@
 "kitap",
 "milletten",
 "rekoru"
+],
+[
+"bursaspor",
+"hesap",
+"kaptanindan",
+"kese",
+"mesaj",
+"rakiplere",
+"tum"
+],
+[
+"deprem",
+"gece",
+"izmir",
+"kabusu",
+"oluyor",
+"sandim",
+"yarisi",
+"yasadilar"
+],
+[
+"ceset",
+"cikti",
+"gun",
+"kokunun",
+"kotu",
+"olmus",
+"once",
+"sebebi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-01T21:49:00+00:00",
+"Haber Global": "2026-11-02T03:26:00+00:00",
 "Sonsöz (Ankara)": "2026-11-02T02:41:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-01T14:51:33+00:00",
+"Mynet Son Dakika": "2026-11-02T03:28:37+00:00",
 "Sözcü Son Dakika": "2026-11-02T02:35:16+00:00",
 "Yeni Şafak Yerel": "2026-11-02T01:00:00+00:00",
-"X / Twitter Türkiye": "2026-11-02T00:18:14.047689+00:00",
-"Olay (Bursa)": "2026-11-02T02:11:18+00:00",
+"X / Twitter Türkiye": "2026-11-02T03:38:40.653558+00:00",
+"Olay (Bursa)": "2026-11-02T03:03:11+00:00",
 "@islamasalya": "2026-11-01T21:03:14+00:00",
 "Yeni Asır (İzmir)": "2026-11-01T21:29:21+00:00",
 "İstanbul Gazetesi": "2026-11-01T21:01:00+00:00",
