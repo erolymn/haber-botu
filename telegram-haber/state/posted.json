@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"6a7bdd26f85d0b52",
-"14e2a9a47f706ae2",
-"d9d41a09ba2ae7af",
 "4d596251013d1eda",
 "4c8820cacfd99e60",
 "64c80993e668c1db",
@@ -2999,50 +2996,12 @@
 "856964413328409c",
 "0cc8d05d098c0ec5",
 "11978cb4d67a75b2",
-"eb43e3ec2b598107"
+"eb43e3ec2b598107",
+"574be1faa3b7d98a",
+"76c335a955a1684e",
+"a82b4c76dbc3d367"
 ],
 "imzalar": [
-[
-"casper",
-"excalibur",
-"g915",
-"laptop",
-"onerisi",
-"oyun",
-"tek"
-],
-[
-"atesten",
-"balinanin",
-"cikaran",
-"denizi",
-"gazze",
-"gucunle",
-"halkina",
-"ibrahim",
-"karnindan",
-"kudretinle",
-"kurtaran",
-"lutfunla",
-"merhamet",
-"merhametinle",
-"musa",
-"rabbim",
-"senden",
-"yaran",
-"yunus",
-"yusuf",
-"zindandan"
-],
-[
-"atandi",
-"belli",
-"kayyum",
-"kontrolmatik",
-"tmsf",
-"yeni",
-"yonetim"
-],
 [
 "curutuldu",
 "galatasaray",
@@ -8807,15 +8766,41 @@
 "liverpool",
 "macina",
 "satisinda"
+],
+[
+"baraja",
+"kayseri",
+"otomobil",
+"surucu",
+"uctu",
+"yasamini",
+"yitirdi"
+],
+[
+"bugunden",
+"cagrisi",
+"dan",
+"havluyla",
+"itibaren",
+"kapatin",
+"kapilari",
+"once",
+"saat"
+],
+[
+"manyak",
+"nukleer",
+"pesinde",
+"savas"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-02T23:50:00+00:00",
+"Haber Global": "2026-11-03T00:53:00+00:00",
 "Sonsöz (Ankara)": "2026-11-02T22:48:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-02T19:41:02+00:00",
-"Sözcü Son Dakika": "2026-11-03T00:19:22+00:00",
-"Yeni Şafak Yerel": "2026-11-02T21:47:48+00:00",
+"Sözcü Son Dakika": "2026-11-03T00:58:58+00:00",
+"Yeni Şafak Yerel": "2026-11-03T01:01:00+00:00",
 "X / Twitter Türkiye": "2026-11-03T00:21:19.456985+00:00",
 "Olay (Bursa)": "2026-11-02T21:17:53+00:00",
 "@islamasalya": "2026-11-02T20:19:12+00:00",
