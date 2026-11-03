@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"a9dd903978d937fb",
-"f25a7e320a25d84b",
-"2c5d08a29dba0b2d",
-"bdc11e2d6151bf30",
-"e37d8bf1c10dd274",
-"fba76cf26e378953",
-"b3c3d489cbac1aa2",
-"a95de4f4ac395baa",
 "b9f5c2a9c2218d65",
 "157a1467b650db00",
 "d5f062c026e42e76",
@@ -2999,92 +2991,17 @@
 "a68e46cb26ef852c",
 "1a49e577f250e640",
 "b6e7e63d3ddcf78e",
-"7f1d989cc1e54bff"
+"7f1d989cc1e54bff",
+"c69401f0bc2b3fd2",
+"30465e5d67ae414a",
+"6fbd95ad8e338e49",
+"d54e8be5e033058b",
+"7f1dc71b0527ebcc",
+"c689a263ac4f3959",
+"01d4babe9d3dc17f",
+"efe388e81be3f8df"
 ],
 "imzalar": [
-[
-"destekli",
-"dron",
-"kadikoy",
-"kisi",
-"operasyon",
-"suphelilerine",
-"uyusturucu",
-"yakalandi"
-],
-[
-"alindi",
-"askiya",
-"bogazi",
-"istanbul",
-"trafigi"
-],
-[
-"avrupa",
-"ceken",
-"dan",
-"dikkat",
-"iran",
-"tehdit"
-],
-[
-"baba",
-"cinsel",
-"isteyen",
-"istismara",
-"kizini",
-"oldurmek",
-"tutuklandi",
-"ugrayan"
-],
-[
-"aykut",
-"ayni",
-"bulusma",
-"detayi",
-"fenerbahce",
-"herkes",
-"kocaman",
-"meraklandiran",
-"sonrasi",
-"sordu",
-"soruyu",
-"surpriz",
-"taraftarini"
-],
-[
-"binlerce",
-"gun",
-"hayatinda",
-"her",
-"izmirliyi",
-"meslek",
-"olay",
-"oyle",
-"tasiyorlar",
-"yasadi",
-"yillik"
-],
-[
-"kenyali",
-"kisi",
-"kutahya",
-"musluman"
-],
-[
-"2027",
-"asgari",
-"bekledigi",
-"ceken",
-"cikti",
-"dikkat",
-"hesap",
-"milyonlarin",
-"ortaya",
-"rakam",
-"ucret",
-"zammi"
-],
 [
 "besiktas",
 "kasimpasa",
@@ -8831,20 +8748,101 @@
 "kore",
 "sekilde",
 "taklalar"
+],
+[
+"akom",
+"dan",
+"geldi",
+"hazirlik",
+"istanbullular",
+"olun",
+"pes",
+"pese",
+"uyari",
+"valilik"
+],
+[
+"2027",
+"asgari",
+"dusuk",
+"gozler",
+"hesaplarda",
+"kadar",
+"olacak",
+"ucret",
+"ucrette",
+"zammi"
+],
+[
+"cift",
+"genc",
+"kaza",
+"korkunc",
+"yasamini",
+"yitirdi"
+],
+[
+"belli",
+"eksik",
+"fenerbahce",
+"kadrosu",
+"kamp",
+"liverpool",
+"maci"
+],
+[
+"akademi",
+"baskent",
+"bulgaristan",
+"cimnastik",
+"dan",
+"dondu",
+"sampiyonlukla"
+],
+[
+"anlar",
+"binaya",
+"dustu",
+"finans",
+"istanbul",
+"kamerada",
+"merkezi",
+"ndeki",
+"yildirim"
+],
+[
+"eksikler",
+"fenerbahce",
+"kritik",
+"liverpool",
+"macinda",
+"yildiz"
+],
+[
+"232",
+"camlica",
+"dakikada",
+"dehset",
+"dustu",
+"finanskent",
+"istanbul",
+"kulesi",
+"saniyesi",
+"simsek"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-03T09:34:00+00:00",
-"Sonsöz (Ankara)": "2026-11-03T09:36:00+00:00",
+"Haber Global": "2026-11-03T10:10:00+00:00",
+"Sonsöz (Ankara)": "2026-11-03T10:11:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-03T08:15:35+00:00",
-"Sözcü Son Dakika": "2026-11-03T09:40:22+00:00",
-"Yeni Şafak Yerel": "2026-11-03T09:26:34+00:00",
+"Mynet Son Dakika": "2026-11-03T09:45:38+00:00",
+"Sözcü Son Dakika": "2026-11-03T10:22:20+00:00",
+"Yeni Şafak Yerel": "2026-11-03T10:16:07+00:00",
 "X / Twitter Türkiye": "2026-11-03T09:02:14.552119+00:00",
-"Olay (Bursa)": "2026-11-03T09:37:13+00:00",
+"Olay (Bursa)": "2026-11-03T10:01:25+00:00",
 "@islamasalya": "2026-11-03T08:34:40+00:00",
-"Yeni Asır (İzmir)": "2026-11-03T09:27:29+00:00",
-"İstanbul Gazetesi": "2026-11-03T09:38:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-03T09:53:37+00:00",
+"İstanbul Gazetesi": "2026-11-03T10:15:00+00:00",
 "Kandilli Rasathanesi": "2026-11-02T17:58:04+00:00"
 }
 }
