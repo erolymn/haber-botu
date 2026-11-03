@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"eacc8299fdff0023",
-"5337e51576592f0b",
-"de9239f05dcf130e",
-"44500b58d9b12d44",
-"86dc2bc92d2e3dcc",
-"7882c0c2e27a3bc5",
-"9f88dacc00c753d8",
-"4037e18a09481dd0",
 "fb0c5e3504eee2e7",
 "1a9c5e82a0e6025a",
 "222128b0215c6d41",
@@ -2999,93 +2991,17 @@
 "5a932fbeb15a9eaf",
 "1ccd7a92c651f133",
 "99865cb5a87ac34e",
-"45ab26c7b79ef4c4"
+"45ab26c7b79ef4c4",
+"3e39248fde518f9e",
+"d2d4c708c1d5c4fa",
+"932e326778c54b20",
+"31ae740b3fe640a2",
+"2a7819118a38f95b",
+"4a206e8f8ad2dbb5",
+"a83310b91238e38c",
+"0194bc952ec5141a"
 ],
 "imzalar": [
-[
-"bakirkoy",
-"bekci",
-"direndi",
-"hirsizlarina",
-"kablo",
-"sandalyeyle"
-],
-[
-"birligi",
-"bursa",
-"guc",
-"kanserine",
-"karsi",
-"meme"
-],
-[
-"bakani",
-"bulustu",
-"dunyasi",
-"genclerle",
-"kurultayi",
-"memisoglu",
-"nda",
-"saglik",
-"tip",
-"turk"
-],
-[
-"cikti",
-"federasyon",
-"gonderecek",
-"heyet",
-"krizi",
-"misir",
-"mohamed",
-"ozel",
-"salah",
-"trabzon"
-],
-[
-"belli",
-"gun",
-"gunlerce",
-"iki",
-"kritik",
-"meteorolojiden",
-"saati",
-"surecek",
-"uyari",
-"yagisin"
-],
-[
-"bagisikligi",
-"besinleri",
-"destekleyen",
-"havalarda",
-"oneri",
-"soguk",
-"tuketin"
-],
-[
-"buyuk",
-"dayf",
-"diab",
-"ebu",
-"gece",
-"hakkinda",
-"halid",
-"internet",
-"kassam",
-"muhammed",
-"nin",
-"ozel",
-"resm",
-"sehidi",
-"sitesinde",
-"sozcusu",
-"tarafindan",
-"tugaylari",
-"ummetin",
-"video",
-"yayimlanacak"
-],
 [
 "abd",
 "den",
@@ -8837,20 +8753,85 @@
 "kardeslik",
 "sinirlari",
 "vurgusu"
+],
+[
+"bogazi",
+"geciyor",
+"gemi",
+"iha",
+"istanbul",
+"ndan",
+"rusya",
+"saldirisina",
+"ugrayan"
+],
+[
+"aciklama",
+"bakan",
+"dan",
+"emekli",
+"geliyor",
+"isikhan",
+"maaslarina",
+"zam"
+],
+[
+"avrupa",
+"belli",
+"besiktas",
+"hakemleri",
+"maclarinin",
+"trabzonspor"
+],
+[
+"cikti",
+"datca",
+"hortum"
+],
+[
+"932",
+"bin",
+"cikti",
+"dilencinin",
+"lira",
+"ordu",
+"uzerinden"
+],
+[
+"acisini",
+"bebegini",
+"boyle",
+"buyuk",
+"hayatinin",
+"kaybetti",
+"sokakta",
+"yasadi",
+"yuruyordu"
+],
+[
+"agir",
+"bugdayi",
+"colun",
+"ettiler",
+"faturasi",
+"hasat",
+"milyon",
+"ortasinda",
+"ton"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-03T11:38:00+00:00",
-"Sonsöz (Ankara)": "2026-11-03T11:27:00+00:00",
+"Haber Global": "2026-11-03T12:20:00+00:00",
+"Sonsöz (Ankara)": "2026-11-03T12:15:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-03T10:51:01+00:00",
-"Sözcü Son Dakika": "2026-11-03T11:30:01+00:00",
-"Yeni Şafak Yerel": "2026-11-03T11:35:32+00:00",
-"X / Twitter Türkiye": "2026-11-03T09:02:14.552119+00:00",
-"Olay (Bursa)": "2026-11-03T11:40:08+00:00",
+"Sözcü Son Dakika": "2026-11-03T12:21:44+00:00",
+"Yeni Şafak Yerel": "2026-11-03T12:18:22+00:00",
+"X / Twitter Türkiye": "2026-11-03T12:22:55.023734+00:00",
+"Olay (Bursa)": "2026-11-03T12:12:37+00:00",
 "@islamasalya": "2026-11-03T11:05:20+00:00",
-"Yeni Asır (İzmir)": "2026-11-03T11:28:45+00:00",
-"İstanbul Gazetesi": "2026-11-03T11:33:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-03T12:06:07+00:00",
+"İstanbul Gazetesi": "2026-11-03T11:49:00+00:00",
 "Kandilli Rasathanesi": "2026-11-03T11:03:49+00:00"
 }
 }
