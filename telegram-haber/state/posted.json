@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"a24a81f0e92ea2d8",
-"1cacb37e4835fcc3",
 "244027f2db9652f4",
 "edbe0e943f56abbf",
 "c4d4b5c812ffe482",
@@ -2999,28 +2997,11 @@
 "8fd578a56bfca424",
 "8c05fbaa1f16ef1b",
 "75d53dab81fbb138",
-"cb957d21fc55d3e1"
+"cb957d21fc55d3e1",
+"03ddf5b46235c66a",
+"3c1ba93317add67e"
 ],
 "imzalar": [
-[
-"buruk",
-"ediyorum",
-"fenerbahcelileri",
-"hediye",
-"kizdiracak",
-"okan",
-"ona",
-"sozler",
-"tan"
-],
-[
-"anadolu",
-"devirdi",
-"efes",
-"euroleague",
-"lider",
-"panathinaikos"
-],
 [
 "kuzey",
 "marmara",
@@ -8777,14 +8758,40 @@
 "bitti",
 "yillik",
 "yuruyus"
+],
+[
+"almanya",
+"avrupa",
+"buyuyor",
+"dalgasi",
+"dan",
+"dinmiyor",
+"fransa",
+"ofke",
+"protesto",
+"sokaklarinda"
+],
+[
+"acil",
+"alarm",
+"dunyada",
+"durum",
+"gunu",
+"kiyamet",
+"nukleer",
+"panigi",
+"rusya",
+"sonrasi",
+"ukrayna",
+"uyarilari"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-03T01:21:00+00:00",
+"Haber Global": "2026-11-03T03:24:00+00:00",
 "Sonsöz (Ankara)": "2026-11-03T01:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-02T19:41:02+00:00",
-"Sözcü Son Dakika": "2026-11-03T02:55:10+00:00",
+"Sözcü Son Dakika": "2026-11-03T03:37:38+00:00",
 "Yeni Şafak Yerel": "2026-11-03T01:01:00+00:00",
 "X / Twitter Türkiye": "2026-11-03T03:01:19.224916+00:00",
 "Olay (Bursa)": "2026-11-03T02:10:19+00:00",
