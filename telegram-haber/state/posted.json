@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"d53bffe5241d8327",
-"c9d5383f1251191b",
-"8469a8432167f7fd",
-"1c25db6156dae106",
 "6c03af580312612f",
 "d19ab77317368b45",
 "53862ce45ca603e2",
@@ -2999,34 +2995,13 @@
 "8515e7b87ff75201",
 "f52c40867f39a8f5",
 "d7258f98f53c3349",
-"0f7e7690751d812b"
+"0f7e7690751d812b",
+"9cf900913edac25d",
+"7f408ff9db6310e4",
+"ef4b852657959578",
+"4e615431d7ee9dc3"
 ],
 "imzalar": [
-[
-"cikti",
-"greenwood",
-"herkes",
-"kadroda",
-"neden",
-"olmadigi",
-"ortaya",
-"sasirmisti"
-],
-[
-"dunya",
-"gurescilerden",
-"madalya",
-"milli",
-"nda",
-"sampiyonasi",
-"tek"
-],
-[
-"cumhurbaskanligi",
-"cumhuriyet",
-"kosusu",
-"yapildi"
-],
 [
 "350",
 "bursa",
@@ -8857,16 +8832,47 @@
 "savas",
 "tahran",
 "verdi"
+],
+[
+"akp",
+"arastirilmasini",
+"borsa",
+"fon",
+"iddialarinin",
+"mhp",
+"reddetti"
+],
+[
+"bursa",
+"carpisti",
+"iki",
+"kisi",
+"tir",
+"traktor",
+"yaralandi",
+"yuklu",
+"zeytin"
+],
+[
+"burada",
+"dan",
+"galatasaray",
+"gercek",
+"her",
+"hoparlor",
+"paylasimina",
+"sey",
+"yanit"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-03T19:53:00+00:00",
+"Haber Global": "2026-11-03T21:01:00+00:00",
 "Sonsöz (Ankara)": "2026-11-03T19:46:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-03T19:19:54+00:00",
-"Sözcü Son Dakika": "2026-11-03T20:22:10+00:00",
-"Yeni Şafak Yerel": "2026-11-03T20:21:28+00:00",
-"X / Twitter Türkiye": "2026-11-03T18:23:49.856086+00:00",
+"Sözcü Son Dakika": "2026-11-03T20:44:00+00:00",
+"Yeni Şafak Yerel": "2026-11-03T20:50:58+00:00",
+"X / Twitter Türkiye": "2026-11-03T21:04:42.452323+00:00",
 "Olay (Bursa)": "2026-11-03T19:29:46+00:00",
 "@islamasalya": "2026-11-03T14:59:42+00:00",
 "Yeni Asır (İzmir)": "2026-11-03T16:18:10+00:00",
