@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"4d596251013d1eda",
-"4c8820cacfd99e60",
 "64c80993e668c1db",
 "bd96c7fe0b895e4b",
 "c28d72c829120c42",
@@ -2999,26 +2997,11 @@
 "eb43e3ec2b598107",
 "574be1faa3b7d98a",
 "76c335a955a1684e",
-"a82b4c76dbc3d367"
+"a82b4c76dbc3d367",
+"9f9df2166d8b322a",
+"a9c9bb43a3b74323"
 ],
 "imzalar": [
-[
-"curutuldu",
-"galatasaray",
-"hatasi",
-"iddiasi",
-"kisa",
-"kural",
-"surede",
-"yapti"
-],
-[
-"asti",
-"engelini",
-"galatasaray",
-"golle",
-"konyaspor"
-],
 [
 "cikisini",
 "galatasaray",
@@ -8792,14 +8775,28 @@
 "nukleer",
 "pesinde",
 "savas"
+],
+[
+"ceza",
+"dusuren",
+"guvenligini",
+"surucuye",
+"tehlikeye",
+"trafik",
+"umraniye",
+"yuklu"
+],
+[
+"efendisi",
+"rakamlarin"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-03T00:53:00+00:00",
+"Haber Global": "2026-11-03T01:21:00+00:00",
 "Sonsöz (Ankara)": "2026-11-02T22:48:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-02T19:41:02+00:00",
-"Sözcü Son Dakika": "2026-11-03T00:58:58+00:00",
+"Sözcü Son Dakika": "2026-11-03T01:30:08+00:00",
 "Yeni Şafak Yerel": "2026-11-03T01:01:00+00:00",
 "X / Twitter Türkiye": "2026-11-03T00:21:19.456985+00:00",
 "Olay (Bursa)": "2026-11-02T21:17:53+00:00",
