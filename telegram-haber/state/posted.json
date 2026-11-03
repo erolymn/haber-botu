@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"a970c715fe38ed9f",
-"c46f6e74c360da3d",
-"2346ea4cf825f109",
-"b45f1c4226c5655f",
-"9b362f0f9dca15f9",
-"891f19edfbca5889",
-"b183792e60abb916",
-"c7af0f311f271444",
 "1369fbccd29757a7",
 "5f7f613b00f1b7d5",
 "55b2d1a3fc21f03d",
@@ -2999,79 +2991,17 @@
 "9339450bbe7be9de",
 "9d0abbb5d00c9784",
 "105f172b2d0c7a5d",
-"3301895ffa34fe03"
+"3301895ffa34fe03",
+"00ad784a36d4dd6c",
+"704fd51dd26742b5",
+"d147d5c837c89b4b",
+"bbe13b2738c4b7f1",
+"f56c20f2410ae642",
+"e72484b9121f5e3f",
+"8e02a12dfe010ec5",
+"b345dea1897a8589"
 ],
 "imzalar": [
-[
-"artirimi",
-"basvurusu",
-"bodrum",
-"kapasite",
-"koyune",
-"tatil"
-],
-[
-"acildi",
-"asker",
-"ates",
-"gecisine",
-"hudut",
-"mudahalede",
-"sehit"
-],
-[
-"artacak",
-"dogalgazda",
-"faturalar",
-"limit",
-"yeni"
-],
-[
-"alperen",
-"dallas",
-"houston",
-"kaybetti",
-"mavericks",
-"oynayamadi",
-"rockets",
-"sengun"
-],
-[
-"calismasinda",
-"fiskirdi",
-"gizemli",
-"konusu",
-"merak",
-"sakarya",
-"tarih",
-"uzerindeki",
-"yazilar",
-"yol"
-],
-[
-"hafta",
-"saganak",
-"saracak",
-"sonu",
-"turkiye",
-"uyarisi"
-],
-[
-"adayi",
-"genel",
-"nin",
-"sekreter",
-"sinirlioglu",
-"turkiye"
-],
-[
-"bakanliga",
-"birimler",
-"gazete",
-"resmi",
-"yayimlandi",
-"yeni"
-],
 [
 "gorusmeler",
 "olacak",
@@ -8818,20 +8748,101 @@
 "pazar",
 "secim",
 "sonuc"
+],
+[
+"barajlarinda",
+"istanbul",
+"karsilastirma",
+"sasirtan",
+"yuzde"
+],
+[
+"alevlere",
+"gerede",
+"otobusu",
+"teslim",
+"yolcu"
+],
+[
+"asgari",
+"avukatlik",
+"bedeli",
+"belli",
+"danisma",
+"kadar",
+"tarifesi",
+"ucret"
+],
+[
+"atti",
+"kadina",
+"ortasinda",
+"savunma",
+"skandal",
+"sokak",
+"tanimadigi",
+"tokat"
+],
+[
+"acikladi",
+"bakan",
+"cifte",
+"ihracatta",
+"rekor"
+],
+[
+"bonservis",
+"futbol",
+"galatasarayli",
+"gecebilir",
+"rekor",
+"tarihine",
+"turk",
+"yildiza"
+],
+[
+"bakan",
+"borsa",
+"degil",
+"edildi",
+"gurlek",
+"kapsamli",
+"karsimizda",
+"manipulasyonu",
+"suc",
+"tespit",
+"yapilanmasi"
+],
+[
+"doncic",
+"elestirilere",
+"gibi",
+"istedigini",
+"iyiyim",
+"jet",
+"lakers",
+"luka",
+"medya",
+"oyuncusu",
+"soylesin",
+"ten",
+"yanit",
+"yil",
+"yildiz"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-03T07:36:00+00:00",
-"Sonsöz (Ankara)": "2026-11-03T07:40:00+00:00",
+"Haber Global": "2026-11-03T08:20:00+00:00",
+"Sonsöz (Ankara)": "2026-11-03T08:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-03T06:39:51+00:00",
-"Sözcü Son Dakika": "2026-11-03T07:30:15+00:00",
-"Yeni Şafak Yerel": "2026-11-03T07:41:17+00:00",
+"Mynet Son Dakika": "2026-11-03T08:15:35+00:00",
+"Sözcü Son Dakika": "2026-11-03T08:18:45+00:00",
+"Yeni Şafak Yerel": "2026-11-03T08:19:54+00:00",
 "X / Twitter Türkiye": "2026-11-03T06:22:14.732637+00:00",
-"Olay (Bursa)": "2026-11-03T07:30:06+00:00",
+"Olay (Bursa)": "2026-11-03T08:17:22+00:00",
 "@islamasalya": "2026-11-02T20:19:12+00:00",
-"Yeni Asır (İzmir)": "2026-11-03T07:38:13+00:00",
-"İstanbul Gazetesi": "2026-11-03T07:25:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-03T08:11:53+00:00",
+"İstanbul Gazetesi": "2026-11-03T07:50:00+00:00",
 "Kandilli Rasathanesi": "2026-11-02T17:58:04+00:00"
 }
 }
