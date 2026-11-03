@@ -1,14 +1,5 @@
 {
 "gonderilen": [
-"1369fbccd29757a7",
-"5f7f613b00f1b7d5",
-"55b2d1a3fc21f03d",
-"a5ecdbe5121e2602",
-"ce755acc381c53ea",
-"710354d404c2a34f",
-"7975ffff20b69498",
-"306d9a8057ce28e1",
-"19515a14dbd35068",
 "c3c03ab40fb96e5c",
 "8e1ac44647f534b3",
 "3335a4efbfe254eb",
@@ -2999,89 +2990,18 @@
 "f56c20f2410ae642",
 "e72484b9121f5e3f",
 "8e02a12dfe010ec5",
-"b345dea1897a8589"
+"b345dea1897a8589",
+"d614036a1208a259",
+"de1525d80a5e9a3e",
+"d63ea24eb99a20fd",
+"ddd893d3e81335b2",
+"af14a2ef6b165dc6",
+"7a8fd7bf3ecdf6ba",
+"4077ba4efd364bae",
+"64c8ebf9e5dd7c87",
+"b5393c432bed6ba9"
 ],
 "imzalar": [
-[
-"gorusmeler",
-"olacak",
-"onemli",
-"turkiye",
-"zelenskiy"
-],
-[
-"hepsi",
-"hesaplari",
-"karar",
-"medya",
-"silinecek",
-"sosyal",
-"tek",
-"verildi",
-"yarin"
-],
-[
-"alevlere",
-"bayrampasa",
-"catisi",
-"dugun",
-"salonunun",
-"teslim"
-],
-[
-"altin",
-"altini",
-"bin",
-"ceyrek",
-"cumhuriyet",
-"dusus",
-"ekim",
-"fiyatlarinda",
-"geriledi",
-"gram",
-"kadar",
-"sinirina",
-"suruyor"
-],
-[
-"grubunun",
-"hesaplari",
-"itibaren",
-"kapsiyor",
-"kisiyi",
-"medya",
-"milyonlarca",
-"silinecek",
-"sosyal",
-"tek",
-"yarindan",
-"yas"
-],
-[
-"erdal",
-"inonu",
-"nun",
-"olumunun",
-"uncu",
-"yili"
-],
-[
-"colun",
-"ediyorlar",
-"ikinci",
-"insa",
-"nehir",
-"ortasina"
-],
-[
-"abd",
-"artti",
-"kulesi",
-"nin",
-"petrol",
-"sayisi",
-"sondaj"
-],
 [
 "aci",
 "acikladi",
@@ -8829,20 +8749,98 @@
 "yanit",
 "yil",
 "yildiz"
+],
+[
+"dan",
+"emsal",
+"karari",
+"torun",
+"yargitay"
+],
+[
+"amelle",
+"asra",
+"gerdiler",
+"gogus",
+"iman",
+"muhur",
+"rab",
+"sahidiz",
+"vurdular",
+"zulme"
+],
+[
+"ayni",
+"bambaska",
+"degisim",
+"golu",
+"goruntu",
+"korkuttu",
+"ndeki",
+"nokta",
+"van"
+],
+[
+"acikladi",
+"bakan",
+"emekliye",
+"isikhan",
+"mesaji",
+"resmen",
+"zam"
+],
+[
+"ekipleri",
+"jandarma",
+"kacak",
+"kazi",
+"kisi",
+"tarafindan",
+"yakalandi",
+"yapan"
+],
+[
+"devletlerinden",
+"hedefi",
+"turan",
+"turk",
+"uzayda"
+],
+[
+"cikis",
+"disi",
+"harci",
+"kadar",
+"olacak",
+"yurt"
+],
+[
+"cikti",
+"doktor",
+"hesaplandi",
+"maaslari",
+"memurlarin",
+"ocak",
+"ogretmen",
+"ortaya",
+"polis",
+"tablosu",
+"yeniden",
+"zam"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-03T08:20:00+00:00",
-"Sonsöz (Ankara)": "2026-11-03T08:01:00+00:00",
+"Haber Global": "2026-11-03T08:53:00+00:00",
+"Sonsöz (Ankara)": "2026-11-03T08:54:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-03T08:15:35+00:00",
-"Sözcü Son Dakika": "2026-11-03T08:18:45+00:00",
-"Yeni Şafak Yerel": "2026-11-03T08:19:54+00:00",
-"X / Twitter Türkiye": "2026-11-03T06:22:14.732637+00:00",
-"Olay (Bursa)": "2026-11-03T08:17:22+00:00",
-"@islamasalya": "2026-11-02T20:19:12+00:00",
-"Yeni Asır (İzmir)": "2026-11-03T08:11:53+00:00",
-"İstanbul Gazetesi": "2026-11-03T07:50:00+00:00",
+"Sözcü Son Dakika": "2026-11-03T08:58:54+00:00",
+"Yeni Şafak Yerel": "2026-11-03T08:54:28+00:00",
+"X / Twitter Türkiye": "2026-11-03T09:02:14.552119+00:00",
+"Olay (Bursa)": "2026-11-03T08:53:24+00:00",
+"@islamasalya": "2026-11-03T08:34:40+00:00",
+"Yeni Asır (İzmir)": "2026-11-03T08:55:56+00:00",
+"İstanbul Gazetesi": "2026-11-03T08:20:00+00:00",
 "Kandilli Rasathanesi": "2026-11-02T17:58:04+00:00"
 }
 }
