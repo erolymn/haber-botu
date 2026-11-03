@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"0ed0868b8b978a97",
-"f202f8d5cd909edf",
-"a72d780bbd7e25d0",
 "6a7bdd26f85d0b52",
 "14e2a9a47f706ae2",
 "d9d41a09ba2ae7af",
@@ -2999,32 +2996,12 @@
 "11895c25a53be2fb",
 "3d3f2e44023ce145",
 "2f95bb5d5378c180",
-"856964413328409c"
+"856964413328409c",
+"0cc8d05d098c0ec5",
+"11978cb4d67a75b2",
+"eb43e3ec2b598107"
 ],
 "imzalar": [
-[
-"820",
-"dikkat",
-"elektrik",
-"faturasi",
-"kalkiyor",
-"lira",
-"ocak",
-"olanlar",
-"tan",
-"ustu"
-],
-[
-"asan",
-"dogal",
-"fatura",
-"gazda",
-"guncellendi",
-"limitler",
-"odeyecek",
-"siniri",
-"yuksek"
-],
 [
 "casper",
 "excalibur",
@@ -8811,16 +8788,35 @@
 "gelirleri",
 "gosterdi",
 "temmuz"
+],
+[
+"abd",
+"aciklandi",
+"arasindaki",
+"gorusmenin",
+"rusya",
+"tarihi",
+"ukrayna",
+"yeri"
+],
+[
+"bilet",
+"fenerbahce",
+"gozalti",
+"karaborsa",
+"liverpool",
+"macina",
+"satisinda"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-02T23:06:00+00:00",
+"Haber Global": "2026-11-02T23:50:00+00:00",
 "Sonsöz (Ankara)": "2026-11-02T22:48:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-02T19:41:02+00:00",
-"Sözcü Son Dakika": "2026-11-02T21:31:32+00:00",
+"Sözcü Son Dakika": "2026-11-03T00:19:22+00:00",
 "Yeni Şafak Yerel": "2026-11-02T21:47:48+00:00",
-"X / Twitter Türkiye": "2026-11-02T21:00:48.308568+00:00",
+"X / Twitter Türkiye": "2026-11-03T00:21:19.456985+00:00",
 "Olay (Bursa)": "2026-11-02T21:17:53+00:00",
 "@islamasalya": "2026-11-02T20:19:12+00:00",
 "Yeni Asır (İzmir)": "2026-11-02T17:14:39+00:00",
