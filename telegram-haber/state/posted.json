@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"f9ef8fbc27c06c67",
-"5525f8920482bebf",
-"f1c0b7c210b9b857",
-"d9064ebebe676647",
 "ec3410cc5a6e97ab",
 "0c040382586be84c",
 "31388a88226ec991",
@@ -2999,47 +2995,13 @@
 "82e966670e4b2df1",
 "38b21504f2fe1e83",
 "41801a76849abf00",
-"59d69ca83e40b2ee"
+"59d69ca83e40b2ee",
+"24701ee32506fbcf",
+"bdf59fb278cce835",
+"ef3673fd343bbd6b",
+"8092636d573d4443"
 ],
 "imzalar": [
-[
-"baba",
-"birlikte",
-"kisiyi",
-"kizini",
-"mamak",
-"olduren",
-"yakalandi",
-"yasadigi"
-],
-[
-"ankara",
-"cifte",
-"cinayette",
-"daki",
-"donduran",
-"ifade",
-"kan",
-"kufur",
-"oldurdum"
-],
-[
-"enflasyon",
-"faturasi",
-"kabariyor",
-"olur",
-"petrolun",
-"soku",
-"yeni"
-],
-[
-"cekmekoy",
-"devam",
-"ediyor",
-"gorusmeler",
-"ulasim",
-"yatirimlari"
-],
 [
 "baskani",
 "devlet",
@@ -8843,15 +8805,58 @@
 "provokasyon",
 "ulke",
 "yalanlama"
+],
+[
+"aliyev",
+"bustun",
+"dmm",
+"haydar",
+"iddialarina",
+"kaldirilacagi",
+"ndaki",
+"parki",
+"verdi",
+"yanit"
+],
+[
+"deprem",
+"fenerbahce",
+"istifasini",
+"sundu",
+"tum",
+"yoneticiler"
+],
+[
+"baris",
+"baskan",
+"fenerbahce",
+"gokturk",
+"istifasini",
+"tum",
+"uyeler",
+"vekili",
+"verdi"
+],
+[
+"aciklama",
+"alinmayan",
+"arda",
+"den",
+"guler",
+"hocamizin",
+"kadroya",
+"karari",
+"sakatligim",
+"sok"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-03T15:55:00+00:00",
-"Sonsöz (Ankara)": "2026-11-03T15:25:00+00:00",
+"Haber Global": "2026-11-03T16:57:00+00:00",
+"Sonsöz (Ankara)": "2026-11-03T16:29:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-03T15:45:54+00:00",
-"Sözcü Son Dakika": "2026-11-03T16:07:12+00:00",
-"Yeni Şafak Yerel": "2026-11-03T16:22:15+00:00",
+"Sözcü Son Dakika": "2026-11-03T17:01:35+00:00",
+"Yeni Şafak Yerel": "2026-11-03T16:52:53+00:00",
 "X / Twitter Türkiye": "2026-11-03T15:02:55.653022+00:00",
 "Olay (Bursa)": "2026-11-03T15:13:12+00:00",
 "@islamasalya": "2026-11-03T14:59:42+00:00",
