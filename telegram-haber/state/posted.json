@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"f5c953c6d3456f47",
-"051a88d89b276352",
-"cc5379dbff29b97e",
-"08706d211c8c3e5d",
-"1a4fe46386d4e110",
-"297b6ea50d05e78f",
-"26cff8421ab61d7f",
-"8fa3e3500faea830",
 "ee6d66db786fdf84",
 "b2d46d91859e9f6e",
 "9b5d91233ea01c57",
@@ -2999,74 +2991,17 @@
 "55154bb5a31f3d40",
 "651294f0168f8d06",
 "2e97e461daf9b82b",
-"133697fc80384e7f"
+"133697fc80384e7f",
+"3d8f085a71af4269",
+"75dcb227cf6980ae",
+"1090b41b0f5ddeff",
+"8f549dfcd99dfa3e",
+"4b5f1dafa1f66aac",
+"f12b0c445d3da1de",
+"649fd941eca52a8a",
+"c14949324e58dbd2"
 ],
 "imzalar": [
-[
-"basvurusunu",
-"feridun",
-"genel",
-"nun",
-"resmi",
-"sekreterligi",
-"sinirlioglu",
-"turkiye",
-"yapti"
-],
-[
-"alman",
-"atlanta",
-"bakan",
-"fidan",
-"gorustu",
-"mevkidasi",
-"wadephul"
-],
-[
-"carptigi",
-"elazig",
-"otomobilin",
-"yaya"
-],
-[
-"dedirten",
-"goruntu",
-"istanbul",
-"pes"
-],
-[
-"carpti",
-"edirne",
-"otobusu",
-"tir",
-"yarali",
-"yolcu"
-],
-[
-"ayriliga",
-"dunyasinda",
-"turk",
-"yer"
-],
-[
-"arabistan",
-"arap",
-"duyurdu",
-"iha",
-"koalisyonu",
-"saldirisini",
-"suudi",
-"yonelik"
-],
-[
-"aralaniyor",
-"ceset",
-"cinayetinde",
-"mumya",
-"perdesi",
-"sir",
-"yillik"
-],
 [
 "ankara",
 "baba",
@@ -8781,20 +8716,105 @@
 "konkordatoda",
 "kosuyor",
 "rekora"
+],
+[
+"burundu",
+"gokyuzu",
+"gorenler",
+"izmir",
+"kizila",
+"sarildi",
+"telefonuna"
+],
+[
+"aralarinda",
+"fon",
+"gozaltilari",
+"sorusturmasinda",
+"spk",
+"yeni",
+"yoneticiler"
+],
+[
+"destekli",
+"duzenlendi",
+"edildiler",
+"ilde",
+"operasyon",
+"programla",
+"tespit",
+"yapay",
+"zeka"
+],
+[
+"beni",
+"cocuklarinin",
+"dilan",
+"esi",
+"eski",
+"kalirsa",
+"oldurecek",
+"serbest",
+"tarafindan",
+"vurulan",
+"yaninda"
+],
+[
+"belirledi",
+"buruk",
+"ilk",
+"ini",
+"karari",
+"leao",
+"okan",
+"sane",
+"stuttgart",
+"tan"
+],
+[
+"bursa",
+"dedirtti",
+"iban",
+"mudurunun",
+"oyunu",
+"pahaliya",
+"patladi",
+"pes",
+"restoran",
+"yaptigi"
+],
+[
+"bahis",
+"disi",
+"ilde",
+"izmir",
+"liralik",
+"merkezli",
+"milyar",
+"operasyonu",
+"para",
+"trafigi",
+"yasa"
+],
+[
+"aciklandi",
+"ayi",
+"ekim",
+"enflasyonu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-03T06:11:00+00:00",
-"Sonsöz (Ankara)": "2026-11-03T06:19:00+00:00",
+"Haber Global": "2026-11-03T06:57:00+00:00",
+"Sonsöz (Ankara)": "2026-11-03T07:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-03T05:55:50+00:00",
-"Sözcü Son Dakika": "2026-11-03T06:21:37+00:00",
-"Yeni Şafak Yerel": "2026-11-03T06:20:45+00:00",
+"Mynet Son Dakika": "2026-11-03T06:39:51+00:00",
+"Sözcü Son Dakika": "2026-11-03T07:01:53+00:00",
+"Yeni Şafak Yerel": "2026-11-03T06:58:04+00:00",
 "X / Twitter Türkiye": "2026-11-03T06:22:14.732637+00:00",
-"Olay (Bursa)": "2026-11-03T05:35:36+00:00",
+"Olay (Bursa)": "2026-11-03T06:58:08+00:00",
 "@islamasalya": "2026-11-02T20:19:12+00:00",
-"Yeni Asır (İzmir)": "2026-11-03T06:08:22+00:00",
-"İstanbul Gazetesi": "2026-11-02T21:13:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-03T06:37:24+00:00",
+"İstanbul Gazetesi": "2026-11-03T06:55:00+00:00",
 "Kandilli Rasathanesi": "2026-11-02T17:58:04+00:00"
 }
 }
