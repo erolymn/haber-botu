@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"48617d5a05c4563a",
-"457d1738e2ab4210",
-"7b24517b441bd7d1",
-"9e108dc41c260e11",
 "71e9ceb079d5060b",
 "d12c1349d4da8598",
 "abea03047fd8f740",
@@ -2999,44 +2995,13 @@
 "88ae5640bd2d7833",
 "2f33b7a7afe6ca5b",
 "5cafa2af89432b3f",
-"9eb347192f849125"
+"9eb347192f849125",
+"12c072d847e1ee23",
+"9a2a3d85c20cf5d0",
+"38b76664a2d0fccc",
+"964cdb56f4103219"
 ],
 "imzalar": [
-[
-"alkollu",
-"ceza",
-"dur",
-"ihtarina",
-"rekor",
-"surucuye",
-"uymayan"
-],
-[
-"besinler",
-"degil",
-"gercek",
-"hakkinda",
-"meyveymis",
-"sebze",
-"sok",
-"tabaginizdaki"
-],
-[
-"apartmanda",
-"diyarbakir",
-"katli",
-"panigi",
-"yangin"
-],
-[
-"dan",
-"gumus",
-"halterci",
-"kaan",
-"kahriman",
-"madalya",
-"milli"
-],
 [
 "bitmiyor",
 "etmeler",
@@ -8865,14 +8830,58 @@
 "patladi",
 "soba",
 "yakitli"
+],
+[
+"amedspor",
+"buruk",
+"okan",
+"rakibimiz",
+"trabzonspor",
+"yakin"
+],
+[
+"cilgin",
+"dan",
+"donus",
+"gece",
+"geri",
+"manchester",
+"muthis",
+"old",
+"trafford",
+"united"
+],
+[
+"araniyordu",
+"ayri",
+"cezasiyla",
+"daltonlar",
+"esenyurt",
+"hapis",
+"orgutu",
+"suc",
+"suctan",
+"uyesi",
+"yakalandi",
+"yillik"
+],
+[
+"derken",
+"geciyor",
+"gizli",
+"medyanin",
+"saatler",
+"sosyal",
+"tuzagi",
+"video"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-03T21:37:00+00:00",
-"Sonsöz (Ankara)": "2026-11-03T19:46:00+00:00",
+"Haber Global": "2026-11-03T21:53:00+00:00",
+"Sonsöz (Ankara)": "2026-11-03T22:17:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-03T19:19:54+00:00",
-"Sözcü Son Dakika": "2026-11-03T21:31:01+00:00",
+"Mynet Son Dakika": "2026-11-03T22:08:44+00:00",
+"Sözcü Son Dakika": "2026-11-03T22:06:40+00:00",
 "Yeni Şafak Yerel": "2026-11-03T21:44:09+00:00",
 "X / Twitter Türkiye": "2026-11-03T21:04:42.452323+00:00",
 "Olay (Bursa)": "2026-11-03T19:29:46+00:00",
