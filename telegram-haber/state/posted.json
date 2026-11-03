@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"4b96fa9c935cb87d",
-"6d5923d71ad57e2b",
 "30c73ce4c04eec05",
 "927c1dbc4a45342d",
 "a6cf5653fcf4cd13",
@@ -2999,30 +2997,11 @@
 "f3294ff1a860117e",
 "8682c73b847bf2d1",
 "5c0e5235f9d5c284",
-"33a09db9bf429dea"
+"33a09db9bf429dea",
+"aebf92be95717515",
+"33f5d6fa4dad56d3"
 ],
 "imzalar": [
-[
-"acarak",
-"askerlerinin",
-"ates",
-"cenaze",
-"cocugun",
-"gazze",
-"israil",
-"oldurdugu",
-"toreni",
-"yasindaki"
-],
-[
-"bandirma",
-"belli",
-"bursaspor",
-"degisiklik",
-"den",
-"mustafa",
-"yine"
-],
 [
 "bursaspor",
 "hucum",
@@ -8840,6 +8819,24 @@
 "tahliye",
 "terasi",
 "zeytinburnu"
+],
+[
+"cocuklar",
+"olusturdu",
+"satisi",
+"tehlike",
+"yasaklandi"
+],
+[
+"bilimsel",
+"calismalar",
+"depreme",
+"donusum",
+"hazir",
+"izmir",
+"kadar",
+"riskler",
+"sureci"
 ]
 ],
 "son_tarih": {
@@ -8852,8 +8849,8 @@
 "X / Twitter Türkiye": "2026-11-03T15:02:55.653022+00:00",
 "Olay (Bursa)": "2026-11-03T14:53:50+00:00",
 "@islamasalya": "2026-11-03T14:59:42+00:00",
-"Yeni Asır (İzmir)": "2026-11-03T13:38:36+00:00",
-"İstanbul Gazetesi": "2026-11-03T14:37:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-03T15:02:22+00:00",
+"İstanbul Gazetesi": "2026-11-03T15:01:00+00:00",
 "Kandilli Rasathanesi": "2026-11-03T14:24:01+00:00"
 }
 }
