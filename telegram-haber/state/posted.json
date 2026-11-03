@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"ec3410cc5a6e97ab",
-"0c040382586be84c",
-"31388a88226ec991",
-"fe9ab44c7e90713f",
 "c0a39c3d1d6d20dd",
 "b3e073e1551aca30",
 "0bfcfd940b36e473",
@@ -2999,44 +2995,13 @@
 "24701ee32506fbcf",
 "bdf59fb278cce835",
 "ef3673fd343bbd6b",
-"8092636d573d4443"
+"8092636d573d4443",
+"19008ed885d6c597",
+"cf0de1426f79e416",
+"ca9cdc57f8f669d6",
+"08332d8981a16706"
 ],
 "imzalar": [
-[
-"baskani",
-"devlet",
-"istanbul",
-"ukrayna",
-"zelenski"
-],
-[
-"alay",
-"haritasi",
-"konusu",
-"micotakis"
-],
-[
-"avcilar",
-"gorunce",
-"kacti",
-"kamerayi",
-"kesen",
-"maganda",
-"plakasini",
-"sokup",
-"trafikte"
-],
-[
-"adana",
-"alarma",
-"gecti",
-"hastanede",
-"istedi",
-"kizini",
-"oldurmek",
-"polis",
-"yer"
-],
 [
 "aselsan",
 "odulu",
@@ -8848,20 +8813,58 @@
 "karari",
 "sakatligim",
 "sok"
+],
+[
+"barbaros",
+"baskan",
+"belediye",
+"gezgin",
+"milas",
+"vekili"
+],
+[
+"acikladi",
+"akp",
+"asti",
+"bilancosunu",
+"fon",
+"kaybi",
+"krizinin",
+"lirayi",
+"tayyar",
+"trilyon",
+"vatandasin"
+],
+[
+"bilgisayari",
+"ekranla",
+"geliyor",
+"inc",
+"oyun",
+"yeni"
+],
+[
+"aranan",
+"bes",
+"bursa",
+"cesitli",
+"hukumlu",
+"suclardan",
+"yakalandi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-03T16:57:00+00:00",
-"Sonsöz (Ankara)": "2026-11-03T16:29:00+00:00",
+"Sonsöz (Ankara)": "2026-11-03T17:04:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-03T15:45:54+00:00",
-"Sözcü Son Dakika": "2026-11-03T17:01:35+00:00",
-"Yeni Şafak Yerel": "2026-11-03T16:52:53+00:00",
+"Sözcü Son Dakika": "2026-11-03T17:24:58+00:00",
+"Yeni Şafak Yerel": "2026-11-03T17:41:26+00:00",
 "X / Twitter Türkiye": "2026-11-03T15:02:55.653022+00:00",
 "Olay (Bursa)": "2026-11-03T15:13:12+00:00",
 "@islamasalya": "2026-11-03T14:59:42+00:00",
 "Yeni Asır (İzmir)": "2026-11-03T16:18:10+00:00",
-"İstanbul Gazetesi": "2026-11-03T15:01:00+00:00",
+"İstanbul Gazetesi": "2026-11-03T17:27:00+00:00",
 "Kandilli Rasathanesi": "2026-11-03T14:24:01+00:00"
 }
 }
