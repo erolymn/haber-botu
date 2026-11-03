@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"64c80993e668c1db",
-"bd96c7fe0b895e4b",
-"c28d72c829120c42",
 "8798b45ef93ef921",
 "ae2fd333dfe5b716",
 "a24a81f0e92ea2d8",
@@ -2999,40 +2996,12 @@
 "76c335a955a1684e",
 "a82b4c76dbc3d367",
 "9f9df2166d8b322a",
-"a9c9bb43a3b74323"
+"a9c9bb43a3b74323",
+"4ec74bffe81ad31c",
+"8fd578a56bfca424",
+"8c05fbaa1f16ef1b"
 ],
 "imzalar": [
-[
-"cikisini",
-"galatasaray",
-"golle",
-"haftalardaki",
-"kazandi",
-"kirmizililar",
-"konya",
-"sari",
-"surdurdu"
-],
-[
-"400",
-"alayi",
-"bayrakla",
-"dev",
-"duzenlendi",
-"fener",
-"metrelik"
-],
-[
-"bakan",
-"basindan",
-"beri",
-"devletin",
-"goktas",
-"iradesinde",
-"kadin",
-"kurucu",
-"vardir"
-],
 [
 "cumhurbaskani",
 "darbe",
@@ -8789,17 +8758,41 @@
 [
 "efendisi",
 "rakamlarin"
+],
+[
+"iddiasi",
+"istanbul",
+"orgutunden",
+"para",
+"sapkalilar",
+"suc",
+"talebi"
+],
+[
+"gibi",
+"kanser",
+"sarmis",
+"ulkeyi",
+"vicdansizlik"
+],
+[
+"bursa",
+"dunyasi",
+"mesaji",
+"nin",
+"turk",
+"vekilinden"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-03T01:21:00+00:00",
-"Sonsöz (Ankara)": "2026-11-02T22:48:00+00:00",
+"Sonsöz (Ankara)": "2026-11-03T01:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-02T19:41:02+00:00",
-"Sözcü Son Dakika": "2026-11-03T01:30:08+00:00",
+"Sözcü Son Dakika": "2026-11-03T02:10:09+00:00",
 "Yeni Şafak Yerel": "2026-11-03T01:01:00+00:00",
 "X / Twitter Türkiye": "2026-11-03T00:21:19.456985+00:00",
-"Olay (Bursa)": "2026-11-02T21:17:53+00:00",
+"Olay (Bursa)": "2026-11-03T02:10:19+00:00",
 "@islamasalya": "2026-11-02T20:19:12+00:00",
 "Yeni Asır (İzmir)": "2026-11-02T17:14:39+00:00",
 "İstanbul Gazetesi": "2026-11-02T21:13:00+00:00",
