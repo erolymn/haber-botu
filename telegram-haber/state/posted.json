@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"d51d557529a90080",
-"b029079feaea1713",
-"4f24a02c81903758",
-"7b906c77be8e310c",
 "d53bffe5241d8327",
 "c9d5383f1251191b",
 "8469a8432167f7fd",
@@ -2999,43 +2995,13 @@
 "0f7183c77bf4f545",
 "29a07a3a22261752",
 "fa5e1e58678958e4",
-"4e81af9016ed84c6"
+"4e81af9016ed84c6",
+"8515e7b87ff75201",
+"f52c40867f39a8f5",
+"d7258f98f53c3349",
+"0f7e7690751d812b"
 ],
 "imzalar": [
-[
-"baslayip",
-"batan",
-"cikmis",
-"firmada",
-"geminin",
-"hafta",
-"ilk",
-"ise",
-"kaptani",
-"nci",
-"once",
-"seferine"
-],
-[
-"adrese",
-"baskin",
-"istanbul",
-"kablo",
-"liralik",
-"milyon",
-"vurgunu"
-],
-[
-"unutmayacagiz"
-],
-[
-"avrupa",
-"bursa",
-"dan",
-"egitim",
-"koprusu",
-"uzanan"
-],
 [
 "cikti",
 "greenwood",
@@ -8844,15 +8810,62 @@
 "uzanan",
 "van",
 "yanina"
+],
+[
+"basladi",
+"firtina",
+"galatasaray",
+"gibi",
+"karsisinda",
+"skor",
+"stuttgart"
+],
+[
+"batrakov",
+"galatasaray",
+"gecen",
+"iyi",
+"macinin",
+"oyuncusu",
+"secildi",
+"stuttgart",
+"tarihine"
+],
+[
+"gosterdi",
+"heyete",
+"kizdiran",
+"olay",
+"osimhen",
+"park",
+"rams",
+"sert",
+"teknik",
+"tepki"
+],
+[
+"abd",
+"alarmi",
+"cikti",
+"dogu",
+"fettah",
+"gozdagi",
+"nin",
+"orta",
+"ortaya",
+"plani",
+"savas",
+"tahran",
+"verdi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-03T19:25:00+00:00",
-"Sonsöz (Ankara)": "2026-11-03T19:32:00+00:00",
+"Haber Global": "2026-11-03T19:53:00+00:00",
+"Sonsöz (Ankara)": "2026-11-03T19:46:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-03T19:19:54+00:00",
-"Sözcü Son Dakika": "2026-11-03T19:38:41+00:00",
-"Yeni Şafak Yerel": "2026-11-03T19:41:00+00:00",
+"Sözcü Son Dakika": "2026-11-03T20:22:10+00:00",
+"Yeni Şafak Yerel": "2026-11-03T20:21:28+00:00",
 "X / Twitter Türkiye": "2026-11-03T18:23:49.856086+00:00",
 "Olay (Bursa)": "2026-11-03T19:29:46+00:00",
 "@islamasalya": "2026-11-03T14:59:42+00:00",
