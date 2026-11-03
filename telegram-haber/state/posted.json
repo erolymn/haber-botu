@@ -1,6 +1,5 @@
 {
 "gonderilen": [
-"71e9ceb079d5060b",
 "d12c1349d4da8598",
 "abea03047fd8f740",
 "0b0e6ef9e9f82f30",
@@ -2999,15 +2998,10 @@
 "12c072d847e1ee23",
 "9a2a3d85c20cf5d0",
 "38b76664a2d0fccc",
-"964cdb56f4103219"
+"964cdb56f4103219",
+"7de4130828cc98d8"
 ],
 "imzalar": [
-[
-"bitmiyor",
-"etmeler",
-"filistin",
-"veda"
-],
 [
 "baskani",
 "bursaspor",
@@ -8874,10 +8868,20 @@
 "sosyal",
 "tuzagi",
 "video"
+],
+[
+"bati",
+"filistinli",
+"iki",
+"israil",
+"operasyon",
+"ordusundan",
+"seria",
+"yaralandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-03T21:53:00+00:00",
+"Haber Global": "2026-11-03T22:31:00+00:00",
 "Sonsöz (Ankara)": "2026-11-03T22:17:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-03T22:08:44+00:00",
