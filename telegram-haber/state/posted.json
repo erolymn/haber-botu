@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"5f53aaa73f06bdee",
-"9ed03d7cd162b039",
-"ce49cd5268d8a7da",
-"3262576050704274",
-"587cb3f049662973",
-"78c1cd1e85648daf",
-"ee89ca2b56642143",
-"32b525120357976d",
 "de7785abe775731d",
 "ba2837af244e56c9",
 "e937729be4487036",
@@ -2999,86 +2991,17 @@
 "ae5af78beff310e7",
 "f5fd2fded0e00df1",
 "cc9a23e8938ca2d7",
-"7dcf7e8f891baf3a"
+"7dcf7e8f891baf3a",
+"52ab6b0cde3488e1",
+"e87d9afbaa249ca7",
+"2fb8e0e3ac458ae8",
+"a84588bc9b46d694",
+"961f6e6ec7812b0e",
+"611682c369576a2a",
+"7cdf85dbc0b4107e",
+"0be949df51e12238"
 ],
 "imzalar": [
-[
-"ankette",
-"bomba",
-"dus",
-"muhalefete",
-"oncesi",
-"sandik",
-"soguk",
-"sonuc"
-],
-[
-"akilalmaz",
-"almak",
-"boyle",
-"kazayi",
-"kurguladilar",
-"oyun",
-"para",
-"sigortadan"
-],
-[
-"acildi",
-"bursa",
-"buyugu",
-"dev",
-"nin",
-"spor",
-"tesisi",
-"turkiye"
-],
-[
-"gercek",
-"hayal",
-"izmir",
-"proje",
-"rahatlatacak",
-"trafigi",
-"yillik"
-],
-[
-"almanya",
-"carpici",
-"italya",
-"kareler",
-"sert",
-"sokaklardan",
-"tedbirler",
-"yayildi"
-],
-[
-"bitmiyor",
-"gazze",
-"soykirim",
-"suruyor",
-"vedalar"
-],
-[
-"cagri",
-"kadinlara",
-"kanser",
-"model",
-"ogrendi",
-"oldugunu",
-"yapti",
-"yasindaki"
-],
-[
-"100",
-"bolu",
-"kara",
-"karistigi",
-"kaza",
-"otomobilin",
-"yarali",
-"yolunda",
-"zincirleme"
-],
 [
 "cumhurbaskani",
 "edecek",
@@ -8905,20 +8828,104 @@
 "sunumunda",
 "verildi",
 "yer"
+],
+[
+"ara",
+"avrupa",
+"getirecek",
+"neleri",
+"secim",
+"sonrasini",
+"tartisiyor",
+"trump",
+"yenilgisi"
+],
+[
+"dustu",
+"guncel",
+"istanbul",
+"saganak",
+"sonrasi",
+"tablo",
+"uskudar",
+"yagis"
+],
+[
+"000",
+"dyson",
+"evinizde",
+"hijyen",
+"indirim",
+"mukemmel",
+"saglayan",
+"submarine",
+"supurgede",
+"v12s"
+],
+[
+"alan",
+"belli",
+"etkili",
+"ilce",
+"istanbul",
+"saganak",
+"yagis"
+],
+[
+"avrupa",
+"disisleri",
+"iddialari",
+"komisyonu",
+"mesnetsiz",
+"nden",
+"reddediyoruz",
+"tepki"
+],
+[
+"gununde",
+"izmir",
+"kapali",
+"keyifli",
+"mekan",
+"rotalari",
+"sehrin",
+"yagmurlu",
+"yapilir"
+],
+[
+"ask",
+"buruk",
+"hakkinda",
+"iddiasi",
+"ikisini",
+"isim",
+"okan",
+"surpriz",
+"tanistirmis"
+],
+[
+"cilesi",
+"doldu",
+"duraklar",
+"istanbullunun",
+"kamerada",
+"saganak",
+"tasti",
+"yolcularla"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-04T14:31:00+00:00",
-"Sonsöz (Ankara)": "2026-11-04T14:58:00+00:00",
+"Haber Global": "2026-11-04T15:26:00+00:00",
+"Sonsöz (Ankara)": "2026-11-04T15:16:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-04T12:45:33+00:00",
-"Sözcü Son Dakika": "2026-11-04T15:00:52+00:00",
-"Yeni Şafak Yerel": "2026-11-04T14:55:57+00:00",
+"Mynet Son Dakika": "2026-11-04T15:14:25+00:00",
+"Sözcü Son Dakika": "2026-11-04T15:40:22+00:00",
+"Yeni Şafak Yerel": "2026-11-04T15:40:39+00:00",
 "X / Twitter Türkiye": "2026-11-04T15:06:46.949576+00:00",
-"Olay (Bursa)": "2026-11-04T13:42:52+00:00",
+"Olay (Bursa)": "2026-11-04T14:56:44+00:00",
 "@islamasalya": "2026-11-04T13:37:08+00:00",
-"Yeni Asır (İzmir)": "2026-11-04T13:48:10+00:00",
-"İstanbul Gazetesi": "2026-11-04T15:01:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-04T15:33:53+00:00",
+"İstanbul Gazetesi": "2026-11-04T15:08:00+00:00",
 "Kandilli Rasathanesi": "2026-11-03T14:24:01+00:00"
 }
 }
