@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"d9b87f4e8796d57b",
-"eaeea6dde7f1c626",
-"74d0d191944688d3",
-"10cd18884611b77f",
 "2e9f6e3b997adf9f",
 "e5262d0cef25fa94",
 "7ef008772642b532",
@@ -2999,50 +2995,13 @@
 "06aa12ba2c17a8ee",
 "97ee09d0755cc3c8",
 "cbd6b4d4bde2ba56",
-"3eca2665a9d2e0af"
+"3eca2665a9d2e0af",
+"16711ca1478c74e8",
+"996ed5ce0c440995",
+"c83005d84bd721d1",
+"a9736ddd91801d6a"
 ],
 "imzalar": [
-[
-"akaryakita",
-"artis",
-"benzin",
-"buyuk",
-"gece",
-"geliyor",
-"motorine",
-"yarisi",
-"zam"
-],
-[
-"aciklama",
-"agirel",
-"emniyet",
-"gundem",
-"iddiasi",
-"istanbul",
-"mudurlugu",
-"murat",
-"nden",
-"olmustu"
-],
-[
-"augsburg",
-"bundesliga",
-"devirdi",
-"freiburg",
-"rakibi",
-"trabzonspor"
-],
-[
-"akturkoglu",
-"hareket",
-"isliklanan",
-"kerem",
-"ndan",
-"olay",
-"taraftara",
-"video"
-],
 [
 "alindi",
 "borsa",
@@ -8879,15 +8838,54 @@
 "planim",
 "saldirmak",
 "trump"
+],
+[
+"anlama",
+"arastirmadan",
+"carpici",
+"cozuldu",
+"kadinlarin",
+"sirri",
+"sonuc",
+"yalani"
+],
+[
+"aile",
+"anne",
+"gece",
+"katliami",
+"kizi",
+"yarali",
+"yarisi"
+],
+[
+"acikladi",
+"canli",
+"gerekirse",
+"muhafiz",
+"tan",
+"tehdidi",
+"trump",
+"ulusal",
+"yapacagim",
+"yayinda"
+],
+[
+"bin",
+"buyuk",
+"cakil",
+"hazirladi",
+"odulu",
+"tasiyla"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-04T00:15:00+00:00",
-"Sonsöz (Ankara)": "2026-11-03T22:17:00+00:00",
+"Sonsöz (Ankara)": "2026-11-04T00:29:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-03T23:49:12+00:00",
-"Sözcü Son Dakika": "2026-11-03T23:44:04+00:00",
-"Yeni Şafak Yerel": "2026-11-03T21:44:09+00:00",
+"Mynet Son Dakika": "2026-11-04T00:59:59+00:00",
+"Sözcü Son Dakika": "2026-11-04T00:51:27+00:00",
+"Yeni Şafak Yerel": "2026-11-04T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-04T00:24:41.865186+00:00",
 "Olay (Bursa)": "2026-11-03T19:29:46+00:00",
 "@islamasalya": "2026-11-03T14:59:42+00:00",
