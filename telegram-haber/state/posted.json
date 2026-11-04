@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"f33c11294963f86d",
-"7c7ae51e3829ed9c",
-"036fd50bbcf52345",
-"4e7c48837ea83423",
-"645bd5ea4c8a07a6",
-"501b7fdf7d8567d6",
-"2513f32e4899b7b8",
-"49a555ca723e3e1c",
 "6e2119c9cc5af822",
 "310f5f5a37a13156",
 "88c64eec97eeaa01",
@@ -2999,89 +2991,17 @@
 "60046f344050e68b",
 "1fd8bfbe7d492e28",
 "a80860ffe2842560",
-"228526295a0025c8"
+"228526295a0025c8",
+"c1a115d8c3e0ec43",
+"76b84ebd9bd30a60",
+"6319908923d38bc1",
+"9cae298010606014",
+"e9f8ee39a896bd03",
+"30546f973495912b",
+"ec081133cb0b0060",
+"3650ab6f77a8e44d"
 ],
 "imzalar": [
-[
-"200",
-"bilinmiyor",
-"dubai",
-"geldikleri",
-"gizemli",
-"goruntu",
-"nasil",
-"sayilari",
-"yaklasti"
-],
-[
-"anlari",
-"buladilar",
-"dehset",
-"dugunu",
-"kana",
-"kucukcekmece"
-],
-[
-"bilinmeyen",
-"colun",
-"geldigi",
-"kolonilesti",
-"nereden",
-"ortasinda",
-"rekora",
-"sayilari",
-"tur",
-"ulasti"
-],
-[
-"330",
-"devlet",
-"dogrulamasi",
-"duzenleme",
-"hesaba",
-"medyada",
-"milyon",
-"nasil",
-"olacak",
-"sosyal",
-"yeni"
-],
-[
-"100",
-"almanya",
-"askin",
-"bini",
-"buyudu",
-"dan",
-"duzenledi",
-"fazla",
-"gosteri",
-"kentte",
-"kisi",
-"kusaginin",
-"protestolari"
-],
-[
-"cifte",
-"cikti",
-"cinayette",
-"detaylar",
-"donduran",
-"kan",
-"mamak",
-"ortaya",
-"taki"
-],
-[
-"bagcilar",
-"bina",
-"catlaklar",
-"cevresindeki",
-"edildi",
-"insaatin",
-"olusan",
-"tahliye"
-],
 [
 "borsada",
 "dustu",
@@ -8887,20 +8807,93 @@
 "onemli",
 "proje",
 "tusas"
+],
+[
+"freiburg",
+"kacta",
+"konferans",
+"ligi",
+"mac",
+"maci",
+"saat",
+"sifresiz",
+"takvimi",
+"trabzonspor",
+"uefa",
+"zaman"
+],
+[
+"besiktas",
+"coktu",
+"duvari",
+"istinat"
+],
+[
+"abd",
+"aciklamalar",
+"ara",
+"ilk",
+"isimlerden",
+"onemli",
+"secimler"
+],
+[
+"artik",
+"baskan",
+"kalamaz",
+"netanyahu",
+"trump",
+"vurdu",
+"yenilgisi"
+],
+[
+"akli",
+"ayhan",
+"bos",
+"chp",
+"cocuklar",
+"eski",
+"fikri",
+"hadsiz",
+"hatiplilere",
+"imam",
+"islerde",
+"ors",
+"sozler",
+"ten"
+],
+[
+"eski",
+"gulumsemek",
+"ilgili",
+"nisanlisiyla",
+"nun",
+"sadece",
+"sivrioglu",
+"somer",
+"sorulan",
+"soruya",
+"yaniti"
+],
+[
+"deyip",
+"gecmeyin",
+"mevsimsel",
+"yorgunluk"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-04T08:15:00+00:00",
-"Sonsöz (Ankara)": "2026-11-04T08:21:00+00:00",
+"Haber Global": "2026-11-04T08:56:00+00:00",
+"Sonsöz (Ankara)": "2026-11-04T09:04:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-04T08:16:28+00:00",
-"Sözcü Son Dakika": "2026-11-04T08:24:18+00:00",
-"Yeni Şafak Yerel": "2026-11-04T08:25:01+00:00",
-"X / Twitter Türkiye": "2026-11-04T06:25:02.799161+00:00",
-"Olay (Bursa)": "2026-11-04T08:25:15+00:00",
+"Sözcü Son Dakika": "2026-11-04T09:02:47+00:00",
+"Yeni Şafak Yerel": "2026-11-04T09:01:53+00:00",
+"X / Twitter Türkiye": "2026-11-04T09:05:43.351100+00:00",
+"Olay (Bursa)": "2026-11-04T08:55:12+00:00",
 "@islamasalya": "2026-11-03T14:59:42+00:00",
-"Yeni Asır (İzmir)": "2026-11-04T08:13:25+00:00",
-"İstanbul Gazetesi": "2026-11-04T07:40:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-04T08:34:24+00:00",
+"İstanbul Gazetesi": "2026-11-04T08:38:00+00:00",
 "Kandilli Rasathanesi": "2026-11-03T14:24:01+00:00"
 }
 }
