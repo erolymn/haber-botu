@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"e0d945d7ab007a22",
-"8996b7733eb58a64",
-"4f192097b84e7dfb",
-"37011ed8e47a75fd",
 "6f4844525860c922",
 "3af02413de003a11",
 "656e0d6d14064622",
@@ -2999,42 +2995,13 @@
 "dc523253bfa7db40",
 "ceaed93189d9b6bd",
 "4296dfc4270c661e",
-"5d58b33c21691613"
+"5d58b33c21691613",
+"d77d67f78717d4f5",
+"8b8f85648b5a1919",
+"fab62d8c626fae5a",
+"635b4d897403ac25"
 ],
 "imzalar": [
-[
-"fener",
-"ortodoks",
-"patrikhanesi",
-"rum",
-"zelenskiy",
-"ziyaret"
-],
-[
-"alarma",
-"alarmi",
-"ekipler",
-"gecti",
-"kimyasal",
-"sizinti",
-"treninde",
-"yuk"
-],
-[
-"anlar",
-"bursa",
-"dehset",
-"kamerada",
-"olu"
-],
-[
-"calisacagiz",
-"dirk",
-"geri",
-"guvenimizi",
-"kazanmaya",
-"kuyt"
-],
 [
 "aci",
 "cozemiyor",
@@ -8872,14 +8839,57 @@
 "turgutlu",
 "yasamini",
 "yitirdi"
+],
+[
+"200",
+"dolar",
+"dus",
+"elon",
+"harcamisti",
+"kalesinde",
+"milyon",
+"musk",
+"soguk",
+"trump"
+],
+[
+"abd",
+"eyaletlerde",
+"ilk",
+"siyahi",
+"tarih",
+"valiler",
+"yazdi"
+],
+[
+"farkindalik",
+"gorunmeyen",
+"gunu",
+"kasim",
+"modern",
+"sorunu",
+"stres",
+"yasamin"
+],
+[
+"aciklama",
+"ilk",
+"kazanirdik",
+"olsaydim",
+"pusulasinda",
+"secim",
+"sonrasi",
+"tan",
+"trump",
+"yenilgisi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-04T01:49:00+00:00",
-"Sonsöz (Ankara)": "2026-11-04T02:57:00+00:00",
+"Haber Global": "2026-11-04T03:41:00+00:00",
+"Sonsöz (Ankara)": "2026-11-04T03:37:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-04T02:53:09+00:00",
-"Sözcü Son Dakika": "2026-11-04T02:54:19+00:00",
+"Mynet Son Dakika": "2026-11-04T03:34:25+00:00",
+"Sözcü Son Dakika": "2026-11-04T03:36:22+00:00",
 "Yeni Şafak Yerel": "2026-11-04T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-04T03:05:03.603086+00:00",
 "Olay (Bursa)": "2026-11-04T02:15:56+00:00",
