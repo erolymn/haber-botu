@@ -1,11 +1,5 @@
 {
 "gonderilen": [
-"82e2b2fd888d855f",
-"74fdb547feec03d1",
-"15adcd65e191eda9",
-"015868acabc64382",
-"52fafbe51054c082",
-"09d46f459839f976",
 "5f53aaa73f06bdee",
 "9ed03d7cd162b039",
 "ce49cd5268d8a7da",
@@ -2999,59 +2993,15 @@
 "3377302d52b22a03",
 "0889eb46cda5c99a",
 "cf3ac13e44c2909f",
-"4606b6285609953a"
+"4606b6285609953a",
+"3c39a9c17a97ee99",
+"f6a788423a916d6b",
+"ae5af78beff310e7",
+"f5fd2fded0e00df1",
+"cc9a23e8938ca2d7",
+"7dcf7e8f891baf3a"
 ],
 "imzalar": [
-[
-"bicakli",
-"dugun",
-"gelisme",
-"kavgada",
-"kucukcekmece",
-"salonundaki",
-"yeni"
-],
-[
-"alarmi",
-"dikkat",
-"ege",
-"izmir",
-"kuvvetli",
-"mugla",
-"olacak",
-"saganak",
-"yasayanlar"
-],
-[
-"kepcesi",
-"kullandigi",
-"sonu",
-"trakorun"
-],
-[
-"511",
-"940",
-"besiktasli",
-"bin",
-"futbolcuya",
-"kayserispor",
-"lira",
-"milyon",
-"odeyecek"
-],
-[
-"babasini",
-"bombardimanda",
-"cocugun",
-"daglayan",
-"duzenledigi",
-"feryadi",
-"gazze",
-"israil",
-"kaybeden",
-"siyonist",
-"yurekleri"
-],
 [
 "ankette",
 "bomba",
@@ -8904,20 +8854,71 @@
 "gorustu",
 "heyetiyle",
 "kurtulmus"
+],
+[
+"betul",
+"cagrildi",
+"esi",
+"fatma",
+"ifadeye",
+"kaya",
+"sayan"
+],
+[
+"ankara",
+"cifte",
+"dan",
+"inandiriciligini",
+"rapor",
+"standartli",
+"tepkisi",
+"yitirmis",
+"zihniyet"
+],
+[
+"ankara",
+"festivali",
+"film",
+"gunluk",
+"maratonu",
+"sinema",
+"tarih",
+"verildi"
+],
+[
+"belli",
+"bilancosu",
+"ilcelerde",
+"istanbul",
+"miktari",
+"saatteki",
+"saganak",
+"yagis",
+"yagisin",
+"zirvede"
+],
+[
+"afad",
+"bahcelievler",
+"donusum",
+"kentsel",
+"sunumunda",
+"verildi",
+"yer"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-04T14:02:00+00:00",
-"Sonsöz (Ankara)": "2026-11-04T14:10:00+00:00",
+"Haber Global": "2026-11-04T14:31:00+00:00",
+"Sonsöz (Ankara)": "2026-11-04T14:58:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-04T12:45:33+00:00",
-"Sözcü Son Dakika": "2026-11-04T14:16:01+00:00",
-"Yeni Şafak Yerel": "2026-11-04T14:26:01+00:00",
-"X / Twitter Türkiye": "2026-11-04T12:25:43.761860+00:00",
+"Sözcü Son Dakika": "2026-11-04T15:00:52+00:00",
+"Yeni Şafak Yerel": "2026-11-04T14:55:57+00:00",
+"X / Twitter Türkiye": "2026-11-04T15:06:46.949576+00:00",
 "Olay (Bursa)": "2026-11-04T13:42:52+00:00",
 "@islamasalya": "2026-11-04T13:37:08+00:00",
 "Yeni Asır (İzmir)": "2026-11-04T13:48:10+00:00",
-"İstanbul Gazetesi": "2026-11-04T14:22:00+00:00",
+"İstanbul Gazetesi": "2026-11-04T15:01:00+00:00",
 "Kandilli Rasathanesi": "2026-11-03T14:24:01+00:00"
 }
 }
