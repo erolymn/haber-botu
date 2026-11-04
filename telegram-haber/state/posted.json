@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"2a02b518bc41c39d",
-"08eae1eef4867937",
-"3b63c5f4f3f690ba",
-"5fb19b814519ac5d",
 "ace1a74c25a98005",
 "515747645d58d8c5",
 "421ff0688998359e",
@@ -2999,57 +2995,13 @@
 "fcdd6aa739f52441",
 "e978c71b711ab479",
 "ecd2ea54ed0fb50d",
-"a288f1376cb66da3"
+"a288f1376cb66da3",
+"40333eb827431503",
+"2aa85feeaa4062c4",
+"12510590430752f6",
+"e3db6ffb13828034"
 ],
 "imzalar": [
-[
-"dikkat",
-"durumu",
-"geliyor",
-"hava",
-"hortum",
-"izmir",
-"kasim",
-"kuvvetli",
-"pazar",
-"pazartesi",
-"sali",
-"sel",
-"yagis"
-],
-[
-"atci",
-"baskaniligi",
-"getirildi",
-"muhsin",
-"spk"
-],
-[
-"acildi",
-"daki",
-"edilerek",
-"ezan",
-"ibadete",
-"ilk",
-"restore",
-"sam",
-"suleymaniye",
-"tarihi",
-"tekkesi",
-"yeniden",
-"yil"
-],
-[
-"akhisar",
-"artti",
-"gecen",
-"gore",
-"kat",
-"rekoltesi",
-"yaklasik",
-"yila",
-"zeytin"
-],
 [
 "adaylari",
 "belli",
@@ -8899,15 +8851,62 @@
 "ordek",
 "topal",
 "trump"
+],
+[
+"abd",
+"dan",
+"edilirse",
+"halkin",
+"ihanet",
+"ilgili",
+"iradesine",
+"iran",
+"kabusu",
+"mesaj",
+"secim",
+"sert",
+"sonuclariyla",
+"yasarsiniz"
+],
+[
+"aciklama",
+"bugdayi",
+"dan",
+"filiz",
+"gecmisti",
+"ifadesinden",
+"makarna",
+"sonrasi",
+"tepki",
+"turk",
+"turkiye",
+"yogun"
+],
+[
+"aciklamasi",
+"arda",
+"belozoglu",
+"dan",
+"emre",
+"gundem",
+"turan"
+],
+[
+"fiyatlari",
+"haftalik",
+"kayip",
+"petrol",
+"sikisti",
+"suruyor"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-04T04:49:00+00:00",
+"Haber Global": "2026-11-04T05:20:00+00:00",
 "Sonsöz (Ankara)": "2026-11-04T05:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-04T04:53:48+00:00",
-"Sözcü Son Dakika": "2026-11-04T04:59:00+00:00",
-"Yeni Şafak Yerel": "2026-11-04T04:55:59+00:00",
+"Mynet Son Dakika": "2026-11-04T05:30:45+00:00",
+"Sözcü Son Dakika": "2026-11-04T05:41:20+00:00",
+"Yeni Şafak Yerel": "2026-11-04T05:34:41+00:00",
 "X / Twitter Türkiye": "2026-11-04T03:05:03.603086+00:00",
 "Olay (Bursa)": "2026-11-04T02:15:56+00:00",
 "@islamasalya": "2026-11-03T14:59:42+00:00",
