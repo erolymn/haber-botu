@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"88da34a9c2deb792",
-"2a3c11df088564f9",
-"e9aff3189995ef1e",
-"9988d184fc54b8c4",
-"2342db3003b8636b",
-"0b276fb1535a092a",
-"9d4b63eec79ff75b",
-"1c7a025e266faef5",
 "f867b2e56520622e",
 "70a757b93a4c3e2a",
 "8b5854177cfb4bd4",
@@ -2999,96 +2991,17 @@
 "ce0f10eaed5f3cbb",
 "0c7492fd573e571c",
 "51faca6c77857422",
-"ccb200c2149dae54"
+"ccb200c2149dae54",
+"fdc92958c8899be3",
+"a92f0cfcdc5db258",
+"334d519dfea7ff14",
+"52d671edb87b06dd",
+"e82101814505763c",
+"48587d72e5d9e902",
+"0c7a843418349bef",
+"b187ab4ff7195db0"
 ],
 "imzalar": [
-[
-"beni",
-"carpti",
-"diyerek",
-"gitmedi",
-"hastaneye",
-"klima",
-"kurtarilamadi"
-],
-[
-"350",
-"babam",
-"bin",
-"dolar",
-"emir",
-"itiraf",
-"ozel",
-"ozgur",
-"sarigul",
-"verdi"
-],
-[
-"aletli",
-"diyarbakir",
-"havalimani",
-"inis",
-"kuruldu",
-"sistemi",
-"yeni"
-],
-[
-"istanbul",
-"kazandi",
-"kenyali",
-"kipchumba",
-"kiptoo",
-"maratonu",
-"nda",
-"philimon",
-"rekor",
-"yarisi"
-],
-[
-"bahceli",
-"kamuoyuyla",
-"paylasti",
-"projesini",
-"yeni"
-],
-[
-"aciklandi",
-"alim",
-"belli",
-"bulan",
-"devlerinin",
-"dunya",
-"ise",
-"kolay",
-"listesi",
-"mezunlari",
-"turk",
-"universiteleri"
-],
-[
-"ayni",
-"bagcilar",
-"carpti",
-"gelen",
-"iki",
-"kez",
-"kisi",
-"motosiklete",
-"yaralandi",
-"yardima"
-],
-[
-"400",
-"agac",
-"bin",
-"google",
-"indi",
-"karisti",
-"kesti",
-"koylere",
-"kurtlar",
-"ulke"
-],
 [
 "ilce",
 "olabilir"
@@ -8889,20 +8802,99 @@
 "kongresini",
 "tutun",
 "uyari"
+],
+[
+"agir",
+"anlatiyor",
+"bile",
+"degisiklik",
+"haritadaki",
+"her",
+"kartini",
+"oyle",
+"oynadi",
+"secim",
+"seyi",
+"veto",
+"yenilgisi"
+],
+[
+"balikesir",
+"bulundu",
+"korkunc",
+"olay",
+"olu",
+"sokak"
+],
+[
+"327",
+"dolandiricilik",
+"duzenlenen",
+"gozalti",
+"ilde",
+"nitelikli",
+"operasyonlarinda"
+],
+[
+"aciklama",
+"cevrilmisti",
+"dunyanin",
+"geldi",
+"gozu",
+"ilk",
+"iran",
+"kaybedince",
+"trump"
+],
+[
+"istanbul",
+"kesen",
+"madde",
+"nefes",
+"operasyonu",
+"yasakli"
+],
+[
+"hapis",
+"istemi",
+"kadar",
+"korku",
+"okul",
+"paylasimlara",
+"saldirilari",
+"sonrasi",
+"yayan",
+"yila"
+],
+[
+"200",
+"700",
+"bin",
+"bursa",
+"fidan",
+"hedefi",
+"nin",
+"yilinda"
+],
+[
+"freiburg",
+"hazir",
+"macina",
+"trabzonspor"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-04T10:14:00+00:00",
-"Sonsöz (Ankara)": "2026-11-04T09:27:00+00:00",
+"Haber Global": "2026-11-04T10:57:00+00:00",
+"Sonsöz (Ankara)": "2026-11-04T11:02:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-04T09:44:19+00:00",
-"Sözcü Son Dakika": "2026-11-04T10:24:47+00:00",
-"Yeni Şafak Yerel": "2026-11-04T10:12:00+00:00",
+"Mynet Son Dakika": "2026-11-04T10:45:35+00:00",
+"Sözcü Son Dakika": "2026-11-04T10:58:18+00:00",
+"Yeni Şafak Yerel": "2026-11-04T11:04:23+00:00",
 "X / Twitter Türkiye": "2026-11-04T09:05:43.351100+00:00",
-"Olay (Bursa)": "2026-11-04T10:13:28+00:00",
+"Olay (Bursa)": "2026-11-04T11:03:09+00:00",
 "@islamasalya": "2026-11-03T14:59:42+00:00",
-"Yeni Asır (İzmir)": "2026-11-04T10:01:37+00:00",
-"İstanbul Gazetesi": "2026-11-04T10:09:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-04T10:50:45+00:00",
+"İstanbul Gazetesi": "2026-11-04T11:01:00+00:00",
 "Kandilli Rasathanesi": "2026-11-03T14:24:01+00:00"
 }
 }
