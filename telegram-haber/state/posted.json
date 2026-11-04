@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"800517e928e2a9ce",
-"e5e068c1d38b104c",
-"611f75b4dd6ef7e2",
-"b4486925285b3797",
-"20971f211960b4f8",
-"f3e7a00436063ea0",
-"f548ad242a5d0bb1",
-"adc855fbc4f0a3c5",
 "158fd50b39a6b99f",
 "90e98959ae6fe547",
 "4c6a4ecf1a98116c",
@@ -2999,82 +2991,17 @@
 "63323488a1f04e18",
 "0330d31397761dcb",
 "535fa0263752ca3c",
-"c8f6bdada931cfd4"
+"c8f6bdada931cfd4",
+"a484d536686758bb",
+"accd507419316c2e",
+"b3ab57bacbdc0d7a",
+"7456d2d52c062767",
+"7a384a2deced8189",
+"23ead2fac8771674",
+"511aba2cd32557d2",
+"8c7f565485d2b6c7"
 ],
 "imzalar": [
-[
-"annesine",
-"birakti",
-"butun",
-"edilince",
-"galatasaray",
-"gorevlerini",
-"istifa",
-"kufur",
-"surpriz"
-],
-[
-"galatasaray",
-"istifa"
-],
-[
-"400",
-"aldi",
-"bin",
-"cikti",
-"degerinde",
-"milyon",
-"satti",
-"servet"
-],
-[
-"ada",
-"amerika",
-"ankarali",
-"kucuk",
-"sunucusu"
-],
-[
-"afyon",
-"anlar",
-"attilar",
-"bina",
-"disari",
-"dolu",
-"kendilerini",
-"korku",
-"panikle",
-"sandilar",
-"yikiliyor"
-],
-[
-"bulutlari",
-"eden",
-"golu",
-"goruntuler",
-"mest",
-"olusturdu",
-"sapanca",
-"sis"
-],
-[
-"degildir",
-"konusu",
-"olayin",
-"ortmek",
-"soz",
-"uzerini"
-],
-[
-"acil",
-"alarmda",
-"durum",
-"edildi",
-"ilan",
-"nedeniyle",
-"nino",
-"ulke"
-],
 [
 "her",
 "itibariyle",
@@ -8888,20 +8815,96 @@
 "kapsayan",
 "ogrenciyi",
 "proje"
+],
+[
+"agirel",
+"belli",
+"cezalar",
+"ismail",
+"istenen",
+"murat",
+"saymaz"
+],
+[
+"batrakov",
+"dan",
+"dursun",
+"galatasaray",
+"gecti",
+"harekete",
+"karar",
+"karari",
+"ozbek"
+],
+[
+"fenerbahce",
+"gollu",
+"liverpool",
+"macta",
+"maglup",
+"u19"
+],
+[
+"basliyor",
+"cezasi",
+"kadar",
+"kasim",
+"kimler",
+"kis",
+"lastigi",
+"takmak",
+"zorunda",
+"zorunlulugu"
+],
+[
+"akti",
+"dondu",
+"gole",
+"kafenin",
+"sisli",
+"sular",
+"tavanindan",
+"yollar"
+],
+[
+"dondu",
+"etkiledi",
+"gole",
+"hayati",
+"istanbul",
+"olumsuz",
+"sisli",
+"yagmur",
+"yollar"
+],
+[
+"basladi",
+"istanbul",
+"kabusu",
+"trafik"
+],
+[
+"bekleyen",
+"bursa",
+"donusum",
+"gelisme",
+"kentsel",
+"mahalle",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-04T12:15:00+00:00",
-"Sonsöz (Ankara)": "2026-11-04T12:23:00+00:00",
+"Haber Global": "2026-11-04T13:00:00+00:00",
+"Sonsöz (Ankara)": "2026-11-04T13:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-04T12:08:42+00:00",
-"Sözcü Son Dakika": "2026-11-04T12:24:38+00:00",
-"Yeni Şafak Yerel": "2026-11-04T12:22:31+00:00",
+"Mynet Son Dakika": "2026-11-04T12:45:33+00:00",
+"Sözcü Son Dakika": "2026-11-04T13:03:20+00:00",
+"Yeni Şafak Yerel": "2026-11-04T12:59:21+00:00",
 "X / Twitter Türkiye": "2026-11-04T12:25:43.761860+00:00",
-"Olay (Bursa)": "2026-11-04T12:24:38+00:00",
+"Olay (Bursa)": "2026-11-04T13:04:29+00:00",
 "@islamasalya": "2026-11-04T12:14:00+00:00",
-"Yeni Asır (İzmir)": "2026-11-04T12:16:27+00:00",
-"İstanbul Gazetesi": "2026-11-04T11:59:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-04T12:53:50+00:00",
+"İstanbul Gazetesi": "2026-11-04T13:03:00+00:00",
 "Kandilli Rasathanesi": "2026-11-03T14:24:01+00:00"
 }
 }
