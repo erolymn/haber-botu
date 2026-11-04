@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"e5262d0cef25fa94",
-"7ef008772642b532",
-"ebbc26d30f0635a9",
 "c0aaad3527eaa1c5",
 "8d55fcdc1412e6ac",
 "ba63b0bde37d05d7",
@@ -2999,39 +2996,12 @@
 "996ed5ce0c440995",
 "c83005d84bd721d1",
 "a9736ddd91801d6a",
-"ad0fcce538e065f8"
+"ad0fcce538e065f8",
+"d4829f33f85efc7d",
+"0fdbc5d8af508b82",
+"faf0dc6d78c3cbee"
 ],
 "imzalar": [
-[
-"acti",
-"ayni",
-"basina",
-"cekti",
-"halicinin",
-"ilan",
-"musteri",
-"taktikle",
-"vitrinindeki",
-"yil"
-],
-[
-"agir",
-"fenerbahce",
-"kadikoy",
-"yarali"
-],
-[
-"ali",
-"aziz",
-"baskan",
-"birakmadi",
-"celikler",
-"demedigini",
-"serdar",
-"sildi",
-"tarihten",
-"yildirim"
-],
 [
 "bakanlik",
 "kodla",
@@ -8875,17 +8845,42 @@
 "otomobil",
 "sikisti",
 "tir"
+],
+[
+"bursa",
+"genc",
+"kata",
+"nisanlisina",
+"tirmandi",
+"ulasamayan"
+],
+[
+"bursa",
+"doneminde",
+"isim",
+"sehrin",
+"uzen",
+"vardi",
+"vefat"
+],
+[
+"aydin",
+"devrildi",
+"kamyonet",
+"pazarcilari",
+"tasiyan",
+"yarali"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-04T00:15:00+00:00",
-"Sonsöz (Ankara)": "2026-11-04T01:31:00+00:00",
+"Haber Global": "2026-11-04T01:49:00+00:00",
+"Sonsöz (Ankara)": "2026-11-04T02:18:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-04T00:59:59+00:00",
 "Sözcü Son Dakika": "2026-11-04T00:51:27+00:00",
 "Yeni Şafak Yerel": "2026-11-04T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-04T00:24:41.865186+00:00",
-"Olay (Bursa)": "2026-11-03T19:29:46+00:00",
+"Olay (Bursa)": "2026-11-04T02:15:56+00:00",
 "@islamasalya": "2026-11-03T14:59:42+00:00",
 "Yeni Asır (İzmir)": "2026-11-03T21:02:19+00:00",
 "İstanbul Gazetesi": "2026-11-03T18:40:00+00:00",
