@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"6e2119c9cc5af822",
-"310f5f5a37a13156",
-"88c64eec97eeaa01",
-"083921e97709087b",
-"6b995996a2f4e38b",
-"bbead9915433148a",
-"e590f40db3a6b305",
-"2e8beac4b3c220f3",
 "8a816d183c751b53",
 "d91a3e7e8fcaec3f",
 "3b61aa44531b426a",
@@ -2999,86 +2991,17 @@
 "e9f8ee39a896bd03",
 "30546f973495912b",
 "ec081133cb0b0060",
-"3650ab6f77a8e44d"
+"3650ab6f77a8e44d",
+"d587010ff2cff35e",
+"d8a89c03cf2871ae",
+"9b6878b141299a63",
+"11c8653c91dfd84e",
+"1859c20ca0373e0c",
+"9f0a6ddee9486815",
+"752aac9db5956f6c",
+"c6d89190e3b578cc"
 ],
 "imzalar": [
-[
-"borsada",
-"dustu",
-"endeksi",
-"esya",
-"gunde",
-"makine",
-"metal",
-"sert"
-],
-[
-"altyapi",
-"dev",
-"donusum",
-"hamlesi",
-"izmir",
-"karsi",
-"mahallede",
-"saganaklara"
-],
-[
-"bobrek",
-"hayati",
-"olusturdu",
-"onemli",
-"risk",
-"tasi",
-"uyari",
-"uzmandan"
-],
-[
-"akaryakitta",
-"fiyatlar",
-"guncel",
-"iste",
-"otv",
-"tabelaya",
-"yansidi",
-"zammi"
-],
-[
-"bik",
-"guncelledi",
-"iliskin",
-"internet",
-"kurallari",
-"sitelerine",
-"teknik"
-],
-[
-"arasinda",
-"askeri",
-"gerilim",
-"ingiltere",
-"iran",
-"kuvvetler",
-"listesinde",
-"teror",
-"tirmaniyor"
-],
-[
-"cildirtti",
-"fenerbahcelileri",
-"mactan",
-"sonraki",
-"sozleri",
-"stoilov"
-],
-[
-"basladi",
-"bulusturan",
-"buyuk",
-"heyecan",
-"istanbul",
-"kitalari",
-"maratonda"
-],
 [
 "2026",
 "akaryakit",
@@ -8880,20 +8803,104 @@
 "gecmeyin",
 "mevsimsel",
 "yorgunluk"
+],
+[
+"besiktas",
+"coktu",
+"iki",
+"kaldi",
+"kisi",
+"mahsur",
+"merdiven"
+],
+[
+"ciplak",
+"filmi",
+"gercek",
+"vatandas"
+],
+[
+"aciklama",
+"altin",
+"altinda",
+"ceken",
+"dikkat",
+"dusus",
+"erdi",
+"fiyatlari",
+"geride",
+"islam",
+"kaldi",
+"kotusu",
+"memis",
+"sert",
+"sona",
+"ten",
+"yukseldi"
+],
+[
+"baska",
+"nedeni",
+"olabilir",
+"sandiginiz",
+"sik",
+"sonbahar",
+"yetlerin",
+"yorgunlugu"
+],
+[
+"buruk",
+"cevirdi",
+"gunde",
+"okan",
+"tabloyu",
+"tersine"
+],
+[
+"akp",
+"alkislanan",
+"ayakta",
+"betul",
+"fatma",
+"kaya",
+"ofkesi",
+"sayan",
+"sozler",
+"toplantisinda"
+],
+[
+"2027",
+"belli",
+"ehliyet",
+"harclari",
+"kadar",
+"olacak",
+"ucretleri"
+],
+[
+"abd",
+"ilk",
+"israil",
+"kazandi",
+"lobisine",
+"musluman",
+"nin",
+"ragmen",
+"senatoru"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-04T08:56:00+00:00",
-"Sonsöz (Ankara)": "2026-11-04T09:04:00+00:00",
+"Haber Global": "2026-11-04T09:35:00+00:00",
+"Sonsöz (Ankara)": "2026-11-04T09:27:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-04T08:16:28+00:00",
-"Sözcü Son Dakika": "2026-11-04T09:02:47+00:00",
-"Yeni Şafak Yerel": "2026-11-04T09:01:53+00:00",
+"Mynet Son Dakika": "2026-11-04T09:08:58+00:00",
+"Sözcü Son Dakika": "2026-11-04T09:39:25+00:00",
+"Yeni Şafak Yerel": "2026-11-04T09:44:45+00:00",
 "X / Twitter Türkiye": "2026-11-04T09:05:43.351100+00:00",
-"Olay (Bursa)": "2026-11-04T08:55:12+00:00",
+"Olay (Bursa)": "2026-11-04T09:43:05+00:00",
 "@islamasalya": "2026-11-03T14:59:42+00:00",
-"Yeni Asır (İzmir)": "2026-11-04T08:34:24+00:00",
-"İstanbul Gazetesi": "2026-11-04T08:38:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-04T09:30:57+00:00",
+"İstanbul Gazetesi": "2026-11-04T09:34:00+00:00",
 "Kandilli Rasathanesi": "2026-11-03T14:24:01+00:00"
 }
 }
