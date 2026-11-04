@@ -1,15 +1,5 @@
 {
 "gonderilen": [
-"cb7cf1977efd8b8f",
-"68f3e642e5863e1d",
-"2b5a3a0c5e37e70d",
-"bc1cb4cb2276cb7c",
-"6b5045329ee439c0",
-"a7531a9fdee96055",
-"be50cc1fdba295a5",
-"d73afb523681bfc5",
-"274dbd43316140a5",
-"1ea64b749db8917a",
 "800517e928e2a9ce",
 "e5e068c1d38b104c",
 "611f75b4dd6ef7e2",
@@ -2999,92 +2989,19 @@
 "839b6bd2e49cc833",
 "08a0fc12f4a7863b",
 "57377a198c8fd361",
-"d5ceffd8353f6f4b"
+"d5ceffd8353f6f4b",
+"780bdc6186bd0dd3",
+"e33193f829ec635b",
+"7d2978ebce8ca6df",
+"a08599ea2c91b36a",
+"74199a4706bab0d3",
+"e50aa4df8d7b28ca",
+"63323488a1f04e18",
+"0330d31397761dcb",
+"535fa0263752ca3c",
+"c8f6bdada931cfd4"
 ],
 "imzalar": [
-[
-"fenerbahce",
-"ikinci",
-"istifa",
-"kayip",
-"taraftardan",
-"tepkisi",
-"ust",
-"uste",
-"yonetime"
-],
-[
-"alanya",
-"antalya",
-"arasi",
-"bakan",
-"dakikaya",
-"dusecek",
-"uraloglu"
-],
-[
-"cagrisi",
-"eylem",
-"fransa",
-"lise",
-"ogrencilerinden",
-"yeniden"
-],
-[
-"akini",
-"bodrum",
-"dev",
-"geldiler",
-"kasim",
-"kruvaziyerle",
-"turist"
-],
-[
-"amed",
-"bein",
-"canli",
-"eyupspor",
-"izle",
-"izleme",
-"linki",
-"maci",
-"sifresiz",
-"sports"
-],
-[
-"galatasaray",
-"hakem",
-"ingiliz",
-"macina",
-"stuttgart"
-],
-[
-"acmak",
-"altina",
-"donem",
-"hesap",
-"medyada",
-"sosyal",
-"yas",
-"yasak",
-"yeni"
-],
-[
-"dogal",
-"gaz",
-"patlamasi",
-"sivas",
-"yaralilar"
-],
-[
-"baskani",
-"galatasaray",
-"ikinci",
-"istifa",
-"kulubu",
-"metin",
-"ozturk"
-],
 [
 "annesine",
 "birakti",
@@ -8891,20 +8808,100 @@
 "mustafa",
 "sabanc",
 "sevinc"
+],
+[
+"beylikduzu",
+"carpan",
+"devam",
+"durmadan",
+"nde",
+"taksici",
+"yaya"
+],
+[
+"abd",
+"basinindan",
+"hezimeti",
+"mavi",
+"olay",
+"trump",
+"tsunami",
+"yorum"
+],
+[
+"buyuk",
+"guzel",
+"iman",
+"rabbi",
+"sahidiz",
+"teslimiyet"
+],
+[
+"adaylari",
+"alacak",
+"arkasina",
+"baskan",
+"demokratlarin",
+"iste",
+"kim",
+"ruzgari"
+],
+[
+"akilalmaz",
+"araci",
+"birakip",
+"ceza",
+"orada",
+"sozler",
+"surucuden",
+"yiyen"
+],
+[
+"kuvvetli",
+"meteorolojiden",
+"saganak",
+"uyarisi"
+],
+[
+"dondu",
+"felc",
+"gole",
+"hayati",
+"saganak",
+"stanbul",
+"yollar"
+],
+[
+"bulundu",
+"dolarlik",
+"hazine",
+"iki",
+"milyarlarca",
+"sinirinda",
+"ulkenin"
+],
+[
+"650",
+"atildi",
+"bursa",
+"imzalar",
+"kapsayan",
+"ogrenciyi",
+"proje"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-04T11:24:00+00:00",
-"Sonsöz (Ankara)": "2026-11-04T11:24:00+00:00",
+"Haber Global": "2026-11-04T12:15:00+00:00",
+"Sonsöz (Ankara)": "2026-11-04T12:23:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-04T11:07:54+00:00",
-"Sözcü Son Dakika": "2026-11-04T11:45:04+00:00",
-"Yeni Şafak Yerel": "2026-11-04T11:45:00+00:00",
-"X / Twitter Türkiye": "2026-11-04T09:05:43.351100+00:00",
-"Olay (Bursa)": "2026-11-04T11:41:59+00:00",
-"@islamasalya": "2026-11-03T14:59:42+00:00",
-"Yeni Asır (İzmir)": "2026-11-04T11:40:21+00:00",
-"İstanbul Gazetesi": "2026-11-04T11:01:00+00:00",
+"Mynet Son Dakika": "2026-11-04T12:08:42+00:00",
+"Sözcü Son Dakika": "2026-11-04T12:24:38+00:00",
+"Yeni Şafak Yerel": "2026-11-04T12:22:31+00:00",
+"X / Twitter Türkiye": "2026-11-04T12:25:43.761860+00:00",
+"Olay (Bursa)": "2026-11-04T12:24:38+00:00",
+"@islamasalya": "2026-11-04T12:14:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-04T12:16:27+00:00",
+"İstanbul Gazetesi": "2026-11-04T11:59:00+00:00",
 "Kandilli Rasathanesi": "2026-11-03T14:24:01+00:00"
 }
 }
