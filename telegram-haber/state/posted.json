@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"c0aaad3527eaa1c5",
-"8d55fcdc1412e6ac",
-"ba63b0bde37d05d7",
-"450f10cc74e60f35",
 "e0d945d7ab007a22",
 "8996b7733eb58a64",
 "4f192097b84e7dfb",
@@ -2999,33 +2995,13 @@
 "ad0fcce538e065f8",
 "d4829f33f85efc7d",
 "0fdbc5d8af508b82",
-"faf0dc6d78c3cbee"
+"faf0dc6d78c3cbee",
+"dc523253bfa7db40",
+"ceaed93189d9b6bd",
+"4296dfc4270c661e",
+"5d58b33c21691613"
 ],
 "imzalar": [
-[
-"bakanlik",
-"kodla",
-"sari",
-"siddetli",
-"turuncu",
-"uyardi",
-"uyarisi",
-"yagis"
-],
-[
-"den",
-"goztepe",
-"tarihi",
-"zafer"
-],
-[
-"aldi",
-"fenerbahce",
-"ligde",
-"maglubiyetini",
-"ust",
-"uste"
-],
 [
 "fener",
 "ortodoks",
@@ -8870,16 +8846,42 @@
 "pazarcilari",
 "tasiyan",
 "yarali"
+],
+[
+"abd",
+"bottoms",
+"gecti",
+"ilk",
+"kadin",
+"keisha",
+"lance",
+"siyahi",
+"tarihine",
+"vali"
+],
+[
+"kyk",
+"olay",
+"ustune",
+"yurtlarinda"
+],
+[
+"carpisma",
+"feci",
+"kisi",
+"turgutlu",
+"yasamini",
+"yitirdi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-04T01:49:00+00:00",
-"Sonsöz (Ankara)": "2026-11-04T02:18:00+00:00",
+"Sonsöz (Ankara)": "2026-11-04T02:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-04T00:59:59+00:00",
-"Sözcü Son Dakika": "2026-11-04T00:51:27+00:00",
+"Mynet Son Dakika": "2026-11-04T02:53:09+00:00",
+"Sözcü Son Dakika": "2026-11-04T02:54:19+00:00",
 "Yeni Şafak Yerel": "2026-11-04T01:00:00+00:00",
-"X / Twitter Türkiye": "2026-11-04T00:24:41.865186+00:00",
+"X / Twitter Türkiye": "2026-11-04T03:05:03.603086+00:00",
 "Olay (Bursa)": "2026-11-04T02:15:56+00:00",
 "@islamasalya": "2026-11-03T14:59:42+00:00",
 "Yeni Asır (İzmir)": "2026-11-03T21:02:19+00:00",
