@@ -1,10 +1,5 @@
 {
 "gonderilen": [
-"3657b21fa8d2d779",
-"a5cfdfff9eadc64c",
-"44e67e54ddea29fa",
-"1771d5bb7bf57096",
-"ddb0993b1d28f37e",
 "9a7ccb76f82e9e40",
 "d658e6ddf7334ae7",
 "3a832b4338d123ba",
@@ -2999,54 +2994,14 @@
 "63b93d3cad3107b9",
 "57a713870091a883",
 "fb2ac0f094330c9d",
-"726e8911cd0db6e4"
+"726e8911cd0db6e4",
+"0954e21a30bb3843",
+"b9ce33c67702f0c1",
+"9118e5836cd945db",
+"591e979fa1932c9f",
+"523d6f15d5f5c793"
 ],
 "imzalar": [
-[
-"atti",
-"averajla",
-"elazigspor",
-"liderligini",
-"surdurdu"
-],
-[
-"baba",
-"bursasporlu",
-"futbolcu"
-],
-[
-"arac",
-"can",
-"carpisti",
-"feci",
-"hafif",
-"kafa",
-"kafaya",
-"kamyonetiyle",
-"kaybi",
-"kazada",
-"sut",
-"ticari",
-"toplama",
-"yaralilar"
-],
-[
-"bugun",
-"duzenledigi",
-"filistinli",
-"gazze",
-"guneyindeki",
-"han",
-"isgalci",
-"israil",
-"nin",
-"polis",
-"saldirida",
-"sehit",
-"sehitlerimiz",
-"seridi",
-"yunus"
-],
 [
 "baskani",
 "btso",
@@ -8941,17 +8896,51 @@
 "macta",
 "takimlarina",
 "turk"
+],
+[
+"beyaza",
+"burundu",
+"kartpostallik",
+"kesimler",
+"manzara",
+"palandoken",
+"yuksek"
+],
+[
+"andoni",
+"dolayi",
+"iletisim",
+"iraola",
+"kuramadik",
+"sesten",
+"statta"
+],
+[
+"alanina",
+"araca",
+"carpti",
+"cevirdi",
+"kacarken",
+"ortaligi",
+"polisten",
+"savas"
+],
+[
+"bursasporlu",
+"davet",
+"milli",
+"oyuncuya"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-04T20:08:00+00:00",
+"Haber Global": "2026-11-04T21:03:00+00:00",
 "Sonsöz (Ankara)": "2026-11-04T20:13:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-04T19:09:37+00:00",
-"Sözcü Son Dakika": "2026-11-04T20:26:13+00:00",
-"Yeni Şafak Yerel": "2026-11-04T20:12:50+00:00",
-"X / Twitter Türkiye": "2026-11-04T18:27:11.858348+00:00",
-"Olay (Bursa)": "2026-11-04T19:48:56+00:00",
+"Sözcü Son Dakika": "2026-11-04T21:04:06+00:00",
+"Yeni Şafak Yerel": "2026-11-04T21:01:00+00:00",
+"X / Twitter Türkiye": "2026-11-04T21:07:08.499267+00:00",
+"Olay (Bursa)": "2026-11-04T21:05:05+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
 "Yeni Asır (İzmir)": "2026-11-04T16:45:39+00:00",
 "İstanbul Gazetesi": "2026-11-04T20:20:00+00:00",
