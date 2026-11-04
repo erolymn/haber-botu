@@ -1,6 +1,5 @@
 {
 "gonderilen": [
-"2e9f6e3b997adf9f",
 "e5262d0cef25fa94",
 "7ef008772642b532",
 "ebbc26d30f0635a9",
@@ -2999,20 +2998,10 @@
 "16711ca1478c74e8",
 "996ed5ce0c440995",
 "c83005d84bd721d1",
-"a9736ddd91801d6a"
+"a9736ddd91801d6a",
+"ad0fcce538e065f8"
 ],
 "imzalar": [
-[
-"alindi",
-"borsa",
-"genel",
-"gozaltina",
-"istanbul",
-"muduru",
-"piyasasi",
-"sermaye",
-"sorusturmasi"
-],
 [
 "acti",
 "ayni",
@@ -8877,11 +8866,20 @@
 "hazirladi",
 "odulu",
 "tasiyla"
+],
+[
+"aracta",
+"carpisti",
+"hatay",
+"kisi",
+"otomobil",
+"sikisti",
+"tir"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-04T00:15:00+00:00",
-"Sonsöz (Ankara)": "2026-11-04T00:29:00+00:00",
+"Sonsöz (Ankara)": "2026-11-04T01:31:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-04T00:59:59+00:00",
 "Sözcü Son Dakika": "2026-11-04T00:51:27+00:00",
