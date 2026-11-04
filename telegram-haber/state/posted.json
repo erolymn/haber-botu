@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"4295aa53587c18d8",
-"61a4575b32ac0200",
-"57e572115ff8e07c",
-"e4f60346dc32c2a1",
 "970a03b8bea4a508",
 "5088234727541e20",
 "18a7212f1ae08441",
@@ -2999,50 +2995,13 @@
 "c29d9c301aab0dba",
 "675bc34d2fa32088",
 "92433da4e06e0016",
-"196d2c3f9b0bbe99"
+"196d2c3f9b0bbe99",
+"9fa89f884ef1e03f",
+"e266c5467179ca39",
+"ddcaf524be6ff225",
+"2ade737f1c390c07"
 ],
 "imzalar": [
-[
-"bekledi",
-"besiktaslilar",
-"beyazlilari",
-"cildirtan",
-"kart",
-"kirmizi",
-"pozisyonu",
-"siyah",
-"vlahovic"
-],
-[
-"basit",
-"derbiyi",
-"fenerbahce",
-"hatalarimiz",
-"kazandi",
-"set",
-"vermeden"
-],
-[
-"198",
-"600",
-"ayakla",
-"bin",
-"binayi",
-"robot",
-"tasidilar",
-"tonluk"
-],
-[
-"atese",
-"atolyesini",
-"bobin",
-"eyupsultan",
-"firlatti",
-"iplik",
-"polislere",
-"tahta",
-"verdi"
-],
 [
 "bunu",
 "cozmemiz",
@@ -8931,15 +8890,60 @@
 "kesimlerinde",
 "yagisi",
 "yuksek"
+],
+[
+"ara",
+"bekleyenlere",
+"bilgileri",
+"emeklilik",
+"kademeli",
+"kotu",
+"kulis",
+"sizdirildi",
+"zam"
+],
+[
+"afisleri",
+"atese",
+"dokuldu",
+"iranlilar",
+"netanyahu",
+"nun",
+"sokaklara",
+"tahran",
+"trump",
+"verildi"
+],
+[
+"bas",
+"batil",
+"belirsizlikle",
+"beynimizin",
+"etme",
+"inanclar",
+"neden",
+"rahatlatiyor",
+"yontemi"
+],
+[
+"atti",
+"ayrilik",
+"belozoglu",
+"dirk",
+"emre",
+"kuyt",
+"sorusunu",
+"topu",
+"yanitladi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-04T21:35:00+00:00",
-"Sonsöz (Ankara)": "2026-11-04T20:13:00+00:00",
+"Haber Global": "2026-11-04T21:49:00+00:00",
+"Sonsöz (Ankara)": "2026-11-04T22:09:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-04T19:09:37+00:00",
-"Sözcü Son Dakika": "2026-11-04T21:27:30+00:00",
-"Yeni Şafak Yerel": "2026-11-04T21:36:21+00:00",
+"Sözcü Son Dakika": "2026-11-04T22:11:55+00:00",
+"Yeni Şafak Yerel": "2026-11-04T21:49:29+00:00",
 "X / Twitter Türkiye": "2026-11-04T21:07:08.499267+00:00",
 "Olay (Bursa)": "2026-11-04T21:12:39+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
