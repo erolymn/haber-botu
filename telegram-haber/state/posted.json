@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"032e1379db5e67e3",
-"5e83dc94c4e7cda1",
-"f91d671a7702e3a4",
-"b9ef71ef86f5bd8f",
-"e1f2a70f4a409777",
-"b65f343e7a615419",
-"244a20c4d9742433",
-"54b7c435b71cea05",
 "7af2d8294281de70",
 "9c2f4032bc5efbc2",
 "22515692847cb037",
@@ -2999,78 +2991,17 @@
 "011468f9d04285ed",
 "27dec9edee10db60",
 "291d2e4660232de1",
-"49ea12004bc28d53"
+"49ea12004bc28d53",
+"76873f597f314e34",
+"68ee8a3a4f2b3b12",
+"de8f0c4a1d7c2c2e",
+"d954f23492a9015d",
+"9a9f21983caf629a",
+"025a63034b73c252",
+"cbfafe26b1bb5d33",
+"674e9acf5fafe84b"
 ],
 "imzalar": [
-[
-"artti",
-"ekimde",
-"fiyati",
-"istanbul",
-"salataligin"
-],
-[
-"bahceli",
-"cikisi",
-"ilcelik",
-"liste",
-"nin",
-"sonrasi"
-],
-[
-"baglantilara",
-"dikkat",
-"dogrulama",
-"medyada",
-"sakin",
-"sosyal",
-"tiklamayin",
-"tuzagina",
-"yas"
-],
-[
-"cikti",
-"emir",
-"ifadesi",
-"ortaya",
-"sarigul"
-],
-[
-"devirdi",
-"doncic",
-"lakers",
-"luka",
-"raptors",
-"toronto",
-"yeniden",
-"yildizlasti"
-],
-[
-"antalya",
-"bulusuyor",
-"cop31",
-"dev",
-"dunya",
-"hazir",
-"liderleri",
-"organizasyon"
-],
-[
-"bagladi",
-"celtics",
-"seriye"
-],
-[
-"430",
-"bakanlik",
-"dikkat",
-"euro",
-"getirenler",
-"kiyafet",
-"tan",
-"uyarisi",
-"yurtdisindan"
-],
 [
 "cozsun",
 "diye",
@@ -8912,20 +8843,103 @@
 "mardin",
 "sis",
 "yogun"
+],
+[
+"fatmalar",
+"kuran",
+"soyan",
+"ulkeyi"
+],
+[
+"aciklamalari",
+"bahceli",
+"hayalini",
+"heyecanlandirdi",
+"istiyoruz",
+"kuruyorlar",
+"nin",
+"olmak",
+"yillardir"
+],
+[
+"apartman",
+"bahce",
+"cokmesi",
+"doktu",
+"duvarinin",
+"sakinlerini",
+"sokaga"
+],
+[
+"arastirmalari",
+"enstitusu",
+"gida",
+"iki",
+"odul",
+"projelerine",
+"sabri",
+"ulker",
+"vakfinin"
+],
+[
+"devrim",
+"dunyanin",
+"hicbir",
+"izmir",
+"mutfakta",
+"otlari",
+"yaratiyor",
+"yerinde"
+],
+[
+"arasinda",
+"basti",
+"cip",
+"dehseti",
+"fren",
+"gaza",
+"sokak",
+"yerine"
+],
+[
+"cadira",
+"duzenledi",
+"edilen",
+"filistinlilerin",
+"gazze",
+"israil",
+"kaldigi",
+"saldiri",
+"yerinden"
+],
+[
+"acikladi",
+"bomba",
+"fenerbahce",
+"galatasaray",
+"ligi",
+"ndeki",
+"nin",
+"sampiyonlar",
+"sansini",
+"tahmin",
+"tur",
+"yapay",
+"zekadan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-05T09:41:00+00:00",
-"Sonsöz (Ankara)": "2026-11-05T09:46:00+00:00",
+"Haber Global": "2026-11-05T10:18:00+00:00",
+"Sonsöz (Ankara)": "2026-11-05T10:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-05T09:16:26+00:00",
-"Sözcü Son Dakika": "2026-11-05T09:28:20+00:00",
-"Yeni Şafak Yerel": "2026-11-05T09:44:03+00:00",
+"Mynet Son Dakika": "2026-11-05T10:13:14+00:00",
+"Sözcü Son Dakika": "2026-11-05T10:26:33+00:00",
+"Yeni Şafak Yerel": "2026-11-05T10:26:26+00:00",
 "X / Twitter Türkiye": "2026-11-05T09:08:03.324363+00:00",
-"Olay (Bursa)": "2026-11-05T09:43:06+00:00",
+"Olay (Bursa)": "2026-11-05T10:22:17+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
-"Yeni Asır (İzmir)": "2026-11-05T09:42:52+00:00",
-"İstanbul Gazetesi": "2026-11-05T09:11:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-05T10:22:12+00:00",
+"İstanbul Gazetesi": "2026-11-05T10:16:00+00:00",
 "Kandilli Rasathanesi": "2026-11-05T00:41:51+00:00"
 }
 }
