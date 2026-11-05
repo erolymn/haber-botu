@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"3e196dad1d791212",
-"1b0e899a3ba83865",
-"5124074ef8b1f620",
-"8269e9fdad17cecb",
 "1f89597e4dcbe5f4",
 "c0e04d7fe75d0f9c",
 "542b79d3065136e5",
@@ -2999,39 +2995,13 @@
 "0b221c831d2b4bd8",
 "376301bddfcd7e33",
 "6853414579c970cc",
-"9357bb9e80d14c93"
+"9357bb9e80d14c93",
+"d90f6c38e9ac7d22",
+"6b51552188199382",
+"30c9eb4fdcbb38d9",
+"95285e3544a42578"
 ],
 "imzalar": [
-[
-"ettiler",
-"gayret",
-"iman",
-"oldular",
-"sehid"
-],
-[
-"denetimi",
-"destekli",
-"gece",
-"helikopter",
-"huzur",
-"istanbul",
-"yarisi"
-],
-[
-"baskisi",
-"basladi",
-"dan",
-"ellerini",
-"iran",
-"netanyahu",
-"ovusturmaya",
-"saldiri",
-"secim",
-"sonrasi",
-"trump",
-"yeni"
-],
 [
 "belozoglu",
 "emre",
@@ -8919,16 +8889,39 @@
 "sehrin",
 "yillik",
 "yoresel"
+],
+[
+"cumhuriyet",
+"durusu",
+"kivilcimlarina",
+"saygi"
+],
+[
+"bombali",
+"karakoluna",
+"kolombiya",
+"olu",
+"polis",
+"saldiri",
+"yarali"
+],
+[
+"acikladi",
+"afad",
+"afyonkarahisar",
+"buyuklugunu",
+"deprem",
+"korkutan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-05T00:26:00+00:00",
+"Haber Global": "2026-11-05T02:33:00+00:00",
 "Sonsöz (Ankara)": "2026-11-05T02:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-04T19:09:37+00:00",
-"Sözcü Son Dakika": "2026-11-04T22:37:59+00:00",
+"Mynet Son Dakika": "2026-11-05T03:03:11+00:00",
+"Sözcü Son Dakika": "2026-11-05T02:30:03+00:00",
 "Yeni Şafak Yerel": "2026-11-05T01:00:00+00:00",
-"X / Twitter Türkiye": "2026-11-05T00:27:29.942883+00:00",
+"X / Twitter Türkiye": "2026-11-05T03:07:29.891389+00:00",
 "Olay (Bursa)": "2026-11-05T02:10:34+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
 "Yeni Asır (İzmir)": "2026-11-04T16:45:39+00:00",
