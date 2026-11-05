@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"c52dfb15c2ddaa10",
-"d819848222a2a33a",
-"dc546725f0784fad",
-"1365b25491a4706d",
-"d24acf533c7a2302",
-"a24e2b4970802fa1",
-"f33cdff364dcb630",
-"13023f6438782185",
 "032e1379db5e67e3",
 "5e83dc94c4e7cda1",
 "f91d671a7702e3a4",
@@ -2999,79 +2991,17 @@
 "6b918adcc3f3439a",
 "61b2754549a3c2fb",
 "067c16e6aeacb4e9",
-"296c38b053203eb7"
+"296c38b053203eb7",
+"97c13ee9c0e6b88d",
+"0df62588073eedcb",
+"4c0bc0427328e19e",
+"9923b58451ca1dbb",
+"011468f9d04285ed",
+"27dec9edee10db60",
+"291d2e4660232de1",
+"49ea12004bc28d53"
 ],
 "imzalar": [
-[
-"formula",
-"sampiyonluk",
-"tarihi"
-],
-[
-"abd",
-"dustu",
-"jet",
-"olu",
-"ozel",
-"yerine",
-"yerlesim"
-],
-[
-"altin",
-"basladi",
-"donemi",
-"ilk",
-"izmir",
-"kivi",
-"tariminda"
-],
-[
-"anneleri",
-"ayrimcilik",
-"calisan",
-"emsal",
-"ilgilendiren",
-"karar",
-"odenecek",
-"tazminati"
-],
-[
-"buldu",
-"davet",
-"direktorunu",
-"edildi",
-"fenerbahce",
-"istanbul",
-"teknik",
-"yeni"
-],
-[
-"ayaga",
-"bursa",
-"kalkti",
-"mahalle"
-],
-[
-"gozalti",
-"hastalarina",
-"kanser",
-"olumcul",
-"tuzak"
-],
-[
-"akaryakit",
-"benzin",
-"durum",
-"fiyatlarinda",
-"gece",
-"guncelleniyor",
-"iste",
-"motorin",
-"otogaz",
-"tabelalari",
-"yarisi",
-"yeniden"
-],
 [
 "artti",
 "ekimde",
@@ -8901,20 +8831,101 @@
 "insanlar",
 "isin",
 "ummadiginiz"
+],
+[
+"belli",
+"haftanin",
+"hakemleri",
+"lig",
+"super",
+"trendyol"
+],
+[
+"abd",
+"cumhurbaskani",
+"dan",
+"deki",
+"erdogan",
+"ilgili",
+"ilk",
+"secim",
+"sonuclariyla",
+"yorum"
+],
+[
+"azerbaycan",
+"dan",
+"erdogan",
+"karari"
+],
+[
+"bomba",
+"dublin",
+"ihbari",
+"roma",
+"seferini",
+"ucagina",
+"yapan",
+"yolcu"
+],
+[
+"basladi",
+"binasinda",
+"buyuksehir",
+"calisma",
+"calismalar",
+"dayaniklilik",
+"depreme",
+"gece",
+"geri",
+"hiz",
+"hizmet",
+"izmir",
+"kazandi",
+"kritik",
+"mesaisi",
+"sayim",
+"yeni"
+],
+[
+"atiklar",
+"bursa",
+"donusuyor",
+"gun",
+"her",
+"mahalle",
+"paraya"
+],
+[
+"amed",
+"buruk",
+"cikacak",
+"karar",
+"kose",
+"macina",
+"okan",
+"tan",
+"ters"
+],
+[
+"etkili",
+"mardin",
+"sis",
+"yogun"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-05T09:00:00+00:00",
-"Sonsöz (Ankara)": "2026-11-05T09:07:00+00:00",
+"Haber Global": "2026-11-05T09:41:00+00:00",
+"Sonsöz (Ankara)": "2026-11-05T09:46:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-05T08:57:08+00:00",
-"Sözcü Son Dakika": "2026-11-05T09:07:28+00:00",
-"Yeni Şafak Yerel": "2026-11-05T09:06:00+00:00",
+"Mynet Son Dakika": "2026-11-05T09:16:26+00:00",
+"Sözcü Son Dakika": "2026-11-05T09:28:20+00:00",
+"Yeni Şafak Yerel": "2026-11-05T09:44:03+00:00",
 "X / Twitter Türkiye": "2026-11-05T09:08:03.324363+00:00",
-"Olay (Bursa)": "2026-11-05T09:04:21+00:00",
+"Olay (Bursa)": "2026-11-05T09:43:06+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
-"Yeni Asır (İzmir)": "2026-11-05T08:51:28+00:00",
-"İstanbul Gazetesi": "2026-11-05T09:04:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-05T09:42:52+00:00",
+"İstanbul Gazetesi": "2026-11-05T09:11:00+00:00",
 "Kandilli Rasathanesi": "2026-11-05T00:41:51+00:00"
 }
 }
