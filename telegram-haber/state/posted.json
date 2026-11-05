@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"b507557bfa86a517",
-"26790efbfb96c702",
-"d1d1309c0528b094",
-"8ed7befca7e39943",
-"71f76f1ef0f5a427",
-"bd4869c12810e1cf",
-"c8c5fdfded6e5289",
-"9965df81d8886363",
 "e225d533a6f55ce6",
 "f0caf0d0fdb9a3f5",
 "da09314d3d19dd3a",
@@ -2999,104 +2991,17 @@
 "0b88ae1e644f66f6",
 "c375f3673f7c1304",
 "9887b3d2bd9260eb",
-"f50e860a6f22fb00"
+"f50e860a6f22fb00",
+"e8614ec9b551b320",
+"5d84e82ccde9360e",
+"4d82bc999b01afa5",
+"67c9b8dfe2323447",
+"96459a09dcf229df",
+"fc8454be0da5b167",
+"240a1a532bb72d65",
+"9e38dec401e7e9a2"
 ],
 "imzalar": [
-[
-"bulgaristan",
-"cikti",
-"cumhurbaskani",
-"halkin",
-"ilk",
-"kadin",
-"sandiktan",
-"sectigi",
-"tarihi",
-"yotova",
-"zafer"
-],
-[
-"cevrildi",
-"gelen",
-"gozu",
-"gunune",
-"masadan",
-"petrolu",
-"piyasalarin",
-"sali",
-"vurdu"
-],
-[
-"emeklilik",
-"eyt",
-"kaciran",
-"kademeli",
-"meclis",
-"milyonlar",
-"teklifi",
-"umut",
-"yeni"
-],
-[
-"600",
-"bolgesine",
-"detayi",
-"dustu",
-"edildi",
-"kisi",
-"olu",
-"ozel",
-"sayida",
-"tahliye",
-"trump",
-"ucak",
-"yerlesim"
-],
-[
-"500",
-"araclar",
-"arayanlara",
-"bin",
-"butceyle",
-"fiyatli",
-"iste",
-"lira",
-"model",
-"onerisi",
-"otomobil",
-"uygun"
-],
-[
-"acildi",
-"bati",
-"bulgaristan",
-"cikti",
-"degistirecek",
-"dengesini",
-"rusya",
-"sandiklar",
-"sonuc",
-"tarihi"
-],
-[
-"ayi",
-"firtina",
-"geliyor",
-"kar",
-"kasim",
-"saganak",
-"surpriz",
-"yagisi",
-"yapacak"
-],
-[
-"aldatmacasina",
-"ceza",
-"indirim",
-"milyon",
-"sepette",
-"yuzde"
-],
 [
 "173",
 "ali",
@@ -8921,20 +8826,101 @@
 "neden",
 "sirri",
 "tercih"
+],
+[
+"donuyor",
+"ekranlara",
+"ezildi",
+"geri",
+"kadir"
+],
+[
+"benzine",
+"degisecek",
+"gece",
+"geliyor",
+"indirim",
+"tabelalar"
+],
+[
+"bursa",
+"ceken",
+"dikkat",
+"rakamlar",
+"tariminda"
+],
+[
+"annesi",
+"kardesini",
+"katletti",
+"para",
+"sanliurfa",
+"vahset",
+"vermeyince"
+],
+[
+"aci",
+"alinamayan",
+"alzheimer",
+"bulundu",
+"gundur",
+"hastasi",
+"mugla",
+"olay",
+"olu",
+"ormanda"
+],
+[
+"alisveris",
+"cikti",
+"hastane",
+"karakol",
+"katliam",
+"merkezi",
+"okul",
+"ortaya",
+"tehditleri",
+"telegramdaki"
+],
+[
+"arabasini",
+"bosandi",
+"evini",
+"fabrika",
+"koyunde",
+"kuran",
+"sanatci",
+"satip",
+"sedasiz",
+"sessiz"
+],
+[
+"791",
+"belli",
+"bin",
+"firsatlari",
+"fiyatlar",
+"indirim",
+"iste",
+"kasim",
+"marka",
+"otomobilde",
+"sifir",
+"varan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-05T07:35:00+00:00",
-"Sonsöz (Ankara)": "2026-11-05T07:47:00+00:00",
+"Haber Global": "2026-11-05T08:22:00+00:00",
+"Sonsöz (Ankara)": "2026-11-05T08:15:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-05T07:10:52+00:00",
-"Sözcü Son Dakika": "2026-11-05T07:44:22+00:00",
-"Yeni Şafak Yerel": "2026-11-05T07:45:27+00:00",
+"Mynet Son Dakika": "2026-11-05T08:21:24+00:00",
+"Sözcü Son Dakika": "2026-11-05T08:23:18+00:00",
+"Yeni Şafak Yerel": "2026-11-05T08:24:47+00:00",
 "X / Twitter Türkiye": "2026-11-05T06:28:02.642046+00:00",
-"Olay (Bursa)": "2026-11-05T07:43:30+00:00",
+"Olay (Bursa)": "2026-11-05T08:18:39+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
-"Yeni Asır (İzmir)": "2026-11-05T07:31:32+00:00",
-"İstanbul Gazetesi": "2026-11-05T07:35:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-05T08:21:44+00:00",
+"İstanbul Gazetesi": "2026-11-05T08:07:00+00:00",
 "Kandilli Rasathanesi": "2026-11-05T00:41:51+00:00"
 }
 }
