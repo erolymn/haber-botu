@@ -1,10 +1,5 @@
 {
 "gonderilen": [
-"18a7212f1ae08441",
-"3706f47060c0a622",
-"c66395de704bd6fc",
-"6abfe24e58f8a2f0",
-"a03e19a7ee99bb8d",
 "fdabd88a8389eeb9",
 "2a6f0ca26696584e",
 "3e196dad1d791212",
@@ -2999,36 +2994,14 @@
 "ddcaf524be6ff225",
 "2ade737f1c390c07",
 "817ed54a0ab85d3b",
-"9f3cd64f02f1698d"
+"9f3cd64f02f1698d",
+"52fafbad2a7e2cf7",
+"2b8ec509f91f7b4c",
+"73e81b48ab764218",
+"0b221c831d2b4bd8",
+"376301bddfcd7e33"
 ],
 "imzalar": [
-[
-"alev",
-"beykoz",
-"halindeki",
-"otomobil",
-"park",
-"yandi"
-],
-[
-"biraktilar",
-"cekip",
-"curumeye",
-"dev",
-"dolarlik",
-"gemileri",
-"kiyiya",
-"milyon"
-],
-[
-"arda",
-"asistini",
-"farkli",
-"kazandi",
-"madrid",
-"real",
-"yapti"
-],
 [
 "190",
 "545",
@@ -8932,20 +8905,47 @@
 "surpriz",
 "tamamlandi",
 "zirvede"
+],
+[
+"aciklama",
+"asla",
+"baskan",
+"beyaz",
+"birakmayacak",
+"dan",
+"mucadeleyi",
+"saray",
+"trump"
+],
+[
+"aldi",
+"belli",
+"fonlarda",
+"kac",
+"odemeleri",
+"parasini",
+"tasfiye",
+"yatirimci"
+],
+[
+"atildi",
+"hizmet",
+"imzalar",
+"islam"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-04T21:49:00+00:00",
-"Sonsöz (Ankara)": "2026-11-04T22:09:00+00:00",
+"Haber Global": "2026-11-05T00:26:00+00:00",
+"Sonsöz (Ankara)": "2026-11-05T00:52:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-04T19:09:37+00:00",
 "Sözcü Son Dakika": "2026-11-04T22:37:59+00:00",
-"Yeni Şafak Yerel": "2026-11-04T21:49:29+00:00",
+"Yeni Şafak Yerel": "2026-11-05T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-05T00:27:29.942883+00:00",
 "Olay (Bursa)": "2026-11-04T21:12:39+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
 "Yeni Asır (İzmir)": "2026-11-04T16:45:39+00:00",
 "İstanbul Gazetesi": "2026-11-04T21:27:00+00:00",
-"Kandilli Rasathanesi": "2026-11-03T14:24:01+00:00"
+"Kandilli Rasathanesi": "2026-11-05T00:41:51+00:00"
 }
 }
