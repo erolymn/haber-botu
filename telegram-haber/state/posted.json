@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"af47543096f51e39",
-"6bb3f68c1986397a",
-"889f31059f37fc0b",
-"8ecb0f380ae913eb",
-"26f2d47f55c965bb",
-"0187bb7955337fa0",
-"a8b05feef76af798",
-"fac77ed76470c1fd",
 "0523ff1602b724ef",
 "415b41bea485cb65",
 "885678eb3a27b0d6",
@@ -2999,83 +2991,17 @@
 "30f1aa175ddd113b",
 "54261a559f6009d1",
 "be41f5b711beaa1a",
-"a624e3056e8ab5bd"
+"a624e3056e8ab5bd",
+"c6f6346584501baa",
+"2d6745c2dd0ecb44",
+"71111974a1480d9b",
+"79b1bdf3b37021b3",
+"2b2304d6306e2cca",
+"ca261e632669fbb2",
+"9d456c8b38d560e5",
+"336ea35592144066"
 ],
 "imzalar": [
-[
-"adliyeye",
-"aydin",
-"edildi",
-"insani",
-"nevzat",
-"santaj",
-"sevk",
-"supheli"
-],
-[
-"bakin",
-"dolandiricilarin",
-"dusmeyin",
-"isliyor",
-"medyada",
-"nasil",
-"sosyal",
-"tuzaga",
-"yontemi"
-],
-[
-"aldigi",
-"bitti",
-"futbol",
-"hayati",
-"henuz",
-"kilolar",
-"profesyonel",
-"yasinda",
-"yuzunden"
-],
-[
-"hafta",
-"heyecani",
-"ligi",
-"nde",
-"sampiyonlar",
-"uefa"
-],
-[
-"acikladi",
-"bahceli",
-"ilceyi",
-"lideri",
-"mhp",
-"olabilecek"
-],
-[
-"basbakani",
-"belcika",
-"istifasini",
-"sundu",
-"wever"
-],
-[
-"bursa",
-"davranis",
-"kadinlardan",
-"niluferli",
-"ornek"
-],
-[
-"280",
-"aramaya",
-"bile",
-"bin",
-"cikiyor",
-"duyan",
-"ediyor",
-"grami",
-"lira",
-"sokak"
-],
 [
 "acikladi",
 "bambaska",
@@ -8941,20 +8867,98 @@
 "kimler",
 "kurtulmus",
 "tbmm"
+],
+[
+"cuma",
+"hafta",
+"hutbesi",
+"hutbesinin",
+"kasim",
+"konusu",
+"yayimlandi"
+],
+[
+"afyonkarahisar",
+"olay",
+"sir"
+],
+[
+"bakan",
+"depremi",
+"guvenlik",
+"istanbul",
+"kurum",
+"meselesidir",
+"milli",
+"muhtemel"
+],
+[
+"ayi",
+"belli",
+"etkinlik",
+"karaca",
+"kasim",
+"muammer",
+"nda",
+"takvimi",
+"tiyatrosu"
+],
+[
+"cavus",
+"goren",
+"kanser",
+"tedavisi",
+"uzman",
+"yasamini",
+"yitirdi"
+],
+[
+"bulunan",
+"cezasi",
+"firari",
+"hukumlu",
+"jasat",
+"operasyonu",
+"tan",
+"yakalandi",
+"yil"
+],
+[
+"2027",
+"altin",
+"baba",
+"etmis",
+"isaret",
+"kehaneti",
+"nin",
+"oyle",
+"vanga"
+],
+[
+"baskani",
+"cikisi",
+"fon",
+"krizi",
+"kurtulmus",
+"piyasalari",
+"sermaye",
+"sert",
+"tan",
+"tbmm"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-05T13:44:00+00:00",
-"Sonsöz (Ankara)": "2026-11-05T13:10:00+00:00",
+"Haber Global": "2026-11-05T14:22:00+00:00",
+"Sonsöz (Ankara)": "2026-11-05T14:26:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-05T12:55:37+00:00",
-"Sözcü Son Dakika": "2026-11-05T13:43:06+00:00",
-"Yeni Şafak Yerel": "2026-11-05T13:45:00+00:00",
+"Mynet Son Dakika": "2026-11-05T13:46:18+00:00",
+"Sözcü Son Dakika": "2026-11-05T14:24:13+00:00",
+"Yeni Şafak Yerel": "2026-11-05T14:24:00+00:00",
 "X / Twitter Türkiye": "2026-11-05T12:28:47.531452+00:00",
-"Olay (Bursa)": "2026-11-05T13:46:48+00:00",
+"Olay (Bursa)": "2026-11-05T13:59:39+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
-"Yeni Asır (İzmir)": "2026-11-05T13:40:01+00:00",
-"İstanbul Gazetesi": "2026-11-05T11:44:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-05T13:44:36+00:00",
+"İstanbul Gazetesi": "2026-11-05T14:10:00+00:00",
 "Kandilli Rasathanesi": "2026-11-05T00:41:51+00:00"
 }
 }
