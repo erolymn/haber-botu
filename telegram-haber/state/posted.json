@@ -1,12 +1,5 @@
 {
 "gonderilen": [
-"53e9796e86105d5e",
-"f4cf4b9dfb450c39",
-"1c27361387400d0e",
-"ef743b64f765aafe",
-"06881257ab462c62",
-"1dda501f8d93b837",
-"afd515b3a866c4af",
 "03f8a0d3acfe3e82",
 "ba6cad2134e4cd88",
 "8b23d0edadbd4635",
@@ -2999,86 +2992,16 @@
 "2de0044632e069a6",
 "e4b70f439af18300",
 "887d41d50d7d78c2",
-"f9ce6922109141fd"
+"f9ce6922109141fd",
+"43e3daa3cc3dbce1",
+"2209d060b0bb40ad",
+"d259273f5767e984",
+"ba63241697bb5195",
+"ab27a883dccaeb62",
+"2e3e7df76885d0cd",
+"16ef430b583fd907"
 ],
 "imzalar": [
-[
-"aydin",
-"bosaltin",
-"cikti",
-"mesajlar",
-"nevzat",
-"ortaya",
-"sarjorleri",
-"sorusturmasinda",
-"tehdit"
-],
-[
-"abd",
-"baskani",
-"demokratlar",
-"kazanirsa",
-"olabilir",
-"resti",
-"secim",
-"tan",
-"trump",
-"ulkemiz"
-],
-[
-"belediyeden",
-"gun",
-"hatirlatma",
-"kasim",
-"odemelerinde",
-"onemli",
-"vatandaslara",
-"vergi"
-],
-[
-"arkasina",
-"bakmadan",
-"carpti",
-"dehseti",
-"emniyet",
-"gelip",
-"kacti",
-"mecidiyekoy",
-"motosiklete",
-"seridinden",
-"trafik"
-],
-[
-"acilis",
-"bakan",
-"bakimevi",
-"belediyesi",
-"goktas",
-"gunduz",
-"katildi",
-"nin",
-"torenine",
-"tuzla"
-],
-[
-"aileyi",
-"dunya",
-"edecek",
-"evinden",
-"gol",
-"hayat",
-"ticaretine",
-"verecek",
-"yuzlerce"
-],
-[
-"canini",
-"dusunuyoruz",
-"galatasaray",
-"maximilian",
-"mittelstadt",
-"yakabilecegimizi"
-],
 [
 "140",
 "arkasindan",
@@ -8946,20 +8869,98 @@
 "lastigi",
 "makinesinin",
 "patladi"
+],
+[
+"baskanlik",
+"den",
+"genel",
+"ilde",
+"karari",
+"kurulacak",
+"ozel",
+"ozgur",
+"sandik",
+"secim"
+],
+[
+"amatorler",
+"bak",
+"bakani",
+"futbol",
+"genclik",
+"istanbul",
+"sahasi",
+"spor",
+"tane",
+"yapacagiz"
+],
+[
+"ilk",
+"konferans",
+"ligi",
+"nde",
+"trabzonpor",
+"yasadi",
+"yenilgisini"
+],
+[
+"ayrintisi",
+"belli",
+"duzenlemesinin",
+"emekli",
+"maasi"
+],
+[
+"avrupa",
+"belli",
+"besiktas",
+"celtic",
+"deplasmanindaki",
+"gecede",
+"ilk",
+"kozlari",
+"kritik",
+"ler",
+"ligi",
+"nde",
+"sahada",
+"uefa"
+],
+[
+"afyonkarahisar",
+"aractan",
+"daki",
+"detaylar",
+"iki",
+"inmeyen",
+"katliamdan",
+"ogretmeni",
+"oldurdu",
+"yeni"
+],
+[
+"betul",
+"edildi",
+"fatma",
+"hakkinda",
+"kaya",
+"sayan",
+"talep",
+"tutuklama"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-05T19:03:00+00:00",
-"Sonsöz (Ankara)": "2026-11-05T18:38:00+00:00",
+"Haber Global": "2026-11-05T19:34:00+00:00",
+"Sonsöz (Ankara)": "2026-11-05T19:24:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-05T16:56:14+00:00",
-"Sözcü Son Dakika": "2026-11-05T18:49:44+00:00",
-"Yeni Şafak Yerel": "2026-11-05T19:01:31+00:00",
+"Sözcü Son Dakika": "2026-11-05T19:48:52+00:00",
+"Yeni Şafak Yerel": "2026-11-05T19:44:18+00:00",
 "X / Twitter Türkiye": "2026-11-05T18:29:34.732966+00:00",
-"Olay (Bursa)": "2026-11-05T18:22:42+00:00",
+"Olay (Bursa)": "2026-11-05T19:34:26+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
-"Yeni Asır (İzmir)": "2026-11-05T18:45:24+00:00",
-"İstanbul Gazetesi": "2026-11-05T18:14:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-05T19:36:27+00:00",
+"İstanbul Gazetesi": "2026-11-05T19:27:00+00:00",
 "Kandilli Rasathanesi": "2026-11-05T00:41:51+00:00"
 }
 }
