@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"03f8a0d3acfe3e82",
-"ba6cad2134e4cd88",
-"8b23d0edadbd4635",
-"82cb792f83fab01f",
 "e91dda6304167c42",
 "acbb9cf1ec2d531f",
 "7d840db88f19de9f",
@@ -2999,52 +2995,13 @@
 "ba63241697bb5195",
 "ab27a883dccaeb62",
 "2e3e7df76885d0cd",
-"16ef430b583fd907"
+"16ef430b583fd907",
+"274bbf6aa4b5d333",
+"78ac1ec49b9bde84",
+"932dd19225bef9b9",
+"0352d2d4d4c25a1c"
 ],
 "imzalar": [
-[
-"140",
-"arkasindan",
-"bin",
-"cikti",
-"konuldu",
-"liraya",
-"otomobil",
-"teybinin",
-"uyusturucu"
-],
-[
-"galatasaray",
-"hoeness",
-"ovgu",
-"sane",
-"taniyorum",
-"ten"
-],
-[
-"atmosferi",
-"bekleyecegiz",
-"dort",
-"gozle",
-"hoeness",
-"sebastian"
-],
-[
-"ankara",
-"bulunmustu",
-"daki",
-"dan",
-"devletleri",
-"isik",
-"katilmaya",
-"oneride",
-"rusya",
-"teskilati",
-"tokayev",
-"turk",
-"yesil",
-"zirvede"
-],
 [
 "aci",
 "bahceli",
@@ -8947,15 +8904,55 @@
 "sayan",
 "talep",
 "tutuklama"
+],
+[
+"evinde",
+"ilk",
+"kez",
+"sezon",
+"trabzonspor",
+"yikildi"
+],
+[
+"amacli",
+"cikar",
+"davasi",
+"imamoglu",
+"kres",
+"misin",
+"orgutu",
+"secim",
+"suc",
+"vaadimiz",
+"yapar"
+],
+[
+"banka",
+"baskani",
+"batti",
+"devlet",
+"gorevinden",
+"istifa",
+"ozel",
+"paraguay",
+"pena"
+],
+[
+"afyonkarahisar",
+"anlar",
+"getirildigi",
+"hastaneye",
+"kamerada",
+"saldirganinin"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-05T19:34:00+00:00",
+"Haber Global": "2026-11-05T20:18:00+00:00",
 "Sonsöz (Ankara)": "2026-11-05T19:24:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-05T16:56:14+00:00",
-"Sözcü Son Dakika": "2026-11-05T19:48:52+00:00",
-"Yeni Şafak Yerel": "2026-11-05T19:44:18+00:00",
+"Mynet Son Dakika": "2026-11-05T20:20:40+00:00",
+"Sözcü Son Dakika": "2026-11-05T20:09:55+00:00",
+"Yeni Şafak Yerel": "2026-11-05T20:26:39+00:00",
 "X / Twitter Türkiye": "2026-11-05T18:29:34.732966+00:00",
 "Olay (Bursa)": "2026-11-05T19:34:26+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
