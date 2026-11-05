@@ -1,11 +1,5 @@
 {
 "gonderilen": [
-"3403f81bd509c354",
-"f59afb369c975ccd",
-"57b035f00a0c9b2a",
-"b2f8d0485e7ea884",
-"f2c800adb41f4885",
-"00bdd2134a94cfe3",
 "ac6808392658b80e",
 "7ee817194d9dcbad",
 "5770ceed204bc4c4",
@@ -2999,61 +2993,15 @@
 "7cb28ed496d8c015",
 "3917a2487e6f94d2",
 "18e0d8fbdb0c667d",
-"5b295cea9e528105"
+"5b295cea9e528105",
+"d09622811d353c44",
+"92dac34e0bee4389",
+"44b2c9adc1e0de2f",
+"0600f5241319c487",
+"ae49851b02a2ab56",
+"d25ca041cca9c06d"
 ],
 "imzalar": [
-[
-"bitmisti",
-"direktorunden",
-"eski",
-"itibaren",
-"juventus",
-"ronaldo",
-"sert",
-"sozler",
-"tan",
-"teknik"
-],
-[
-"360",
-"biletler",
-"bursaspor",
-"lira",
-"taraftarina"
-],
-[
-"520",
-"bine",
-"gonullu",
-"kizilay",
-"sayisi",
-"ulasti"
-],
-[
-"cikan",
-"metrobuste",
-"sefakoy",
-"sonduruldu",
-"yangin"
-],
-[
-"bekliyor",
-"felaket",
-"japonlar",
-"nasil"
-],
-[
-"abd",
-"adim",
-"atmiyor",
-"geri",
-"hurmuz",
-"iran",
-"sart",
-"sundu",
-"tarih",
-"verdi"
-],
 [
 "baskani",
 "celik",
@@ -8925,19 +8873,81 @@
 "trump",
 "yenilgisi",
 "zirve"
+],
+[
+"aliaga",
+"ambulanstaki",
+"carptigi",
+"gecitte",
+"hemzemin",
+"izmir",
+"kaza",
+"kisi",
+"korkutan",
+"trenin",
+"yaralandi"
+],
+[
+"arasinda",
+"besiktas",
+"dev",
+"devre",
+"gelecek",
+"hamlesi",
+"stoper",
+"tan"
+],
+[
+"abd",
+"filistin",
+"hepsinin",
+"muslumanlar",
+"noktasi",
+"ortak",
+"sarsan",
+"siyasetini"
+],
+[
+"arkasinda",
+"belirtildi",
+"bomba",
+"ihbarlarinin",
+"italya",
+"oldugu",
+"posta",
+"ucusa",
+"varisli",
+"yonelik"
+],
+[
+"batrakov",
+"brown",
+"haftanin",
+"ine",
+"ligi",
+"nde",
+"sampiyonlar",
+"secildi"
+],
+[
+"barcelona",
+"dan",
+"imza",
+"raphinha",
+"yillik"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-05T15:47:00+00:00",
-"Sonsöz (Ankara)": "2026-11-05T15:35:00+00:00",
+"Haber Global": "2026-11-05T16:23:00+00:00",
+"Sonsöz (Ankara)": "2026-11-05T16:02:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-05T13:46:18+00:00",
-"Sözcü Son Dakika": "2026-11-05T15:23:46+00:00",
-"Yeni Şafak Yerel": "2026-11-05T15:47:57+00:00",
+"Mynet Son Dakika": "2026-11-05T16:09:19+00:00",
+"Sözcü Son Dakika": "2026-11-05T16:20:19+00:00",
+"Yeni Şafak Yerel": "2026-11-05T16:03:55+00:00",
 "X / Twitter Türkiye": "2026-11-05T15:08:46.835500+00:00",
 "Olay (Bursa)": "2026-11-05T15:07:49+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
-"Yeni Asır (İzmir)": "2026-11-05T14:42:01+00:00",
+"Yeni Asır (İzmir)": "2026-11-05T15:54:33+00:00",
 "İstanbul Gazetesi": "2026-11-05T15:43:00+00:00",
 "Kandilli Rasathanesi": "2026-11-05T00:41:51+00:00"
 }
