@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"999da71f9d926bd6",
-"f5594d100c67039c",
-"d0f9005c4233f5e4",
-"223ed7585fd02efa",
 "ab06ca46694c42ad",
 "7a888b7c0488ca0d",
 "04ef47992aa5cf2f",
@@ -2999,49 +2995,13 @@
 "620f9ffec9c9c03f",
 "29ab00378ac05c0a",
 "0c196064ca81b691",
-"324e6ecd3669edab"
+"324e6ecd3669edab",
+"e65a4e713d81ce6f",
+"9b1aada89ba7f102",
+"c7f29d51c73acbdf",
+"63a4e4c7f95b0912"
 ],
 "imzalar": [
-[
-"atm",
-"buldu",
-"buldugu",
-"dustu",
-"paranin",
-"pesine",
-"sahibini"
-],
-[
-"akilalmaz",
-"cikardilar",
-"dereceye",
-"dolaplari",
-"market",
-"saldiri",
-"siber",
-"zincirine"
-],
-[
-"anlar",
-"civan",
-"doktor",
-"dolu",
-"hastanede",
-"heimlich",
-"korku",
-"kurtardi",
-"manevrasiyla",
-"yasindaki"
-],
-[
-"aciklamisti",
-"felc",
-"gecirdi",
-"gun",
-"iran",
-"pentagon",
-"planini"
-],
 [
 "den",
 "emir",
@@ -8946,15 +8906,59 @@
 "uzerinde",
 "yasiyor",
 "yol"
+],
+[
+"arasinda",
+"ayrilik",
+"devre",
+"fenerbahce",
+"futbolcu",
+"gidiyor",
+"surpriz",
+"yildiz"
+],
+[
+"betul",
+"erdi",
+"esinin",
+"fatma",
+"ifade",
+"islemleri",
+"kaya",
+"sayan",
+"sona"
+],
+[
+"baskanligindan",
+"destegi",
+"egitim",
+"goc",
+"idaresi",
+"istihdama",
+"mesleki",
+"sosyal",
+"uyum"
+],
+[
+"anlatti",
+"berke",
+"bozdu",
+"doneminde",
+"ilk",
+"kez",
+"montella",
+"ozer",
+"sessizligini",
+"yasananlari"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-05T16:31:00+00:00",
-"Sonsöz (Ankara)": "2026-11-05T17:07:00+00:00",
+"Haber Global": "2026-11-05T17:43:00+00:00",
+"Sonsöz (Ankara)": "2026-11-05T17:36:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-05T16:56:14+00:00",
-"Sözcü Son Dakika": "2026-11-05T17:08:34+00:00",
-"Yeni Şafak Yerel": "2026-11-05T17:05:10+00:00",
+"Sözcü Son Dakika": "2026-11-05T17:48:28+00:00",
+"Yeni Şafak Yerel": "2026-11-05T17:43:34+00:00",
 "X / Twitter Türkiye": "2026-11-05T15:08:46.835500+00:00",
 "Olay (Bursa)": "2026-11-05T15:07:49+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
