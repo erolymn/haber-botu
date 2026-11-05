@@ -1,10 +1,5 @@
 {
 "gonderilen": [
-"542b79d3065136e5",
-"20deb2959f64a26b",
-"4ec35b802fbc2d29",
-"5d7acb9fb617058d",
-"1dfc7b4cf6bd442c",
 "38a7eed114a4e2c2",
 "b83262ae7382c37d",
 "587a3ba42ba59950",
@@ -2999,51 +2994,14 @@
 "30c9eb4fdcbb38d9",
 "95285e3544a42578",
 "9a7d0a663f7f4a67",
-"e567d56f56674e87"
+"e567d56f56674e87",
+"4964309525e6efc9",
+"ab2951f20aef0e7b",
+"bf075d195cd3d64d",
+"ab66089241494a17",
+"576218328db5d03a"
 ],
 "imzalar": [
-[
-"beraberinde",
-"canindan",
-"cikan",
-"getirdi",
-"kaza",
-"kontrolden",
-"kusadasi",
-"motosiklet",
-"nda",
-"saganak",
-"surucusu"
-],
-[
-"allah",
-"kirdir",
-"zalimlere",
-"zalimleri"
-],
-[
-"fenerbahce",
-"hazirligi",
-"liderine",
-"saldiri",
-"silahlarla",
-"tribun",
-"yakalandilar"
-],
-[
-"acikladi",
-"basina",
-"belozoglu",
-"emre",
-"fenerbahce",
-"gececek",
-"nin"
-],
-[
-"batimi",
-"gun",
-"van"
-],
 [
 "eskisehirspor",
 "gol",
@@ -8916,19 +8874,66 @@
 "sonrasi",
 "trump",
 "vance"
+],
+[
+"acikladi",
+"dunya",
+"dusuyor",
+"gozlemevi",
+"nasa",
+"uzaydan"
+],
+[
+"ankara",
+"bulusmada",
+"canlanacak",
+"edebiyat",
+"hafizasi",
+"nin",
+"yeniden"
+],
+[
+"anne",
+"ayi",
+"dehsete",
+"dusuren",
+"kizini",
+"olay",
+"oldurdu",
+"parcalayarak"
+],
+[
+"asgari",
+"geri",
+"gozu",
+"hesaplamada",
+"milyonlarin",
+"sayim",
+"ucrette"
+],
+[
+"acikladilar",
+"asgari",
+"devreye",
+"emekli",
+"girdi",
+"maasi",
+"mhp",
+"rakami",
+"ucret"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-05T03:03:00+00:00",
-"Sonsöz (Ankara)": "2026-11-05T02:00:00+00:00",
+"Haber Global": "2026-11-05T04:11:00+00:00",
+"Sonsöz (Ankara)": "2026-11-05T03:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-05T03:30:24+00:00",
-"Sözcü Son Dakika": "2026-11-05T02:30:03+00:00",
+"Mynet Son Dakika": "2026-11-05T03:55:33+00:00",
+"Sözcü Son Dakika": "2026-11-05T04:25:43+00:00",
 "Yeni Şafak Yerel": "2026-11-05T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-05T03:07:29.891389+00:00",
 "Olay (Bursa)": "2026-11-05T02:10:34+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
-"Yeni Asır (İzmir)": "2026-11-04T16:45:39+00:00",
+"Yeni Asır (İzmir)": "2026-11-05T04:19:16+00:00",
 "İstanbul Gazetesi": "2026-11-04T21:27:00+00:00",
 "Kandilli Rasathanesi": "2026-11-05T00:41:51+00:00"
 }
