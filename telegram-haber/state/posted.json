@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"808cc87880058a0d",
-"7aa005d84c1117c3",
-"e2095100eb0689e7",
 "6f8a15938fe662bc",
 "0b20528d4ec10d64",
 "2a06090563fe7998",
@@ -2999,33 +2996,12 @@
 "64cad4641c675c7d",
 "0b4086b5cefe118b",
 "792355cd43bbac0d",
-"62e15281482e4474"
+"62e15281482e4474",
+"60e27d20066409aa",
+"4b2959ea5227b0f2",
+"7530053714edd8d3"
 ],
 "imzalar": [
-[
-"bursa",
-"den",
-"laboratuvar",
-"meb",
-"yeni"
-],
-[
-"abd",
-"bomba",
-"gazeteciden",
-"iddiasi",
-"iran",
-"nukleer"
-],
-[
-"cektirdi",
-"deniz",
-"girerken",
-"park",
-"rams",
-"uclu",
-"undav"
-],
 [
 "aciz",
 "dondugu",
@@ -8915,15 +8891,43 @@
 "otomobil",
 "yaralandi",
 "yuksekova"
+],
+[
+"besiktas",
+"celtic",
+"deplasmaninda",
+"golu",
+"kokcu",
+"nun",
+"orkun",
+"yetmedi",
+"yikildi"
+],
+[
+"aldi",
+"alev",
+"halindeki",
+"kucukcekmece",
+"otomobil",
+"seyir"
+],
+[
+"besiktas",
+"ceken",
+"dikkat",
+"dusunduren",
+"goruntu",
+"istatistik",
+"macta"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-05T21:42:00+00:00",
-"Sonsöz (Ankara)": "2026-11-05T21:30:00+00:00",
+"Sonsöz (Ankara)": "2026-11-05T22:22:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-05T20:59:55+00:00",
-"Sözcü Son Dakika": "2026-11-05T21:21:19+00:00",
-"Yeni Şafak Yerel": "2026-11-05T21:48:38+00:00",
+"Sözcü Son Dakika": "2026-11-05T22:23:48+00:00",
+"Yeni Şafak Yerel": "2026-11-05T21:55:08+00:00",
 "X / Twitter Türkiye": "2026-11-05T21:10:08.894189+00:00",
 "Olay (Bursa)": "2026-11-05T21:09:52+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
