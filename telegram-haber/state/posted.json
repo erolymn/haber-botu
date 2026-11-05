@@ -1,6 +1,5 @@
 {
 "gonderilen": [
-"e91dda6304167c42",
 "acbb9cf1ec2d531f",
 "7d840db88f19de9f",
 "f263be63dde40a59",
@@ -2999,22 +2998,10 @@
 "274bbf6aa4b5d333",
 "78ac1ec49b9bde84",
 "932dd19225bef9b9",
-"0352d2d4d4c25a1c"
+"0352d2d4d4c25a1c",
+"e4ea0fe7e39f1854"
 ],
 "imzalar": [
-[
-"aci",
-"bahceli",
-"devlet",
-"gunu",
-"kardesi",
-"kiz",
-"lideri",
-"mhp",
-"nin",
-"serpil",
-"vefat"
-],
 [
 "113",
 "590",
@@ -8944,6 +8931,14 @@
 "hastaneye",
 "kamerada",
 "saldirganinin"
+],
+[
+"bursa",
+"garfitt",
+"gecelerinde",
+"kriss",
+"ruzgari",
+"senfoni"
 ]
 ],
 "son_tarih": {
@@ -8954,7 +8949,7 @@
 "Sözcü Son Dakika": "2026-11-05T20:09:55+00:00",
 "Yeni Şafak Yerel": "2026-11-05T20:26:39+00:00",
 "X / Twitter Türkiye": "2026-11-05T18:29:34.732966+00:00",
-"Olay (Bursa)": "2026-11-05T19:34:26+00:00",
+"Olay (Bursa)": "2026-11-05T20:29:48+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
 "Yeni Asır (İzmir)": "2026-11-05T19:36:27+00:00",
 "İstanbul Gazetesi": "2026-11-05T19:27:00+00:00",
