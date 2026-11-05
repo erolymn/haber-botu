@@ -1,14 +1,5 @@
 {
 "gonderilen": [
-"41d291cdb26278f0",
-"1d3a7444f40667bb",
-"f607038293ea1a00",
-"9c2cb511f43778ae",
-"5185e5039dc451e3",
-"67f94863ae659ae7",
-"7cf9103b2399a37a",
-"6b50f6bdefd8cf1d",
-"63ac070e958e893d",
 "acc80e3cd46ddfec",
 "6a6829893e04bb0b",
 "3498324187876ee8",
@@ -2999,84 +2990,18 @@
 "8a7f57bf88cf3a0b",
 "6556e75ded232999",
 "8d647d11509a4ce5",
-"d1dba6808f84c865"
+"d1dba6808f84c865",
+"097df786f652a9c0",
+"9bacb65db7bddb24",
+"d6bd913533a7fbf2",
+"04d2d48742afa507",
+"a48b2d648b9f28c0",
+"bd879da761aeee04",
+"53650d00fd0569b4",
+"95b62e2b7448c2d4",
+"f3268de1ecfd7e55"
 ],
 "imzalar": [
-[
-"alti",
-"arac",
-"carpisti",
-"cocuk",
-"dordu",
-"iki",
-"mardin",
-"yarali"
-],
-[
-"acikladi",
-"ahmet",
-"gercegi",
-"iddialari",
-"mekin",
-"olum",
-"oyuncu",
-"torunu",
-"usta",
-"yayildi"
-],
-[
-"aziz",
-"destek",
-"olmuslardi",
-"rakip",
-"secimde",
-"surpriz",
-"yildirim"
-],
-[
-"arac",
-"bolu",
-"carpisti",
-"hafif",
-"olu",
-"otomobil",
-"ticari"
-],
-[
-"agir",
-"bicakli",
-"kavga",
-"kayseri",
-"kisi",
-"yaralandi"
-],
-[
-"100",
-"1000",
-"adimi",
-"bahceli",
-"ilce",
-"nin",
-"secim"
-],
-[
-"cem",
-"daltonlar",
-"dan",
-"golbasi",
-"gozalti",
-"operasyonu",
-"planina",
-"polis",
-"saldiri"
-],
-[
-"adini",
-"akp",
-"anamadi",
-"baskan",
-"cumhuriyet"
-],
 [
 "faciasi",
 "hayatini",
@@ -8908,20 +8833,106 @@
 "sey",
 "tabelalarina",
 "turkce"
+],
+[
+"adina",
+"ajan",
+"calisan",
+"eden",
+"ifsa",
+"israil",
+"oldular",
+"ona",
+"polisler",
+"tek",
+"yardim"
+],
+[
+"ayina",
+"aylar",
+"baslayacak",
+"gun",
+"hangi",
+"ilk",
+"kac",
+"kaldi",
+"oruc",
+"ramazan",
+"tutulacak",
+"zaman"
+],
+[
+"abd",
+"ara",
+"hissediliyor",
+"piyasalarda",
+"secimlerinin",
+"yankilari"
+],
+[
+"como",
+"dan",
+"egale",
+"ettiler",
+"fark",
+"galibiyet",
+"ligi",
+"nde",
+"rekorunu",
+"sampiyonlar",
+"tarihi"
+],
+[
+"agriya",
+"dikkat",
+"grip",
+"kulagi",
+"nezle",
+"siddetli",
+"vuruyor"
+],
+[
+"cakildi",
+"denize",
+"florida",
+"helikopter"
+],
+[
+"basladi",
+"belli",
+"disindan",
+"gelen",
+"gorusmeler",
+"ismail",
+"kartal",
+"oluyor",
+"sonrasi",
+"takimi",
+"teklif",
+"yeni",
+"yurt"
+],
+[
+"bursa",
+"elektrik",
+"iste",
+"kesintisi",
+"liste",
+"mahalle"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-05T05:35:00+00:00",
-"Sonsöz (Ankara)": "2026-11-05T03:57:00+00:00",
+"Haber Global": "2026-11-05T06:23:00+00:00",
+"Sonsöz (Ankara)": "2026-11-05T06:26:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-05T04:48:54+00:00",
-"Sözcü Son Dakika": "2026-11-05T05:43:26+00:00",
-"Yeni Şafak Yerel": "2026-11-05T05:39:08+00:00",
-"X / Twitter Türkiye": "2026-11-05T03:07:29.891389+00:00",
-"Olay (Bursa)": "2026-11-05T02:10:34+00:00",
+"Mynet Son Dakika": "2026-11-05T05:59:12+00:00",
+"Sözcü Son Dakika": "2026-11-05T06:21:37+00:00",
+"Yeni Şafak Yerel": "2026-11-05T06:26:38+00:00",
+"X / Twitter Türkiye": "2026-11-05T06:28:02.642046+00:00",
+"Olay (Bursa)": "2026-11-05T06:26:48+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
-"Yeni Asır (İzmir)": "2026-11-05T05:35:54+00:00",
-"İstanbul Gazetesi": "2026-11-04T21:27:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-05T06:18:03+00:00",
+"İstanbul Gazetesi": "2026-11-05T06:24:00+00:00",
 "Kandilli Rasathanesi": "2026-11-05T00:41:51+00:00"
 }
 }
