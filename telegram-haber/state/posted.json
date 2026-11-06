@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"82c0ff1cdda705a7",
-"001c5d3bb0e5b04a",
-"be9333e37fc6e0b5",
-"ae87150521525fe2",
-"3653c53f03ae1dab",
-"709d197d6a2a5153",
-"6aff67159b53ae60",
-"4f40b9228dc1b91f",
 "69dc0e2bd28de87b",
 "d81d9e7aef7834cb",
 "74dc11476987ad1a",
@@ -2999,80 +2991,17 @@
 "f994b27ff1717304",
 "b0e2a924323907a9",
 "72b6bd6f62f3f64f",
-"a5b8d61a59c95bdb"
+"a5b8d61a59c95bdb",
+"50f234d1cf780b63",
+"2e2d4d139401d019",
+"b0e587be944b232d",
+"e1eb769eda9d5214",
+"c650c42e8a2865ae",
+"ee495b0cc2fde65d",
+"dc9ab662dad2528c",
+"1f408c54521c7e57"
 ],
 "imzalar": [
-[
-"amelle",
-"asra",
-"gerdiler",
-"gogus",
-"iman",
-"muhur",
-"rab",
-"sahidiz",
-"vurdular",
-"zulme"
-],
-[
-"ayni",
-"bambaska",
-"degisim",
-"golu",
-"goruntu",
-"korkuttu",
-"ndeki",
-"nokta",
-"van"
-],
-[
-"acikladi",
-"bakan",
-"emekliye",
-"isikhan",
-"mesaji",
-"resmen",
-"zam"
-],
-[
-"ekipleri",
-"jandarma",
-"kacak",
-"kazi",
-"kisi",
-"tarafindan",
-"yakalandi",
-"yapan"
-],
-[
-"devletlerinden",
-"hedefi",
-"turan",
-"turk",
-"uzayda"
-],
-[
-"cikis",
-"disi",
-"harci",
-"kadar",
-"olacak",
-"yurt"
-],
-[
-"cikti",
-"doktor",
-"hesaplandi",
-"maaslari",
-"memurlarin",
-"ocak",
-"ogretmen",
-"ortaya",
-"polis",
-"tablosu",
-"yeniden",
-"zam"
-],
 [
 "aktarildi",
 "bakan",
@@ -8912,20 +8841,98 @@
 "savunma",
 "skandala",
 "yaptim"
+],
+[
+"asi",
+"aym",
+"canan",
+"ceken",
+"den",
+"dikkat",
+"ilgili",
+"karar",
+"karatay",
+"sozleriyle"
+],
+[
+"alinmayan",
+"belli",
+"cagirilmayan",
+"futbolcular",
+"kadroya",
+"kim",
+"kimler",
+"listesinde",
+"milli",
+"sergen",
+"takim",
+"yalcin"
+],
+[
+"afyonkarahisar",
+"annesi",
+"daki",
+"detay",
+"kahreden",
+"katliamda",
+"ogrenmis",
+"televizyondan"
+],
+[
+"bursa",
+"buski",
+"buyuk",
+"buyuksehir",
+"gunu",
+"gurur",
+"odul"
+],
+[
+"bakan",
+"betul",
+"cumhuriyet",
+"fatma",
+"ilk",
+"kaya",
+"orgut",
+"sayan",
+"tarihinde",
+"tutuklanan",
+"uyeliginden"
+],
+[
+"atik",
+"beyoglu",
+"cikarildi",
+"cop",
+"daireden",
+"nda",
+"skandali",
+"ton"
+],
+[
+"afyonkarahisar",
+"arif",
+"kisiyi",
+"olduren",
+"ozdemir",
+"saldirgan",
+"seda",
+"tutuklandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-06T11:45:00+00:00",
-"Sonsöz (Ankara)": "2026-11-06T11:44:00+00:00",
+"Haber Global": "2026-11-06T12:15:00+00:00",
+"Sonsöz (Ankara)": "2026-11-06T12:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-06T11:25:06+00:00",
-"Sözcü Son Dakika": "2026-11-06T11:50:20+00:00",
-"Yeni Şafak Yerel": "2026-11-06T11:44:19+00:00",
-"X / Twitter Türkiye": "2026-11-06T09:11:14.983095+00:00",
-"Olay (Bursa)": "2026-11-06T11:49:06+00:00",
+"Sözcü Son Dakika": "2026-11-06T12:29:15+00:00",
+"Yeni Şafak Yerel": "2026-11-06T12:31:03+00:00",
+"X / Twitter Türkiye": "2026-11-06T12:31:14.458963+00:00",
+"Olay (Bursa)": "2026-11-06T12:24:32+00:00",
 "@islamasalya": "2026-11-06T10:24:12+00:00",
-"Yeni Asır (İzmir)": "2026-11-06T11:29:50+00:00",
-"İstanbul Gazetesi": "2026-11-06T11:40:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-06T12:11:47+00:00",
+"İstanbul Gazetesi": "2026-11-06T11:59:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T01:16:31+00:00"
 }
 }
