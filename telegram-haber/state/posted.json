@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"4627741d64b11411",
-"8b592276dd48e956",
-"63359317ef971de2",
 "a90921a175ed6caf",
 "9ed05276b1812fc7",
 "4f12e434a2a7e592",
@@ -2999,36 +2996,12 @@
 "b808039c5b7a4c23",
 "e47d5b68d3de5d52",
 "fc75f38fd8d914a8",
-"51e11025bb4b241f"
+"51e11025bb4b241f",
+"56f9a96beaa4e8d6",
+"333b91f772b37352",
+"16eddce6686b7fde"
 ],
 "imzalar": [
-[
-"aranan",
-"bes",
-"bursa",
-"cesitli",
-"hukumlu",
-"suclardan",
-"yakalandi"
-],
-[
-"ankara",
-"dereceye",
-"don",
-"dusecek",
-"nden",
-"sicaklik",
-"uyarisi",
-"valiligi",
-"zirai"
-],
-[
-"cagri",
-"dolandiriciligi",
-"istanbul",
-"merkezi",
-"operasyonu"
-],
 [
 "atakan",
 "ayaga",
@@ -8940,14 +8913,47 @@
 "rakimli",
 "ulasimi",
 "yagisi"
+],
+[
+"aciklama",
+"disisleri",
+"fransiz",
+"geldi",
+"gemisi",
+"gerdi",
+"ipleri",
+"nden",
+"sert"
+],
+[
+"adasi",
+"duyurdu",
+"iran",
+"kesm",
+"medyasi",
+"patlama",
+"sesleri",
+"yakinlarinda"
+],
+[
+"den",
+"durusu",
+"karari",
+"kasim",
+"liglerde",
+"profesyonel",
+"saygi",
+"tff",
+"tum",
+"yapilacak"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-06T21:00:00+00:00",
-"Sonsöz (Ankara)": "2026-11-06T20:00:00+00:00",
+"Haber Global": "2026-11-06T22:10:00+00:00",
+"Sonsöz (Ankara)": "2026-11-06T22:13:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-06T20:11:45+00:00",
-"Sözcü Son Dakika": "2026-11-06T21:35:03+00:00",
+"Sözcü Son Dakika": "2026-11-06T22:03:26+00:00",
 "Yeni Şafak Yerel": "2026-11-06T21:40:17+00:00",
 "X / Twitter Türkiye": "2026-11-06T21:12:49.461938+00:00",
 "Olay (Bursa)": "2026-11-06T21:07:06+00:00",
