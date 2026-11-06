@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"8a8993e04d4b0b0d",
-"ab0c310484bc6573",
 "c90ac1683bc7d13b",
 "58e22f1abfec6eda",
 "5347a2d3624b26ed",
@@ -2999,27 +2997,11 @@
 "d0b9f90f5eed165e",
 "693054fbdfa446b3",
 "34e57ac738660c2d",
-"a4c64438ac7f51af"
+"a4c64438ac7f51af",
+"bbc92283360ffc03",
+"dc88111ad5cdb433"
 ],
 "imzalar": [
-[
-"coktu",
-"esenyurt",
-"etkili",
-"istanbul",
-"saganak",
-"yol"
-],
-[
-"basladi",
-"dikkat",
-"istanbul",
-"onumuzdeki",
-"saate",
-"uyardi",
-"valilik",
-"yagis"
-],
 [
 "antalya",
 "dustu",
@@ -8911,6 +8893,19 @@
 "ise",
 "kisiler",
 "ummadigimiz"
+],
+[
+"bursa",
+"gelisme",
+"gorundu",
+"heyecanlandiran",
+"raylarda"
+],
+[
+"gundeminde",
+"manseti",
+"meclis",
+"sozcu"
 ]
 ],
 "son_tarih": {
@@ -8918,10 +8913,10 @@
 "Sonsöz (Ankara)": "2026-11-06T00:25:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-05T20:59:55+00:00",
-"Sözcü Son Dakika": "2026-11-05T23:17:51+00:00",
+"Sözcü Son Dakika": "2026-11-06T02:20:22+00:00",
 "Yeni Şafak Yerel": "2026-11-06T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-06T00:30:07.380197+00:00",
-"Olay (Bursa)": "2026-11-05T21:09:52+00:00",
+"Olay (Bursa)": "2026-11-06T02:10:46+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
 "Yeni Asır (İzmir)": "2026-11-05T19:36:27+00:00",
 "İstanbul Gazetesi": "2026-11-05T21:36:00+00:00",
