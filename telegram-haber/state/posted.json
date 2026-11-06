@@ -1,12 +1,5 @@
 {
 "gonderilen": [
-"19cb9b0395a2ca41",
-"e2776a46e02f4e02",
-"a9af1ced09858495",
-"350ce517e7c75de5",
-"045ecbd72519ddcb",
-"1dfc69858d482206",
-"3564ee1365d6406c",
 "d9766c8c3d57881b",
 "db50c9fec9f034c5",
 "9f725c70f606d54f",
@@ -2999,82 +2992,16 @@
 "9db81fa62c3ce0b1",
 "1f0348edde974ba2",
 "23cdfa1175e8af40",
-"047475adc8f9386d"
+"047475adc8f9386d",
+"324d8803448b4a8f",
+"04da41d3ddf6b5af",
+"33f045f3da968e6c",
+"a8708971df1d3c4f",
+"46a14ab90ad5aa17",
+"075d393edf37d5a9",
+"7ed9d82c65155457"
 ],
 "imzalar": [
-[
-"durdurdu",
-"faul",
-"kahreden",
-"kalbini",
-"sahada",
-"sakatlik",
-"yapilan",
-"yesil"
-],
-[
-"cikti",
-"detayi",
-"kahve",
-"kasif",
-"kozinoglu",
-"mezarindan",
-"nun",
-"olumcul",
-"zehir"
-],
-[
-"arasinda",
-"cezaevinde",
-"ekrem",
-"emir",
-"hepiniz",
-"imamoglu",
-"kavga",
-"lan",
-"sahtekarsiniz",
-"sarigul"
-],
-[
-"cikti",
-"gelisme",
-"kasif",
-"kozinoglu",
-"laboratuvar",
-"nun",
-"olumunde",
-"ortaya",
-"otopsi",
-"raporu"
-],
-[
-"bilic",
-"danla",
-"estetik",
-"lik",
-"milyon",
-"pismanligi",
-"ten"
-],
-[
-"birden",
-"derece",
-"dusecek",
-"meteorolojiden",
-"pes",
-"pese",
-"sicaklik",
-"uyari",
-"yapildi"
-],
-[
-"alarm",
-"asil",
-"geliyor",
-"hava",
-"soguk",
-"verildi"
-],
 [
 "2026",
 "aktuel",
@@ -8936,20 +8863,94 @@
 "once",
 "yapiyormus",
 "yil"
+],
+[
+"afyonkarahisar",
+"arif",
+"cani",
+"cikti",
+"gelisme",
+"ifadesi",
+"ilk",
+"katliaminda",
+"kisiyi",
+"neden",
+"oldurdu",
+"ortaya",
+"ozdemir",
+"sefa"
+],
+[
+"500",
+"bin",
+"bursa",
+"cigerlerine",
+"nefes",
+"nin",
+"yeni"
+],
+[
+"ardindan",
+"buyukcekmece",
+"dondu",
+"golu",
+"kahverengiye",
+"nun",
+"rengi",
+"yagislarin"
+],
+[
+"amedsporlu",
+"atmisti",
+"ballet",
+"belli",
+"cezasi",
+"dirsek",
+"rakibin",
+"yuzune"
+],
+[
+"gosterebilecek",
+"kisa",
+"miydiniz",
+"olacagini",
+"olsa",
+"omrunuzun",
+"test",
+"yaptirir"
+],
+[
+"abd",
+"musk",
+"pahaliya",
+"patladi",
+"secimleri"
+],
+[
+"basini",
+"besiktas",
+"dev",
+"iskoc",
+"macindan",
+"mansetleri",
+"ovgu",
+"sallandi",
+"susleyen",
+"yildiz"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-06T07:44:00+00:00",
-"Sonsöz (Ankara)": "2026-11-06T07:44:00+00:00",
+"Haber Global": "2026-11-06T08:25:00+00:00",
+"Sonsöz (Ankara)": "2026-11-06T08:29:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-06T06:53:33+00:00",
-"Sözcü Son Dakika": "2026-11-06T07:50:30+00:00",
-"Yeni Şafak Yerel": "2026-11-06T07:42:18+00:00",
+"Sözcü Son Dakika": "2026-11-06T08:26:31+00:00",
+"Yeni Şafak Yerel": "2026-11-06T08:30:00+00:00",
 "X / Twitter Türkiye": "2026-11-06T06:30:29.387435+00:00",
-"Olay (Bursa)": "2026-11-06T07:49:56+00:00",
+"Olay (Bursa)": "2026-11-06T08:12:19+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
-"Yeni Asır (İzmir)": "2026-11-06T07:46:48+00:00",
-"İstanbul Gazetesi": "2026-11-06T07:19:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-06T08:00:41+00:00",
+"İstanbul Gazetesi": "2026-11-06T08:13:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T01:16:31+00:00"
 }
 }
