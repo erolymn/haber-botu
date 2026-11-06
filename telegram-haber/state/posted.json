@@ -1,11 +1,5 @@
 {
 "gonderilen": [
-"ebcc824bc9877711",
-"7939d62d73cd4d73",
-"716e207c286f2c44",
-"81344dc9dc5e534d",
-"977f2955a209b3b7",
-"3b0f6741b5fe95a4",
 "a928138ff04ff55d",
 "88e106fa5a5468df",
 "9ef4c1f560ecccf0",
@@ -2999,58 +2993,15 @@
 "7f5a7961dba357b7",
 "21dbfe07e6193637",
 "319444e889c0499f",
-"8dfc6888cb2dc747"
+"8dfc6888cb2dc747",
+"2d08778c4f5076e4",
+"0b786e55ac698b7a",
+"7c44467291bda3a6",
+"dbff3779a4312810",
+"ef6d9102bc0a15c7",
+"eb82bf7d4b8fdee8"
 ],
 "imzalar": [
-[
-"altinda",
-"biri",
-"duman",
-"her",
-"iciyor",
-"kisiden",
-"sigara",
-"turkiye"
-],
-[
-"asan",
-"aydin",
-"baskan",
-"bursa",
-"dan",
-"kardeslik",
-"sinirlari",
-"vurgusu"
-],
-[
-"bogazi",
-"geciyor",
-"gemi",
-"iha",
-"istanbul",
-"ndan",
-"rusya",
-"saldirisina",
-"ugrayan"
-],
-[
-"aciklama",
-"bakan",
-"dan",
-"emekli",
-"geliyor",
-"isikhan",
-"maaslarina",
-"zam"
-],
-[
-"avrupa",
-"belli",
-"besiktas",
-"hakemleri",
-"maclarinin",
-"trabzonspor"
-],
 [
 "cikti",
 "datca",
@@ -8924,20 +8875,74 @@
 "ogrenciler",
 "okullarina",
 "tasindi"
+],
+[
+"bakan",
+"bolat",
+"dolar",
+"ihracat",
+"milyar",
+"toplam",
+"turkiye",
+"yapiyor",
+"yilda"
+],
+[
+"belli",
+"cekya",
+"kadrosu",
+"maclarinin",
+"milli",
+"takim",
+"umit"
+],
+[
+"afyonkarahisar",
+"caniden",
+"canini",
+"daki",
+"detayi",
+"izmir",
+"katliam",
+"oncesi",
+"sikan",
+"telefonu"
+],
+[
+"afyonkarahisar",
+"bicerdover",
+"cikti",
+"izmir",
+"kisinin",
+"neden",
+"oldurulmesine",
+"ortaya"
+],
+[
+"cevrildi",
+"davette",
+"den",
+"gozler",
+"kirmizi",
+"melis",
+"ona",
+"sezen",
+"sov",
+"tum"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-06T14:42:00+00:00",
+"Haber Global": "2026-11-06T15:38:00+00:00",
 "Sonsöz (Ankara)": "2026-11-06T15:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-06T11:25:06+00:00",
-"Sözcü Son Dakika": "2026-11-06T14:51:36+00:00",
-"Yeni Şafak Yerel": "2026-11-06T14:59:11+00:00",
+"Sözcü Son Dakika": "2026-11-06T15:50:17+00:00",
+"Yeni Şafak Yerel": "2026-11-06T15:44:40+00:00",
 "X / Twitter Türkiye": "2026-11-06T15:12:05.781200+00:00",
 "Olay (Bursa)": "2026-11-06T15:06:23+00:00",
 "@islamasalya": "2026-11-06T10:24:12+00:00",
-"Yeni Asır (İzmir)": "2026-11-06T15:04:59+00:00",
-"İstanbul Gazetesi": "2026-11-06T14:38:00+00:00",
-"Kandilli Rasathanesi": "2026-11-06T01:16:31+00:00"
+"Yeni Asır (İzmir)": "2026-11-06T15:39:48+00:00",
+"İstanbul Gazetesi": "2026-11-06T15:30:00+00:00",
+"Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
 }
