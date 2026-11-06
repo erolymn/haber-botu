@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"296b167cd22ad7ad",
-"49b91f1613a07506",
-"e8f79d389b8fd7dd",
-"d7f7479c48544fd7",
-"ad90f07c6b8edb8f",
-"82e1e7543f244d09",
-"ecbf0a16cc517459",
-"211d4618a8aa5699",
 "8563c0649766c62b",
 "1e5a767577919fdb",
 "229b7b45b20f2cf3",
@@ -2999,94 +2991,17 @@
 "1990bc8f29effe4a",
 "0cd7f8ee8c843f06",
 "8b4d5c189fadf9f9",
-"e828ff494382811a"
+"e828ff494382811a",
+"9404f80af803d4d1",
+"0782b5a775a975ed",
+"7e87e4103e9e03e9",
+"7655177525f5f670",
+"be8f5ec382856de2",
+"c4b5bafff2fdf575",
+"8a2544055ef64c8a",
+"5c206e1f2ff4d7b7"
 ],
 "imzalar": [
-[
-"aralarinda",
-"fon",
-"gozaltilari",
-"sorusturmasinda",
-"spk",
-"yeni",
-"yoneticiler"
-],
-[
-"destekli",
-"duzenlendi",
-"edildiler",
-"ilde",
-"operasyon",
-"programla",
-"tespit",
-"yapay",
-"zeka"
-],
-[
-"beni",
-"cocuklarinin",
-"dilan",
-"esi",
-"eski",
-"kalirsa",
-"oldurecek",
-"serbest",
-"tarafindan",
-"vurulan",
-"yaninda"
-],
-[
-"belirledi",
-"buruk",
-"ilk",
-"ini",
-"karari",
-"leao",
-"okan",
-"sane",
-"stuttgart",
-"tan"
-],
-[
-"bursa",
-"dedirtti",
-"iban",
-"mudurunun",
-"oyunu",
-"pahaliya",
-"patladi",
-"pes",
-"restoran",
-"yaptigi"
-],
-[
-"bahis",
-"disi",
-"ilde",
-"izmir",
-"liralik",
-"merkezli",
-"milyar",
-"operasyonu",
-"para",
-"trafigi",
-"yasa"
-],
-[
-"aciklandi",
-"ayi",
-"ekim",
-"enflasyonu"
-],
-[
-"basliyor",
-"esenler",
-"haftalik",
-"karakoc",
-"sekiz",
-"sezai",
-"yolculugu"
-],
 [
 "2027",
 "belli",
@@ -8936,20 +8851,93 @@
 "hayatini",
 "kaybetti",
 "umreye"
+],
+[
+"448",
+"alindi",
+"buyuyor",
+"fransa",
+"gozaltina",
+"hareketi",
+"kisi",
+"ogrenci"
+],
+[
+"adliyede",
+"alinan",
+"fon",
+"gozaltina",
+"sorusturmasinda",
+"supheli"
+],
+[
+"ayni",
+"efsaneleri",
+"futbol",
+"veda",
+"yilda"
+],
+[
+"bindirmeye",
+"bursa",
+"calisti",
+"nisanlisini",
+"otomobile",
+"zorla"
+],
+[
+"burun",
+"estetigi",
+"faciasi",
+"gelisme",
+"girmisti",
+"gule",
+"hatice",
+"iliskin",
+"izmir",
+"nun",
+"olumune",
+"oncu",
+"oynaya",
+"yeni"
+],
+[
+"beyaza",
+"burundu",
+"cam",
+"kartalkaya",
+"ormanlari"
+],
+[
+"arkasinda",
+"avrupa",
+"bomba",
+"gizemli",
+"ihbarlarinin",
+"indiren",
+"kim",
+"telefonlar",
+"ucaklari"
+],
+[
+"gazze",
+"her",
+"ragmen",
+"seye"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-06T09:26:00+00:00",
-"Sonsöz (Ankara)": "2026-11-06T09:42:00+00:00",
+"Haber Global": "2026-11-06T10:14:00+00:00",
+"Sonsöz (Ankara)": "2026-11-06T10:18:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-06T06:53:33+00:00",
-"Sözcü Son Dakika": "2026-11-06T09:49:49+00:00",
-"Yeni Şafak Yerel": "2026-11-06T09:49:06+00:00",
+"Sözcü Son Dakika": "2026-11-06T10:15:52+00:00",
+"Yeni Şafak Yerel": "2026-11-06T10:06:16+00:00",
 "X / Twitter Türkiye": "2026-11-06T09:11:14.983095+00:00",
-"Olay (Bursa)": "2026-11-06T09:48:55+00:00",
-"@islamasalya": "2026-11-04T18:02:24+00:00",
-"Yeni Asır (İzmir)": "2026-11-06T09:28:17+00:00",
-"İstanbul Gazetesi": "2026-11-06T09:29:00+00:00",
+"Olay (Bursa)": "2026-11-06T10:23:46+00:00",
+"@islamasalya": "2026-11-06T10:24:12+00:00",
+"Yeni Asır (İzmir)": "2026-11-06T10:18:02+00:00",
+"İstanbul Gazetesi": "2026-11-06T10:19:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T01:16:31+00:00"
 }
 }
