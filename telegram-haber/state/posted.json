@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"dec4ad5ec6c6f5f5",
-"1e12a0289e7f945a",
-"b2414c58649335ec",
 "44c7a134ecbecf9c",
 "94d833769cdab13d",
 "5553a1c215465bfb",
@@ -2999,34 +2996,12 @@
 "dc88111ad5cdb433",
 "c94659a317962d55",
 "0ec370d6bd542c13",
-"5ea7bbd3e589a8d4"
+"5ea7bbd3e589a8d4",
+"2fd3d405690148a6",
+"99624db6dd0ab611",
+"54f8c5089bcf1bca"
 ],
 "imzalar": [
-[
-"2029",
-"basvurusu",
-"eurobasket",
-"fiba",
-"kadinlar",
-"sahipligi",
-"ulkeden"
-],
-[
-"kalecik",
-"lik",
-"milyon",
-"odeme",
-"ureticilere"
-],
-[
-"alevler",
-"kayseri",
-"saatte",
-"sardi",
-"sonduruldu",
-"yangin",
-"yerlerini"
-],
 [
 "arda",
 "muhtesem",
@@ -8901,14 +8876,37 @@
 "tahviline",
 "yazdi",
 "zarar"
+],
+[
+"100",
+"alacak",
+"denetmen",
+"guvenlik",
+"sgk",
+"sosyal",
+"yardimcisi"
+],
+[
+"aciklarinda",
+"buyuklugunde",
+"canakkale",
+"deprem"
+],
+[
+"ambulansta",
+"annesi",
+"kestigi",
+"magandanin",
+"onunu",
+"varmis"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-05T21:42:00+00:00",
-"Sonsöz (Ankara)": "2026-11-06T02:30:00+00:00",
+"Haber Global": "2026-11-06T03:29:00+00:00",
+"Sonsöz (Ankara)": "2026-11-06T02:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-05T20:59:55+00:00",
-"Sözcü Son Dakika": "2026-11-06T02:30:22+00:00",
+"Sözcü Son Dakika": "2026-11-06T03:30:54+00:00",
 "Yeni Şafak Yerel": "2026-11-06T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-06T03:10:31.806667+00:00",
 "Olay (Bursa)": "2026-11-06T02:10:46+00:00",
