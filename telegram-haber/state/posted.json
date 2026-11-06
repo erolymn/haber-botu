@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"b2f0a38ba4ae74d9",
-"0abe0a3884b50168",
-"49f7874f03dd453c",
-"8c4e24d04a5fefc9",
-"f5210eeff623551b",
-"64fa150477a967a3",
-"daa7366de21411ee",
-"805266ca5277520a",
 "82c0ff1cdda705a7",
 "001c5d3bb0e5b04a",
 "be9333e37fc6e0b5",
@@ -2999,90 +2991,17 @@
 "93c772a3740108af",
 "727fae354dd160f5",
 "b8b2e195e3b1e2dd",
-"ad56a835f26259ce"
+"ad56a835f26259ce",
+"4039c1ba4f0816f6",
+"bf8885ec599f7950",
+"7765c054f1c3bc0c",
+"7bc8d572456e26ea",
+"f994b27ff1717304",
+"b0e2a924323907a9",
+"72b6bd6f62f3f64f",
+"a5b8d61a59c95bdb"
 ],
 "imzalar": [
-[
-"alevlere",
-"gerede",
-"otobusu",
-"teslim",
-"yolcu"
-],
-[
-"asgari",
-"avukatlik",
-"bedeli",
-"belli",
-"danisma",
-"kadar",
-"tarifesi",
-"ucret"
-],
-[
-"atti",
-"kadina",
-"ortasinda",
-"savunma",
-"skandal",
-"sokak",
-"tanimadigi",
-"tokat"
-],
-[
-"acikladi",
-"bakan",
-"cifte",
-"ihracatta",
-"rekor"
-],
-[
-"bonservis",
-"futbol",
-"galatasarayli",
-"gecebilir",
-"rekor",
-"tarihine",
-"turk",
-"yildiza"
-],
-[
-"bakan",
-"borsa",
-"degil",
-"edildi",
-"gurlek",
-"kapsamli",
-"karsimizda",
-"manipulasyonu",
-"suc",
-"tespit",
-"yapilanmasi"
-],
-[
-"doncic",
-"elestirilere",
-"gibi",
-"istedigini",
-"iyiyim",
-"jet",
-"lakers",
-"luka",
-"medya",
-"oyuncusu",
-"soylesin",
-"ten",
-"yanit",
-"yil",
-"yildiz"
-],
-[
-"dan",
-"emsal",
-"karari",
-"torun",
-"yargitay"
-],
 [
 "amelle",
 "asra",
@@ -8907,20 +8826,106 @@
 "sektorunden",
 "sorusturmasi",
 "tesebbuse"
+],
+[
+"asiretimizin",
+"buyuk",
+"carpici",
+"ilgili",
+"katledildigi",
+"kisinin",
+"saldiriyla",
+"sorunu",
+"sozler"
+],
+[
+"acikladi",
+"aday",
+"davet",
+"edilen",
+"futbolcular",
+"iste",
+"kadrosunu",
+"milli",
+"sergen",
+"takim",
+"yalcin"
+],
+[
+"alan",
+"cevreleri",
+"cocuk",
+"dumansiz",
+"okul",
+"olacak",
+"parklari"
+],
+[
+"bin",
+"ceza",
+"gunler",
+"kis",
+"lastiginde",
+"takmayana"
+],
+[
+"alip",
+"arsa",
+"aym",
+"degistirdi",
+"dikkat",
+"ilgilendiriyor",
+"insani",
+"karari",
+"milyonlarca",
+"satanlar",
+"tarla",
+"uygulanan",
+"yillardir"
+],
+[
+"kac",
+"kimdir",
+"oztasdelen",
+"serhat",
+"yasinda"
+],
+[
+"afyonkarahisar",
+"altyazida",
+"anda",
+"aradi",
+"ayni",
+"ayrinti",
+"burkan",
+"daki",
+"gordu",
+"katliamda",
+"mudur",
+"yurek"
+],
+[
+"bakimevindeki",
+"dedirten",
+"eglendirmek",
+"pes",
+"savunma",
+"skandala",
+"yaptim"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-06T11:03:00+00:00",
-"Sonsöz (Ankara)": "2026-11-06T11:07:00+00:00",
+"Haber Global": "2026-11-06T11:45:00+00:00",
+"Sonsöz (Ankara)": "2026-11-06T11:44:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-06T10:47:15+00:00",
-"Sözcü Son Dakika": "2026-11-06T11:07:40+00:00",
-"Yeni Şafak Yerel": "2026-11-06T11:00:45+00:00",
+"Mynet Son Dakika": "2026-11-06T11:25:06+00:00",
+"Sözcü Son Dakika": "2026-11-06T11:50:20+00:00",
+"Yeni Şafak Yerel": "2026-11-06T11:44:19+00:00",
 "X / Twitter Türkiye": "2026-11-06T09:11:14.983095+00:00",
-"Olay (Bursa)": "2026-11-06T11:11:07+00:00",
+"Olay (Bursa)": "2026-11-06T11:49:06+00:00",
 "@islamasalya": "2026-11-06T10:24:12+00:00",
-"Yeni Asır (İzmir)": "2026-11-06T10:47:23+00:00",
-"İstanbul Gazetesi": "2026-11-06T10:19:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-06T11:29:50+00:00",
+"İstanbul Gazetesi": "2026-11-06T11:40:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T01:16:31+00:00"
 }
 }
