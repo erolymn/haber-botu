@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"9a9b66131d0e7c22",
-"734917a611b96744",
-"7100e8d0cd7f9f84",
-"90aa6a91f539a92d",
-"2f9ff9e6f5907079",
-"bfd65681fabfb7c8",
-"29e6ac4081739a64",
-"202956fe009c19fa",
 "bc9b7d6c4d56bf59",
 "3374d2ba0a6b5717",
 "360b1e407e029381",
@@ -2999,76 +2991,17 @@
 "2d219b231753d326",
 "f5874da3c57e0814",
 "3866455ab2203f72",
-"fd17c84d957748a7"
+"fd17c84d957748a7",
+"fd6212aefda36061",
+"a0c2ddb645f81677",
+"6964fb815b846978",
+"9c61bc1d939e0230",
+"731c00f70bd3bd81",
+"f01dc11f16f0bfec",
+"a1f2b1b4abd58adf",
+"761e14928396654e"
 ],
 "imzalar": [
-[
-"esini",
-"eski",
-"katletti",
-"piskin",
-"verdi",
-"yanit"
-],
-[
-"belozoglu",
-"emre",
-"fenerbahce",
-"gelmeyecek",
-"iddialara",
-"verdi",
-"yanit"
-],
-[
-"atista",
-"bin",
-"fuzeleriyle",
-"gosterisi",
-"govde",
-"metrekareyi",
-"tek",
-"vurabiliyor",
-"yaptilar",
-"yeni"
-],
-[
-"aydir",
-"ilyas",
-"karari",
-"tahliye",
-"tutukluydu",
-"yalcintas"
-],
-[
-"binada",
-"cokme",
-"daire",
-"deprem",
-"edildi",
-"nda",
-"sandik",
-"tahliye",
-"yillik",
-"zeytinburnu"
-],
-[
-"agaca",
-"can",
-"kilometre",
-"kurtuldu",
-"ortasinda",
-"pazari",
-"selin",
-"suruklendi",
-"tutunarak"
-],
-[
-"hareket",
-"otobuslerle",
-"stada",
-"stuttgart",
-"taraftarlari"
-],
 [
 "birligi",
 "bursa",
@@ -8944,20 +8877,93 @@
 "ticari",
 "yarali",
 "yayalara"
+],
+[
+"amed",
+"faaliyetler",
+"galatasaray",
+"mesaisi",
+"sportif",
+"tamamlandi"
+],
+[
+"cep",
+"film",
+"gibi",
+"izmir",
+"kamerasi",
+"kayittaydi",
+"kurtarma",
+"operasyonu",
+"telefonu"
+],
+[
+"basaksehir",
+"bulundugu",
+"depoda",
+"pencerelerin",
+"plastik",
+"yangin"
+],
+[
+"aciklamasi",
+"bakan",
+"ciftci",
+"den",
+"fon",
+"hesap",
+"sorumlular",
+"sorusturmasi",
+"verecek"
+],
+[
+"bakan",
+"bursa",
+"buyuk",
+"goktas",
+"nin",
+"ovgu",
+"projesine",
+"tan"
+],
+[
+"abd",
+"abdul",
+"anlar",
+"gundem",
+"ilk",
+"kildirdigi",
+"musluman",
+"namaz",
+"nun",
+"sayed",
+"senatosu",
+"siyasetcisi",
+"yeniden"
+],
+[
+"devine",
+"dogru",
+"eski",
+"galatasaray",
+"icardi",
+"italyan",
+"surpriz",
+"yildizi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-06T17:45:00+00:00",
-"Sonsöz (Ankara)": "2026-11-06T17:17:00+00:00",
+"Haber Global": "2026-11-06T18:12:00+00:00",
+"Sonsöz (Ankara)": "2026-11-06T18:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-06T17:29:15+00:00",
-"Sözcü Son Dakika": "2026-11-06T17:47:23+00:00",
-"Yeni Şafak Yerel": "2026-11-06T17:40:33+00:00",
-"X / Twitter Türkiye": "2026-11-06T15:12:05.781200+00:00",
-"Olay (Bursa)": "2026-11-06T17:15:19+00:00",
+"Sözcü Son Dakika": "2026-11-06T18:20:17+00:00",
+"Yeni Şafak Yerel": "2026-11-06T18:17:10+00:00",
+"X / Twitter Türkiye": "2026-11-06T18:32:49.839072+00:00",
+"Olay (Bursa)": "2026-11-06T18:14:12+00:00",
 "@islamasalya": "2026-11-06T16:02:03+00:00",
-"Yeni Asır (İzmir)": "2026-11-06T17:27:27+00:00",
-"İstanbul Gazetesi": "2026-11-06T17:50:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-06T18:05:32+00:00",
+"İstanbul Gazetesi": "2026-11-06T18:07:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
 }
