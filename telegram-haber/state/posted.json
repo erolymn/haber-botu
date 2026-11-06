@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"44c7a134ecbecf9c",
-"94d833769cdab13d",
-"5553a1c215465bfb",
-"a17886fcd50e7b86",
 "3fd6d6715fff4318",
 "8356d62512db7b6a",
 "34255ab4afd93efc",
@@ -2999,41 +2995,13 @@
 "5ea7bbd3e589a8d4",
 "2fd3d405690148a6",
 "99624db6dd0ab611",
-"54f8c5089bcf1bca"
+"54f8c5089bcf1bca",
+"5a9aec1fa3f7f7b8",
+"e0f10a694595feea",
+"73ae037a6fc86e68",
+"fbacadd2f8cb23e6"
 ],
 "imzalar": [
-[
-"arda",
-"muhtesem",
-"oyuncu",
-"suarez",
-"turan"
-],
-[
-"ahmet",
-"baskani",
-"hayatini",
-"holding",
-"kaybetti",
-"kurulu",
-"nazif",
-"yonetim",
-"zorlu"
-],
-[
-"hayra",
-"olun",
-"paylasarak",
-"vesile"
-],
-[
-"bakani",
-"ingiltere",
-"iran",
-"savunma",
-"sucladi",
-"yuzsuzluk"
-],
 [
 "araci",
 "cihan",
@@ -8899,19 +8867,65 @@
 "magandanin",
 "onunu",
 "varmis"
+],
+[
+"abd",
+"aciklama",
+"bolsonaro",
+"dan",
+"goturecegim",
+"kacan",
+"kaybedip",
+"mezara",
+"secimi",
+"sirri"
+],
+[
+"arac",
+"calmis",
+"cikti",
+"detaylar",
+"gorevlisi",
+"ilgili",
+"kendisini",
+"mit",
+"olarak",
+"ortaya",
+"saldiriyla",
+"tanitip",
+"yeni"
+],
+[
+"betul",
+"fatma",
+"fon",
+"kaya",
+"sayan",
+"sorusturmasinda",
+"tutuklandi"
+],
+[
+"basladilar",
+"geri",
+"gondermeye",
+"ise",
+"kapidan",
+"schengen",
+"vizesi",
+"yaramiyor"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-06T03:29:00+00:00",
+"Haber Global": "2026-11-06T03:42:00+00:00",
 "Sonsöz (Ankara)": "2026-11-06T02:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-05T20:59:55+00:00",
-"Sözcü Son Dakika": "2026-11-06T03:30:54+00:00",
+"Mynet Son Dakika": "2026-11-06T04:06:14+00:00",
+"Sözcü Son Dakika": "2026-11-06T04:21:40+00:00",
 "Yeni Şafak Yerel": "2026-11-06T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-06T03:10:31.806667+00:00",
 "Olay (Bursa)": "2026-11-06T02:10:46+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
-"Yeni Asır (İzmir)": "2026-11-05T19:36:27+00:00",
+"Yeni Asır (İzmir)": "2026-11-06T04:19:44+00:00",
 "İstanbul Gazetesi": "2026-11-05T21:36:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T01:16:31+00:00"
 }
