@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"c90ac1683bc7d13b",
-"58e22f1abfec6eda",
-"5347a2d3624b26ed",
 "dec4ad5ec6c6f5f5",
 "1e12a0289e7f945a",
 "b2414c58649335ec",
@@ -2999,28 +2996,12 @@
 "34e57ac738660c2d",
 "a4c64438ac7f51af",
 "bbc92283360ffc03",
-"dc88111ad5cdb433"
+"dc88111ad5cdb433",
+"c94659a317962d55",
+"0ec370d6bd542c13",
+"5ea7bbd3e589a8d4"
 ],
 "imzalar": [
-[
-"antalya",
-"dustu",
-"etkili",
-"eve",
-"gok",
-"gurultulu",
-"saganak",
-"yildirim"
-],
-[
-"abd",
-"aciklama",
-"geldi",
-"iran",
-"saldiracak",
-"tan",
-"trump"
-],
 [
 "2029",
 "basvurusu",
@@ -8906,16 +8887,30 @@
 "manseti",
 "meclis",
 "sozcu"
+],
+[
+"hastanede",
+"kisilik",
+"ogle",
+"sonrasi",
+"vaka",
+"yemegi"
+],
+[
+"devlet",
+"tahviline",
+"yazdi",
+"zarar"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-05T21:42:00+00:00",
-"Sonsöz (Ankara)": "2026-11-06T00:25:00+00:00",
+"Sonsöz (Ankara)": "2026-11-06T02:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-05T20:59:55+00:00",
-"Sözcü Son Dakika": "2026-11-06T02:20:22+00:00",
+"Sözcü Son Dakika": "2026-11-06T02:30:22+00:00",
 "Yeni Şafak Yerel": "2026-11-06T01:00:00+00:00",
-"X / Twitter Türkiye": "2026-11-06T00:30:07.380197+00:00",
+"X / Twitter Türkiye": "2026-11-06T03:10:31.806667+00:00",
 "Olay (Bursa)": "2026-11-06T02:10:46+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
 "Yeni Asır (İzmir)": "2026-11-05T19:36:27+00:00",
