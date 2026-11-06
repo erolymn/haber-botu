@@ -1,6 +1,5 @@
 {
 "gonderilen": [
-"6a5cb8e61e91718f",
 "f003477e331294c2",
 "8a8993e04d4b0b0d",
 "ab0c310484bc6573",
@@ -2999,19 +2998,10 @@
 "9457242ee31498de",
 "307f5d38f0a03c2a",
 "d0b9f90f5eed165e",
-"693054fbdfa446b3"
+"693054fbdfa446b3",
+"34e57ac738660c2d"
 ],
 "imzalar": [
-[
-"atti",
-"degisti",
-"durumu",
-"genclerbirligi",
-"gol",
-"lig",
-"puan",
-"super"
-],
 [
 "coktu",
 "esenyurt",
@@ -8915,6 +8905,12 @@
 "sanatcilari",
 "spotify",
 "turkiye"
+],
+[
+"girmis",
+"ise",
+"kisiler",
+"ummadigimiz"
 ]
 ],
 "son_tarih": {
@@ -8923,7 +8919,7 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-05T20:59:55+00:00",
 "Sözcü Son Dakika": "2026-11-05T23:17:51+00:00",
-"Yeni Şafak Yerel": "2026-11-05T21:55:08+00:00",
+"Yeni Şafak Yerel": "2026-11-06T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-06T00:30:07.380197+00:00",
 "Olay (Bursa)": "2026-11-05T21:09:52+00:00",
 "@islamasalya": "2026-11-04T18:02:24+00:00",
