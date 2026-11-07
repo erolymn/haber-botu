@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"96641a73f31c3cdd",
-"3bfe5e181a6a4372",
-"bf80be52ff05545c",
-"12fbf3aec1219c51",
-"557ff1f318171168",
-"b2496ba05fb22fc0",
-"523320eb2acf87e7",
-"47965e437b4c4c95",
 "1f11a29269416831",
 "d12a9edb7c9e65be",
 "d7cd254dc1f92d3a",
@@ -2999,81 +2991,17 @@
 "f52501427976f93d",
 "a9acfad3baf3dad8",
 "18d80ba07af8101b",
-"d4d50d1d07b0d4e2"
+"d4d50d1d07b0d4e2",
+"a910a727f1897e97",
+"23bcc5454834d032",
+"8808dd4463c971ae",
+"c4894cd30aa91707",
+"c91264f5a6fe7e7c",
+"78bf376fcab794df",
+"a75e4620eac049ef",
+"b6aa6ecfe6414c06"
 ],
 "imzalar": [
-[
-"devler",
-"galatasaray",
-"ligi",
-"nde",
-"puanini",
-"yukseltti"
-],
-[
-"akitmayacak",
-"carsamba",
-"gelecek",
-"izmir",
-"kasim",
-"kesintisi",
-"musluklar",
-"saat",
-"sular",
-"tarihte",
-"zaman"
-],
-[
-"borsa",
-"istanbul",
-"suruyor",
-"yukselis"
-],
-[
-"arinc",
-"belediyesi",
-"bulent",
-"mamak",
-"tan",
-"ziyaret"
-],
-[
-"bursa",
-"makas",
-"teroru"
-],
-[
-"abd",
-"ilk",
-"kez",
-"musluman",
-"secildi",
-"senator",
-"tarihinde"
-],
-[
-"adana",
-"bursa",
-"dan",
-"geliyor",
-"kuruluyor",
-"seneki",
-"trendimiz",
-"tursusu"
-],
-[
-"baska",
-"cikti",
-"haliyla",
-"ilceye",
-"katledip",
-"kilometrelerce",
-"ortaya",
-"sir",
-"tasidilar",
-"uzaktaki",
-"yillik"
-],
 [
 "adamin",
 "basarili",
@@ -8922,20 +8850,105 @@
 "saat",
 "sonrasinda",
 "suren"
+],
+[
+"durusmada",
+"karari",
+"saat",
+"suren",
+"tahliye"
+],
+[
+"aldi",
+"alev",
+"devrilip",
+"manisa",
+"prina",
+"tanker",
+"yuklu"
+],
+[
+"almanin",
+"belli",
+"degisiyor",
+"ehliyet",
+"konusuluyor",
+"maliyeti",
+"orani",
+"rakam",
+"yeni",
+"yilda",
+"zam"
+],
+[
+"guvenmeyin",
+"karsi",
+"mantar",
+"uyari",
+"yapay",
+"zehirlenmelerine",
+"zekaya"
+],
+[
+"alani",
+"dan",
+"deniz",
+"fidan",
+"hakan",
+"koridoru",
+"olabilir",
+"savas",
+"ticaret",
+"uyarisi",
+"yollari"
+],
+[
+"basini",
+"hamlesi",
+"itiraf",
+"korkuttu",
+"nin",
+"turkiye",
+"yunan",
+"yunanistan"
+],
+[
+"besiktas",
+"call",
+"duty",
+"ederim",
+"formalari",
+"galatasaray",
+"giymisti",
+"isimden",
+"itiraf",
+"olay",
+"oynamayi",
+"tercih",
+"yildiz"
+],
+[
+"basildi",
+"bursa",
+"dugmeye",
+"operasyonu",
+"saticilari",
+"sokak",
+"uyusturucu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-07T09:51:00+00:00",
-"Sonsöz (Ankara)": "2026-11-07T09:42:00+00:00",
+"Haber Global": "2026-11-07T10:19:00+00:00",
+"Sonsöz (Ankara)": "2026-11-07T10:02:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-07T09:15:52+00:00",
-"Sözcü Son Dakika": "2026-11-07T09:52:28+00:00",
-"Yeni Şafak Yerel": "2026-11-07T09:44:10+00:00",
+"Mynet Son Dakika": "2026-11-07T09:55:43+00:00",
+"Sözcü Son Dakika": "2026-11-07T10:24:46+00:00",
+"Yeni Şafak Yerel": "2026-11-07T10:30:50+00:00",
 "X / Twitter Türkiye": "2026-11-07T09:13:43.023681+00:00",
-"Olay (Bursa)": "2026-11-07T09:23:15+00:00",
+"Olay (Bursa)": "2026-11-07T10:32:47+00:00",
 "@islamasalya": "2026-11-07T05:59:50+00:00",
-"Yeni Asır (İzmir)": "2026-11-07T09:46:59+00:00",
-"İstanbul Gazetesi": "2026-11-07T09:39:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-07T10:13:38+00:00",
+"İstanbul Gazetesi": "2026-11-07T10:22:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
 }
