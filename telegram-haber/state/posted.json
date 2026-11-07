@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"d05f61f863aba24b",
-"8f175d5cf97384e0",
-"f8b5aa5d3b317cf0",
 "667d51947cb1fc7d",
 "ae39d96d856d8fc6",
 "e4a8fe70f439a21b",
@@ -2999,36 +2996,12 @@
 "fee4543cfb0f7523",
 "d2d59a4a77e754a1",
 "489e306fb5b9b559",
-"faa21d41e0623c3c"
+"faa21d41e0623c3c",
+"892f030914a4a1d3",
+"260f1b87ffa4a93a",
+"f6e005f996fc17a4"
 ],
 "imzalar": [
-[
-"devler",
-"dorukta",
-"fenerbahce",
-"heyecan",
-"ligi",
-"liverpool",
-"maci",
-"nde"
-],
-[
-"2027",
-"belli",
-"bursa",
-"butcesi",
-"merkezi",
-"nin"
-],
-[
-"alt",
-"basti",
-"gecidi",
-"kapatildi",
-"trafige",
-"yol",
-"zincirlikuyu"
-],
 [
 "aci",
 "cikti",
@@ -8939,14 +8912,44 @@
 "oyunu",
 "potaya",
 "turkiye"
+],
+[
+"arda",
+"farka",
+"guler",
+"karsisinda",
+"kostu",
+"madrid",
+"real",
+"sov",
+"valencia",
+"yapti"
+],
+[
+"altinda",
+"brezilya",
+"norris",
+"pole",
+"pozisyonu",
+"yagmur"
+],
+[
+"acti",
+"ates",
+"bitti",
+"kanli",
+"kisi",
+"pompali",
+"tartisma",
+"tufekle"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-07T21:40:00+00:00",
-"Sonsöz (Ankara)": "2026-11-07T20:06:00+00:00",
+"Haber Global": "2026-11-07T21:56:00+00:00",
+"Sonsöz (Ankara)": "2026-11-07T22:29:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-07T19:57:10+00:00",
-"Sözcü Son Dakika": "2026-11-07T21:47:07+00:00",
+"Sözcü Son Dakika": "2026-11-07T22:19:40+00:00",
 "Yeni Şafak Yerel": "2026-11-07T21:44:02+00:00",
 "X / Twitter Türkiye": "2026-11-07T21:15:40.898849+00:00",
 "Olay (Bursa)": "2026-11-07T21:07:40+00:00",
