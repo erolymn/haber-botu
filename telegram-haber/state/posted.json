@@ -1,12 +1,5 @@
 {
 "gonderilen": [
-"7bb17d063c326eca",
-"0064ec5875cd311a",
-"fdc63361178709c8",
-"1fbfe6f8f1a2c44a",
-"0a587a3349e5ca38",
-"2bfc0486d4333e9d",
-"e8b4d40d822b9cbf",
 "e141f18e26bfb6b6",
 "e1d1c3a3511cfae0",
 "2e8a136ed8c612ae",
@@ -2999,84 +2992,16 @@
 "ee76559a78d533fa",
 "81d0975ab7ab739d",
 "6dd079b70219102b",
-"82a03d7e4e9ab4a9"
+"82a03d7e4e9ab4a9",
+"21bfbf22c7581f00",
+"3b6e7ad20ef30dc5",
+"3502241233e0813f",
+"aa20ebb6de8796cc",
+"7a453464259a6bb1",
+"c838649ddbfaf9f8",
+"28567734146f50d5"
 ],
 "imzalar": [
-[
-"2027",
-"belli",
-"ehliyet",
-"harclari",
-"kadar",
-"olacak",
-"ucretleri"
-],
-[
-"abd",
-"ilk",
-"israil",
-"kazandi",
-"lobisine",
-"musluman",
-"nin",
-"ragmen",
-"senatoru"
-],
-[
-"alindi",
-"esi",
-"gizlice",
-"gorunce",
-"gozaltina",
-"isaretleri",
-"polisi",
-"yapti"
-],
-[
-"basina",
-"cezasi",
-"cikmadan",
-"direksiyon",
-"dusunun",
-"edin",
-"gecmeden",
-"iki",
-"kez",
-"kontrol",
-"mutlaka",
-"once",
-"yaptirimi",
-"yola"
-],
-[
-"avcilar",
-"duvari",
-"nedeniyle",
-"parkin",
-"saganak",
-"yikildi"
-],
-[
-"cikacak",
-"hakim",
-"hapis",
-"istemi",
-"karsisina",
-"paylasimi",
-"saniklar",
-"tehdit",
-"yapan",
-"yil"
-],
-[
-"dunya",
-"dusuyor",
-"hizla",
-"kaldi",
-"kurtarma",
-"operasyonu",
-"sonucsuz"
-],
 [
 "belozoglu",
 "edecek",
@@ -8914,19 +8839,98 @@
 "likir",
 "suyunu",
 "tasiyip"
+],
+[
+"betul",
+"cagrisi",
+"den",
+"fatma",
+"kaya",
+"ozel",
+"ozgur",
+"sayan",
+"ziyaret"
+],
+[
+"cikti",
+"galatasaray",
+"hali",
+"ortaya",
+"park",
+"rams",
+"tartismasi",
+"zemin"
+],
+[
+"2026",
+"duyurdu",
+"gunu",
+"kar",
+"kasim",
+"kente",
+"kodla",
+"lapa",
+"meteoroloji",
+"pazar",
+"sari",
+"yagacak"
+],
+[
+"ayak",
+"ceken",
+"detayi",
+"dikkat",
+"fenerbahce",
+"hts",
+"izi",
+"otobusune",
+"saldiri",
+"sorusturmasi"
+],
+[
+"acikladi",
+"baskani",
+"egitim",
+"egitimi",
+"kisalacak",
+"lisans",
+"ozvar",
+"suresi",
+"universite"
+],
+[
+"baskani",
+"belediye",
+"buyuksehir",
+"candan",
+"istifa",
+"parti",
+"tekirdag",
+"yeni",
+"yuceer"
+],
+[
+"cocuklarin",
+"dan",
+"destek",
+"liralik",
+"losemili",
+"milyar",
+"sgk",
+"tedavisine"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-07T13:04:00+00:00",
-"Sonsöz (Ankara)": "2026-11-07T13:11:00+00:00",
+"Haber Global": "2026-11-07T13:45:00+00:00",
+"Sonsöz (Ankara)": "2026-11-07T13:22:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-07T12:24:49+00:00",
-"Sözcü Son Dakika": "2026-11-07T13:13:36+00:00",
-"Yeni Şafak Yerel": "2026-11-07T13:08:10+00:00",
+"Mynet Son Dakika": "2026-11-07T13:46:36+00:00",
+"Sözcü Son Dakika": "2026-11-07T13:52:09+00:00",
+"Yeni Şafak Yerel": "2026-11-07T13:36:15+00:00",
 "X / Twitter Türkiye": "2026-11-07T12:34:22.982394+00:00",
-"Olay (Bursa)": "2026-11-07T11:57:27+00:00",
+"Olay (Bursa)": "2026-11-07T13:54:01+00:00",
 "@islamasalya": "2026-11-07T05:59:50+00:00",
-"Yeni Asır (İzmir)": "2026-11-07T13:11:22+00:00",
+"Yeni Asır (İzmir)": "2026-11-07T13:49:44+00:00",
 "İstanbul Gazetesi": "2026-11-07T12:54:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
