@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"e1350d1647d564bb",
-"0f8fdf09985e2fe1",
-"cc3955b14b0b63b4",
-"a4127d1e0f0a9669",
-"786499b46eda4790",
-"19bedc8ea6fe95e1",
-"44db8db1b99edede",
-"c9ac36c0707d2cbd",
 "96641a73f31c3cdd",
 "3bfe5e181a6a4372",
 "bf80be52ff05545c",
@@ -2999,78 +2991,17 @@
 "41d9f37683103f78",
 "9d065814c2774f20",
 "b0cfa3792bba6392",
-"a2d3f00fe3564405"
+"a2d3f00fe3564405",
+"cdf200d6aee3eb8b",
+"6f681aff7974d1fc",
+"066557ab63d2c2a0",
+"93f8cf39cdd091b6",
+"f52501427976f93d",
+"a9acfad3baf3dad8",
+"18d80ba07af8101b",
+"d4d50d1d07b0d4e2"
 ],
 "imzalar": [
-[
-"fiyatlari",
-"haftalik",
-"kayip",
-"petrol",
-"sikisti",
-"suruyor"
-],
-[
-"cikisi",
-"cuma",
-"gibi",
-"istanbul",
-"kilit",
-"trafigi"
-],
-[
-"istanbul",
-"saganak",
-"trafigi",
-"vurdu",
-"yagis",
-"yogunluk",
-"yuzde"
-],
-[
-"atama",
-"bakanligi",
-"donem",
-"kurasi",
-"saglik",
-"zaman"
-],
-[
-"ali",
-"baskani",
-"belediye",
-"boltac",
-"katildi",
-"parti",
-"tarsus",
-"yeni"
-],
-[
-"buldu",
-"kilif",
-"trump",
-"yenilgiye"
-],
-[
-"beklentisi",
-"benzin",
-"dogdu",
-"indirim",
-"motorine",
-"petrol",
-"tepetaklak"
-],
-[
-"abd",
-"ceken",
-"dan",
-"destekliyoruz",
-"dikkat",
-"ilgili",
-"iran",
-"mesaj",
-"secimleriyle"
-],
 [
 "devler",
 "galatasaray",
@@ -8906,20 +8837,105 @@
 "ticari",
 "ulke",
 "yenisehir"
+],
+[
+"abd",
+"dolar",
+"duyurdu",
+"edene",
+"ihbar",
+"milyon"
+],
+[
+"bakin",
+"ceza",
+"dev",
+"kacan",
+"kadar",
+"kesildi",
+"polisten",
+"surucuye"
+],
+[
+"hedefi",
+"hisar",
+"jet",
+"motorlu",
+"otonom",
+"vurdu"
+],
+[
+"885",
+"ankara",
+"garantisi",
+"gari",
+"hazine",
+"milyon",
+"nda",
+"odeyecek",
+"tren",
+"tutmadi",
+"yolcu"
+],
+[
+"basbakani",
+"cozumun",
+"egemen",
+"esitligimizin",
+"kktc",
+"sartidir",
+"tescili",
+"ustel"
+],
+[
+"agirligi",
+"alinacak",
+"duzenleme",
+"esas",
+"eti",
+"fiyatlarinda",
+"gazete",
+"karkas",
+"resmi",
+"sicak",
+"sigir",
+"yayimlandi",
+"yeni"
+],
+[
+"adim",
+"alperen",
+"ilk",
+"mvp",
+"nba",
+"sengun",
+"siralamasinda",
+"zirvesine"
+],
+[
+"buyukisik",
+"cikti",
+"davasi",
+"dorukhan",
+"durusma",
+"karar",
+"saat",
+"sonrasinda",
+"suren"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-07T09:09:00+00:00",
-"Sonsöz (Ankara)": "2026-11-07T09:07:00+00:00",
+"Haber Global": "2026-11-07T09:51:00+00:00",
+"Sonsöz (Ankara)": "2026-11-07T09:42:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-07T06:59:10+00:00",
-"Sözcü Son Dakika": "2026-11-07T09:09:49+00:00",
-"Yeni Şafak Yerel": "2026-11-07T09:13:00+00:00",
+"Mynet Son Dakika": "2026-11-07T09:15:52+00:00",
+"Sözcü Son Dakika": "2026-11-07T09:52:28+00:00",
+"Yeni Şafak Yerel": "2026-11-07T09:44:10+00:00",
 "X / Twitter Türkiye": "2026-11-07T09:13:43.023681+00:00",
-"Olay (Bursa)": "2026-11-07T09:13:15+00:00",
+"Olay (Bursa)": "2026-11-07T09:23:15+00:00",
 "@islamasalya": "2026-11-07T05:59:50+00:00",
-"Yeni Asır (İzmir)": "2026-11-07T09:07:04+00:00",
-"İstanbul Gazetesi": "2026-11-07T08:58:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-07T09:46:59+00:00",
+"İstanbul Gazetesi": "2026-11-07T09:39:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
 }
