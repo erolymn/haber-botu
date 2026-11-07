@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"5ffda2bb242bbcd6",
-"ce0844603b24a79c",
-"8b0842cc5d39eadc",
 "edf8fbf93c7492ad",
 "25d4f722e4fc5c2a",
 "f122e705a1d11219",
@@ -2999,41 +2996,12 @@
 "23a89e2708f479e0",
 "cac3882118908679",
 "b942ff4f3b073b8e",
-"f5216096103b489f"
+"f5216096103b489f",
+"605f46e4d45f1acf",
+"0be19eb004027f14",
+"82889fed710a6e7e"
 ],
 "imzalar": [
-[
-"belli",
-"bilancosu",
-"ilcelerde",
-"istanbul",
-"miktari",
-"saatteki",
-"saganak",
-"yagis",
-"yagisin",
-"zirvede"
-],
-[
-"afad",
-"bahcelievler",
-"donusum",
-"kentsel",
-"sunumunda",
-"verildi",
-"yer"
-],
-[
-"ara",
-"avrupa",
-"getirecek",
-"neleri",
-"secim",
-"sonrasini",
-"tartisiyor",
-"trump",
-"yenilgisi"
-],
 [
 "dustu",
 "guncel",
@@ -8964,15 +8932,45 @@
 "sonrasi",
 "toparliyordu",
 "yasadi"
+],
+[
+"eisenkot",
+"hukumet",
+"israil",
+"kurma",
+"verildi",
+"yetkisi"
+],
+[
+"200",
+"acun",
+"arsenal",
+"city",
+"deki",
+"hull",
+"ilicali",
+"kaybetti",
+"lig",
+"macinda",
+"nin",
+"premier",
+"takimi"
+],
+[
+"dan",
+"galatasaray",
+"gol",
+"gondermeli",
+"sevinci"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-07T18:47:00+00:00",
+"Haber Global": "2026-11-07T19:50:00+00:00",
 "Sonsöz (Ankara)": "2026-11-07T18:58:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-07T17:44:10+00:00",
-"Sözcü Son Dakika": "2026-11-07T19:10:26+00:00",
-"Yeni Şafak Yerel": "2026-11-07T19:10:21+00:00",
+"Sözcü Son Dakika": "2026-11-07T19:50:53+00:00",
+"Yeni Şafak Yerel": "2026-11-07T19:33:16+00:00",
 "X / Twitter Türkiye": "2026-11-07T18:35:04.147779+00:00",
 "Olay (Bursa)": "2026-11-07T16:31:53+00:00",
 "@islamasalya": "2026-11-07T16:45:34+00:00",
