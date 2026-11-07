@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"810300e238603340",
-"42e64621cc11cf6f",
-"93967fbbab53a8d4",
-"4f3ae13be4db3ebc",
 "5ffda2bb242bbcd6",
 "ce0844603b24a79c",
 "8b0842cc5d39eadc",
@@ -2999,46 +2995,13 @@
 "cd8b3a0439ff072f",
 "e9ea234524022809",
 "869fac5b17c6111e",
-"4b87ff97488f0ac9"
+"4b87ff97488f0ac9",
+"23a89e2708f479e0",
+"cac3882118908679",
+"b942ff4f3b073b8e",
+"f5216096103b489f"
 ],
 "imzalar": [
-[
-"anneleri",
-"baris",
-"gorustu",
-"heyetiyle",
-"kurtulmus"
-],
-[
-"betul",
-"cagrildi",
-"esi",
-"fatma",
-"ifadeye",
-"kaya",
-"sayan"
-],
-[
-"ankara",
-"cifte",
-"dan",
-"inandiriciligini",
-"rapor",
-"standartli",
-"tepkisi",
-"yitirmis",
-"zihniyet"
-],
-[
-"ankara",
-"festivali",
-"film",
-"gunluk",
-"maratonu",
-"sinema",
-"tarih",
-"verildi"
-],
 [
 "belli",
 "bilancosu",
@@ -8954,15 +8917,62 @@
 "odullendirildi",
 "sinemasi",
 "turk"
+],
+[
+"anadolu",
+"kar",
+"kazaya",
+"nda",
+"neden",
+"otoyolu",
+"yarali",
+"zincirleme"
+],
+[
+"500",
+"beyaza",
+"bin",
+"burundu",
+"gecit",
+"gosterdi",
+"kis",
+"kutahya",
+"rakimli",
+"yuzunu"
+],
+[
+"aktaracagiz",
+"asrin",
+"bakan",
+"dunyaya",
+"insasi",
+"kurum",
+"ndaki",
+"tecrubemizi",
+"tum"
+],
+[
+"acan",
+"annesinin",
+"derin",
+"dondurucuyu",
+"esyalarini",
+"hayatinin",
+"kadin",
+"olumu",
+"sokunu",
+"sonrasi",
+"toparliyordu",
+"yasadi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-07T17:54:00+00:00",
-"Sonsöz (Ankara)": "2026-11-07T17:30:00+00:00",
+"Haber Global": "2026-11-07T18:47:00+00:00",
+"Sonsöz (Ankara)": "2026-11-07T18:58:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-07T17:44:10+00:00",
-"Sözcü Son Dakika": "2026-11-07T18:26:52+00:00",
-"Yeni Şafak Yerel": "2026-11-07T18:32:01+00:00",
+"Sözcü Son Dakika": "2026-11-07T19:10:26+00:00",
+"Yeni Şafak Yerel": "2026-11-07T19:10:21+00:00",
 "X / Twitter Türkiye": "2026-11-07T18:35:04.147779+00:00",
 "Olay (Bursa)": "2026-11-07T16:31:53+00:00",
 "@islamasalya": "2026-11-07T16:45:34+00:00",
