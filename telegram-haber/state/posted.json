@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"198ed398a64970ad",
-"01047658b5cb15fc",
-"1eab7256e506ead6",
-"7769b876bff4f953",
 "a8dffd9c6b1d7795",
 "79c65b1f9e4e6bee",
 "3785dbeca8648cdd",
@@ -2999,56 +2995,13 @@
 "92dc23f219af38b3",
 "22be2833c690f37f",
 "77ac5a206e5d47e4",
-"d16c2408b095c857"
+"d16c2408b095c857",
+"eaf2c9e04e3ac5ba",
+"1c8154647bc70d4b",
+"0b3da1cbbf7d81cf",
+"29834109b12ca97b"
 ],
 "imzalar": [
-[
-"batrakov",
-"galatasaray",
-"gecen",
-"iyi",
-"macinin",
-"oyuncusu",
-"secildi",
-"stuttgart",
-"tarihine"
-],
-[
-"gosterdi",
-"heyete",
-"kizdiran",
-"olay",
-"osimhen",
-"park",
-"rams",
-"sert",
-"teknik",
-"tepki"
-],
-[
-"abd",
-"alarmi",
-"cikti",
-"dogu",
-"fettah",
-"gozdagi",
-"nin",
-"orta",
-"ortaya",
-"plani",
-"savas",
-"tahran",
-"verdi"
-],
-[
-"akp",
-"arastirilmasini",
-"borsa",
-"fon",
-"iddialarinin",
-"mhp",
-"reddetti"
-],
 [
 "bursa",
 "carpisti",
@@ -8929,19 +8882,56 @@
 "somonu",
 "turk",
 "zirvede"
+],
+[
+"aciklama",
+"alarmi",
+"dagitiliyor",
+"halka",
+"iddiasina",
+"iran",
+"iyot",
+"nukleer",
+"saldiri"
+],
+[
+"cuvala",
+"sigmadi"
+],
+[
+"bicerdover",
+"canini",
+"goruntulendi",
+"gorusmus",
+"katliamin",
+"koy",
+"muhtariyla",
+"sebebi",
+"sikan",
+"telefonda"
+],
+[
+"adresi",
+"belli",
+"emeklilerin",
+"izmir",
+"kirdilar",
+"oraya",
+"rotayi",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-07T03:36:00+00:00",
+"Haber Global": "2026-11-07T04:10:00+00:00",
 "Sonsöz (Ankara)": "2026-11-07T03:36:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-06T20:11:45+00:00",
-"Sözcü Son Dakika": "2026-11-07T02:30:16+00:00",
+"Mynet Son Dakika": "2026-11-07T04:22:35+00:00",
+"Sözcü Son Dakika": "2026-11-07T04:19:37+00:00",
 "Yeni Şafak Yerel": "2026-11-07T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-07T03:13:12.658056+00:00",
 "Olay (Bursa)": "2026-11-07T02:25:28+00:00",
 "@islamasalya": "2026-11-06T21:06:59+00:00",
-"Yeni Asır (İzmir)": "2026-11-07T03:50:16+00:00",
+"Yeni Asır (İzmir)": "2026-11-07T04:25:01+00:00",
 "İstanbul Gazetesi": "2026-11-06T19:46:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
