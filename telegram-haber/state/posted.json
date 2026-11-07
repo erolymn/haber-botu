@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"8a0d7b864a7d2f48",
-"c2dc49020327fa08",
-"e185c30b4d6c7915",
-"3cdb9b14ac6ea4bf",
 "57c1761f49784277",
 "316525c70774a749",
 "846af16695099bdc",
@@ -2999,38 +2995,13 @@
 "c151667cd1b548f4",
 "395297350e7a0d39",
 "704288762146f277",
-"9a21b2334e31a554"
+"9a21b2334e31a554",
+"5f44ed683d838e19",
+"336a9680939eb816",
+"edcc785df9487ec0",
+"92dc23f219af38b3"
 ],
 "imzalar": [
-[
-"baslatildi",
-"bomba",
-"dan",
-"gemisine",
-"gidecek",
-"ihbari",
-"inceleme",
-"israil",
-"yolcu",
-"yunanistan"
-],
-[
-"bursa",
-"cezasi",
-"denetimi",
-"korsan",
-"lira",
-"para",
-"taksi",
-"uygulandi",
-"yuzbinlerce"
-],
-[
-"amerika",
-"gece",
-"iran",
-"vuracak"
-],
 [
 "aciklanacak",
 "canli",
@@ -8946,16 +8917,42 @@
 "tabela",
 "vefa",
 "yazili"
+],
+[
+"benim",
+"kizim"
+],
+[
+"adayi",
+"ceken",
+"dikkat",
+"feridun",
+"genel",
+"mesaj",
+"ndan",
+"nin",
+"sekreter",
+"sinirlioglu",
+"turkiye"
+],
+[
+"cbs",
+"hakkinda",
+"konustu",
+"news",
+"secim",
+"sonuclari",
+"trump"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-07T02:00:00+00:00",
-"Sonsöz (Ankara)": "2026-11-07T01:01:00+00:00",
+"Haber Global": "2026-11-07T02:32:00+00:00",
+"Sonsöz (Ankara)": "2026-11-07T02:48:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-06T20:11:45+00:00",
-"Sözcü Son Dakika": "2026-11-06T22:03:26+00:00",
+"Sözcü Son Dakika": "2026-11-07T02:30:16+00:00",
 "Yeni Şafak Yerel": "2026-11-07T01:00:00+00:00",
-"X / Twitter Türkiye": "2026-11-07T00:33:12.155180+00:00",
+"X / Twitter Türkiye": "2026-11-07T03:13:12.658056+00:00",
 "Olay (Bursa)": "2026-11-07T02:25:28+00:00",
 "@islamasalya": "2026-11-06T21:06:59+00:00",
 "Yeni Asır (İzmir)": "2026-11-06T19:53:01+00:00",
