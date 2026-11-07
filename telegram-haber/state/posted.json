@@ -1,11 +1,5 @@
 {
 "gonderilen": [
-"edf8fbf93c7492ad",
-"25d4f722e4fc5c2a",
-"f122e705a1d11219",
-"bb0a0babfbef5ffd",
-"58611482e051f499",
-"e9aebd30d4f52180",
 "5974b27474e8d01f",
 "266e3487a3c0c3b5",
 "15de7eb9e44a2a87",
@@ -2999,72 +2993,15 @@
 "f5216096103b489f",
 "605f46e4d45f1acf",
 "0be19eb004027f14",
-"82889fed710a6e7e"
+"82889fed710a6e7e",
+"fce3ff1f789f350f",
+"32c0eb7f9ba3da48",
+"622d6f52c0b3f266",
+"db3441065dc2573e",
+"aef9808ab0609f0d",
+"80f329fd120d3e93"
 ],
 "imzalar": [
-[
-"dustu",
-"guncel",
-"istanbul",
-"saganak",
-"sonrasi",
-"tablo",
-"uskudar",
-"yagis"
-],
-[
-"000",
-"dyson",
-"evinizde",
-"hijyen",
-"indirim",
-"mukemmel",
-"saglayan",
-"submarine",
-"supurgede",
-"v12s"
-],
-[
-"alan",
-"belli",
-"etkili",
-"ilce",
-"istanbul",
-"saganak",
-"yagis"
-],
-[
-"avrupa",
-"disisleri",
-"iddialari",
-"komisyonu",
-"mesnetsiz",
-"nden",
-"reddediyoruz",
-"tepki"
-],
-[
-"gununde",
-"izmir",
-"kapali",
-"keyifli",
-"mekan",
-"rotalari",
-"sehrin",
-"yagmurlu",
-"yapilir"
-],
-[
-"ask",
-"buruk",
-"hakkinda",
-"iddiasi",
-"ikisini",
-"isim",
-"okan",
-"surpriz",
-"tanistirmis"
-],
 [
 "cilesi",
 "doldu",
@@ -8962,20 +8899,81 @@
 "gol",
 "gondermeli",
 "sevinci"
+],
+[
+"eisenkot",
+"gadi",
+"gorevini",
+"herzog",
+"hukumeti",
+"kurma",
+"verdi"
+],
+[
+"gorevlendirildi",
+"isim",
+"israil",
+"netanyahu",
+"rakip"
+],
+[
+"2026",
+"anadolu",
+"ankasi",
+"milli",
+"tamamlandi",
+"tatbikati"
+],
+[
+"alamazsiniz",
+"amedspor",
+"besnik",
+"buradan",
+"direktoru",
+"gol",
+"hasi",
+"puan",
+"teknik",
+"yerseniz"
+],
+[
+"cumhurbaskani",
+"gorevini",
+"hukumeti",
+"israil",
+"kurma",
+"netanyahu",
+"nun",
+"rakibine",
+"verdi"
+],
+[
+"adamin",
+"cektigi",
+"cigligi",
+"cileye",
+"dagladi",
+"eklendi",
+"filistinli",
+"gazzeli",
+"hava",
+"muslumanlarin",
+"soguk",
+"yurekleri"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-07T19:50:00+00:00",
-"Sonsöz (Ankara)": "2026-11-07T18:58:00+00:00",
+"Haber Global": "2026-11-07T20:27:00+00:00",
+"Sonsöz (Ankara)": "2026-11-07T20:06:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-07T17:44:10+00:00",
-"Sözcü Son Dakika": "2026-11-07T19:50:53+00:00",
-"Yeni Şafak Yerel": "2026-11-07T19:33:16+00:00",
+"Mynet Son Dakika": "2026-11-07T19:57:10+00:00",
+"Sözcü Son Dakika": "2026-11-07T20:27:23+00:00",
+"Yeni Şafak Yerel": "2026-11-07T20:29:04+00:00",
 "X / Twitter Türkiye": "2026-11-07T18:35:04.147779+00:00",
 "Olay (Bursa)": "2026-11-07T16:31:53+00:00",
 "@islamasalya": "2026-11-07T16:45:34+00:00",
 "Yeni Asır (İzmir)": "2026-11-07T18:26:41+00:00",
-"İstanbul Gazetesi": "2026-11-07T18:14:00+00:00",
+"İstanbul Gazetesi": "2026-11-07T20:17:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
 }
