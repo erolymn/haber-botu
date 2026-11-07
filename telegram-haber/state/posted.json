@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"05fc951be70b8cef",
-"f5f8ea5f9b8b08f9",
-"6b62b7e918e172f6",
 "70b11ac6f1e377dc",
 "d974af557a8611ea",
 "c1cec91b1bf1adbd",
@@ -2999,34 +2996,12 @@
 "5c7f39e0aa3361d1",
 "fd6444cb406166fa",
 "a52e7e863aa4e156",
-"04a8fb4462f1b348"
+"04a8fb4462f1b348",
+"736544cb4c54fc40",
+"622c8c99a2b1323f",
+"c151667cd1b548f4"
 ],
 "imzalar": [
-[
-"ankara",
-"azerbaycan",
-"buyukelciligi",
-"gunu",
-"nden",
-"resepsiyonu",
-"zafer"
-],
-[
-"parabadmintonda",
-"sporcu",
-"sultangazili",
-"turkiye"
-],
-[
-"deniz",
-"galatasaray",
-"karistirdi",
-"macinda",
-"olay",
-"ortaligi",
-"undav",
-"yine"
-],
 [
 "cikti",
 "iscilerin",
@@ -8942,15 +8917,36 @@
 "rakam",
 "ten",
 "watergate"
+],
+[
+"esenler",
+"kaza",
+"yarali",
+"zincirleme"
+],
+[
+"200",
+"bin",
+"lik",
+"tutkusu",
+"viski"
+],
+[
+"ankara",
+"cikti",
+"hali",
+"kavga",
+"saha",
+"turnuvasinda"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-06T23:40:00+00:00",
-"Sonsöz (Ankara)": "2026-11-06T23:04:00+00:00",
+"Haber Global": "2026-11-07T00:52:00+00:00",
+"Sonsöz (Ankara)": "2026-11-07T01:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-06T20:11:45+00:00",
 "Sözcü Son Dakika": "2026-11-06T22:03:26+00:00",
-"Yeni Şafak Yerel": "2026-11-06T23:59:16+00:00",
+"Yeni Şafak Yerel": "2026-11-07T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-07T00:33:12.155180+00:00",
 "Olay (Bursa)": "2026-11-06T21:07:06+00:00",
 "@islamasalya": "2026-11-06T21:06:59+00:00",
