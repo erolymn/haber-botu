@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"bf9abed95499cee9",
-"fe6e50016fbe9819",
-"823620ce40c6d859",
-"bb72df25c382963a",
-"930d07a37cd52ecd",
-"9ac8d3c77fa081ef",
-"66253a702f2a3c8b",
-"eb98ad555a79672c",
 "fb67ca179de25539",
 "5432ef3fe37e2a7f",
 "0d8b66332ec5c1fc",
@@ -2999,80 +2991,17 @@
 "3144df27f292393b",
 "4ea35e7e3386ddb8",
 "76879d0fb802f90f",
-"fa928a5e87daf53e"
+"fa928a5e87daf53e",
+"2e6885208d191e6a",
+"9950adf0d3238955",
+"825df29e02e6fc74",
+"1d4664cbe1f2d2e9",
+"3d50b78668a1f253",
+"8dd4b840e549a10b",
+"2472eabd61863718",
+"282db4f571491c3d"
 ],
 "imzalar": [
-[
-"bati",
-"filistinli",
-"iki",
-"israil",
-"operasyon",
-"ordusundan",
-"seria",
-"yaralandi"
-],
-[
-"abd",
-"heyecani",
-"ilk",
-"iste",
-"kapandi",
-"sandiklar",
-"secim",
-"sonuclar"
-],
-[
-"ardindan",
-"bakan",
-"ispanya",
-"istifa",
-"kazasinin",
-"kisinin",
-"oldugu",
-"tren"
-],
-[
-"aciklamasi",
-"acil",
-"devam",
-"ederken",
-"iran",
-"islemleri",
-"planimiz",
-"tan",
-"trump",
-"verme"
-],
-[
-"abd",
-"acil",
-"baskani",
-"iran",
-"konusunda",
-"planim",
-"saldirmak",
-"trump"
-],
-[
-"anlama",
-"arastirmadan",
-"carpici",
-"cozuldu",
-"kadinlarin",
-"sirri",
-"sonuc",
-"yalani"
-],
-[
-"aile",
-"anne",
-"gece",
-"katliami",
-"kizi",
-"yarali",
-"yarisi"
-],
 [
 "acikladi",
 "canli",
@@ -8918,19 +8847,95 @@
 "pasaport",
 "yesil",
 "yolunda"
+],
+[
+"gazze"
+],
+[
+"2026",
+"acikogretim",
+"anadolu",
+"aof",
+"ara",
+"donemi",
+"fakultesi",
+"guz",
+"sinavlari",
+"tarihleri",
+"universitesi",
+"vize"
+],
+[
+"2027",
+"aidatlar",
+"artislar",
+"asti",
+"basliyor",
+"bile",
+"donemi",
+"edildi",
+"fahis",
+"fiyatlarini",
+"isaret",
+"kira",
+"lisans"
+],
+[
+"100",
+"altina",
+"geriledi",
+"indirim",
+"liranin",
+"motorine",
+"yeniden"
+],
+[
+"ayaklandi",
+"cig",
+"dursun",
+"galatasaray",
+"gibi",
+"osimhen",
+"ozbek",
+"sakatlanmasi",
+"sonrasi",
+"taraftari",
+"tepkiler"
+],
+[
+"alacaklar",
+"direnisi",
+"imbat",
+"kazandi",
+"madencilerinin",
+"odendi",
+"tum"
+],
+[
+"dunya",
+"getirdi",
+"ihracattaki",
+"kadinlarin",
+"nden",
+"odul",
+"orgutu",
+"rolu",
+"ticaret",
+"turkiye",
+"uluslararasi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-07T05:26:00+00:00",
-"Sonsöz (Ankara)": "2026-11-07T03:36:00+00:00",
+"Haber Global": "2026-11-07T06:25:00+00:00",
+"Sonsöz (Ankara)": "2026-11-07T06:29:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-07T05:27:11+00:00",
-"Sözcü Son Dakika": "2026-11-07T05:46:29+00:00",
-"Yeni Şafak Yerel": "2026-11-07T05:44:18+00:00",
-"X / Twitter Türkiye": "2026-11-07T03:13:12.658056+00:00",
+"Mynet Son Dakika": "2026-11-07T06:24:37+00:00",
+"Sözcü Son Dakika": "2026-11-07T06:28:21+00:00",
+"Yeni Şafak Yerel": "2026-11-07T06:29:58+00:00",
+"X / Twitter Türkiye": "2026-11-07T06:33:43.254849+00:00",
 "Olay (Bursa)": "2026-11-07T02:25:28+00:00",
-"@islamasalya": "2026-11-06T21:06:59+00:00",
-"Yeni Asır (İzmir)": "2026-11-07T05:42:04+00:00",
+"@islamasalya": "2026-11-07T05:59:50+00:00",
+"Yeni Asır (İzmir)": "2026-11-07T06:23:42+00:00",
 "İstanbul Gazetesi": "2026-11-06T19:46:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
