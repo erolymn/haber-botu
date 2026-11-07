@@ -1,12 +1,5 @@
 {
 "gonderilen": [
-"acff962f04f246eb",
-"9224d9c7ad4719d8",
-"ca5fe8d389a885b4",
-"2542a31f338fcb41",
-"d7eb067f2d233f34",
-"2445ac4ada22a351",
-"d20937e2a37b9cf0",
 "67e0d2bc75f6166e",
 "706656df0b3cc0a4",
 "97edfab516060c54",
@@ -2999,84 +2992,16 @@
 "673a3c79491b9c36",
 "2391822237b400f9",
 "7c9a6524ce146661",
-"e4507bdb44e7c0d4"
+"e4507bdb44e7c0d4",
+"1f9d83101e7ad9e8",
+"43a91ee99deff18a",
+"46b4380c56130336",
+"b22bc953fc4c8faa",
+"152d4e499709e2d5",
+"44663aeb6f459069",
+"3fe1762f2eccaf10"
 ],
 "imzalar": [
-[
-"carpisma",
-"feci",
-"kisi",
-"turgutlu",
-"yasamini",
-"yitirdi"
-],
-[
-"200",
-"dolar",
-"dus",
-"elon",
-"harcamisti",
-"kalesinde",
-"milyon",
-"musk",
-"soguk",
-"trump"
-],
-[
-"abd",
-"eyaletlerde",
-"ilk",
-"siyahi",
-"tarih",
-"valiler",
-"yazdi"
-],
-[
-"farkindalik",
-"gorunmeyen",
-"gunu",
-"kasim",
-"modern",
-"sorunu",
-"stres",
-"yasamin"
-],
-[
-"aciklama",
-"ilk",
-"kazanirdik",
-"olsaydim",
-"pusulasinda",
-"secim",
-"sonrasi",
-"tan",
-"trump",
-"yenilgisi"
-],
-[
-"abd",
-"ara",
-"ceken",
-"dikkat",
-"kirildi",
-"rekor",
-"secimlerinde",
-"sonuclar",
-"yillik"
-],
-[
-"adim",
-"atti",
-"bugdayi",
-"filiz",
-"geri",
-"ifadesini",
-"kaldirmisti",
-"makarna",
-"sonrasi",
-"tepkiler",
-"turk"
-],
 [
 "ben",
 "hezimeti",
@@ -8922,20 +8847,102 @@
 "ode",
 "tan",
 "whatsapp"
+],
+[
+"antakya",
+"asi",
+"balik",
+"balikciyim",
+"daki",
+"goruyorum",
+"ilk",
+"kez",
+"nde",
+"neden",
+"nehri",
+"saskinliga",
+"tutulan",
+"yildir"
+],
+[
+"alanlar",
+"alinmasi",
+"beklenen",
+"genisliyor",
+"icilmeyen",
+"iste",
+"kapsamina",
+"sigara",
+"yasak",
+"yerler"
+],
+[
+"cig",
+"destekli",
+"erken",
+"karsi",
+"riskine",
+"sistemi",
+"uyari",
+"yapay",
+"zeka"
+],
+[
+"acikladi",
+"bakan",
+"havalimanlarinda",
+"kati",
+"nufusunun",
+"rekoru",
+"tasindi",
+"turkiye",
+"uraloglu",
+"yolcu"
+],
+[
+"ayrilacak",
+"belli",
+"belozoglu",
+"emre",
+"ilk",
+"isim",
+"kadroya",
+"ndan",
+"nester"
+],
+[
+"aciklandi",
+"antep",
+"badem",
+"fistigindan",
+"iceriyor",
+"kuruyemis",
+"omega",
+"saglikli"
+],
+[
+"bakan",
+"ciftci",
+"duyurdu",
+"eklenecek",
+"okul",
+"onlemler",
+"saldirilarina",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-07T07:01:00+00:00",
-"Sonsöz (Ankara)": "2026-11-07T06:58:00+00:00",
+"Haber Global": "2026-11-07T07:42:00+00:00",
+"Sonsöz (Ankara)": "2026-11-07T07:38:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-07T06:59:10+00:00",
-"Sözcü Son Dakika": "2026-11-07T07:10:34+00:00",
-"Yeni Şafak Yerel": "2026-11-07T07:08:22+00:00",
+"Sözcü Son Dakika": "2026-11-07T07:47:34+00:00",
+"Yeni Şafak Yerel": "2026-11-07T07:37:50+00:00",
 "X / Twitter Türkiye": "2026-11-07T06:33:43.254849+00:00",
-"Olay (Bursa)": "2026-11-07T07:12:31+00:00",
+"Olay (Bursa)": "2026-11-07T07:53:12+00:00",
 "@islamasalya": "2026-11-07T05:59:50+00:00",
-"Yeni Asır (İzmir)": "2026-11-07T06:54:49+00:00",
-"İstanbul Gazetesi": "2026-11-07T07:04:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-07T07:39:32+00:00",
+"İstanbul Gazetesi": "2026-11-07T07:39:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
 }
