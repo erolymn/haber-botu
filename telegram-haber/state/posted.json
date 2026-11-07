@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"4f12e434a2a7e592",
-"242e0f04509bef2d",
 "05fc951be70b8cef",
 "f5f8ea5f9b8b08f9",
 "6b62b7e918e172f6",
@@ -2999,19 +2997,11 @@
 "333b91f772b37352",
 "16eddce6686b7fde",
 "5c7f39e0aa3361d1",
-"fd6444cb406166fa"
+"fd6444cb406166fa",
+"a52e7e863aa4e156",
+"04a8fb4462f1b348"
 ],
 "imzalar": [
-[
-"anlatim",
-"canli",
-"galatasaray",
-"hafta",
-"ligi",
-"maci",
-"sampiyonlar",
-"stuttgart"
-],
 [
 "ankara",
 "azerbaycan",
@@ -8946,6 +8936,12 @@
 "sirketin",
 "spk",
 "suc"
+],
+[
+"buyuk",
+"rakam",
+"ten",
+"watergate"
 ]
 ],
 "son_tarih": {
@@ -8954,8 +8950,8 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-06T20:11:45+00:00",
 "Sözcü Son Dakika": "2026-11-06T22:03:26+00:00",
-"Yeni Şafak Yerel": "2026-11-06T21:40:17+00:00",
-"X / Twitter Türkiye": "2026-11-06T21:12:49.461938+00:00",
+"Yeni Şafak Yerel": "2026-11-06T23:59:16+00:00",
+"X / Twitter Türkiye": "2026-11-07T00:33:12.155180+00:00",
 "Olay (Bursa)": "2026-11-06T21:07:06+00:00",
 "@islamasalya": "2026-11-06T21:06:59+00:00",
 "Yeni Asır (İzmir)": "2026-11-06T19:53:01+00:00",
