@@ -1,10 +1,5 @@
 {
 "gonderilen": [
-"c685e9885dab866f",
-"25081a3db9892d67",
-"b5ed24fd6be0929a",
-"c9333955a00b7c73",
-"7a2034da32e8f6b5",
 "7c64855e3f6f66f3",
 "25e22ed494e2eb63",
 "eb3ad210bdfc43df",
@@ -2999,58 +2994,14 @@
 "ddab57d12253cde1",
 "1b6e83db971629ba",
 "6cb26097b58f95c8",
-"13c8e6aa1fbc35c0"
+"13c8e6aa1fbc35c0",
+"d7b5b038ae0b1dff",
+"d4ef9c98fc6da67d",
+"390182cbfa6ac3e0",
+"d8b364d88587e1a1",
+"72e136a4a6db04dc"
 ],
 "imzalar": [
-[
-"milli",
-"portekiz",
-"ronaldo",
-"takimi",
-"veda"
-],
-[
-"bagcilar",
-"basladi",
-"kongresi",
-"maarif",
-"modeli",
-"turkiye",
-"yuzyili"
-],
-[
-"altinda",
-"collesme",
-"felaket",
-"igneada",
-"longozlarda",
-"sessiz",
-"tehdidi"
-],
-[
-"240",
-"cikti",
-"den",
-"dustu",
-"fiyati",
-"iki",
-"katina",
-"kentte",
-"tuketimi"
-],
-[
-"binlerce",
-"buyuyor",
-"canli",
-"cilginligi",
-"izliyor",
-"kisi",
-"neler",
-"oluyor",
-"slime",
-"tiktok",
-"yayinda"
-],
 [
 "asrin",
 "buyuk",
@@ -8918,20 +8869,71 @@
 "tiyatrocu",
 "usta",
 "yasinda"
+],
+[
+"azerbaycan",
+"cumhurbaskani",
+"dan",
+"erdogan",
+"iliskin",
+"paylasim",
+"ziyaretine"
+],
+[
+"baskani",
+"cop31",
+"duran",
+"eylemini",
+"iklim",
+"iletisim",
+"somut",
+"sonuclara",
+"tasiyacak"
+],
+[
+"aliyev",
+"azerbaycan",
+"ceken",
+"dan",
+"dikkat",
+"erdogan",
+"fotografi",
+"paylasimi"
+],
+[
+"agaci",
+"devrildi",
+"evin",
+"kokunden",
+"osmaniye",
+"ruzgar",
+"siddetli",
+"soktu",
+"uzerine"
+],
+[
+"duzce",
+"funye",
+"onunde",
+"paket",
+"panigi",
+"patlatildi",
+"supheli",
+"valiligi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-08T15:56:00+00:00",
-"Sonsöz (Ankara)": "2026-11-08T16:04:00+00:00",
+"Haber Global": "2026-11-08T16:55:00+00:00",
+"Sonsöz (Ankara)": "2026-11-08T17:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-08T11:23:31+00:00",
-"Sözcü Son Dakika": "2026-11-08T16:35:16+00:00",
-"Yeni Şafak Yerel": "2026-11-08T16:23:43+00:00",
+"Sözcü Son Dakika": "2026-11-08T17:03:29+00:00",
+"Yeni Şafak Yerel": "2026-11-08T17:15:11+00:00",
 "X / Twitter Türkiye": "2026-11-08T15:17:28.384481+00:00",
 "Olay (Bursa)": "2026-11-08T15:50:43+00:00",
 "@islamasalya": "2026-11-08T13:09:41+00:00",
 "Yeni Asır (İzmir)": "2026-11-08T15:47:32+00:00",
-"İstanbul Gazetesi": "2026-11-08T16:22:00+00:00",
+"İstanbul Gazetesi": "2026-11-08T16:51:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
 }
