@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"34d75fdfdb8098b7",
-"3da0f2aa480a7956",
-"0ae08544dc771514",
 "61bb0d440f52faff",
 "63f9ae04e5a0221e",
 "0137e2d71feea28e",
@@ -2999,30 +2996,12 @@
 "8ae8ac30425dcffb",
 "e66e1a16d841078b",
 "c6164380aadbac7e",
-"1308388e63450b1c"
+"1308388e63450b1c",
+"8a0d813ed78eb482",
+"c72888f676b9f07f",
+"77bf9f057807acb3"
 ],
 "imzalar": [
-[
-"fenerbahceliler",
-"greenwood",
-"itiraz",
-"penalti",
-"pozisyonu"
-],
-[
-"alfred",
-"donemi",
-"kasimpasa",
-"schreuder"
-],
-[
-"hapsi",
-"saldiran",
-"skuter",
-"surucusune",
-"surucuye",
-"umraniye"
-],
 [
 "abd",
 "acikladi",
@@ -8932,15 +8911,42 @@
 "hunerli",
 "ruhu",
 "yasamaya"
+],
+[
+"dan",
+"fonda",
+"iddialarina",
+"islem",
+"taner",
+"yalanlama",
+"yaptigi",
+"yildiz"
+],
+[
+"degil",
+"dervisoglu",
+"hesap",
+"istiyoruz",
+"kelle"
+],
+[
+"gun",
+"kuruldu",
+"kurultay",
+"oncesi",
+"parti",
+"sandiklar",
+"tarihi",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-08T03:41:00+00:00",
+"Haber Global": "2026-11-08T04:31:00+00:00",
 "Sonsöz (Ankara)": "2026-11-08T03:29:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-07T19:57:10+00:00",
-"Sözcü Son Dakika": "2026-11-08T02:30:26+00:00",
-"Yeni Şafak Yerel": "2026-11-08T01:00:00+00:00",
+"Sözcü Son Dakika": "2026-11-08T04:32:42+00:00",
+"Yeni Şafak Yerel": "2026-11-08T04:35:09+00:00",
 "X / Twitter Türkiye": "2026-11-08T03:16:09.135115+00:00",
 "Olay (Bursa)": "2026-11-08T02:20:59+00:00",
 "@islamasalya": "2026-11-07T16:45:34+00:00",
