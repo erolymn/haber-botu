@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"bd76857925e36a8f",
-"1c0b6476fe1ee691",
-"bf0141a05429f589",
-"5819310d970ad282",
-"f8eb50ec90491912",
-"f11bdfede31b947e",
-"ed5fa5b44a87f3ef",
-"ec427e45d1359a29",
 "f5cf104f79c8ae40",
 "db0104a3a320d97b",
 "91dc0bbbd2e72ccd",
@@ -2999,91 +2991,17 @@
 "fd50b84446e91b20",
 "2bc927a997d04f0d",
 "fae31aa275fd6d0c",
-"71815287dbce0498"
+"71815287dbce0498",
+"b6d1777ed47d1b71",
+"71f31454f14aaaa5",
+"887e17be082f82a9",
+"71e8bfda7fda88b6",
+"b5a958569b0f523b",
+"90f12e242742ae52",
+"dbede811f7d59561",
+"39fac37cf9bcbc15"
 ],
 "imzalar": [
-[
-"altin",
-"bin",
-"costu",
-"fiyatlari",
-"gram",
-"liraya",
-"yaklasti"
-],
-[
-"abd",
-"ilk",
-"memnun",
-"michiganli",
-"musluman",
-"nin",
-"sayed",
-"secilmesinden",
-"secmenler",
-"senatoru"
-],
-[
-"den",
-"hamlesi",
-"mhp",
-"parti",
-"reform",
-"yerel",
-"yonetimlerde"
-],
-[
-"bankalarina",
-"degistirildi",
-"fransa",
-"kan",
-"sabotaj",
-"siber",
-"sicakliklari",
-"sogutucularin",
-"uzaktan"
-],
-[
-"atm",
-"avrupa",
-"gobegine",
-"her",
-"istanbul",
-"kadar",
-"kopyaladilar",
-"lerden",
-"nin",
-"sey",
-"tabelalarina",
-"turkce"
-],
-[
-"adina",
-"ajan",
-"calisan",
-"eden",
-"ifsa",
-"israil",
-"oldular",
-"ona",
-"polisler",
-"tek",
-"yardim"
-],
-[
-"ayina",
-"aylar",
-"baslayacak",
-"gun",
-"hangi",
-"ilk",
-"kac",
-"kaldi",
-"oruc",
-"ramazan",
-"tutulacak",
-"zaman"
-],
 [
 "abd",
 "ara",
@@ -8954,20 +8872,81 @@
 "kola",
 "pistte",
 "yuruduler"
+],
+[
+"arac",
+"esareti",
+"kaldi",
+"kar",
+"sivas",
+"yolda"
+],
+[
+"duasi",
+"ettiler",
+"girdi",
+"insanlari",
+"servet",
+"siraya",
+"tanricasina",
+"zenginlik"
+],
+[
+"kagithane",
+"kuyumcuya",
+"saldiri",
+"silahli"
+],
+[
+"bulundu",
+"cesedi",
+"erkek",
+"kormen",
+"nde",
+"sahili"
+],
+[
+"akp",
+"araya",
+"bakani",
+"dugun",
+"eski",
+"getiren",
+"icisleri",
+"kizinin",
+"kurmaylarini",
+"nikah",
+"nin",
+"sahidi",
+"yeni"
+],
+[
+"bakin",
+"bina",
+"bursa",
+"yapilacak",
+"yerine",
+"yikiliyor"
+],
+[
+"curry",
+"den",
+"sayi",
+"stephen"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-08T09:41:00+00:00",
-"Sonsöz (Ankara)": "2026-11-08T09:51:00+00:00",
+"Haber Global": "2026-11-08T10:23:00+00:00",
+"Sonsöz (Ankara)": "2026-11-08T10:09:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-08T04:50:14+00:00",
-"Sözcü Son Dakika": "2026-11-08T09:55:20+00:00",
-"Yeni Şafak Yerel": "2026-11-08T09:46:05+00:00",
+"Sözcü Son Dakika": "2026-11-08T10:27:56+00:00",
+"Yeni Şafak Yerel": "2026-11-08T10:30:51+00:00",
 "X / Twitter Türkiye": "2026-11-08T09:16:46.130738+00:00",
-"Olay (Bursa)": "2026-11-08T08:46:11+00:00",
-"@islamasalya": "2026-11-08T08:25:20+00:00",
-"Yeni Asır (İzmir)": "2026-11-08T09:44:00+00:00",
-"İstanbul Gazetesi": "2026-11-08T09:53:00+00:00",
+"Olay (Bursa)": "2026-11-08T10:30:07+00:00",
+"@islamasalya": "2026-11-08T10:04:03+00:00",
+"Yeni Asır (İzmir)": "2026-11-08T10:24:37+00:00",
+"İstanbul Gazetesi": "2026-11-08T10:24:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
 }
