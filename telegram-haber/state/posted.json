@@ -1,6 +1,5 @@
 {
 "gonderilen": [
-"09483e80319093dd",
 "e433dee2823f96fd",
 "3696e86af769229e",
 "883c7010e3d2f027",
@@ -2999,16 +2998,10 @@
 "da7b583b174a0e8a",
 "67143c2087e8e858",
 "39e8a5514da0e71f",
-"5eab51ab81cf2bc3"
+"5eab51ab81cf2bc3",
+"bbf6cf8fe3bbd929"
 ],
 "imzalar": [
-[
-"altinda",
-"bombardiman",
-"gazze",
-"itibariyle",
-"siddetli"
-],
 [
 "ankara",
 "dikkat",
@@ -8936,6 +8929,14 @@
 "sinema",
 "sona",
 "turk"
+],
+[
+"baskanvekili",
+"biba",
+"bulusma",
+"bursa",
+"dan",
+"nostaljik"
 ]
 ],
 "son_tarih": {
@@ -8946,7 +8947,7 @@
 "Sözcü Son Dakika": "2026-11-08T00:17:07+00:00",
 "Yeni Şafak Yerel": "2026-11-08T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-08T00:35:39.383919+00:00",
-"Olay (Bursa)": "2026-11-07T21:07:40+00:00",
+"Olay (Bursa)": "2026-11-08T02:20:59+00:00",
 "@islamasalya": "2026-11-07T16:45:34+00:00",
 "Yeni Asır (İzmir)": "2026-11-07T21:49:26+00:00",
 "İstanbul Gazetesi": "2026-11-07T20:56:00+00:00",
