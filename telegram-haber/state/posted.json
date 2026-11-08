@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"6d34f61c0122285a",
-"adf64fa2d2b96a47",
-"2dda10848ccf78ad",
-"084374d6a8c16f91",
-"4e0df44185e29b06",
-"54b9239a60ac5b78",
-"a5069ef9c301bd01",
-"9da955d24ca717ea",
 "a279896e7a76cf93",
 "0a3b912ca835099d",
 "5a94fa964e804ece",
@@ -2999,90 +2991,17 @@
 "66089ea37fb5322e",
 "7ff4d3938e82c706",
 "d61f81baea666aa2",
-"582e92ae7c7cafbb"
+"582e92ae7c7cafbb",
+"16701c9bbdbae492",
+"2da5291158f9d67b",
+"deddadba65fe18fa",
+"5e4d708ac5b0f1ba",
+"22c660220e304c2e",
+"3c6ef489dd42afb6",
+"837c1d120b739ac4",
+"dc015c928f6b59aa"
 ],
 "imzalar": [
-[
-"arayisi",
-"bin",
-"bursa",
-"cozum",
-"krize",
-"kullandigi",
-"ogrencinin",
-"yoldaki"
-],
-[
-"adli",
-"bassavcilik",
-"edecek",
-"itiraz",
-"kozinoglu",
-"kurumu",
-"nun",
-"raporuna",
-"tip"
-],
-[
-"anlasmasi",
-"edildi",
-"ilk",
-"kabul",
-"maddesi",
-"mekke",
-"nin",
-"savunma"
-],
-[
-"belozoglu",
-"emre",
-"guzel",
-"muric",
-"secim",
-"vedat"
-],
-[
-"ardahan",
-"basladi",
-"kar",
-"kesimlerinde",
-"yagisi",
-"yuksek"
-],
-[
-"ara",
-"bekleyenlere",
-"bilgileri",
-"emeklilik",
-"kademeli",
-"kotu",
-"kulis",
-"sizdirildi",
-"zam"
-],
-[
-"afisleri",
-"atese",
-"dokuldu",
-"iranlilar",
-"netanyahu",
-"nun",
-"sokaklara",
-"tahran",
-"trump",
-"verildi"
-],
-[
-"bas",
-"batil",
-"belirsizlikle",
-"beynimizin",
-"etme",
-"inanclar",
-"neden",
-"rahatlatiyor",
-"yontemi"
-],
 [
 "atti",
 "ayrilik",
@@ -8955,20 +8874,97 @@
 "nihat",
 "olay",
 "yildiza"
+],
+[
+"billah",
+"havle",
+"illa",
+"kuvvete",
+"vela"
+],
+[
+"ask",
+"den",
+"dongel",
+"iddialarina",
+"melisa",
+"murda",
+"yanit"
+],
+[
+"bircok",
+"den",
+"firtina",
+"kuvvetli",
+"meteoroloji",
+"uyarisi",
+"yagis"
+],
+[
+"canli",
+"dehseti",
+"indirimli",
+"saniyeler",
+"tanitiyordu",
+"urunleri",
+"yasadi",
+"yayinda"
+],
+[
+"525",
+"ait",
+"cesitli",
+"donemlere",
+"ele",
+"eser",
+"gecirildi",
+"izmir",
+"parca",
+"tarihi"
+],
+[
+"akil",
+"almaz",
+"bursa",
+"goruntuler",
+"kazaya",
+"neden"
+],
+[
+"baskasi",
+"bizi",
+"ermeni",
+"isterse",
+"kurtarabilir",
+"rusya",
+"turkiye",
+"yetkili"
+],
+[
+"boca",
+"central",
+"enner",
+"hayallerini",
+"juniors",
+"rosario",
+"sampiyon",
+"valencia",
+"yapti",
+"yikti"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-08T07:00:00+00:00",
-"Sonsöz (Ankara)": "2026-11-08T07:06:00+00:00",
+"Haber Global": "2026-11-08T07:53:00+00:00",
+"Sonsöz (Ankara)": "2026-11-08T07:34:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-08T04:50:14+00:00",
-"Sözcü Son Dakika": "2026-11-08T07:13:15+00:00",
-"Yeni Şafak Yerel": "2026-11-08T07:12:24+00:00",
+"Sözcü Son Dakika": "2026-11-08T07:44:57+00:00",
+"Yeni Şafak Yerel": "2026-11-08T07:51:43+00:00",
 "X / Twitter Türkiye": "2026-11-08T06:36:09.567184+00:00",
-"Olay (Bursa)": "2026-11-08T07:12:47+00:00",
-"@islamasalya": "2026-11-07T16:45:34+00:00",
-"Yeni Asır (İzmir)": "2026-11-08T07:07:23+00:00",
-"İstanbul Gazetesi": "2026-11-08T06:36:00+00:00",
+"Olay (Bursa)": "2026-11-08T07:50:56+00:00",
+"@islamasalya": "2026-11-08T07:33:31+00:00",
+"Yeni Asır (İzmir)": "2026-11-08T07:46:29+00:00",
+"İstanbul Gazetesi": "2026-11-08T07:41:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
 }
