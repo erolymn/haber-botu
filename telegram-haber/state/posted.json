@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"d2e2672817803ab6",
-"517cb0d64554473b",
-"c75c934c3f6b9c01",
 "884e7f43cead469f",
 "ba7e9119c6b5e367",
 "f898bb7e4954f6fa",
@@ -2999,37 +2996,12 @@
 "20912552f4e20c39",
 "8afd4c7f11eaf1ac",
 "4dd9402b481aecb7",
-"ad9744beb1a9896b"
+"ad9744beb1a9896b",
+"4d9864acbc0877bd",
+"1a86e2024c7f181e",
+"51a82342d7dbb90b"
 ],
 "imzalar": [
-[
-"amator",
-"denizlispor",
-"dusmesi",
-"dustu",
-"efsane",
-"kesinlesti",
-"kume",
-"lig",
-"lige",
-"super",
-"takimi"
-],
-[
-"aciklandi",
-"futbolcusu",
-"haftanin",
-"iyi",
-"ligi",
-"nde",
-"sampiyonlar"
-],
-[
-"bursa",
-"geldi",
-"ismail",
-"yuksek"
-],
 [
 "afyonkarahisar",
 "dolu",
@@ -8921,19 +8893,49 @@
 "ibb",
 "tepki",
 "vatandaslardan"
+],
+[
+"barcelona",
+"fermin",
+"galibiyete",
+"madrid",
+"tasidi"
+],
+[
+"afyonkarahisar",
+"akraba",
+"bitti",
+"eniste",
+"hayatini",
+"kanli",
+"kavgasi",
+"kaybetti",
+"kayinbiraderlerinin",
+"saldirisina",
+"tufekli",
+"ugrayan",
+"yasindaki"
+],
+[
+"basarisini",
+"benzeyen",
+"insanlarin",
+"kendimize",
+"kiskaniyoruz",
+"neden"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-08T21:46:00+00:00",
-"Sonsöz (Ankara)": "2026-11-08T19:40:00+00:00",
+"Sonsöz (Ankara)": "2026-11-08T22:34:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-08T11:23:31+00:00",
-"Sözcü Son Dakika": "2026-11-08T21:35:15+00:00",
+"Sözcü Son Dakika": "2026-11-08T22:06:18+00:00",
 "Yeni Şafak Yerel": "2026-11-08T21:48:26+00:00",
 "X / Twitter Türkiye": "2026-11-08T21:18:00.366169+00:00",
 "Olay (Bursa)": "2026-11-08T21:00:59+00:00",
 "@islamasalya": "2026-11-08T19:59:34+00:00",
-"Yeni Asır (İzmir)": "2026-11-08T20:54:56+00:00",
+"Yeni Asır (İzmir)": "2026-11-08T22:28:26+00:00",
 "İstanbul Gazetesi": "2026-11-08T21:49:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
