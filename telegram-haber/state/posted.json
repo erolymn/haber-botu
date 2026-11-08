@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"656dac209fd3a925",
-"d5aaea4c0e7c296f",
-"a09f575d98b7eadc",
-"12c919cb4c0f1e94",
 "f39ab5372f850a53",
 "3549811914f3b63c",
 "90e622bbd06d8291",
@@ -2999,45 +2995,13 @@
 "87ff641e76cc6567",
 "067148a0f13adb54",
 "b124ebccf4e659d6",
-"cc10d1b2b69e30cd"
+"cc10d1b2b69e30cd",
+"370434d7b8074268",
+"b4188ecfb23dbccd",
+"2551bceabc9185e1",
+"281a88e1328d366c"
 ],
 "imzalar": [
-[
-"anlatimi",
-"canli",
-"fenerbahce",
-"ligi",
-"liverpool",
-"maci",
-"sampiyonlar",
-"uefa"
-],
-[
-"belli",
-"kasif",
-"kozinoglu",
-"nedeni",
-"nun",
-"olum"
-],
-[
-"abb",
-"ankaralilar",
-"baslatti",
-"basvurulari",
-"dikkat",
-"hayvancilikla",
-"ugrasan"
-],
-[
-"aciklandi",
-"iliskin",
-"kasif",
-"kozinoglu",
-"nun",
-"olumune",
-"rapor"
-],
 [
 "150",
 "kesinlestirdik",
@@ -8945,19 +8909,62 @@
 "perisan",
 "yagmurlar",
 "yetmedi"
+],
+[
+"almanya",
+"baronun",
+"film",
+"firarini",
+"gibi",
+"konusuyor",
+"turk"
+],
+[
+"2026",
+"2027",
+"belli",
+"biletleri",
+"cikiyor",
+"dogu",
+"ekspresi",
+"fiyatlar",
+"kis",
+"satisa",
+"sezonu",
+"turistik"
+],
+[
+"2027",
+"atilacak",
+"gibi",
+"kira",
+"konut",
+"oder",
+"polislere",
+"temeli"
+],
+[
+"eski",
+"fenerbahce",
+"geldi",
+"gol",
+"nin",
+"sampiyonluk",
+"tarihi",
+"yildizindan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-08T05:05:00+00:00",
+"Haber Global": "2026-11-08T05:35:00+00:00",
 "Sonsöz (Ankara)": "2026-11-08T03:29:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-08T04:50:14+00:00",
-"Sözcü Son Dakika": "2026-11-08T05:14:21+00:00",
-"Yeni Şafak Yerel": "2026-11-08T04:56:55+00:00",
+"Sözcü Son Dakika": "2026-11-08T05:48:48+00:00",
+"Yeni Şafak Yerel": "2026-11-08T05:19:57+00:00",
 "X / Twitter Türkiye": "2026-11-08T03:16:09.135115+00:00",
 "Olay (Bursa)": "2026-11-08T02:20:59+00:00",
 "@islamasalya": "2026-11-07T16:45:34+00:00",
-"Yeni Asır (İzmir)": "2026-11-08T03:50:15+00:00",
+"Yeni Asır (İzmir)": "2026-11-08T05:43:14+00:00",
 "İstanbul Gazetesi": "2026-11-07T20:56:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
