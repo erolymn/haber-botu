@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"5327ea73d6ea755b",
-"03770165022074d7",
-"bad6f6ea407dc98f",
-"8f953ab381174072",
 "d2e2672817803ab6",
 "517cb0d64554473b",
 "c75c934c3f6b9c01",
@@ -2999,49 +2995,13 @@
 "5c31b8be13963f07",
 "2a3e63fee83f2229",
 "2b160288596edc0d",
-"1d3daaa5c4ea2728"
+"1d3daaa5c4ea2728",
+"20912552f4e20c39",
+"8afd4c7f11eaf1ac",
+"4dd9402b481aecb7",
+"ad9744beb1a9896b"
 ],
 "imzalar": [
-[
-"afyonkarahisar",
-"aracta",
-"bedenine",
-"cansiz",
-"dehset",
-"gobeginde",
-"iki",
-"kentin",
-"kisinin",
-"ulasildi"
-],
-[
-"bahcelievler",
-"bina",
-"bitisikteki",
-"edildi",
-"gocukte",
-"hayatini",
-"iscinin",
-"kaybettigi",
-"tahliye"
-],
-[
-"amator",
-"dusuruldu",
-"koklu",
-"kulup",
-"lig"
-],
-[
-"basliyor",
-"benzin",
-"gece",
-"indirim",
-"indirimi",
-"iste",
-"miktari",
-"yarisi"
-],
 [
 "amator",
 "denizlispor",
@@ -8926,20 +8886,55 @@
 "kisiye",
 "lira",
 "tombala"
+],
+[
+"ara",
+"egitime",
+"ilcesinde",
+"ilin",
+"ilk",
+"kar",
+"mevsimin",
+"tatili"
+],
+[
+"alcaraz",
+"basardi",
+"carlos",
+"ilki",
+"kariyerinde"
+],
+[
+"cadirlarin",
+"cocuk",
+"coktu",
+"gazze",
+"hayatini",
+"kaybetti",
+"kisi",
+"kum",
+"uzerine",
+"yigini"
+],
+[
+"eyupsultan",
+"ibb",
+"tepki",
+"vatandaslardan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-08T20:58:00+00:00",
+"Haber Global": "2026-11-08T21:46:00+00:00",
 "Sonsöz (Ankara)": "2026-11-08T19:40:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-08T11:23:31+00:00",
-"Sözcü Son Dakika": "2026-11-08T20:59:03+00:00",
-"Yeni Şafak Yerel": "2026-11-08T21:15:35+00:00",
+"Sözcü Son Dakika": "2026-11-08T21:35:15+00:00",
+"Yeni Şafak Yerel": "2026-11-08T21:48:26+00:00",
 "X / Twitter Türkiye": "2026-11-08T21:18:00.366169+00:00",
 "Olay (Bursa)": "2026-11-08T21:00:59+00:00",
 "@islamasalya": "2026-11-08T19:59:34+00:00",
 "Yeni Asır (İzmir)": "2026-11-08T20:54:56+00:00",
-"İstanbul Gazetesi": "2026-11-08T21:11:00+00:00",
+"İstanbul Gazetesi": "2026-11-08T21:49:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
 }
