@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"61bb0d440f52faff",
-"63f9ae04e5a0221e",
-"0137e2d71feea28e",
-"01ce01bac10876a9",
 "656dac209fd3a925",
 "d5aaea4c0e7c296f",
 "a09f575d98b7eadc",
@@ -2999,48 +2995,13 @@
 "1308388e63450b1c",
 "8a0d813ed78eb482",
 "c72888f676b9f07f",
-"77bf9f057807acb3"
+"77bf9f057807acb3",
+"87ff641e76cc6567",
+"067148a0f13adb54",
+"b124ebccf4e659d6",
+"cc10d1b2b69e30cd"
 ],
 "imzalar": [
-[
-"abd",
-"acikladi",
-"baskani",
-"donald",
-"iran",
-"savasi",
-"sebebini",
-"secim",
-"trump",
-"yenilgisinin"
-],
-[
-"bursaspor",
-"kebap",
-"ziyafeti"
-],
-[
-"arnavutluk",
-"binada",
-"kisi",
-"patlama",
-"yaralandi"
-],
-[
-"canli",
-"city",
-"hangi",
-"izle",
-"izleme",
-"kanalda",
-"leipzig",
-"linki",
-"maci",
-"manchester",
-"sifresiz",
-"spor",
-"tabii"
-],
 [
 "anlatimi",
 "canli",
@@ -8938,15 +8899,61 @@
 "sandiklar",
 "tarihi",
 "yeni"
+],
+[
+"almanya",
+"baronu",
+"cezaevinden",
+"her",
+"kacti",
+"nin",
+"rusvetle",
+"seyi",
+"siki",
+"turk",
+"uyusturucu",
+"yapmis"
+],
+[
+"bakan",
+"dan",
+"eski",
+"fonu",
+"iddialarina",
+"sert",
+"taner",
+"tepki",
+"yatirim",
+"yildiz"
+],
+[
+"alarm",
+"den",
+"firtina",
+"geliyor",
+"kar",
+"kodlu",
+"meteoroloji",
+"saganak",
+"sari"
+],
+[
+"barajlari",
+"doldurmaya",
+"eden",
+"istanbulluyu",
+"perisan",
+"yagmurlar",
+"yetmedi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-08T04:31:00+00:00",
+"Haber Global": "2026-11-08T05:05:00+00:00",
 "Sonsöz (Ankara)": "2026-11-08T03:29:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-07T19:57:10+00:00",
-"Sözcü Son Dakika": "2026-11-08T04:32:42+00:00",
-"Yeni Şafak Yerel": "2026-11-08T04:35:09+00:00",
+"Mynet Son Dakika": "2026-11-08T04:50:14+00:00",
+"Sözcü Son Dakika": "2026-11-08T05:14:21+00:00",
+"Yeni Şafak Yerel": "2026-11-08T04:56:55+00:00",
 "X / Twitter Türkiye": "2026-11-08T03:16:09.135115+00:00",
 "Olay (Bursa)": "2026-11-08T02:20:59+00:00",
 "@islamasalya": "2026-11-07T16:45:34+00:00",
