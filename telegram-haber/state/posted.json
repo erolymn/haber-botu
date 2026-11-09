@@ -1,12 +1,5 @@
 {
 "gonderilen": [
-"ee6f3d390d4b981d",
-"6726b4e7c9d5134b",
-"09e8858a3db3c729",
-"eabb9d5c70d87732",
-"a2cb993ce1688242",
-"05bc77c578598107",
-"c7cf8fe6561cced2",
 "5fe0d6eb014ccb33",
 "d1b6432e72361057",
 "02648858168371ce",
@@ -2999,90 +2992,16 @@
 "947869774beeab04",
 "9604979dce56ba30",
 "5228ce7c03bea06b",
-"3cabf064dd549cde"
+"3cabf064dd549cde",
+"4f72f7dd23bd4543",
+"f1fdf21dae827ae2",
+"bb9c309e6ca8da2f",
+"2ff8fef97a723f1c",
+"83aeba7956bffcc9",
+"125c7283da11b877",
+"19d53e0e9902d58e"
 ],
 "imzalar": [
-[
-"abd",
-"aciklama",
-"bolsonaro",
-"dan",
-"goturecegim",
-"kacan",
-"kaybedip",
-"mezara",
-"secimi",
-"sirri"
-],
-[
-"arac",
-"calmis",
-"cikti",
-"detaylar",
-"gorevlisi",
-"ilgili",
-"kendisini",
-"mit",
-"olarak",
-"ortaya",
-"saldiriyla",
-"tanitip",
-"yeni"
-],
-[
-"betul",
-"fatma",
-"fon",
-"kaya",
-"sayan",
-"sorusturmasinda",
-"tutuklandi"
-],
-[
-"basladilar",
-"geri",
-"gondermeye",
-"ise",
-"kapidan",
-"schengen",
-"vizesi",
-"yaramiyor"
-],
-[
-"anketinde",
-"bayrakci",
-"boyle",
-"bozan",
-"ezber",
-"gormedim",
-"hakan",
-"sonar",
-"sonuc",
-"tablo",
-"yildir"
-],
-[
-"400",
-"bin",
-"gelen",
-"hesabina",
-"iade",
-"isim",
-"karisikligi",
-"sonrasi"
-],
-[
-"bilmiyor",
-"deprem",
-"dur",
-"durak",
-"ege",
-"faylar",
-"gunde",
-"sarsinti",
-"yedi",
-"yine"
-],
 [
 "bekledigi",
 "cikti",
@@ -8961,20 +8880,85 @@
 "tehlike",
 "zehirlenmelerinde",
 "zehri"
+],
+[
+"bakan",
+"cop31",
+"erener",
+"hazirladigi",
+"kurum",
+"paylasti",
+"sarkisini",
+"sertab"
+],
+[
+"altinda",
+"bombardiman",
+"gazze",
+"itibariyle",
+"siddetli"
+],
+[
+"alinmadi",
+"atiyorsun",
+"canimizi",
+"cevabi",
+"daki",
+"dedirtti",
+"ders",
+"diyen",
+"faciadan",
+"manisa",
+"otobus",
+"pes",
+"soforunun",
+"tehlikeye",
+"yolculara"
+],
+[
+"bolunecek",
+"gizli",
+"nasil",
+"pazarlik",
+"rusya",
+"suphesi",
+"ukrayna"
+],
+[
+"besiktas",
+"dokunusu",
+"italiano",
+"vlahovic"
+],
+[
+"den",
+"duyuru",
+"gonullu",
+"iade",
+"iliskin",
+"islemlerine",
+"tmsf"
+],
+[
+"celik",
+"demir",
+"fabrikasinda",
+"izmir",
+"patlama"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-09T09:10:00+00:00",
-"Sonsöz (Ankara)": "2026-11-09T09:10:00+00:00",
+"Haber Global": "2026-11-09T09:48:00+00:00",
+"Sonsöz (Ankara)": "2026-11-09T09:58:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-09T08:47:39+00:00",
-"Sözcü Son Dakika": "2026-11-09T09:13:20+00:00",
-"Yeni Şafak Yerel": "2026-11-09T09:15:59+00:00",
+"Sözcü Son Dakika": "2026-11-09T09:53:13+00:00",
+"Yeni Şafak Yerel": "2026-11-09T09:45:47+00:00",
 "X / Twitter Türkiye": "2026-11-09T09:18:46.513163+00:00",
-"Olay (Bursa)": "2026-11-09T09:15:44+00:00",
-"@islamasalya": "2026-11-09T08:20:14+00:00",
+"Olay (Bursa)": "2026-11-09T09:57:46+00:00",
+"@islamasalya": "2026-11-09T09:28:00+00:00",
 "Yeni Asır (İzmir)": "2026-11-09T09:11:06+00:00",
-"İstanbul Gazetesi": "2026-11-09T09:02:00+00:00",
+"İstanbul Gazetesi": "2026-11-09T09:25:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
 }
