@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"ee8412a829967448",
-"4a8ec51d775159f3",
-"07240cc2d1d4e3d7",
-"c6e4fbedbc5b6483",
 "07ac39cb9717c77b",
 "73f90a47fa9a0a43",
 "4919a777f7db8c13",
@@ -2999,41 +2995,13 @@
 "f4c3950bdd48b86f",
 "b46faa75d27f2c40",
 "28d210dbdc9d4bb8",
-"8471cf991848e6aa"
+"8471cf991848e6aa",
+"9616ce2e19e66889",
+"de4d9175a9a114a4",
+"a846b86949ab499c",
+"8f339d797347f216"
 ],
 "imzalar": [
-[
-"bahis",
-"darbe",
-"disi",
-"edildi",
-"ilde",
-"islem",
-"liralik",
-"milyarlarca",
-"sebekesine",
-"tespit",
-"yasa"
-],
-[
-"alarmi",
-"bekliyoruz",
-"buyuk",
-"dan",
-"demisti",
-"futbolcuya",
-"kurduk",
-"sergen",
-"sok",
-"yalcin",
-"yildiz"
-],
-[
-"akm",
-"dolu",
-"hafta",
-"sanat"
-],
 [
 "burun",
 "doktor",
@@ -8969,18 +8937,51 @@
 "futbolcu",
 "golden",
 "kazanan"
+],
+[
+"abd",
+"ara",
+"baskani",
+"imkansiz",
+"kazanmak",
+"secimleri",
+"trump"
+],
+[
+"cumhurbaskani",
+"degistirici",
+"erhurman",
+"kibris",
+"kktc",
+"oneri",
+"oyun",
+"sunduk"
+],
+[
+"basaran",
+"cikti",
+"detay",
+"facia",
+"habas",
+"ilgili",
+"mehmet",
+"ortaya",
+"patronu",
+"rustu",
+"sok",
+"sonrasi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-09T19:11:00+00:00",
+"Haber Global": "2026-11-09T20:12:00+00:00",
 "Sonsöz (Ankara)": "2026-11-09T19:38:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-09T15:05:45+00:00",
-"Sözcü Son Dakika": "2026-11-09T19:55:31+00:00",
-"Yeni Şafak Yerel": "2026-11-09T19:43:23+00:00",
+"Sözcü Son Dakika": "2026-11-09T20:32:50+00:00",
+"Yeni Şafak Yerel": "2026-11-09T20:32:01+00:00",
 "X / Twitter Türkiye": "2026-11-09T18:00:05.040594+00:00",
 "Olay (Bursa)": "2026-11-09T19:10:47+00:00",
-"@islamasalya": "2026-11-09T18:36:29+00:00",
+"@islamasalya": "2026-11-09T20:06:16+00:00",
 "Yeni Asır (İzmir)": "2026-11-09T19:06:39+00:00",
 "İstanbul Gazetesi": "2026-11-09T18:27:00+00:00",
 "Kandilli Rasathanesi": "2026-11-09T12:28:18+00:00"
