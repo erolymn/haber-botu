@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"a7f74a77287bc67f",
-"def37e70fb725a6a",
-"691a247c4fdf693c",
 "ee8412a829967448",
 "4a8ec51d775159f3",
 "07240cc2d1d4e3d7",
@@ -2999,35 +2996,12 @@
 "cba1172b2ba7dad1",
 "b6b0c764a695835d",
 "e3b8a0a2801a9193",
-"f4c3950bdd48b86f"
+"f4c3950bdd48b86f",
+"b46faa75d27f2c40",
+"28d210dbdc9d4bb8",
+"8471cf991848e6aa"
 ],
 "imzalar": [
-[
-"aldi",
-"farkindalik",
-"hyundai",
-"inallar",
-"kortejinde",
-"losev",
-"yer"
-],
-[
-"bolgesi",
-"den",
-"don",
-"marmara",
-"meteoroloji",
-"uyarisi",
-"zirai"
-],
-[
-"basbakan",
-"baskan",
-"erdogan",
-"kabul",
-"malezya",
-"yardimcisi"
-],
 [
 "bahis",
 "darbe",
@@ -8965,15 +8939,45 @@
 "toreni",
 "yapildi",
 "yusuf"
+],
+[
+"alarmi",
+"ankara",
+"hangi",
+"kapatilacak",
+"kasim",
+"trafige",
+"yollar"
+],
+[
+"abd",
+"benzeri",
+"den",
+"garantisi",
+"getirildi",
+"gundemine",
+"guvenlik",
+"nato",
+"nin",
+"onerisi",
+"rusya",
+"ukrayna"
+],
+[
+"belli",
+"boy",
+"futbolcu",
+"golden",
+"kazanan"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-09T19:11:00+00:00",
-"Sonsöz (Ankara)": "2026-11-09T18:26:00+00:00",
+"Sonsöz (Ankara)": "2026-11-09T19:38:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-09T15:05:45+00:00",
-"Sözcü Son Dakika": "2026-11-09T18:50:34+00:00",
-"Yeni Şafak Yerel": "2026-11-09T19:08:26+00:00",
+"Sözcü Son Dakika": "2026-11-09T19:55:31+00:00",
+"Yeni Şafak Yerel": "2026-11-09T19:43:23+00:00",
 "X / Twitter Türkiye": "2026-11-09T18:00:05.040594+00:00",
 "Olay (Bursa)": "2026-11-09T19:10:47+00:00",
 "@islamasalya": "2026-11-09T18:36:29+00:00",
