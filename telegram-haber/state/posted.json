@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"3b39679d411fb018",
-"c6ed25a290128d75",
-"430089108a17623f",
 "b8698faf196d4780",
 "81af5492d44c64a0",
 "2f332c8ebab6dfc5",
@@ -2999,37 +2996,12 @@
 "806eca4d454c3870",
 "9a8a7e8c189a2c17",
 "0427bd2dbe898c3d",
-"812a784b0170d0d8"
+"812a784b0170d0d8",
+"081b4a00a1393b66",
+"7b98eb70e11ca9f0",
+"505ee28fbb9c9ffd"
 ],
 "imzalar": [
-[
-"batrakov",
-"brown",
-"haftanin",
-"ine",
-"ligi",
-"nde",
-"sampiyonlar",
-"secildi"
-],
-[
-"barcelona",
-"dan",
-"imza",
-"raphinha",
-"yillik"
-],
-[
-"adli",
-"ahmet",
-"arif",
-"cikti",
-"denizolgun",
-"iliskin",
-"olumune",
-"raporu",
-"tip"
-],
 [
 "ameliyatin",
 "ardindan",
@@ -8905,17 +8877,40 @@
 "duzenleme",
 "faturalarini",
 "rahatlatacak"
+],
+[
+"alevlere",
+"mustakil",
+"sivas",
+"teslim"
+],
+[
+"alta",
+"bursa",
+"ceken",
+"dikkat",
+"herkes",
+"oradaydi",
+"parti",
+"toplanti",
+"ustten"
+],
+[
+"ankara",
+"rusvet",
+"sarsan",
+"skandali"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-08T21:46:00+00:00",
-"Sonsöz (Ankara)": "2026-11-09T01:09:00+00:00",
+"Sonsöz (Ankara)": "2026-11-09T02:25:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-08T11:23:31+00:00",
-"Sözcü Son Dakika": "2026-11-09T01:30:02+00:00",
+"Sözcü Son Dakika": "2026-11-09T02:31:38+00:00",
 "Yeni Şafak Yerel": "2026-11-09T01:01:00+00:00",
 "X / Twitter Türkiye": "2026-11-09T00:38:22.695835+00:00",
-"Olay (Bursa)": "2026-11-09T01:55:57+00:00",
+"Olay (Bursa)": "2026-11-09T02:30:57+00:00",
 "@islamasalya": "2026-11-08T19:59:34+00:00",
 "Yeni Asır (İzmir)": "2026-11-08T22:28:26+00:00",
 "İstanbul Gazetesi": "2026-11-08T21:49:00+00:00",
