@@ -1,14 +1,5 @@
 {
 "gonderilen": [
-"c42d26f082f9a8d3",
-"20e9882cd4f7c627",
-"5ed51444dd8ddd9a",
-"4d3a93a9993aa9bd",
-"30c9908bc146f4e7",
-"ad527d9d16312e67",
-"f6898a40ec6675dd",
-"d8c5b78a913a5bdf",
-"a9dce2cfdc69301f",
 "ee6f3d390d4b981d",
 "6726b4e7c9d5134b",
 "09e8858a3db3c729",
@@ -2999,65 +2990,18 @@
 "1f8cb0974fadfcd2",
 "2b4148c92370b015",
 "dea03ce0da3ce0ec",
-"8090a455c1f42e77"
+"8090a455c1f42e77",
+"e2783c7bb59adff3",
+"2bb27c10ad6883da",
+"80b42d34db110c42",
+"9ffa267830c38839",
+"174a503121a17f67",
+"947869774beeab04",
+"9604979dce56ba30",
+"5228ce7c03bea06b",
+"3cabf064dd549cde"
 ],
 "imzalar": [
-[
-"girmis",
-"ise",
-"kisiler",
-"ummadigimiz"
-],
-[
-"bursa",
-"gelisme",
-"gorundu",
-"heyecanlandiran",
-"raylarda"
-],
-[
-"gundeminde",
-"manseti",
-"meclis",
-"sozcu"
-],
-[
-"hastanede",
-"kisilik",
-"ogle",
-"sonrasi",
-"vaka",
-"yemegi"
-],
-[
-"devlet",
-"tahviline",
-"yazdi",
-"zarar"
-],
-[
-"100",
-"alacak",
-"denetmen",
-"guvenlik",
-"sgk",
-"sosyal",
-"yardimcisi"
-],
-[
-"aciklarinda",
-"buyuklugunde",
-"canakkale",
-"deprem"
-],
-[
-"ambulansta",
-"annesi",
-"kestigi",
-"magandanin",
-"onunu",
-"varmis"
-],
 [
 "abd",
 "aciklama",
@@ -8931,20 +8875,106 @@
 "rapor",
 "sicak",
 "yildan"
+],
+[
+"adini",
+"ata",
+"ataturk",
+"gokcen",
+"havalimanindan",
+"kizi",
+"manevi",
+"sabiha",
+"seslendiler",
+"tasiyan"
+],
+[
+"biri",
+"camiye",
+"digeri",
+"gece",
+"girdi",
+"kaza",
+"kirtasiyeye",
+"sisli",
+"yarisi"
+],
+[
+"baskentte",
+"basladi",
+"basvuru",
+"halk",
+"kart",
+"kimler",
+"nasil",
+"uygulamasi",
+"yapilir",
+"yararlanabilir"
+],
+[
+"anitkabir",
+"apple",
+"ceo",
+"cook",
+"efsane",
+"eski",
+"tim",
+"ziyaret"
+],
+[
+"aciklamalar",
+"bakan",
+"cop31",
+"dan",
+"kurum",
+"nde",
+"onemli",
+"zirvesi"
+],
+[
+"arda",
+"mac",
+"oyuncularina",
+"sitem",
+"sonunda",
+"turan"
+],
+[
+"bursa",
+"donuldu",
+"esiginden",
+"facianin",
+"manevra",
+"olumune",
+"otobus",
+"soforunden"
+],
+[
+"gidermez",
+"gizli",
+"gunde",
+"hasari",
+"mantar",
+"olusuyor",
+"organ",
+"pisirmek",
+"tehlike",
+"zehirlenmelerinde",
+"zehri"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-09T08:21:00+00:00",
-"Sonsöz (Ankara)": "2026-11-09T08:34:00+00:00",
+"Haber Global": "2026-11-09T09:10:00+00:00",
+"Sonsöz (Ankara)": "2026-11-09T09:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-09T08:31:51+00:00",
-"Sözcü Son Dakika": "2026-11-09T08:33:28+00:00",
-"Yeni Şafak Yerel": "2026-11-09T08:34:00+00:00",
-"X / Twitter Türkiye": "2026-11-09T06:38:46.263327+00:00",
-"Olay (Bursa)": "2026-11-09T08:35:52+00:00",
+"Mynet Son Dakika": "2026-11-09T08:47:39+00:00",
+"Sözcü Son Dakika": "2026-11-09T09:13:20+00:00",
+"Yeni Şafak Yerel": "2026-11-09T09:15:59+00:00",
+"X / Twitter Türkiye": "2026-11-09T09:18:46.513163+00:00",
+"Olay (Bursa)": "2026-11-09T09:15:44+00:00",
 "@islamasalya": "2026-11-09T08:20:14+00:00",
-"Yeni Asır (İzmir)": "2026-11-09T08:11:08+00:00",
-"İstanbul Gazetesi": "2026-11-09T07:54:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-09T09:11:06+00:00",
+"İstanbul Gazetesi": "2026-11-09T09:02:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
 }
