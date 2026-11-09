@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"a7be2dd8cc572434",
-"a8e3c8af212c897d",
-"4d9465f67dc15ee1",
 "2a0e466a2bd8f824",
 "4e072afb01f3bae1",
 "3b39679d411fb018",
@@ -2999,44 +2996,12 @@
 "106620421964cdde",
 "f300b8eed689a2ea",
 "1998409f585b1414",
-"5545120f6d4a858f"
+"5545120f6d4a858f",
+"234159d5681010f6",
+"806eca4d454c3870",
+"9a8a7e8c189a2c17"
 ],
 "imzalar": [
-[
-"arasinda",
-"ceken",
-"dikkat",
-"iran",
-"rusya",
-"secim",
-"sonrasi",
-"trump",
-"yenilgisi",
-"zirve"
-],
-[
-"aliaga",
-"ambulanstaki",
-"carptigi",
-"gecitte",
-"hemzemin",
-"izmir",
-"kaza",
-"kisi",
-"korkutan",
-"trenin",
-"yaralandi"
-],
-[
-"arasinda",
-"besiktas",
-"dev",
-"devre",
-"gelecek",
-"hamlesi",
-"stoper",
-"tan"
-],
 [
 "abd",
 "filistin",
@@ -8924,15 +8889,39 @@
 "toksin",
 "vucudunuzun",
 "yukunu"
+],
+[
+"dev",
+"hazin",
+"sonu",
+"tesisin"
+],
+[
+"aramiza",
+"girmesine",
+"hic",
+"izin",
+"kimsenin",
+"vermeyecegiz"
+],
+[
+"bin",
+"coskusu",
+"dagitildi",
+"festivali",
+"hamsi",
+"iznik",
+"kisiye",
+"ton"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-08T21:46:00+00:00",
-"Sonsöz (Ankara)": "2026-11-09T00:12:00+00:00",
+"Sonsöz (Ankara)": "2026-11-09T01:09:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-08T11:23:31+00:00",
-"Sözcü Son Dakika": "2026-11-09T00:30:02+00:00",
-"Yeni Şafak Yerel": "2026-11-08T21:48:26+00:00",
+"Sözcü Son Dakika": "2026-11-09T01:00:02+00:00",
+"Yeni Şafak Yerel": "2026-11-09T01:01:00+00:00",
 "X / Twitter Türkiye": "2026-11-09T00:38:22.695835+00:00",
 "Olay (Bursa)": "2026-11-08T21:00:59+00:00",
 "@islamasalya": "2026-11-08T19:59:34+00:00",
