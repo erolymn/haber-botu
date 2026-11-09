@@ -1,10 +1,5 @@
 {
 "gonderilen": [
-"4bf64c528bfdf406",
-"fd49c1d9dd6a5932",
-"56ee9a166cf13ed8",
-"f5a6cab00276787f",
-"d8c634ff08b5dddd",
 "29138b4cecb474d9",
 "d2b78106df5aa33c",
 "a77acfba8ab6f849",
@@ -2999,61 +2994,14 @@
 "4036b4f8ef468dc2",
 "a5bfa4ce29d3b2a2",
 "fea4e37d76966fb1",
-"10ae74cb946b31b6"
+"10ae74cb946b31b6",
+"e31cc51ed8ddd013",
+"1366975b0cdf4fcf",
+"573c2bd0393299ef",
+"a42302704a5b2379",
+"c59d497adf2b4ae0"
 ],
 "imzalar": [
-[
-"afyonkarahisar",
-"annesi",
-"daki",
-"detay",
-"kahreden",
-"katliamda",
-"ogrenmis",
-"televizyondan"
-],
-[
-"bursa",
-"buski",
-"buyuk",
-"buyuksehir",
-"gunu",
-"gurur",
-"odul"
-],
-[
-"bakan",
-"betul",
-"cumhuriyet",
-"fatma",
-"ilk",
-"kaya",
-"orgut",
-"sayan",
-"tarihinde",
-"tutuklanan",
-"uyeliginden"
-],
-[
-"atik",
-"beyoglu",
-"cikarildi",
-"cop",
-"daireden",
-"nda",
-"skandali",
-"ton"
-],
-[
-"afyonkarahisar",
-"arif",
-"kisiyi",
-"olduren",
-"ozdemir",
-"saldirgan",
-"seda",
-"tutuklandi"
-],
 [
 "acildi",
 "cemil",
@@ -8962,19 +8910,70 @@
 "iste",
 "otobus",
 "yeni"
+],
+[
+"baskan",
+"dan",
+"donus",
+"erdogan",
+"geri",
+"kazanan",
+"milyon",
+"olacak",
+"terorsuz",
+"turkiye",
+"vurgusu",
+"yoktur",
+"yoldan"
+],
+[
+"beden",
+"dersinde",
+"egitimi",
+"fenalasan",
+"hayatini",
+"kaybetti",
+"ogrenci",
+"yasindaki"
+],
+[
+"ballon",
+"harry",
+"iyi",
+"kane",
+"kazanan",
+"secilmedi"
+],
+[
+"binanin",
+"dokuzuncu",
+"dusen",
+"hayatini",
+"kadin",
+"katindan",
+"kaybetti"
+],
+[
+"cozmek",
+"devreye",
+"istasyonundaki",
+"kecileri",
+"soktular",
+"sorunu",
+"tren"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-09T16:27:00+00:00",
-"Sonsöz (Ankara)": "2026-11-09T16:39:00+00:00",
+"Haber Global": "2026-11-09T17:00:00+00:00",
+"Sonsöz (Ankara)": "2026-11-09T16:42:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-09T15:05:45+00:00",
-"Sözcü Son Dakika": "2026-11-09T16:35:00+00:00",
-"Yeni Şafak Yerel": "2026-11-09T16:31:20+00:00",
+"Sözcü Son Dakika": "2026-11-09T17:18:10+00:00",
+"Yeni Şafak Yerel": "2026-11-09T17:03:25+00:00",
 "X / Twitter Türkiye": "2026-11-09T15:20:01.280039+00:00",
 "Olay (Bursa)": "2026-11-09T16:24:36+00:00",
 "@islamasalya": "2026-11-09T15:48:21+00:00",
-"Yeni Asır (İzmir)": "2026-11-09T15:54:43+00:00",
+"Yeni Asır (İzmir)": "2026-11-09T16:10:25+00:00",
 "İstanbul Gazetesi": "2026-11-09T16:22:00+00:00",
 "Kandilli Rasathanesi": "2026-11-09T12:28:18+00:00"
 }
