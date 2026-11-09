@@ -1,6 +1,5 @@
 {
 "gonderilen": [
-"a4380d2838053b0f",
 "2c8c5e49d3edd1ff",
 "4887900b3043229b",
 "b1db33e6735dc350",
@@ -2999,33 +2998,10 @@
 "33fc4091ceee79a3",
 "2e9c5eb8189a5838",
 "17d62f529e7f83ee",
-"afa95ebbe65a6ad0"
+"afa95ebbe65a6ad0",
+"e64aa4f6edfe881c"
 ],
 "imzalar": [
-[
-"ait",
-"aksa",
-"duzenekle",
-"eyleme",
-"gerceklestirilen",
-"goruntuler",
-"guclerine",
-"hasan",
-"israil",
-"katildigi",
-"mesafeden",
-"mucahit",
-"muharebesi",
-"mustafa",
-"neccar",
-"ozel",
-"patlayici",
-"sehit",
-"sifir",
-"sirasinda",
-"siyonist",
-"tufani"
-],
 [
 "aciklama",
 "acilma",
@@ -8959,11 +8935,19 @@
 "kabul",
 "tbmm",
 "yili"
+],
+[
+"basladi",
+"calismalarina",
+"futbol",
+"milli",
+"takimi",
+"umit"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-09T22:14:00+00:00",
-"Sonsöz (Ankara)": "2026-11-09T19:38:00+00:00",
+"Sonsöz (Ankara)": "2026-11-09T23:06:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-09T15:05:45+00:00",
 "Sözcü Son Dakika": "2026-11-09T22:07:25+00:00",
