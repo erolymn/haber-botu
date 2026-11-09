@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"4e4418af1a512c59",
-"62b5fa936e17b8da",
-"2017c397f43a286d",
-"1b6314326a65c526",
-"73945507a94d1861",
-"a7adf188de63e0a6",
-"4b65f38e456b76d7",
-"2b066c5f0a6dda5a",
 "cf41182c4051ec96",
 "9ed6ff01fcb74525",
 "4bd12a157ca3f03c",
@@ -2999,90 +2991,17 @@
 "c6ce33c381c72418",
 "e0f69b8c09dfe15e",
 "9b4060f0be0d9834",
-"dadc2e5f37e38e09"
+"dadc2e5f37e38e09",
+"097718fba5e6ece4",
+"1e40ce9c9761339b",
+"a302b7fcd4ab7628",
+"57d544137ee199a8",
+"48ec09ce9f85543f",
+"5c269bbea3a2f289",
+"437c245b1e8690d5",
+"fc6a0add5b807373"
 ],
 "imzalar": [
-[
-"2026",
-"aciklanacak",
-"enflasyon",
-"kasim",
-"raporu",
-"yilinin"
-],
-[
-"arabaci",
-"manisa",
-"necati",
-"orgutunun",
-"suc",
-"yakalandi",
-"yoneticisi"
-],
-[
-"ameliyati",
-"doktor",
-"estetik",
-"geciren",
-"yasamini",
-"yitirdi"
-],
-[
-"acikladi",
-"belozoglu",
-"demirel",
-"emre",
-"fenerbahce",
-"ilk",
-"isi",
-"nun",
-"volkan",
-"yapacagi"
-],
-[
-"alindi",
-"atandi",
-"gozaltina",
-"kayyum",
-"kisi",
-"meslek",
-"sarigul",
-"sisli",
-"sorusturmasinda",
-"yuksekokulu"
-],
-[
-"belcika",
-"biletleri",
-"bugun",
-"cikiyor",
-"dolacak",
-"heyecan",
-"izmir",
-"maci",
-"milli",
-"satisa",
-"tasiniyor",
-"tribunler",
-"turkiye"
-],
-[
-"afyonkarahisar",
-"arkasi",
-"cikti",
-"daki",
-"ortaya",
-"perde",
-"saldirinin"
-],
-[
-"aciklandi",
-"basvuru",
-"burs",
-"kredisi",
-"ogrenim",
-"sonuclari"
-],
 [
 "hatay",
 "kamerada",
@@ -8954,20 +8873,97 @@
 "odaklarina",
 "ragmen",
 "yeni"
+],
+[
+"amcasina",
+"gelecek",
+"kabais",
+"nizamettin",
+"rojin",
+"saldiri",
+"sira"
+],
+[
+"fotografcinin",
+"gazetecilik",
+"gazetesi",
+"istanbul",
+"seruveninde",
+"usta",
+"yeni"
+],
+[
+"bugun",
+"gazze",
+"gun",
+"her"
+],
+[
+"acikladi",
+"cin",
+"den",
+"dolara",
+"ithalati",
+"milyar",
+"nin",
+"turkiye",
+"ulasti",
+"yilmaz"
+],
+[
+"bahis",
+"banka",
+"disi",
+"edenlere",
+"hesabi",
+"operasyon",
+"sitelerine",
+"temin",
+"yasa"
+],
+[
+"ara",
+"biletler",
+"birkac",
+"firmalarindan",
+"gune",
+"otobus",
+"tatil",
+"tukenebilir",
+"uyarisi"
+],
+[
+"arabada",
+"cagrisi",
+"stogu",
+"suruculere",
+"tuz",
+"yapin"
+],
+[
+"100",
+"bin",
+"dal",
+"ele",
+"gecirildi",
+"kacak",
+"kirsehir",
+"operasyonu",
+"sigara"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-09T10:28:00+00:00",
-"Sonsöz (Ankara)": "2026-11-09T10:21:00+00:00",
+"Haber Global": "2026-11-09T11:13:00+00:00",
+"Sonsöz (Ankara)": "2026-11-09T11:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-09T10:26:07+00:00",
-"Sözcü Son Dakika": "2026-11-09T10:36:41+00:00",
-"Yeni Şafak Yerel": "2026-11-09T10:35:46+00:00",
+"Mynet Son Dakika": "2026-11-09T10:38:28+00:00",
+"Sözcü Son Dakika": "2026-11-09T11:14:00+00:00",
+"Yeni Şafak Yerel": "2026-11-09T11:18:18+00:00",
 "X / Twitter Türkiye": "2026-11-09T09:18:46.513163+00:00",
-"Olay (Bursa)": "2026-11-09T10:34:31+00:00",
-"@islamasalya": "2026-11-09T09:28:00+00:00",
+"Olay (Bursa)": "2026-11-09T11:11:08+00:00",
+"@islamasalya": "2026-11-09T11:00:43+00:00",
 "Yeni Asır (İzmir)": "2026-11-09T10:05:28+00:00",
-"İstanbul Gazetesi": "2026-11-09T09:39:00+00:00",
+"İstanbul Gazetesi": "2026-11-09T10:43:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
 }
