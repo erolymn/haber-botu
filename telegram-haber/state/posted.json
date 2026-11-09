@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"b404fea7d410c5cf",
-"b2596200c281707f",
-"548e448bf6e5abd1",
-"b87114fc374291fc",
 "518918186f49646e",
 "467b736ca7734563",
 "a56ace3b69b74185",
@@ -2999,48 +2995,13 @@
 "0650c2fa3b339483",
 "f9d980cd2300f6b1",
 "1ea0a485a6e554e8",
-"b7af80abfe3ed9b0"
+"b7af80abfe3ed9b0",
+"f7ac9f638bd48d7e",
+"481cfeb7faf1e55c",
+"8ca2f0a28b8aa110",
+"d1c4035601e69515"
 ],
 "imzalar": [
-[
-"besiktas",
-"cikarmasi",
-"euroluk",
-"gundemde",
-"ingiltere",
-"milyon",
-"tan",
-"yildiz"
-],
-[
-"herkes",
-"otomobil",
-"suyun",
-"uzerinde",
-"yasiyor",
-"yol"
-],
-[
-"arasinda",
-"ayrilik",
-"devre",
-"fenerbahce",
-"futbolcu",
-"gidiyor",
-"surpriz",
-"yildiz"
-],
-[
-"betul",
-"erdi",
-"esinin",
-"fatma",
-"ifade",
-"islemleri",
-"kaya",
-"sayan",
-"sona"
-],
 [
 "baskanligindan",
 "destegi",
@@ -8893,19 +8854,50 @@
 "olu",
 "tren",
 "yarali"
+],
+[
+"basliklar",
+"bugun",
+"cumhurbaskanligi",
+"gundemde",
+"kabinesi",
+"kritik",
+"toplaniyor"
+],
+[
+"egitime",
+"ilceye",
+"ildeki",
+"kar",
+"molasi"
+],
+[
+"ayni",
+"gun",
+"ismi",
+"tasidigi",
+"torunuyla"
+],
+[
+"erdogan",
+"gizli",
+"kapandi",
+"kapilar",
+"sunum",
+"yapildi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-08T21:46:00+00:00",
+"Haber Global": "2026-11-09T03:40:00+00:00",
 "Sonsöz (Ankara)": "2026-11-09T03:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-09T03:14:40+00:00",
-"Sözcü Son Dakika": "2026-11-09T02:51:54+00:00",
+"Mynet Son Dakika": "2026-11-09T03:48:02+00:00",
+"Sözcü Son Dakika": "2026-11-09T03:56:51+00:00",
 "Yeni Şafak Yerel": "2026-11-09T01:01:00+00:00",
 "X / Twitter Türkiye": "2026-11-09T03:18:21.281708+00:00",
 "Olay (Bursa)": "2026-11-09T02:42:24+00:00",
 "@islamasalya": "2026-11-08T19:59:34+00:00",
-"Yeni Asır (İzmir)": "2026-11-08T22:28:26+00:00",
+"Yeni Asır (İzmir)": "2026-11-09T03:50:16+00:00",
 "İstanbul Gazetesi": "2026-11-08T21:49:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
