@@ -1,10 +1,5 @@
 {
 "gonderilen": [
-"6d8e1f75a1c51217",
-"c5a824021f07c26a",
-"e08e9cb07c883c77",
-"772c3eafd58cdfee",
-"7e9923a8cc53697c",
 "4e4a5653e9dc20dd",
 "37764a7b6e9c1813",
 "9dd8439cbeac0aea",
@@ -2999,48 +2994,14 @@
 "db2debf683e5515f",
 "275382742e258b7a",
 "b90aaf2216b42e89",
-"e7ff4dbc307f1420"
+"e7ff4dbc307f1420",
+"0bca1328f0560b4a",
+"cd7f4bc27264bd1e",
+"5687950f7c7a313e",
+"27185e9ba44814b7",
+"5a060bdd5daa8426"
 ],
 "imzalar": [
-[
-"degisecek",
-"ezani",
-"ilde",
-"saati",
-"sabah"
-],
-[
-"bursa",
-"hamle",
-"ormanlari",
-"yeni"
-],
-[
-"bakin",
-"bosanmis",
-"esinden",
-"katili",
-"kisinin",
-"once",
-"yapiyormus",
-"yil"
-],
-[
-"afyonkarahisar",
-"arif",
-"cani",
-"cikti",
-"gelisme",
-"ifadesi",
-"ilk",
-"katliaminda",
-"kisiyi",
-"neden",
-"oldurdu",
-"ortaya",
-"ozdemir",
-"sefa"
-],
 [
 "500",
 "bin",
@@ -8950,17 +8911,50 @@
 "hayatini",
 "kaybetti",
 "kisi"
+],
+[
+"luks",
+"nin",
+"protein",
+"turkiye",
+"ucurumu",
+"yemek"
+],
+[
+"can",
+"cekecek",
+"degilsin",
+"eski",
+"fenerbahceliden",
+"hareket",
+"irfan",
+"kapasitede",
+"sert",
+"sozler"
+],
+[
+"adana",
+"deprem",
+"korkutan"
+],
+[
+"baskiresim",
+"bulustu",
+"bursa",
+"cocuklarin",
+"dunyasi",
+"hayal"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-09T11:48:00+00:00",
+"Haber Global": "2026-11-09T12:29:00+00:00",
 "Sonsöz (Ankara)": "2026-11-09T11:53:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-09T11:56:58+00:00",
-"Sözcü Son Dakika": "2026-11-09T11:57:58+00:00",
-"Yeni Şafak Yerel": "2026-11-09T11:47:12+00:00",
-"X / Twitter Türkiye": "2026-11-09T09:18:46.513163+00:00",
-"Olay (Bursa)": "2026-11-09T11:57:42+00:00",
+"Sözcü Son Dakika": "2026-11-09T12:38:20+00:00",
+"Yeni Şafak Yerel": "2026-11-09T12:31:10+00:00",
+"X / Twitter Türkiye": "2026-11-09T12:39:26.593743+00:00",
+"Olay (Bursa)": "2026-11-09T12:38:49+00:00",
 "@islamasalya": "2026-11-09T11:00:43+00:00",
 "Yeni Asır (İzmir)": "2026-11-09T11:33:59+00:00",
 "İstanbul Gazetesi": "2026-11-09T11:37:00+00:00",
