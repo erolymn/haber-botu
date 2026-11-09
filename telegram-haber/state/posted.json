@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"925fce9a5fad978a",
-"ff872f088740d355",
-"ca437c0cb64175ef",
-"defb256073a36a3b",
 "fb5bbfffc4661939",
 "c313dfb12d54cd77",
 "1fe388a01d24bc7a",
@@ -2999,49 +2995,13 @@
 "d1c4035601e69515",
 "ecd7d676f7b6b2c8",
 "b3dc62c355fbb301",
-"95b53893a2813b56"
+"95b53893a2813b56",
+"a38bc4be0039d10b",
+"bc10b8354aa43af0",
+"316cf7cb30cbf45d",
+"2d239614875e8814"
 ],
 "imzalar": [
-[
-"acti",
-"ates",
-"dehset",
-"istanbul",
-"kisiyi",
-"ortasinda",
-"rastgele",
-"sokak",
-"yaraladi"
-],
-[
-"arzi",
-"bakanligi",
-"durduruldu",
-"dusme",
-"duyurdu",
-"mama",
-"riski",
-"sandalyesinin",
-"ticaret",
-"yaralanma"
-],
-[
-"acti",
-"atasehir",
-"ates",
-"kisi",
-"rastgele",
-"silahla",
-"yaralandi"
-],
-[
-"bitti",
-"ciftinin",
-"diyene",
-"ifadesi",
-"kaya",
-"sorusturma"
-],
 [
 "basaksehir",
 "goztepe",
@@ -8877,15 +8837,68 @@
 "fabrikalar",
 "kapaniyor",
 "sektorunde"
+],
+[
+"ajan",
+"askla",
+"ceo",
+"cikti",
+"devi",
+"diledi",
+"dunya",
+"gundem",
+"nun",
+"ozur",
+"sevgilisi",
+"yasak"
+],
+[
+"dalga",
+"gecmis",
+"gozalti",
+"ilaclarini",
+"kanser",
+"karari",
+"operasyon",
+"piyasaya",
+"sebekeye",
+"suren",
+"tarihi"
+],
+[
+"basladi",
+"izni",
+"kapaniyor",
+"kapisi",
+"oturum",
+"reddetmeye",
+"turklere",
+"ulke"
+],
+[
+"gecmis",
+"gozalti",
+"hakkinda",
+"ilaclarinin",
+"kanser",
+"kapsaminda",
+"karari",
+"satisina",
+"sorusturma",
+"supheli",
+"tarihi",
+"verildi",
+"yonelik",
+"yurutulen"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-09T04:30:00+00:00",
+"Haber Global": "2026-11-09T05:05:00+00:00",
 "Sonsöz (Ankara)": "2026-11-09T03:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-09T03:48:02+00:00",
-"Sözcü Son Dakika": "2026-11-09T04:35:04+00:00",
-"Yeni Şafak Yerel": "2026-11-09T04:29:07+00:00",
+"Mynet Son Dakika": "2026-11-09T04:41:45+00:00",
+"Sözcü Son Dakika": "2026-11-09T05:16:45+00:00",
+"Yeni Şafak Yerel": "2026-11-09T05:18:16+00:00",
 "X / Twitter Türkiye": "2026-11-09T03:18:21.281708+00:00",
 "Olay (Bursa)": "2026-11-09T02:42:24+00:00",
 "@islamasalya": "2026-11-08T19:59:34+00:00",
