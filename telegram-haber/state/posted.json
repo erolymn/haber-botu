@@ -1,10 +1,5 @@
 {
 "gonderilen": [
-"b8698faf196d4780",
-"81af5492d44c64a0",
-"2f332c8ebab6dfc5",
-"4a4d65d1dd73bf1a",
-"bb08521172790b76",
 "b404fea7d410c5cf",
 "b2596200c281707f",
 "548e448bf6e5abd1",
@@ -2999,54 +2994,14 @@
 "812a784b0170d0d8",
 "081b4a00a1393b66",
 "7b98eb70e11ca9f0",
-"505ee28fbb9c9ffd"
+"505ee28fbb9c9ffd",
+"f51e019ee2acb550",
+"0650c2fa3b339483",
+"f9d980cd2300f6b1",
+"1ea0a485a6e554e8",
+"b7af80abfe3ed9b0"
 ],
 "imzalar": [
-[
-"ameliyatin",
-"ardindan",
-"bitti",
-"estetik",
-"faciasiyla",
-"hayatini",
-"izmir",
-"kaybetti",
-"operasyonu",
-"saatlik"
-],
-[
-"ahmet",
-"arif",
-"bakan",
-"belli",
-"denizolgun",
-"eski",
-"nedeni",
-"olum"
-],
-[
-"alacak",
-"duzenlemesi",
-"medya",
-"nde",
-"paketi",
-"sosyal",
-"uncu",
-"yargi",
-"yer"
-],
-[
-"afyonkarahisar",
-"belirlendi",
-"daki",
-"hayatini",
-"ikisinin",
-"kadin",
-"katliamda",
-"kaybedenlerden",
-"ogretmen",
-"oldugu"
-],
 [
 "besiktas",
 "cikarmasi",
@@ -8900,17 +8855,55 @@
 "rusvet",
 "sarsan",
 "skandali"
+],
+[
+"belli",
+"bursa",
+"dikkat",
+"gidecekler",
+"guzerg",
+"hastanesine",
+"nin",
+"yeni"
+],
+[
+"akli",
+"futbol",
+"totti"
+],
+[
+"degistiriyor",
+"dikkat",
+"gunde",
+"kahve",
+"neyi",
+"oturanlar",
+"saat",
+"tuketimi"
+],
+[
+"112",
+"bolgeden",
+"capisti",
+"facia",
+"geldi",
+"goruntuler",
+"iki",
+"misir",
+"olu",
+"tren",
+"yarali"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-08T21:46:00+00:00",
-"Sonsöz (Ankara)": "2026-11-09T02:25:00+00:00",
+"Sonsöz (Ankara)": "2026-11-09T03:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-08T11:23:31+00:00",
-"Sözcü Son Dakika": "2026-11-09T02:31:38+00:00",
+"Mynet Son Dakika": "2026-11-09T03:14:40+00:00",
+"Sözcü Son Dakika": "2026-11-09T02:51:54+00:00",
 "Yeni Şafak Yerel": "2026-11-09T01:01:00+00:00",
-"X / Twitter Türkiye": "2026-11-09T00:38:22.695835+00:00",
-"Olay (Bursa)": "2026-11-09T02:30:57+00:00",
+"X / Twitter Türkiye": "2026-11-09T03:18:21.281708+00:00",
+"Olay (Bursa)": "2026-11-09T02:42:24+00:00",
 "@islamasalya": "2026-11-08T19:59:34+00:00",
 "Yeni Asır (İzmir)": "2026-11-08T22:28:26+00:00",
 "İstanbul Gazetesi": "2026-11-08T21:49:00+00:00",
