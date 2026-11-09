@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"c5039a4af32627ae",
-"300298a347e52639",
-"1f454526e2581919",
-"f1220188c0ec49c9",
-"e9cca4a97911eac4",
-"00fefb2e60a9b90a",
-"b560d6d62f3b6c4a",
-"ecf95a77d45767a6",
 "257400fb3742940f",
 "544a7d96ff1261ae",
 "07d71c68ad9bf84d",
@@ -2999,80 +2991,17 @@
 "1a79ee7068a24b3f",
 "a0815e8728ca036f",
 "a3059123ca4111f4",
-"91d34d7b1c875d8d"
+"91d34d7b1c875d8d",
+"9bc93fb5c083e29d",
+"00077b39d802615b",
+"58d31eb46e0fc88a",
+"2565cc4057777af4",
+"140dd2c0e008fdfd",
+"0e2404cade78f059",
+"21f0164fb5ddfb31",
+"964384b4c7322c66"
 ],
 "imzalar": [
-[
-"alman",
-"benzetmesi",
-"degistiriyor",
-"fenerbahceli",
-"futbolcudan",
-"kaderini",
-"macin",
-"messi",
-"yildiz"
-],
-[
-"dunya",
-"dususunu",
-"fiyatlari",
-"gida",
-"surduruyor"
-],
-[
-"kisi",
-"mugla",
-"operasyon",
-"tutuklandi"
-],
-[
-"erzan",
-"hapis",
-"rekor",
-"secil",
-"talebi"
-],
-[
-"findik",
-"rekabet",
-"sektorunden",
-"sorusturmasi",
-"tesebbuse"
-],
-[
-"asiretimizin",
-"buyuk",
-"carpici",
-"ilgili",
-"katledildigi",
-"kisinin",
-"saldiriyla",
-"sorunu",
-"sozler"
-],
-[
-"acikladi",
-"aday",
-"davet",
-"edilen",
-"futbolcular",
-"iste",
-"kadrosunu",
-"milli",
-"sergen",
-"takim",
-"yalcin"
-],
-[
-"alan",
-"cevreleri",
-"cocuk",
-"dumansiz",
-"okul",
-"olacak",
-"parklari"
-],
 [
 "bin",
 "ceza",
@@ -8966,20 +8895,100 @@
 "rahatsizligi",
 "tedavi",
 "yuzden"
+],
+[
+"ankara",
+"dosyasi",
+"gonderildi",
+"hakkindaki",
+"mustafa",
+"sarigul",
+"sorusturma"
+],
+[
+"davasi",
+"hapis",
+"iddialarina",
+"iftira",
+"ihrac",
+"istemi",
+"kadar",
+"mesnetsiz",
+"tegmene",
+"tegmenlerin",
+"yila"
+],
+[
+"gidilir",
+"hafta",
+"iste",
+"izmir",
+"keyifli",
+"nereye",
+"onerisi",
+"rota",
+"sonbaharin",
+"sonu"
+],
+[
+"2119818646188929493",
+"com",
+"https",
+"isra",
+"status",
+"u7somc9sdrnlmrtayve"
+],
+[
+"106",
+"calik",
+"davasinda",
+"durusma",
+"ibb",
+"nci",
+"sahan",
+"tahliye",
+"talebi",
+"tamamlandi",
+"tan"
+],
+[
+"alindi",
+"fon",
+"gozaltina",
+"gulkan",
+"kapsaminda",
+"murat",
+"omer",
+"sorusturmasi"
+],
+[
+"acikladi",
+"altinda",
+"gram",
+"hedefi",
+"islam",
+"memis",
+"yeni"
+],
+[
+"bahceli",
+"den",
+"kasim",
+"mesaji"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-09T14:54:00+00:00",
-"Sonsöz (Ankara)": "2026-11-09T14:22:00+00:00",
+"Haber Global": "2026-11-09T15:55:00+00:00",
+"Sonsöz (Ankara)": "2026-11-09T15:51:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-09T15:05:45+00:00",
-"Sözcü Son Dakika": "2026-11-09T15:17:54+00:00",
-"Yeni Şafak Yerel": "2026-11-09T15:18:58+00:00",
+"Sözcü Son Dakika": "2026-11-09T15:51:20+00:00",
+"Yeni Şafak Yerel": "2026-11-09T15:34:19+00:00",
 "X / Twitter Türkiye": "2026-11-09T15:20:01.280039+00:00",
-"Olay (Bursa)": "2026-11-09T15:07:55+00:00",
-"@islamasalya": "2026-11-09T12:41:56+00:00",
-"Yeni Asır (İzmir)": "2026-11-09T15:00:27+00:00",
-"İstanbul Gazetesi": "2026-11-09T15:06:00+00:00",
+"Olay (Bursa)": "2026-11-09T15:59:16+00:00",
+"@islamasalya": "2026-11-09T15:48:21+00:00",
+"Yeni Asır (İzmir)": "2026-11-09T15:45:55+00:00",
+"İstanbul Gazetesi": "2026-11-09T15:20:00+00:00",
 "Kandilli Rasathanesi": "2026-11-09T12:28:18+00:00"
 }
 }
