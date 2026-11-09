@@ -1,12 +1,5 @@
 {
 "gonderilen": [
-"257400fb3742940f",
-"544a7d96ff1261ae",
-"07d71c68ad9bf84d",
-"b30ee6b6c1cdeba1",
-"750250c571ef0058",
-"a49a4a7eeed6d458",
-"1521a0111e152fe2",
 "4bf64c528bfdf406",
 "fd49c1d9dd6a5932",
 "56ee9a166cf13ed8",
@@ -2999,88 +2992,16 @@
 "140dd2c0e008fdfd",
 "0e2404cade78f059",
 "21f0164fb5ddfb31",
-"964384b4c7322c66"
+"964384b4c7322c66",
+"68bbe947e85dbd41",
+"276aff89530daea3",
+"8f23acb8f47cb0bc",
+"4036b4f8ef468dc2",
+"a5bfa4ce29d3b2a2",
+"fea4e37d76966fb1",
+"10ae74cb946b31b6"
 ],
 "imzalar": [
-[
-"bin",
-"ceza",
-"gunler",
-"kis",
-"lastiginde",
-"takmayana"
-],
-[
-"alip",
-"arsa",
-"aym",
-"degistirdi",
-"dikkat",
-"ilgilendiriyor",
-"insani",
-"karari",
-"milyonlarca",
-"satanlar",
-"tarla",
-"uygulanan",
-"yillardir"
-],
-[
-"kac",
-"kimdir",
-"oztasdelen",
-"serhat",
-"yasinda"
-],
-[
-"afyonkarahisar",
-"altyazida",
-"anda",
-"aradi",
-"ayni",
-"ayrinti",
-"burkan",
-"daki",
-"gordu",
-"katliamda",
-"mudur",
-"yurek"
-],
-[
-"bakimevindeki",
-"dedirten",
-"eglendirmek",
-"pes",
-"savunma",
-"skandala",
-"yaptim"
-],
-[
-"asi",
-"aym",
-"canan",
-"ceken",
-"den",
-"dikkat",
-"ilgili",
-"karar",
-"karatay",
-"sozleriyle"
-],
-[
-"alinmayan",
-"belli",
-"cagirilmayan",
-"futbolcular",
-"kadroya",
-"kim",
-"kimler",
-"listesinde",
-"milli",
-"sergen",
-"takim",
-"yalcin"
-],
 [
 "afyonkarahisar",
 "annesi",
@@ -8975,20 +8896,86 @@
 "den",
 "kasim",
 "mesaji"
+],
+[
+"aydin",
+"kisi",
+"operasyon",
+"orgutune",
+"sayisi",
+"suc",
+"toplam",
+"tutuklandi",
+"tutuklu"
+],
+[
+"calisma",
+"durma",
+"geldi",
+"nedeniyle",
+"noktasina",
+"trafik",
+"yapilan"
+],
+[
+"cumhurbaskani",
+"dan",
+"erdogan",
+"kabine",
+"mesajlar",
+"sonrasi"
+],
+[
+"akarcesme",
+"eylul",
+"kapatti",
+"sezonu",
+"vakifbank"
+],
+[
+"cifte",
+"cumhurbaskani",
+"dan",
+"destek",
+"erdogan",
+"isletmelere",
+"mujde",
+"sureleri",
+"uzatiliyor"
+],
+[
+"belli",
+"ceken",
+"detayi",
+"dikkat",
+"fifa",
+"messi",
+"ronaldo",
+"yilin"
+],
+[
+"ankara",
+"degisiyor",
+"duzenleme",
+"guzerg",
+"hattinin",
+"iste",
+"otobus",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-09T15:55:00+00:00",
-"Sonsöz (Ankara)": "2026-11-09T15:51:00+00:00",
+"Haber Global": "2026-11-09T16:27:00+00:00",
+"Sonsöz (Ankara)": "2026-11-09T16:39:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-09T15:05:45+00:00",
-"Sözcü Son Dakika": "2026-11-09T15:51:20+00:00",
-"Yeni Şafak Yerel": "2026-11-09T15:34:19+00:00",
+"Sözcü Son Dakika": "2026-11-09T16:35:00+00:00",
+"Yeni Şafak Yerel": "2026-11-09T16:31:20+00:00",
 "X / Twitter Türkiye": "2026-11-09T15:20:01.280039+00:00",
-"Olay (Bursa)": "2026-11-09T15:59:16+00:00",
+"Olay (Bursa)": "2026-11-09T16:24:36+00:00",
 "@islamasalya": "2026-11-09T15:48:21+00:00",
-"Yeni Asır (İzmir)": "2026-11-09T15:45:55+00:00",
-"İstanbul Gazetesi": "2026-11-09T15:20:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-09T15:54:43+00:00",
+"İstanbul Gazetesi": "2026-11-09T16:22:00+00:00",
 "Kandilli Rasathanesi": "2026-11-09T12:28:18+00:00"
 }
 }
