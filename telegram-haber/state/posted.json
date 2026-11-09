@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"cf41182c4051ec96",
-"9ed6ff01fcb74525",
-"4bd12a157ca3f03c",
-"af68527200d6ce97",
-"9eae5f2a9e1aae5f",
-"30e4747c9fe9d620",
-"31ae6c3d3d46ce99",
-"7c0291bc969b4e9c",
 "6d8e1f75a1c51217",
 "c5a824021f07c26a",
 "e08e9cb07c883c77",
@@ -2999,87 +2991,17 @@
 "48ec09ce9f85543f",
 "5c269bbea3a2f289",
 "437c245b1e8690d5",
-"fc6a0add5b807373"
+"fc6a0add5b807373",
+"bd9140717e017858",
+"04127e5634e7c582",
+"114ec6935476221b",
+"ea677c6dd065f02d",
+"db2debf683e5515f",
+"275382742e258b7a",
+"b90aaf2216b42e89",
+"e7ff4dbc307f1420"
 ],
 "imzalar": [
-[
-"hatay",
-"kamerada",
-"konteynerdeki",
-"patlama",
-"sirasinda",
-"yangin",
-"yasanan"
-],
-[
-"2026",
-"aciklandi",
-"burs",
-"devlet",
-"ekrani",
-"kredi",
-"kyk",
-"sonuc",
-"sonuclari",
-"sorgulama"
-],
-[
-"altin",
-"dolarda",
-"geldi",
-"gumus",
-"gun",
-"kritik",
-"oynayabilir",
-"taslar",
-"tum",
-"yerinden"
-],
-[
-"bursaspor",
-"kotu"
-],
-[
-"alarak",
-"birbirimizden",
-"ebrar",
-"gazetesi",
-"ilerliyoruz",
-"ilham",
-"istanbul",
-"karakurt",
-"konustu"
-],
-[
-"ayrilik",
-"ediyor",
-"galatasaray",
-"imzalamisti",
-"sozlesme",
-"surpriz",
-"takima",
-"veda",
-"yeni"
-],
-[
-"aciklandi",
-"besiktas",
-"cezalari",
-"cezasi",
-"galatasaray",
-"para",
-"pfdk"
-],
-[
-"anne",
-"aranan",
-"boyle",
-"kiz",
-"saklanmislar",
-"torunu",
-"yakalandi",
-"yillardir"
-],
 [
 "degisecek",
 "ezani",
@@ -8950,20 +8872,98 @@
 "kirsehir",
 "operasyonu",
 "sigara"
+],
+[
+"111",
+"aciklamalar",
+"baskan",
+"dan",
+"donem",
+"erdogan",
+"kaymakamlar",
+"kurasi",
+"nde",
+"onemli",
+"toreni"
+],
+[
+"ferdi",
+"hayalleri",
+"muzikle",
+"yasatilacak",
+"zeyrek"
+],
+[
+"batrakov",
+"geliyor",
+"istanbul",
+"iste",
+"kalma",
+"maddesi",
+"menajeri",
+"serbest",
+"yeni"
+],
+[
+"buldu",
+"dusan",
+"italiano",
+"kendini",
+"krallik",
+"ortak",
+"vincenzo",
+"vlahovic",
+"yarisinda",
+"yeniden",
+"zirveye"
+],
+[
+"baglandi",
+"dosya",
+"icinde",
+"karara",
+"milyon",
+"yil"
+],
+[
+"400",
+"bahcesinde",
+"cikti",
+"fazla",
+"gomulu",
+"kilogramdan",
+"luks",
+"operasyon",
+"uyusturucu",
+"villaya"
+],
+[
+"bahcesine",
+"besliyor",
+"gelen",
+"tilkiyi"
+],
+[
+"aile",
+"antalya",
+"faciasi",
+"hayatini",
+"kaybetti",
+"kisi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-09T11:13:00+00:00",
-"Sonsöz (Ankara)": "2026-11-09T11:10:00+00:00",
+"Haber Global": "2026-11-09T11:48:00+00:00",
+"Sonsöz (Ankara)": "2026-11-09T11:53:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-09T10:38:28+00:00",
-"Sözcü Son Dakika": "2026-11-09T11:14:00+00:00",
-"Yeni Şafak Yerel": "2026-11-09T11:18:18+00:00",
+"Mynet Son Dakika": "2026-11-09T11:56:58+00:00",
+"Sözcü Son Dakika": "2026-11-09T11:57:58+00:00",
+"Yeni Şafak Yerel": "2026-11-09T11:47:12+00:00",
 "X / Twitter Türkiye": "2026-11-09T09:18:46.513163+00:00",
-"Olay (Bursa)": "2026-11-09T11:11:08+00:00",
+"Olay (Bursa)": "2026-11-09T11:57:42+00:00",
 "@islamasalya": "2026-11-09T11:00:43+00:00",
-"Yeni Asır (İzmir)": "2026-11-09T10:05:28+00:00",
-"İstanbul Gazetesi": "2026-11-09T10:43:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-09T11:33:59+00:00",
+"İstanbul Gazetesi": "2026-11-09T11:37:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
 }
