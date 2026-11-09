@@ -1,10 +1,5 @@
 {
 "gonderilen": [
-"15c83d4e5a6948f1",
-"67f1b6006c8a873c",
-"39984d535094b078",
-"0813880802d8a72f",
-"b0cda0086dbd60b5",
 "31c153e09f2f49fa",
 "1c3ace56e7d28103",
 "a4380d2838053b0f",
@@ -2999,52 +2994,14 @@
 "3d4385c5559e7924",
 "c58465729372f9d2",
 "280e6f894cfb37f3",
-"d2eec39cda30852c"
+"d2eec39cda30852c",
+"2dcbf5fe4a053c12",
+"20697070cd776dfb",
+"dbe4deeb5d7c9762",
+"33fc4091ceee79a3",
+"2e9c5eb8189a5838"
 ],
 "imzalar": [
-[
-"bilim",
-"bilimle",
-"bulustu",
-"konya",
-"koy",
-"koybilimfest",
-"ogrenciler",
-"okullarina",
-"tasindi"
-],
-[
-"bakan",
-"bolat",
-"dolar",
-"ihracat",
-"milyar",
-"toplam",
-"turkiye",
-"yapiyor",
-"yilda"
-],
-[
-"belli",
-"cekya",
-"kadrosu",
-"maclarinin",
-"milli",
-"takim",
-"umit"
-],
-[
-"afyonkarahisar",
-"caniden",
-"canini",
-"daki",
-"detayi",
-"izmir",
-"katliam",
-"oncesi",
-"sikan",
-"telefonu"
-],
 [
 "afyonkarahisar",
 "bicerdover",
@@ -8976,18 +8933,53 @@
 "otomobil",
 "pendik",
 "yaralandi"
+],
+[
+"bursaspor",
+"donecek",
+"ismi",
+"sahalara",
+"talihsiz",
+"zaman"
+],
+[
+"grubu",
+"ibb",
+"kuruldu",
+"meclisi",
+"nde",
+"parti",
+"yeni"
+],
+[
+"bitlis",
+"ele",
+"gecirildi",
+"kacakcilik",
+"liralik",
+"milyon",
+"operasyonu",
+"urun"
+],
+[
+"basladi",
+"calismalara",
+"milli",
+"rize",
+"takim",
+"umit"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-09T21:14:00+00:00",
+"Haber Global": "2026-11-09T21:53:00+00:00",
 "Sonsöz (Ankara)": "2026-11-09T19:38:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-09T15:05:45+00:00",
-"Sözcü Son Dakika": "2026-11-09T21:07:22+00:00",
-"Yeni Şafak Yerel": "2026-11-09T21:00:10+00:00",
+"Sözcü Son Dakika": "2026-11-09T21:38:48+00:00",
+"Yeni Şafak Yerel": "2026-11-09T21:39:59+00:00",
 "X / Twitter Türkiye": "2026-11-09T21:20:39.253323+00:00",
-"Olay (Bursa)": "2026-11-09T21:07:52+00:00",
-"@islamasalya": "2026-11-09T20:06:16+00:00",
+"Olay (Bursa)": "2026-11-09T21:23:31+00:00",
+"@islamasalya": "2026-11-09T21:27:33+00:00",
 "Yeni Asır (İzmir)": "2026-11-09T19:06:39+00:00",
 "İstanbul Gazetesi": "2026-11-09T20:53:00+00:00",
 "Kandilli Rasathanesi": "2026-11-09T12:28:18+00:00"
