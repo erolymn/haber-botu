@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"5fe0d6eb014ccb33",
-"d1b6432e72361057",
-"02648858168371ce",
-"a6337fa4722b402c",
-"97a06de1a66009ce",
-"8dbbc106fe354552",
-"f06429912aa72053",
-"704ce5d7ab241a11",
 "4e4418af1a512c59",
 "62b5fa936e17b8da",
 "2017c397f43a286d",
@@ -2999,87 +2991,17 @@
 "2ff8fef97a723f1c",
 "83aeba7956bffcc9",
 "125c7283da11b877",
-"19d53e0e9902d58e"
+"19d53e0e9902d58e",
+"db15f20820ff0e06",
+"1077232d4b09ef77",
+"a8d0140daebbaafa",
+"3cb33d96559d473f",
+"c6ce33c381c72418",
+"e0f69b8c09dfe15e",
+"9b4060f0be0d9834",
+"dadc2e5f37e38e09"
 ],
 "imzalar": [
-[
-"bekledigi",
-"cikti",
-"emeklinin",
-"geliyor",
-"ikramiyeye",
-"ortaya",
-"rakamlar",
-"zam"
-],
-[
-"cete",
-"gozalti",
-"ilde",
-"operasyonu",
-"zamanli"
-],
-[
-"azaldi",
-"istanbul",
-"sonrasi",
-"trafik",
-"yagmur",
-"yogunlugu"
-],
-[
-"agustostan",
-"altin",
-"ataga",
-"fiyatlari",
-"gecti",
-"ilk",
-"kapida",
-"kasim",
-"yana",
-"yukseldi"
-],
-[
-"alarmi",
-"giris",
-"ilde",
-"kar",
-"sibirya",
-"soguklari",
-"turkiye",
-"yapti"
-],
-[
-"ailesine",
-"alindi",
-"gozaltina",
-"kara",
-"kisi",
-"para",
-"sarigul",
-"sorusturmasinda",
-"yonelik"
-],
-[
-"avrupa",
-"beklemedigi",
-"birakmisti",
-"devi",
-"otomotiv",
-"tokat",
-"turkiye",
-"yari",
-"yedi",
-"yolda"
-],
-[
-"ilde",
-"istanbul",
-"merkezli",
-"operasyonu",
-"orgutu",
-"suc"
-],
 [
 "2026",
 "aciklanacak",
@@ -8945,20 +8867,107 @@
 "fabrikasinda",
 "izmir",
 "patlama"
+],
+[
+"ayrinti",
+"bosanma",
+"ceken",
+"dikkat",
+"kararinda",
+"yargitay"
+],
+[
+"arasinda",
+"arayanlar",
+"ayrilik",
+"azerbaycan",
+"baskan",
+"beyhude",
+"cabanin",
+"erdogan",
+"icerisindedir",
+"turkiye"
+],
+[
+"bekleniyordu",
+"belli",
+"degisikligi",
+"karar",
+"logo",
+"parti",
+"yeni"
+],
+[
+"basvurusunda",
+"bulunmustu",
+"cozuldu",
+"diyerek",
+"engelli",
+"gizem",
+"katildi",
+"kayip",
+"oglunu",
+"orgutune",
+"teror",
+"yillik"
+],
+[
+"alesey",
+"arda",
+"batrakov",
+"guler",
+"karisimi",
+"kevin",
+"kuranyi",
+"nico",
+"paz"
+],
+[
+"aciklama",
+"bakani",
+"ciftci",
+"deki",
+"den",
+"icisleri",
+"ilgili",
+"izmir",
+"patlamayla"
+],
+[
+"2026",
+"basari",
+"denizi",
+"dostluk",
+"ele",
+"gerceklestirildi",
+"misir",
+"tatbikati",
+"turkiye",
+"verdi"
+],
+[
+"azerbaycan",
+"dan",
+"erdogan",
+"fitne",
+"mesaji",
+"odaklarina",
+"ragmen",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-09T09:48:00+00:00",
-"Sonsöz (Ankara)": "2026-11-09T09:58:00+00:00",
+"Haber Global": "2026-11-09T10:28:00+00:00",
+"Sonsöz (Ankara)": "2026-11-09T10:21:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-09T08:47:39+00:00",
-"Sözcü Son Dakika": "2026-11-09T09:53:13+00:00",
-"Yeni Şafak Yerel": "2026-11-09T09:45:47+00:00",
+"Mynet Son Dakika": "2026-11-09T10:26:07+00:00",
+"Sözcü Son Dakika": "2026-11-09T10:36:41+00:00",
+"Yeni Şafak Yerel": "2026-11-09T10:35:46+00:00",
 "X / Twitter Türkiye": "2026-11-09T09:18:46.513163+00:00",
-"Olay (Bursa)": "2026-11-09T09:57:46+00:00",
+"Olay (Bursa)": "2026-11-09T10:34:31+00:00",
 "@islamasalya": "2026-11-09T09:28:00+00:00",
-"Yeni Asır (İzmir)": "2026-11-09T09:11:06+00:00",
-"İstanbul Gazetesi": "2026-11-09T09:25:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-09T10:05:28+00:00",
+"İstanbul Gazetesi": "2026-11-09T09:39:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
 }
