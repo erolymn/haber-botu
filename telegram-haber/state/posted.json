@@ -1,12 +1,5 @@
 {
 "gonderilen": [
-"053a8d99be844153",
-"81205b49a15788fd",
-"7facfa631454a87b",
-"625859c80f5074a1",
-"4064906d1e59a768",
-"2372f031a2f89411",
-"620446c4f97f73b9",
 "f4efe0230b3bf419",
 "d49faf217b62395b",
 "0317c3f620e97c95",
@@ -2999,76 +2992,16 @@
 "dcbe5a2305ceece3",
 "84c47ab5051e9035",
 "9a62d5b3766eb73f",
-"d73070b7b30623c8"
+"d73070b7b30623c8",
+"1415e3ac80ac80c9",
+"73d0e22888194a89",
+"7efb0780e81ca145",
+"c601babe4b73ab23",
+"8b360d812e321d67",
+"e7c5a31194b2e4b0",
+"67c273fd7223a3a6"
 ],
 "imzalar": [
-[
-"betul",
-"edildi",
-"fatma",
-"hakkinda",
-"kaya",
-"sayan",
-"talep",
-"tutuklama"
-],
-[
-"evinde",
-"ilk",
-"kez",
-"sezon",
-"trabzonspor",
-"yikildi"
-],
-[
-"amacli",
-"cikar",
-"davasi",
-"imamoglu",
-"kres",
-"misin",
-"orgutu",
-"secim",
-"suc",
-"vaadimiz",
-"yapar"
-],
-[
-"banka",
-"baskani",
-"batti",
-"devlet",
-"gorevinden",
-"istifa",
-"ozel",
-"paraguay",
-"pena"
-],
-[
-"afyonkarahisar",
-"anlar",
-"getirildigi",
-"hastaneye",
-"kamerada",
-"saldirganinin"
-],
-[
-"bursa",
-"garfitt",
-"gecelerinde",
-"kriss",
-"ruzgari",
-"senfoni"
-],
-[
-"aciklamasi",
-"bakan",
-"emekliye",
-"seyyanen",
-"simsek",
-"ten",
-"zam"
-],
 [
 "baskonia",
 "fenerbahce",
@@ -8889,20 +8822,102 @@
 "serdar",
 "tan",
 "tarkan"
+],
+[
+"acikladi",
+"aylik",
+"betul",
+"cikti",
+"diyerek",
+"fatma",
+"gelirini",
+"hanimiyim",
+"ifadesi",
+"kaya",
+"nin",
+"sayan"
+],
+[
+"cikti",
+"goruntuler",
+"gune",
+"istanbul",
+"kartpostallik",
+"ortaya",
+"sisle",
+"uyandi"
+],
+[
+"balikesir",
+"dehsette",
+"deki",
+"gelisme",
+"hayatini",
+"kaybetmisti",
+"tek",
+"yeni",
+"yumrukla"
+],
+[
+"adil",
+"bankasi",
+"baskan",
+"bddk",
+"fon",
+"genel",
+"katilim",
+"muduru",
+"sorusturmasi",
+"tutuklandi",
+"yardimcisi"
+],
+[
+"acikladi",
+"arsiv",
+"asansorde",
+"bilgisini",
+"gazeteci",
+"iddiasi",
+"ilgili",
+"inanilmaz",
+"sarigul",
+"taciz",
+"terkoglu"
+],
+[
+"basvurular",
+"bursa",
+"tubitak",
+"uzatildi"
+],
+[
+"betul",
+"birikimimizi",
+"cikti",
+"degerlendirmek",
+"esimle",
+"fatma",
+"ifadesi",
+"istedik",
+"kaya",
+"nin",
+"ortaya",
+"savcilik",
+"sayan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-09T06:31:00+00:00",
+"Haber Global": "2026-11-09T07:09:00+00:00",
 "Sonsöz (Ankara)": "2026-11-09T06:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-09T05:59:55+00:00",
-"Sözcü Son Dakika": "2026-11-09T06:36:34+00:00",
-"Yeni Şafak Yerel": "2026-11-09T06:35:35+00:00",
+"Mynet Son Dakika": "2026-11-09T06:33:02+00:00",
+"Sözcü Son Dakika": "2026-11-09T07:14:11+00:00",
+"Yeni Şafak Yerel": "2026-11-09T07:16:46+00:00",
 "X / Twitter Türkiye": "2026-11-09T06:38:46.263327+00:00",
-"Olay (Bursa)": "2026-11-09T06:36:00+00:00",
+"Olay (Bursa)": "2026-11-09T07:16:09+00:00",
 "@islamasalya": "2026-11-08T19:59:34+00:00",
-"Yeni Asır (İzmir)": "2026-11-09T06:14:21+00:00",
-"İstanbul Gazetesi": "2026-11-09T06:17:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-09T06:55:36+00:00",
+"İstanbul Gazetesi": "2026-11-09T06:44:00+00:00",
 "Kandilli Rasathanesi": "2026-11-06T15:26:53+00:00"
 }
 }
