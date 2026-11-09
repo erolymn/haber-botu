@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"518918186f49646e",
-"467b736ca7734563",
-"a56ace3b69b74185",
 "925fce9a5fad978a",
 "ff872f088740d355",
 "ca437c0cb64175ef",
@@ -2999,46 +2996,12 @@
 "f7ac9f638bd48d7e",
 "481cfeb7faf1e55c",
 "8ca2f0a28b8aa110",
-"d1c4035601e69515"
+"d1c4035601e69515",
+"ecd7d676f7b6b2c8",
+"b3dc62c355fbb301",
+"95b53893a2813b56"
 ],
 "imzalar": [
-[
-"baskanligindan",
-"destegi",
-"egitim",
-"goc",
-"idaresi",
-"istihdama",
-"mesleki",
-"sosyal",
-"uyum"
-],
-[
-"anlatti",
-"berke",
-"bozdu",
-"doneminde",
-"ilk",
-"kez",
-"montella",
-"ozer",
-"sessizligini",
-"yasananlari"
-],
-[
-"alindi",
-"baskan",
-"calismalar",
-"cemil",
-"dan",
-"ele",
-"izmir",
-"mudurlugu",
-"ortak",
-"saglik",
-"tugay",
-"ziyaret"
-],
 [
 "acti",
 "ates",
@@ -8885,15 +8848,44 @@
 "kapilar",
 "sunum",
 "yapildi"
+],
+[
+"ara",
+"egitime",
+"gun",
+"iki",
+"ilimizde",
+"verildi"
+],
+[
+"arda",
+"art",
+"aydinlatma",
+"aydinlatti",
+"cikan",
+"direginde",
+"geceyi",
+"geldi",
+"meydana",
+"patlamalar",
+"sisli",
+"yangin"
+],
+[
+"alarm",
+"ayakkabi",
+"fabrikalar",
+"kapaniyor",
+"sektorunde"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-09T03:40:00+00:00",
+"Haber Global": "2026-11-09T04:30:00+00:00",
 "Sonsöz (Ankara)": "2026-11-09T03:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-09T03:48:02+00:00",
-"Sözcü Son Dakika": "2026-11-09T03:56:51+00:00",
-"Yeni Şafak Yerel": "2026-11-09T01:01:00+00:00",
+"Sözcü Son Dakika": "2026-11-09T04:35:04+00:00",
+"Yeni Şafak Yerel": "2026-11-09T04:29:07+00:00",
 "X / Twitter Türkiye": "2026-11-09T03:18:21.281708+00:00",
 "Olay (Bursa)": "2026-11-09T02:42:24+00:00",
 "@islamasalya": "2026-11-08T19:59:34+00:00",
