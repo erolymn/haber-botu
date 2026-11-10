@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"13a2e97f2df07a65",
-"4e9390037112e53f",
-"54f4167cf2407821",
 "3803829ac271091c",
 "0cee6f807c20fd77",
 "66a8861733e73b24",
@@ -2999,34 +2996,12 @@
 "dfa219b040e85538",
 "60f3d95a9c7089a7",
 "6d90411e1800b184",
-"66730dee94116d1e"
+"66730dee94116d1e",
+"1474cbb104ae221a",
+"d55b57b77e7402db",
+"0dc06c7c1ccb28c4"
 ],
 "imzalar": [
-[
-"grubu",
-"meclis",
-"meslek",
-"pasaport",
-"yesil",
-"yolunda"
-],
-[
-"gazze"
-],
-[
-"2026",
-"acikogretim",
-"anadolu",
-"aof",
-"ara",
-"donemi",
-"fakultesi",
-"guz",
-"sinavlari",
-"tarihleri",
-"universitesi",
-"vize"
-],
 [
 "2027",
 "aidatlar",
@@ -8924,17 +8899,39 @@
 "vatandasa",
 "yakalanmasa",
 "yedireceklerdi"
+],
+[
+"cekecek",
+"spielberg",
+"western",
+"yasinda"
+],
+[
+"aci",
+"den",
+"harekat",
+"ozel",
+"polisine",
+"tunceli",
+"veda"
+],
+[
+"hapsi",
+"ismail",
+"kalkti",
+"karari",
+"saymaz"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-10T09:54:00+00:00",
+"Haber Global": "2026-11-10T13:51:00+00:00",
 "Sonsöz (Ankara)": "2026-11-10T08:35:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-10T08:33:41+00:00",
-"Sözcü Son Dakika": "2026-11-10T12:52:11+00:00",
+"Sözcü Son Dakika": "2026-11-10T13:55:29+00:00",
 "Yeni Şafak Yerel": "2026-11-10T12:56:19+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-10T10:55:33+00:00",
+"Olay (Bursa)": "2026-11-10T13:51:51+00:00",
 "@islamasalya": "2026-11-10T11:00:10+00:00",
 "Yeni Asır (İzmir)": "2026-11-10T10:49:17+00:00",
 "İstanbul Gazetesi": "2026-11-10T12:55:00+00:00",
