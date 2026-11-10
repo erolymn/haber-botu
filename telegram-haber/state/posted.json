@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"09d3a096b6f4736a",
-"2c38a001ed781423",
-"e554e8dc31ef787e",
 "efc72a703ad44446",
 "5bf393824afbca54",
 "b158b56ac82e2e74",
@@ -2999,42 +2996,12 @@
 "0dc06c7c1ccb28c4",
 "6cdcc51c18b3e0ab",
 "06d79262736624e2",
-"b9331c1bbaf4051f"
+"b9331c1bbaf4051f",
+"4e0948d38d674740",
+"0ecdf50ef45bd2d1",
+"cb33fb432658d4c0"
 ],
 "imzalar": [
-[
-"alacaklar",
-"direnisi",
-"imbat",
-"kazandi",
-"madencilerinin",
-"odendi",
-"tum"
-],
-[
-"dunya",
-"getirdi",
-"ihracattaki",
-"kadinlarin",
-"nden",
-"odul",
-"orgutu",
-"rolu",
-"ticaret",
-"turkiye",
-"uluslararasi"
-],
-[
-"baskan",
-"dinlenme",
-"izmir",
-"luksumuz",
-"odemis",
-"oturma",
-"surpriz",
-"tugay",
-"ziyaret"
-],
 [
 "850",
 "ariyor",
@@ -8910,19 +8877,52 @@
 "sistem",
 "super",
 "yeni"
+],
+[
+"bostanci",
+"dikkat",
+"duzenlemesi",
+"goztepe",
+"istanbullular",
+"koprulerinde",
+"trafik"
+],
+[
+"2026",
+"aktuel",
+"bim",
+"cikan",
+"fiyatlar",
+"haftanin",
+"indirimli",
+"kasim",
+"katalogu",
+"one",
+"onerileri",
+"urunler"
+],
+[
+"dikildi",
+"gecmisine",
+"gonderme",
+"heykel",
+"ortasina",
+"parkin",
+"trump",
+"yapan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-10T13:51:00+00:00",
+"Haber Global": "2026-11-10T14:51:00+00:00",
 "Sonsöz (Ankara)": "2026-11-10T08:35:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-10T08:33:41+00:00",
-"Sözcü Son Dakika": "2026-11-10T13:55:29+00:00",
+"Sözcü Son Dakika": "2026-11-10T14:53:43+00:00",
 "Yeni Şafak Yerel": "2026-11-10T13:50:54+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-10T13:56:51+00:00",
 "@islamasalya": "2026-11-10T11:00:10+00:00",
-"Yeni Asır (İzmir)": "2026-11-10T13:36:51+00:00",
+"Yeni Asır (İzmir)": "2026-11-10T14:53:00+00:00",
 "İstanbul Gazetesi": "2026-11-10T12:55:00+00:00",
 "Kandilli Rasathanesi": "2026-11-09T12:28:18+00:00"
 }
