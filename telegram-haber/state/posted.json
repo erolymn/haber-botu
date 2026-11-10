@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"f648fcc19e818983",
-"adcdaec2fb86a12b",
-"33ec7369ac1d0222",
 "6e35ccdca2635507",
 "365317f1c0ad554a",
 "969d5b85477b35f5",
@@ -2999,43 +2996,12 @@
 "8c999f7a0b1d979f",
 "a8ce6ff44b51fa47",
 "7c300f8bdf7e6c2f",
-"515d904d52e479c1"
+"515d904d52e479c1",
+"5c9ed1f69ebef4c0",
+"b3ccdecf6a76de6b",
+"dfa219b040e85538"
 ],
 "imzalar": [
-[
-"2026",
-"2027",
-"burs",
-"bursu",
-"ilk",
-"kadar",
-"kredi",
-"kyk",
-"odeme",
-"odemeleri",
-"yapilacak",
-"yatacak",
-"zaman"
-],
-[
-"almak",
-"ehliyet",
-"geliyor",
-"hem",
-"kurallari",
-"sinav",
-"yeni",
-"zam",
-"zorlasacak"
-],
-[
-"aranan",
-"baronu",
-"bultenle",
-"kirmizi",
-"uyusturucu",
-"yakalandi"
-],
 [
 "dagitiyor",
 "dunyanin",
@@ -8940,6 +8906,31 @@
 "sik",
 "verdioglu",
 "yonca"
+],
+[
+"gazze",
+"itibariyla",
+"katliam",
+"yine"
+],
+[
+"bakan",
+"duyurdu",
+"duzenleme",
+"etiketlerinde",
+"peynir",
+"yeni",
+"yumakli"
+],
+[
+"atti",
+"banglades",
+"cami",
+"faaliyeti",
+"kulliye",
+"sadakatasi",
+"temelleri",
+"yardim"
 ]
 ],
 "son_tarih": {
@@ -8948,12 +8939,12 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-10T08:33:41+00:00",
 "Sözcü Son Dakika": "2026-11-10T10:56:26+00:00",
-"Yeni Şafak Yerel": "2026-11-10T08:55:25+00:00",
+"Yeni Şafak Yerel": "2026-11-10T11:54:30+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-10T10:55:33+00:00",
-"@islamasalya": "2026-11-10T09:51:19+00:00",
+"@islamasalya": "2026-11-10T11:00:10+00:00",
 "Yeni Asır (İzmir)": "2026-11-10T10:49:17+00:00",
-"İstanbul Gazetesi": "2026-11-10T08:11:00+00:00",
+"İstanbul Gazetesi": "2026-11-10T11:54:00+00:00",
 "Kandilli Rasathanesi": "2026-11-09T12:28:18+00:00"
 }
 }
