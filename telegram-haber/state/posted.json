@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"6e35ccdca2635507",
-"365317f1c0ad554a",
-"969d5b85477b35f5",
 "13a2e97f2df07a65",
 "4e9390037112e53f",
 "54f4167cf2407821",
@@ -2999,45 +2996,12 @@
 "515d904d52e479c1",
 "5c9ed1f69ebef4c0",
 "b3ccdecf6a76de6b",
-"dfa219b040e85538"
+"dfa219b040e85538",
+"60f3d95a9c7089a7",
+"6d90411e1800b184",
+"66730dee94116d1e"
 ],
 "imzalar": [
-[
-"dagitiyor",
-"dunyanin",
-"geldi",
-"iddialarina",
-"iran",
-"iyot",
-"karsi",
-"konustugu",
-"nukleer",
-"saldiriya",
-"tableti",
-"yanit"
-],
-[
-"2026",
-"altin",
-"ceyrek",
-"fiyatlari",
-"gram",
-"hafta",
-"kac",
-"kadar",
-"kasim",
-"sonu",
-"tam",
-"yarim"
-],
-[
-"amedspor",
-"galatasaray",
-"kadrosu",
-"ler",
-"mac",
-"muhtemel"
-],
 [
 "grubu",
 "meclis",
@@ -8931,6 +8895,35 @@
 "sadakatasi",
 "temelleri",
 "yardim"
+],
+[
+"505",
+"herkesin",
+"kapisini",
+"milyon",
+"satiliyor",
+"tanidigi"
+],
+[
+"istanbul",
+"joker",
+"kocaeli",
+"kurslarina",
+"nde",
+"operasyonu",
+"surucu"
+],
+[
+"100",
+"bal",
+"edildi",
+"imha",
+"kilogram",
+"kirmizi",
+"ton",
+"vatandasa",
+"yakalanmasa",
+"yedireceklerdi"
 ]
 ],
 "son_tarih": {
@@ -8938,13 +8931,13 @@
 "Sonsöz (Ankara)": "2026-11-10T08:35:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-10T08:33:41+00:00",
-"Sözcü Son Dakika": "2026-11-10T10:56:26+00:00",
-"Yeni Şafak Yerel": "2026-11-10T11:54:30+00:00",
+"Sözcü Son Dakika": "2026-11-10T12:52:11+00:00",
+"Yeni Şafak Yerel": "2026-11-10T12:56:19+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-10T10:55:33+00:00",
 "@islamasalya": "2026-11-10T11:00:10+00:00",
 "Yeni Asır (İzmir)": "2026-11-10T10:49:17+00:00",
-"İstanbul Gazetesi": "2026-11-10T11:54:00+00:00",
+"İstanbul Gazetesi": "2026-11-10T12:55:00+00:00",
 "Kandilli Rasathanesi": "2026-11-09T12:28:18+00:00"
 }
 }
