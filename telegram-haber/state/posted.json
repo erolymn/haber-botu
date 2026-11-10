@@ -1,13 +1,5 @@
 {
 "gonderilen": [
-"72cd80a7c9cf4dc4",
-"5c70bf50a9262d09",
-"be3e86e9eef220d1",
-"8965414367a74db3",
-"3500e120d09e82a5",
-"c6359fcdb1fb6255",
-"9b67bd69286b06ee",
-"02b7c9307d194660",
 "547d3b062c69211b",
 "56d4eba990ae9ab9",
 "e27376458e4f29ea",
@@ -2999,77 +2991,17 @@
 "969e5e96d26f9349",
 "984f08726c4623bc",
 "781933f58708d2a9",
-"1fba606cb485255f"
+"1fba606cb485255f",
+"02be595f4a9f7d19",
+"fcf0b64cdbf19d98",
+"cee2a359d68b298e",
+"5b678e17d2aaaff9",
+"81973ea0cb6a6bd4",
+"1c13c2658965bb73",
+"4a92302bfe306f28",
+"02e5b4aaa3b63cef"
 ],
 "imzalar": [
-[
-"cikisi",
-"degil",
-"imamoglu",
-"kemal",
-"kilicdaroglu",
-"ndan",
-"siyasi",
-"tutuklu"
-],
-[
-"besiktas",
-"takildi",
-"zalgiris"
-],
-[
-"galerisi",
-"kayseri",
-"oto",
-"yangini"
-],
-[
-"beyaz",
-"degisimi",
-"duzey",
-"gorev",
-"ismi",
-"saray",
-"secti",
-"trump",
-"ust"
-],
-[
-"basladi",
-"gazze",
-"siddetli",
-"yagmur"
-],
-[
-"aciklama",
-"bursaspor",
-"dan",
-"feci",
-"felaket",
-"karsimizda",
-"yine",
-"zehir",
-"zemberek"
-],
-[
-"atamalar",
-"gazete",
-"rektor",
-"resmi",
-"universiteye",
-"yeni"
-],
-[
-"alan",
-"alev",
-"aracta",
-"can",
-"kaza",
-"kisi",
-"sonrasi",
-"verdi",
-"yanarak"
-],
 [
 "409",
 "aksatti",
@@ -8899,20 +8831,106 @@
 "koye",
 "makinesi",
 "tasidi"
+],
+[
+"asiliyor",
+"bornova",
+"buca",
+"hattinda",
+"izmir",
+"mujde",
+"nde",
+"sahin",
+"suruculere",
+"tepesi",
+"yol",
+"zorlu"
+],
+[
+"anildi",
+"ataturk",
+"duzenlenen",
+"gazi",
+"kemal",
+"meydani",
+"mustafa",
+"nda",
+"programla",
+"taksim"
+],
+[
+"2027",
+"asgari",
+"iste",
+"kadar",
+"masadaki",
+"olacak",
+"tahminleri",
+"ucret",
+"zam"
+],
+[
+"ankara",
+"den",
+"eskisehir",
+"meteoroloji",
+"pus",
+"sakarya",
+"sehrimiz",
+"sis",
+"uyarisi"
+],
+[
+"alindilar",
+"boyle",
+"devreye",
+"girdi",
+"gozaltina",
+"harekat",
+"ozel"
+],
+[
+"brezilyali",
+"eski",
+"ettigi",
+"filistinlinin",
+"hediye",
+"kerim",
+"kur",
+"musluman",
+"okuyunca",
+"papaz"
+],
+[
+"charles",
+"dunya",
+"habercisi",
+"ingiltere",
+"konusuyor",
+"krali",
+"neyin",
+"parmaklarini"
+],
+[
+"bursalilar",
+"dikkat",
+"elektrikler",
+"ilcede",
+"kesilecek"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-10T06:40:00+00:00",
-"Sonsöz (Ankara)": "2026-11-10T03:13:00+00:00",
+"Haber Global": "2026-11-10T07:15:00+00:00",
+"Sonsöz (Ankara)": "2026-11-10T07:13:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-10T05:59:25+00:00",
-"Sözcü Son Dakika": "2026-11-10T06:36:43+00:00",
-"Yeni Şafak Yerel": "2026-11-10T06:40:10+00:00",
+"Mynet Son Dakika": "2026-11-10T07:15:49+00:00",
+"Sözcü Son Dakika": "2026-11-10T07:18:20+00:00",
+"Yeni Şafak Yerel": "2026-11-10T07:16:55+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-10T06:39:43+00:00",
+"Olay (Bursa)": "2026-11-10T07:20:30+00:00",
 "@islamasalya": "2026-11-09T21:27:33+00:00",
-"Yeni Asır (İzmir)": "2026-11-10T06:22:44+00:00",
-"İstanbul Gazetesi": "2026-11-10T05:45:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-10T06:59:06+00:00",
+"İstanbul Gazetesi": "2026-11-10T07:00:00+00:00",
 "Kandilli Rasathanesi": "2026-11-09T12:28:18+00:00"
 }
 }
