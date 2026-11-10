@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"547d3b062c69211b",
-"56d4eba990ae9ab9",
 "e27376458e4f29ea",
 "d8697815b4f85262",
 "ab64650d434e24c6",
@@ -2999,32 +2997,11 @@
 "81973ea0cb6a6bd4",
 "1c13c2658965bb73",
 "4a92302bfe306f28",
-"02e5b4aaa3b63cef"
+"02e5b4aaa3b63cef",
+"b444c1fef2c2a540",
+"41eb581c42e9fcc8"
 ],
 "imzalar": [
-[
-"409",
-"aksatti",
-"bin",
-"gecidi",
-"kar",
-"kirecli",
-"nde",
-"rakimli",
-"ulasimi",
-"yagisi"
-],
-[
-"aciklama",
-"disisleri",
-"fransiz",
-"geldi",
-"gemisi",
-"gerdi",
-"ipleri",
-"nden",
-"sert"
-],
 [
 "adasi",
 "duyurdu",
@@ -8917,11 +8894,27 @@
 "elektrikler",
 "ilcede",
 "kesilecek"
+],
+[
+"buyuyor",
+"diploma",
+"gelecek",
+"genclerin",
+"kaygisi"
+],
+[
+"anildi",
+"anitkabir",
+"ataturk",
+"donumunde",
+"inci",
+"vefatinin",
+"yil"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-10T07:15:00+00:00",
-"Sonsöz (Ankara)": "2026-11-10T07:13:00+00:00",
+"Haber Global": "2026-11-10T07:18:00+00:00",
+"Sonsöz (Ankara)": "2026-11-10T07:21:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-10T07:15:49+00:00",
 "Sözcü Son Dakika": "2026-11-10T07:18:20+00:00",
