@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"efc72a703ad44446",
-"5bf393824afbca54",
-"b158b56ac82e2e74",
 "30f6b84c94bd63e0",
 "adaf5ac71f86cfe1",
 "de2520932a10e17a",
@@ -2999,33 +2996,12 @@
 "b9331c1bbaf4051f",
 "4e0948d38d674740",
 "0ecdf50ef45bd2d1",
-"cb33fb432658d4c0"
+"cb33fb432658d4c0",
+"fcbb58a5274ff565",
+"60ea8888ceaa3176",
+"4d9ded3baf4c168e"
 ],
 "imzalar": [
-[
-"850",
-"ariyor",
-"buyuk",
-"heyecan",
-"loto",
-"milyon",
-"sahibini",
-"super"
-],
-[
-"180",
-"basliyor",
-"dikkat",
-"gun",
-"istanbullular",
-"surecek",
-"yarin"
-],
-[
-"hesabi",
-"kayserispor",
-"liderlik"
-],
 [
 "dusus",
 "fiyatlarinda",
@@ -8910,15 +8886,47 @@
 "parkin",
 "trump",
 "yapan"
+],
+[
+"istanbul",
+"trafik",
+"ulasti",
+"yogunlugu",
+"yuzde"
+],
+[
+"cerrahpasalilar",
+"donuyor",
+"efsanesi",
+"film",
+"geri",
+"kurtlar",
+"nin",
+"oluyor",
+"vadisi"
+],
+[
+"aldi",
+"alev",
+"arkadaki",
+"balatalari",
+"dikkati",
+"faciayi",
+"fren",
+"halindeki",
+"kamyonun",
+"onledi",
+"seyir",
+"surucunun"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-10T14:51:00+00:00",
+"Haber Global": "2026-11-10T15:49:00+00:00",
 "Sonsöz (Ankara)": "2026-11-10T08:35:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-10T08:33:41+00:00",
-"Sözcü Son Dakika": "2026-11-10T14:53:43+00:00",
-"Yeni Şafak Yerel": "2026-11-10T13:50:54+00:00",
+"Sözcü Son Dakika": "2026-11-10T15:54:30+00:00",
+"Yeni Şafak Yerel": "2026-11-10T15:56:26+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-10T13:56:51+00:00",
 "@islamasalya": "2026-11-10T11:00:10+00:00",
