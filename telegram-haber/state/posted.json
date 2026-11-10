@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"3803829ac271091c",
-"0cee6f807c20fd77",
-"66a8861733e73b24",
 "09d3a096b6f4736a",
 "2c38a001ed781423",
 "e554e8dc31ef787e",
@@ -2999,46 +2996,12 @@
 "66730dee94116d1e",
 "1474cbb104ae221a",
 "d55b57b77e7402db",
-"0dc06c7c1ccb28c4"
+"0dc06c7c1ccb28c4",
+"6cdcc51c18b3e0ab",
+"06d79262736624e2",
+"b9331c1bbaf4051f"
 ],
 "imzalar": [
-[
-"2027",
-"aidatlar",
-"artislar",
-"asti",
-"basliyor",
-"bile",
-"donemi",
-"edildi",
-"fahis",
-"fiyatlarini",
-"isaret",
-"kira",
-"lisans"
-],
-[
-"100",
-"altina",
-"geriledi",
-"indirim",
-"liranin",
-"motorine",
-"yeniden"
-],
-[
-"ayaklandi",
-"cig",
-"dursun",
-"galatasaray",
-"gibi",
-"osimhen",
-"ozbek",
-"sakatlanmasi",
-"sonrasi",
-"taraftari",
-"tepkiler"
-],
 [
 "alacaklar",
 "direnisi",
@@ -8921,6 +8884,32 @@
 "kalkti",
 "karari",
 "saymaz"
+],
+[
+"araya",
+"baskan",
+"erdogan",
+"geldi",
+"genel",
+"guterres",
+"sekreteri"
+],
+[
+"baskan",
+"cozumler",
+"dan",
+"gulpinar",
+"iklim",
+"mesajlar",
+"mucadelesinde",
+"onemli",
+"yerel"
+],
+[
+"lig",
+"sistem",
+"super",
+"yeni"
 ]
 ],
 "son_tarih": {
@@ -8929,11 +8918,11 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-10T08:33:41+00:00",
 "Sözcü Son Dakika": "2026-11-10T13:55:29+00:00",
-"Yeni Şafak Yerel": "2026-11-10T12:56:19+00:00",
+"Yeni Şafak Yerel": "2026-11-10T13:50:54+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-10T13:51:51+00:00",
+"Olay (Bursa)": "2026-11-10T13:56:51+00:00",
 "@islamasalya": "2026-11-10T11:00:10+00:00",
-"Yeni Asır (İzmir)": "2026-11-10T10:49:17+00:00",
+"Yeni Asır (İzmir)": "2026-11-10T13:36:51+00:00",
 "İstanbul Gazetesi": "2026-11-10T12:55:00+00:00",
 "Kandilli Rasathanesi": "2026-11-09T12:28:18+00:00"
 }
