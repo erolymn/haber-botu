@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"6fc825ac5da78b63",
-"94c47bcf1b59066e",
-"8f3bd9db0fc8a601",
-"185bfc1226132bb7",
 "470a7fe6d96b25cd",
 "6eb9b5ad5622b89e",
 "01c34ac72238d18f",
@@ -2999,43 +2995,13 @@
 "99508e4d0473e979",
 "e8b9df418015fe45",
 "43e43e3adca2b0be",
-"19e1117566050dc9"
+"19e1117566050dc9",
+"50d43917228c3382",
+"fc76891f07d42a91",
+"b75e68a743cd29dc",
+"f4fb40ff334bde6b"
 ],
 "imzalar": [
-[
-"cig",
-"destekli",
-"erken",
-"karsi",
-"riskine",
-"sistemi",
-"uyari",
-"yapay",
-"zeka"
-],
-[
-"acikladi",
-"bakan",
-"havalimanlarinda",
-"kati",
-"nufusunun",
-"rekoru",
-"tasindi",
-"turkiye",
-"uraloglu",
-"yolcu"
-],
-[
-"ayrilacak",
-"belli",
-"belozoglu",
-"emre",
-"ilk",
-"isim",
-"kadroya",
-"ndan",
-"nester"
-],
 [
 "aciklandi",
 "antep",
@@ -8905,6 +8871,29 @@
 [
 "aksam",
 "gazze"
+],
+[
+"aksam",
+"gazze"
+],
+[
+"aralik",
+"basvurmayan",
+"dikkat",
+"emeklilik",
+"fazla",
+"kadar",
+"odeyecek",
+"prim",
+"tamamlayacaklar"
+],
+[
+"bursa",
+"gozde",
+"mahallesine",
+"nin",
+"yeni",
+"yollar"
 ]
 ],
 "son_tarih": {
@@ -8913,12 +8902,12 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-10T08:33:41+00:00",
 "Sözcü Son Dakika": "2026-11-10T16:52:33+00:00",
-"Yeni Şafak Yerel": "2026-11-10T17:55:31+00:00",
+"Yeni Şafak Yerel": "2026-11-10T18:51:39+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-10T13:56:51+00:00",
-"@islamasalya": "2026-11-10T17:56:36+00:00",
+"Olay (Bursa)": "2026-11-10T18:54:53+00:00",
+"@islamasalya": "2026-11-10T18:05:24+00:00",
 "Yeni Asır (İzmir)": "2026-11-10T14:53:00+00:00",
 "İstanbul Gazetesi": "2026-11-10T12:55:00+00:00",
-"Kandilli Rasathanesi": "2026-11-09T12:28:18+00:00"
+"Kandilli Rasathanesi": "2026-11-10T18:12:52+00:00"
 }
 }
