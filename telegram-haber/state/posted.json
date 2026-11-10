@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"91b11bb1f68e5562",
-"70acd41e0510f7a1",
-"765dfd6b97673596",
 "80f44ccae447a406",
 "e00573db2cfbbbb5",
 "3a1768bfe9f70904",
@@ -2999,33 +2996,12 @@
 "fd90cf07e46b3217",
 "71ab842fc941e38f",
 "036cd50f488211b8",
-"833fad8e1955ac81"
+"833fad8e1955ac81",
+"e1db96617354d3b5",
+"46fbf3a74e18812c",
+"ab6e1a72bdef8bce"
 ],
 "imzalar": [
-[
-"bursa",
-"eglence",
-"mekanina",
-"saldiri",
-"tufekli"
-],
-[
-"ihracatta",
-"somonu",
-"turk",
-"zirvede"
-],
-[
-"aciklama",
-"alarmi",
-"dagitiliyor",
-"halka",
-"iddiasina",
-"iran",
-"iyot",
-"nukleer",
-"saldiri"
-],
 [
 "cuvala",
 "sigmadi"
@@ -8915,17 +8891,49 @@
 "katilimi",
 "mensubu",
 "rekor"
+],
+[
+"arkadasin",
+"bitti",
+"iki",
+"kanli",
+"katil",
+"kavgasi",
+"yasinda"
+],
+[
+"adalet",
+"celik",
+"cop31",
+"esik",
+"gelecek",
+"kuresel",
+"ortak",
+"parti",
+"sozcusu",
+"tarihi"
+],
+[
+"anlatildi",
+"bursa",
+"cikarmasi",
+"cop31",
+"dan",
+"donusum",
+"ilcedeki",
+"vizyonu",
+"yesil"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-10T08:33:00+00:00",
+"Haber Global": "2026-11-10T08:51:00+00:00",
 "Sonsöz (Ankara)": "2026-11-10T08:35:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-10T08:33:41+00:00",
 "Sözcü Son Dakika": "2026-11-10T08:31:59+00:00",
-"Yeni Şafak Yerel": "2026-11-10T08:36:27+00:00",
+"Yeni Şafak Yerel": "2026-11-10T08:55:25+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-10T08:38:45+00:00",
+"Olay (Bursa)": "2026-11-10T08:56:16+00:00",
 "@islamasalya": "2026-11-09T21:27:33+00:00",
 "Yeni Asır (İzmir)": "2026-11-10T08:24:32+00:00",
 "İstanbul Gazetesi": "2026-11-10T08:11:00+00:00",
