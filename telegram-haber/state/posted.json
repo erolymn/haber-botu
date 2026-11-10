@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"74aa5f0b6992cd12",
-"2a0934e265483f2a",
-"2b2a7c1b36d5bd01",
 "ffb99eee0ff67f15",
 "4a6e8c4c7afe6811",
 "d978a346624ad59a",
@@ -2999,39 +2996,12 @@
 "b00a878c40ffcfb1",
 "b27832bbdd710e47",
 "2359b3c0841eb840",
-"ea66f72d67deb5b2"
+"ea66f72d67deb5b2",
+"161c1516fb60cb69",
+"a3e6fe09537f4db0",
+"5d4e85ffa1ac692f"
 ],
 "imzalar": [
-[
-"bolu",
-"bulacak",
-"kalinligi",
-"kar",
-"santimetreyi",
-"uyarisi",
-"valiliginden"
-],
-[
-"130",
-"cumhurbaskani",
-"lira",
-"milyar",
-"odeme",
-"yapildi",
-"yardimcisi",
-"yatirimcilara",
-"yilmaz"
-],
-[
-"114",
-"ilan",
-"ilde",
-"liralik",
-"milyon",
-"sahte",
-"sorusturmasi",
-"tutuklama"
-],
 [
 "arac",
 "bakirkoy",
@@ -8925,19 +8895,47 @@
 "tek",
 "turkiye",
 "yurek"
+],
+[
+"bakanligi",
+"formasini",
+"ifsa",
+"markasi",
+"okul",
+"ticaret",
+"toplatiyor"
+],
+[
+"agir",
+"genci",
+"turiste",
+"tutuklama",
+"yaralayan"
+],
+[
+"alemdar",
+"ayip",
+"boguldu",
+"buyuk",
+"dan",
+"gozyaslarina",
+"gurkan",
+"memati",
+"polat",
+"uygun"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-10T03:04:00+00:00",
+"Haber Global": "2026-11-10T03:46:00+00:00",
 "Sonsöz (Ankara)": "2026-11-10T03:13:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-09T15:05:45+00:00",
-"Sözcü Son Dakika": "2026-11-10T03:01:34+00:00",
+"Sözcü Son Dakika": "2026-11-10T03:55:36+00:00",
 "Yeni Şafak Yerel": "2026-11-10T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T03:21:09.336292+00:00",
 "Olay (Bursa)": "2026-11-10T02:10:35+00:00",
 "@islamasalya": "2026-11-09T21:27:33+00:00",
-"Yeni Asır (İzmir)": "2026-11-09T19:06:39+00:00",
+"Yeni Asır (İzmir)": "2026-11-10T03:50:17+00:00",
 "İstanbul Gazetesi": "2026-11-09T20:53:00+00:00",
 "Kandilli Rasathanesi": "2026-11-09T12:28:18+00:00"
 }
