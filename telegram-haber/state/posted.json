@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"301f63619d309454",
-"419e008d12c15760",
-"764a14c589730fe1",
 "f648fcc19e818983",
 "adcdaec2fb86a12b",
 "33ec7369ac1d0222",
@@ -2999,39 +2996,12 @@
 "ab6e1a72bdef8bce",
 "15581bb928bb9023",
 "157039ab782f6423",
-"8c999f7a0b1d979f"
+"8c999f7a0b1d979f",
+"a8ce6ff44b51fa47",
+"7c300f8bdf7e6c2f",
+"515d904d52e479c1"
 ],
 "imzalar": [
-[
-"acikladi",
-"bakan",
-"ciftci",
-"duzenleme",
-"geliyor",
-"ruhsatli",
-"silahlar",
-"yeni"
-],
-[
-"alev",
-"araclar",
-"canakkale",
-"carpistilar",
-"dondu",
-"kafa",
-"kafaya",
-"topuna",
-"yer"
-],
-[
-"dustu",
-"inanir",
-"kadir",
-"kasasinin",
-"levent",
-"pesine",
-"simdi"
-],
 [
 "2026",
 "2027",
@@ -8940,6 +8910,36 @@
 "tercihi",
 "uzun",
 "yasandi"
+],
+[
+"alev",
+"aliyor",
+"arac",
+"den",
+"hatalar",
+"iste",
+"izmir",
+"kritik",
+"neden",
+"sahiplerine",
+"uyari"
+],
+[
+"esine",
+"gittigini",
+"ise",
+"olay",
+"skandal",
+"soyleyip"
+],
+[
+"ahmet",
+"alindi",
+"esi",
+"gozaltina",
+"sik",
+"verdioglu",
+"yonca"
 ]
 ],
 "son_tarih": {
@@ -8947,12 +8947,12 @@
 "Sonsöz (Ankara)": "2026-11-10T08:35:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-10T08:33:41+00:00",
-"Sözcü Son Dakika": "2026-11-10T09:55:06+00:00",
+"Sözcü Son Dakika": "2026-11-10T10:56:26+00:00",
 "Yeni Şafak Yerel": "2026-11-10T08:55:25+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-10T08:56:16+00:00",
+"Olay (Bursa)": "2026-11-10T10:55:33+00:00",
 "@islamasalya": "2026-11-10T09:51:19+00:00",
-"Yeni Asır (İzmir)": "2026-11-10T08:24:32+00:00",
+"Yeni Asır (İzmir)": "2026-11-10T10:49:17+00:00",
 "İstanbul Gazetesi": "2026-11-10T08:11:00+00:00",
 "Kandilli Rasathanesi": "2026-11-09T12:28:18+00:00"
 }
