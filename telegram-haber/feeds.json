@@ -75,7 +75,7 @@
       "min_arama": 2000
     },
     "twitter_gundem": {
-      "aktif": true,
+      "aktif": false,
       "her_kac_saatte": 3,
       "adet": 10
     },
