@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"3cf5d734883e42c6",
-"d76633957b6ca9d9",
-"458d071816be63a0",
-"35d08740398ba17e",
 "38c2a5cd27e0a618",
 "f1d813713a20a6e4",
 "73d14a6cc496669f",
@@ -2999,51 +2995,13 @@
 "3276ff529f90e5f0",
 "1e19d7b5f11b375e",
 "ee931c16577fb36e",
-"8bba450ab5860e56"
+"8bba450ab5860e56",
+"b73c76c345a13e72",
+"68e0cd91e38fe066",
+"06d92066e00e342e",
+"2d2ff58c44e1cb97"
 ],
 "imzalar": [
-[
-"bulusmalarinin",
-"dinliyoruz",
-"duragi",
-"gaziosmanpasa",
-"istanbul",
-"nin",
-"parti",
-"yeni"
-],
-[
-"cekti",
-"dikkat",
-"durum",
-"fiyatlari",
-"gerileme",
-"gumus",
-"gumuste",
-"kasim"
-],
-[
-"bahcetepe",
-"belediyesi",
-"davasinda",
-"gaziosmanpasa",
-"hakan",
-"hapsiyle",
-"karar",
-"karari",
-"tahliye"
-],
-[
-"acilan",
-"davada",
-"durusma",
-"gorulecek",
-"ilk",
-"kasim",
-"nato",
-"nedeniyle",
-"protestosu"
-],
 [
 "bahcetepe",
 "baskani",
@@ -8924,17 +8882,54 @@
 "alev",
 "bolu",
 "motosikleti"
+],
+[
+"aldi",
+"bodrum",
+"can",
+"esnaf",
+"kavgasi",
+"muhammet",
+"yasamini",
+"yasindaki",
+"yitirdi"
+],
+[
+"kavga",
+"kirikkale",
+"silahli",
+"yarali"
+],
+[
+"dev",
+"devrim",
+"fenerbahce",
+"futbol",
+"idari",
+"kadrosunda",
+"nin",
+"operasyon",
+"patronu",
+"teknik",
+"yapacak",
+"yeni"
+],
+[
+"adeta",
+"bursaspor",
+"kendisiyle",
+"yarisiyor"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-10T00:28:00+00:00",
-"Sonsöz (Ankara)": "2026-11-10T01:17:00+00:00",
+"Haber Global": "2026-11-10T01:38:00+00:00",
+"Sonsöz (Ankara)": "2026-11-10T01:31:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-09T15:05:45+00:00",
-"Sözcü Son Dakika": "2026-11-10T01:00:37+00:00",
+"Sözcü Son Dakika": "2026-11-10T01:50:07+00:00",
 "Yeni Şafak Yerel": "2026-11-10T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T00:00:37.598391+00:00",
-"Olay (Bursa)": "2026-11-09T21:23:31+00:00",
+"Olay (Bursa)": "2026-11-10T01:55:45+00:00",
 "@islamasalya": "2026-11-09T21:27:33+00:00",
 "Yeni Asır (İzmir)": "2026-11-09T19:06:39+00:00",
 "İstanbul Gazetesi": "2026-11-09T20:53:00+00:00",
