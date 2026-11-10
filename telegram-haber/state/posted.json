@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"60b505f7804c7e39",
-"57f5cd3b9475acad",
-"728464a23526ca1a",
-"1dc4b2b5fe880753",
 "74aa5f0b6992cd12",
 "2a0934e265483f2a",
 "2b2a7c1b36d5bd01",
@@ -2999,44 +2995,13 @@
 "2d2ff58c44e1cb97",
 "336828446fca99bd",
 "20a9b059cdb34123",
-"d792e3d4e73e04b6"
+"d792e3d4e73e04b6",
+"b00a878c40ffcfb1",
+"b27832bbdd710e47",
+"2359b3c0841eb840",
+"ea66f72d67deb5b2"
 ],
 "imzalar": [
-[
-"ankara",
-"bosalan",
-"dehset",
-"freni",
-"hafriyat",
-"kamyonu",
-"sacti",
-"yarali"
-],
-[
-"ailelerin",
-"arabasiz",
-"biletle",
-"cocuklu",
-"ekonomik",
-"gizli",
-"hafta",
-"hem",
-"izmir",
-"macerasi",
-"rotasi",
-"sonu"
-],
-[
-"alarm",
-"aralik",
-"bulacak",
-"geldi",
-"gelmeden",
-"ilde",
-"kalinligi",
-"kar",
-"verildi"
-],
 [
 "bolu",
 "bulacak",
@@ -8922,16 +8887,54 @@
 "sonraki",
 "yaratti",
 "yukselisinde"
+],
+[
+"duyuldu",
+"fransizca",
+"gazi",
+"ilk",
+"kez",
+"konusmasi",
+"nin",
+"sozleri",
+"yayinlandi"
+],
+[
+"bekleniyor",
+"bircok",
+"dahil",
+"den",
+"durumu",
+"hava",
+"ilde",
+"istanbul",
+"kapida",
+"kar",
+"meteoroloji",
+"raporu",
+"saganak",
+"yagis",
+"yeni"
+],
+[
+"anilacak",
+"ataturk",
+"kasim",
+"olacak",
+"saygiyla",
+"tek",
+"turkiye",
+"yurek"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-10T01:38:00+00:00",
-"Sonsöz (Ankara)": "2026-11-10T01:31:00+00:00",
+"Haber Global": "2026-11-10T03:04:00+00:00",
+"Sonsöz (Ankara)": "2026-11-10T03:13:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-09T15:05:45+00:00",
-"Sözcü Son Dakika": "2026-11-10T02:30:08+00:00",
+"Sözcü Son Dakika": "2026-11-10T03:01:34+00:00",
 "Yeni Şafak Yerel": "2026-11-10T01:00:00+00:00",
-"X / Twitter Türkiye": "2026-11-10T00:00:37.598391+00:00",
+"X / Twitter Türkiye": "2026-11-10T03:21:09.336292+00:00",
 "Olay (Bursa)": "2026-11-10T02:10:35+00:00",
 "@islamasalya": "2026-11-09T21:27:33+00:00",
 "Yeni Asır (İzmir)": "2026-11-09T19:06:39+00:00",
