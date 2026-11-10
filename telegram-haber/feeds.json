@@ -2,7 +2,7 @@
   "kanal": "@gundemsondakik",
   "kaynak_gosterimi": "link",
   "kanal_adi": "GÜNDEM SON DAKİKA",
-  "max_gonderi_per_calisma": 11,
+  "max_gonderi_per_calisma": 3,
   "max_haber_yasi_saat": 3,
   "kaynaklar": [
     {
