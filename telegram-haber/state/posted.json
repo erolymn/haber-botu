@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"22295bf48c18cd62",
-"fcd884c49920d1ca",
-"bb8c34ebba48ea04",
 "44cd52ef4bde0f55",
 "95a4829a16f9e85f",
 "92311f27ffad395e",
@@ -2999,46 +2996,12 @@
 "a3c155ca0a6662cd",
 "6ac59861f23ca7cc",
 "deec410494333f3c",
-"54a4af004a52e873"
+"54a4af004a52e873",
+"72d1c4ef6beb7111",
+"d812140376672342",
+"d491d55db8f67b88"
 ],
 "imzalar": [
-[
-"2026",
-"duyurdu",
-"gunu",
-"kar",
-"kasim",
-"kente",
-"kodla",
-"lapa",
-"meteoroloji",
-"pazar",
-"sari",
-"yagacak"
-],
-[
-"ayak",
-"ceken",
-"detayi",
-"dikkat",
-"fenerbahce",
-"hts",
-"izi",
-"otobusune",
-"saldiri",
-"sorusturmasi"
-],
-[
-"acikladi",
-"baskani",
-"egitim",
-"egitimi",
-"kisalacak",
-"lisans",
-"ozvar",
-"suresi",
-"universite"
-],
 [
 "baskani",
 "belediye",
@@ -8884,15 +8847,41 @@
 "sirrini",
 "testiyle",
 "turk"
+],
+[
+"altinda",
+"baski",
+"merz",
+"sansolye",
+"santaj",
+"suclamasi",
+"uyelerinden"
+],
+[
+"bin",
+"dogdu",
+"meslek",
+"taleplere",
+"yeniden",
+"yetisemiyorlar",
+"yillik"
+],
+[
+"agri",
+"dagi",
+"eteklerinde",
+"gocmen",
+"kacak",
+"yakalandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-11T10:44:00+00:00",
+"Haber Global": "2026-11-11T12:48:00+00:00",
 "Sonsöz (Ankara)": "2026-11-11T11:53:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-11T04:51:55+00:00",
-"Sözcü Son Dakika": "2026-11-11T11:57:41+00:00",
-"Yeni Şafak Yerel": "2026-11-11T10:55:51+00:00",
+"Sözcü Son Dakika": "2026-11-11T12:48:18+00:00",
+"Yeni Şafak Yerel": "2026-11-11T12:54:21+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-11T11:54:48+00:00",
 "@islamasalya": "2026-11-11T09:18:36+00:00",
