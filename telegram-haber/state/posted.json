@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"841f17f10ba4533c",
-"d87fcab75b7cf97c",
-"6b4da184d6fbd496",
 "16dc1729e96439ad",
 "cb93ff218a1408a1",
 "39a5337e2a199502",
@@ -2999,40 +2996,12 @@
 "bb8dcb556a5e7919",
 "7f59babb156631b0",
 "610f9c050358d849",
-"93d4dd6c374fe147"
+"93d4dd6c374fe147",
+"1a091a4b694726ad",
+"86de079d3045e2c3",
+"51e8b0a7763ff568"
 ],
 "imzalar": [
-[
-"aldi",
-"alev",
-"devrilip",
-"manisa",
-"prina",
-"tanker",
-"yuklu"
-],
-[
-"almanin",
-"belli",
-"degisiyor",
-"ehliyet",
-"konusuluyor",
-"maliyeti",
-"orani",
-"rakam",
-"yeni",
-"yilda",
-"zam"
-],
-[
-"guvenmeyin",
-"karsi",
-"mantar",
-"uyari",
-"yapay",
-"zehirlenmelerine",
-"zekaya"
-],
 [
 "alani",
 "dan",
@@ -8895,14 +8864,40 @@
 "kurtuldu",
 "sozcu",
 "yazdi"
+],
+[
+"cekya",
+"hazirliklarini",
+"maci",
+"milliler",
+"rize",
+"surduruyor",
+"umit"
+],
+[
+"eyupsultan",
+"gecekondu",
+"hayatini",
+"kaybetti",
+"kisi",
+"yangini"
+],
+[
+"baltik",
+"hava",
+"havalandi",
+"nato",
+"savas",
+"tehdidi",
+"ucaklari"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-11T01:27:00+00:00",
-"Sonsöz (Ankara)": "2026-11-11T01:04:00+00:00",
+"Haber Global": "2026-11-11T02:19:00+00:00",
+"Sonsöz (Ankara)": "2026-11-11T02:18:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-10T08:33:41+00:00",
-"Sözcü Son Dakika": "2026-11-11T01:30:24+00:00",
+"Sözcü Son Dakika": "2026-11-11T02:33:16+00:00",
 "Yeni Şafak Yerel": "2026-11-10T21:45:21+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-10T21:11:05+00:00",
