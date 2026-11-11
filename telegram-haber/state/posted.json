@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"e738663060d2c240",
-"8e39657c90f9c740",
-"31d47263cd564b16",
 "58e59b83723be014",
 "f911ec531a6e40f8",
 "6015ff6362c91969",
@@ -2999,42 +2996,12 @@
 "bc87f942beb659d5",
 "ec6bdc218b5365b3",
 "34f4576bbf84eafb",
-"110a255810bab017"
+"110a255810bab017",
+"6b56d1e37d6b0a0b",
+"3a10863716ea8701",
+"c4638e8f1360f81a"
 ],
 "imzalar": [
-[
-"bakan",
-"bursa",
-"dev",
-"geliyor",
-"mutlu",
-"projesinde",
-"sona",
-"ulasim",
-"uraloglu",
-"yakin"
-],
-[
-"krakov",
-"olu",
-"polonya",
-"saldiri",
-"sayida",
-"silahli",
-"yarali"
-],
-[
-"alarmi",
-"geldi",
-"ilde",
-"kar",
-"kara",
-"kis",
-"meteoroloji",
-"saat",
-"verdi",
-"yagisi"
-],
 [
 "adam",
 "akisini",
@@ -8871,20 +8838,46 @@
 "medicana",
 "yari",
 "yukseldi"
+],
+[
+"aziz",
+"cop31",
+"duzenlenen",
+"kapsaminda",
+"katildi",
+"programa",
+"yildirim"
+],
+[
+"basketbol",
+"kadin",
+"karadag",
+"maglup",
+"milli",
+"takimi"
+],
+[
+"ankarali",
+"belli",
+"festival",
+"mujde",
+"old",
+"sinemaseverlere",
+"tarih"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-11T15:48:00+00:00",
-"Sonsöz (Ankara)": "2026-11-11T14:40:00+00:00",
+"Sonsöz (Ankara)": "2026-11-11T17:59:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-11T04:51:55+00:00",
-"Sözcü Son Dakika": "2026-11-11T16:57:36+00:00",
+"Sözcü Son Dakika": "2026-11-11T17:58:46+00:00",
 "Yeni Şafak Yerel": "2026-11-11T16:55:30+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-11T14:37:54+00:00",
 "@islamasalya": "2026-11-11T09:18:36+00:00",
 "Yeni Asır (İzmir)": "2026-11-11T09:51:40+00:00",
-"İstanbul Gazetesi": "2026-11-11T16:52:00+00:00",
+"İstanbul Gazetesi": "2026-11-11T17:57:00+00:00",
 "Kandilli Rasathanesi": "2026-11-11T15:10:24+00:00"
 }
 }
