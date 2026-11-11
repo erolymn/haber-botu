@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"b1b612d8782de4bc",
-"ae08cfbbefec3120",
-"bd3bb117ac69a3b7",
 "114c77b8e08755ec",
 "6f5b21c464393b8d",
 "fcc6bd2d943eff24",
@@ -2999,49 +2996,12 @@
 "832a7b6a7409e04b",
 "71b5621fd9252ae0",
 "ae9e9b979cc96025",
-"7cc5b66e013a9cd8"
+"7cc5b66e013a9cd8",
+"15b8c7480e811890",
+"eabe374dbed45b94",
+"c082c56ade51a56a"
 ],
 "imzalar": [
-[
-"bursaspor",
-"dan",
-"duzeni",
-"gececegiz",
-"her",
-"kirli",
-"mesaj",
-"sert",
-"turlu",
-"yikip"
-],
-[
-"asiri",
-"drami",
-"gazze",
-"insanlik",
-"nedeniyle",
-"olsun",
-"rabbim",
-"yagislar",
-"yar",
-"yardimcilari",
-"yasanan"
-],
-[
-"adamin",
-"bari",
-"cadir",
-"durduramadiniz",
-"feryadi",
-"gazzeli",
-"gonderin",
-"iki",
-"katliami",
-"milyarlik",
-"nerede",
-"ummet",
-"yardim"
-],
 [
 "fon",
 "gelisme",
@@ -8859,15 +8819,40 @@
 "kaza",
 "korkunc",
 "oglu"
+],
+[
+"carpip",
+"cekiciye",
+"gelen",
+"kacti",
+"kaza",
+"olay",
+"sonrasi",
+"yerine"
+],
+[
+"antalya",
+"dan",
+"hareketler",
+"pasinyan",
+"tuhaf"
+],
+[
+"dvalishvili",
+"kavga",
+"merab",
+"neden",
+"nurmagomedov",
+"usman"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-11T19:43:00+00:00",
+"Haber Global": "2026-11-11T21:54:00+00:00",
 "Sonsöz (Ankara)": "2026-11-11T19:35:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-11T04:51:55+00:00",
-"Sözcü Son Dakika": "2026-11-11T20:56:52+00:00",
-"Yeni Şafak Yerel": "2026-11-11T19:43:35+00:00",
+"Sözcü Son Dakika": "2026-11-11T21:53:21+00:00",
+"Yeni Şafak Yerel": "2026-11-11T21:45:31+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-11T20:59:22+00:00",
 "@islamasalya": "2026-11-11T20:06:27+00:00",
