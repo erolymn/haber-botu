@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"6147d93788c91634",
-"8094b7ea2a4c5025",
-"fc3badd9e4551af3",
 "aa9e3f671720e76d",
 "df4da8e128f6c864",
 "4763bbfcd033739c",
@@ -2999,44 +2996,12 @@
 "db5522191f2f005d",
 "26e05ea2f9ddcf04",
 "628570c4aceaa7f7",
-"5912c5ea3919fc20"
+"5912c5ea3919fc20",
+"d2c8b07c09c4c79b",
+"52510b9c43d34aa1",
+"be0065d42460c210"
 ],
 "imzalar": [
-[
-"belediye",
-"belli",
-"bursa",
-"edildi",
-"kabul",
-"kardes",
-"meclisi",
-"nde",
-"nin",
-"sehri",
-"yeni"
-],
-[
-"belediyesi",
-"dokunus",
-"esenler",
-"nden",
-"tarihi",
-"uskup"
-],
-[
-"acti",
-"agzini",
-"arda",
-"devi",
-"dolup",
-"dunya",
-"fenerbahce",
-"guler",
-"kasasi",
-"kesenin",
-"nin",
-"tasacak"
-],
 [
 "adimi",
 "ders",
@@ -8894,17 +8859,48 @@
 "haliciya",
 "kapalicarsi",
 "kesenin"
+],
+[
+"aldi",
+"arjantin",
+"dan",
+"deniz",
+"hava",
+"iran",
+"kuvvetleri",
+"listesine",
+"misilleme",
+"teror"
+],
+[
+"alacak",
+"belli",
+"dusugu",
+"milyon",
+"sahne",
+"sanatcilarin",
+"ucretleri",
+"yilbasi"
+],
+[
+"atti",
+"bursa",
+"kacirinca",
+"park",
+"tehlikeye",
+"trafigi",
+"yerini"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-11T06:53:00+00:00",
-"Sonsöz (Ankara)": "2026-11-11T03:34:00+00:00",
+"Sonsöz (Ankara)": "2026-11-11T08:54:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-11T04:51:55+00:00",
-"Sözcü Son Dakika": "2026-11-11T07:58:13+00:00",
+"Sözcü Son Dakika": "2026-11-11T08:55:33+00:00",
 "Yeni Şafak Yerel": "2026-11-11T07:57:49+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-11T06:54:51+00:00",
+"Olay (Bursa)": "2026-11-11T08:57:47+00:00",
 "@islamasalya": "2026-11-11T07:51:17+00:00",
 "Yeni Asır (İzmir)": "2026-11-11T05:45:36+00:00",
 "İstanbul Gazetesi": "2026-11-10T18:06:00+00:00",
