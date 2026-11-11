@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"408a8c0c51bc5d27",
-"feffa1b0fc975051",
-"fbca3f6e198c23d5",
 "d83c4b0daa3b8572",
 "e0a82d18f717d822",
 "d24189478e9edc62",
@@ -2999,35 +2996,12 @@
 "a4039ccd7baea404",
 "30c02703fbd3f0c0",
 "f9b792c1963598c4",
-"df227d7947660361"
+"df227d7947660361",
+"c30f60b213d181a6",
+"a3af6f5cf683c6e3",
+"8a532c1fa8b368ba"
 ],
 "imzalar": [
-[
-"aractan",
-"camlari",
-"inen",
-"kadin",
-"tartismasinda",
-"verme",
-"yol",
-"yumrukladi"
-],
-[
-"bursa",
-"yapay",
-"zeka",
-"zirvesi"
-],
-[
-"cybertruck",
-"dan",
-"gorundu",
-"karar",
-"radikal",
-"sonu",
-"tesla",
-"yolun"
-],
 [
 "alkan",
 "antalya",
@@ -8889,17 +8863,46 @@
 "kirmizi",
 "sehirlerine",
 "sonlarini"
+],
+[
+"binasi",
+"bursa",
+"duygusal",
+"personelden",
+"tasindi",
+"veda",
+"yillarin"
+],
+[
+"basliyoruz",
+"dan",
+"gecmisi",
+"ilk",
+"mesaj",
+"oyuncularina",
+"sergen",
+"unutun",
+"yalcin",
+"yeniden"
+],
+[
+"basladi",
+"robotik",
+"sampiyonlukla",
+"sezona",
+"takimi",
+"teknoloji"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-11T03:52:00+00:00",
+"Haber Global": "2026-11-11T04:39:00+00:00",
 "Sonsöz (Ankara)": "2026-11-11T03:34:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-11T04:51:55+00:00",
 "Sözcü Son Dakika": "2026-11-11T04:52:03+00:00",
-"Yeni Şafak Yerel": "2026-11-10T21:45:21+00:00",
+"Yeni Şafak Yerel": "2026-11-11T04:42:24+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-10T21:11:05+00:00",
+"Olay (Bursa)": "2026-11-11T02:15:30+00:00",
 "@islamasalya": "2026-11-10T18:05:24+00:00",
 "Yeni Asır (İzmir)": "2026-11-11T04:48:52+00:00",
 "İstanbul Gazetesi": "2026-11-10T18:06:00+00:00",
