@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"16dc1729e96439ad",
-"cb93ff218a1408a1",
-"39a5337e2a199502",
 "cb98f54ec0357794",
 "c001aa1942ac07a0",
 "dbbf409e4bc67c71",
@@ -2999,47 +2996,12 @@
 "93d4dd6c374fe147",
 "1a091a4b694726ad",
 "86de079d3045e2c3",
-"51e8b0a7763ff568"
+"51e8b0a7763ff568",
+"14f652107764b321",
+"b514cb14b709318e",
+"a4039ccd7baea404"
 ],
 "imzalar": [
-[
-"alani",
-"dan",
-"deniz",
-"fidan",
-"hakan",
-"koridoru",
-"olabilir",
-"savas",
-"ticaret",
-"uyarisi",
-"yollari"
-],
-[
-"basini",
-"hamlesi",
-"itiraf",
-"korkuttu",
-"nin",
-"turkiye",
-"yunan",
-"yunanistan"
-],
-[
-"besiktas",
-"call",
-"duty",
-"ederim",
-"formalari",
-"galatasaray",
-"giymisti",
-"isimden",
-"itiraf",
-"olay",
-"oynamayi",
-"tercih",
-"yildiz"
-],
 [
 "basildi",
 "bursa",
@@ -8890,14 +8852,48 @@
 "savas",
 "tehdidi",
 "ucaklari"
+],
+[
+"bulutlarindan",
+"doga",
+"firtina",
+"isik",
+"meksika",
+"nadir",
+"olayi",
+"semalarinda",
+"uzaya",
+"yukseldi"
+],
+[
+"ayrinti",
+"bassavciligi",
+"calisiliyor",
+"davasi",
+"geciren",
+"harekete",
+"kapatilmaya",
+"kozinoglu"
+],
+[
+"basbakan",
+"deprem",
+"eski",
+"gozaltisi",
+"insan",
+"kacakciligi",
+"kardesine",
+"macaristan",
+"orban",
+"siyasi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-11T02:19:00+00:00",
-"Sonsöz (Ankara)": "2026-11-11T02:18:00+00:00",
+"Haber Global": "2026-11-11T03:52:00+00:00",
+"Sonsöz (Ankara)": "2026-11-11T03:34:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-10T08:33:41+00:00",
-"Sözcü Son Dakika": "2026-11-11T02:33:16+00:00",
+"Sözcü Son Dakika": "2026-11-11T03:51:05+00:00",
 "Yeni Şafak Yerel": "2026-11-10T21:45:21+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-10T21:11:05+00:00",
