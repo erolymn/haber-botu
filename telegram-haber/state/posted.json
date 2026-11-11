@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"c3b1fb1139d3e7b3",
-"32632c5d3cae2c3b",
-"b5f61aff235c01c8",
 "841f17f10ba4533c",
 "d87fcab75b7cf97c",
 "6b4da184d6fbd496",
@@ -2999,37 +2996,12 @@
 "d5632bfed0511ddb",
 "cb6b785ae4ec2c2b",
 "a32a344f3e5e72ac",
-"bb8dcb556a5e7919"
+"bb8dcb556a5e7919",
+"7f59babb156631b0",
+"610f9c050358d849",
+"93d4dd6c374fe147"
 ],
 "imzalar": [
-[
-"adim",
-"alperen",
-"ilk",
-"mvp",
-"nba",
-"sengun",
-"siralamasinda",
-"zirvesine"
-],
-[
-"buyukisik",
-"cikti",
-"davasi",
-"dorukhan",
-"durusma",
-"karar",
-"saat",
-"sonrasinda",
-"suren"
-],
-[
-"durusmada",
-"karari",
-"saat",
-"suren",
-"tahliye"
-],
 [
 "aldi",
 "alev",
@@ -8894,14 +8866,43 @@
 "otomobil",
 "ters",
 "yonden"
+],
+[
+"altina",
+"dorsesinin",
+"eskisehir",
+"feci",
+"girdi",
+"hayatini",
+"kaybetti",
+"kaza",
+"otomobil",
+"surucu",
+"tir"
+],
+[
+"baskani",
+"devlet",
+"haziriz",
+"konusmaya",
+"meselesini",
+"toprak",
+"ukrayna",
+"zelenski"
+],
+[
+"beykoz",
+"kurtuldu",
+"sozcu",
+"yazdi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-11T00:29:00+00:00",
-"Sonsöz (Ankara)": "2026-11-11T00:44:00+00:00",
+"Haber Global": "2026-11-11T01:27:00+00:00",
+"Sonsöz (Ankara)": "2026-11-11T01:04:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-10T08:33:41+00:00",
-"Sözcü Son Dakika": "2026-11-11T00:35:06+00:00",
+"Sözcü Son Dakika": "2026-11-11T01:30:24+00:00",
 "Yeni Şafak Yerel": "2026-11-10T21:45:21+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-10T21:11:05+00:00",
