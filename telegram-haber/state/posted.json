@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"49fbc3532d09cc90",
-"f9305db7fc0a238d",
-"453daaca5493123f",
 "99faf9fb92399679",
 "bae58cec90f2758c",
 "a811d692e09e131e",
@@ -2999,43 +2996,12 @@
 "c4638e8f1360f81a",
 "5d65cf3aec91d05f",
 "8030bf8c0becce1a",
-"b561130971200dfc"
+"b561130971200dfc",
+"be244a9172e2ae8a",
+"a77885c6337122ba",
+"f4c22bec5a41591d"
 ],
 "imzalar": [
-[
-"amedspor",
-"dusurdu",
-"galatasaray",
-"hayrete",
-"kala",
-"macina",
-"saatler",
-"saha",
-"zemini"
-],
-[
-"aciklamasi",
-"buruk",
-"isaret",
-"okan",
-"sorumluyu",
-"tan",
-"zemin"
-],
-[
-"demir",
-"den",
-"eyyup",
-"fon",
-"iliskin",
-"inan",
-"izmir",
-"kadir",
-"mesaji",
-"seslendi",
-"sorusturmasina",
-"yumruk"
-],
 [
 "ankara",
 "beklenen",
@@ -8865,15 +8831,45 @@
 "hic",
 "keser",
 "ortaya"
+],
+[
+"cinsel",
+"cocuguna",
+"gozalti",
+"iddiasina",
+"istismar",
+"kiz"
+],
+[
+"bankasi",
+"dort",
+"kaleminde",
+"kredi",
+"merkez",
+"siniri",
+"yukseltti"
+],
+[
+"belcika",
+"biz",
+"bommel",
+"cikacagiz",
+"direktoru",
+"kazanmak",
+"milli",
+"sahaya",
+"takim",
+"teknik",
+"van"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-11T18:54:00+00:00",
+"Haber Global": "2026-11-11T19:43:00+00:00",
 "Sonsöz (Ankara)": "2026-11-11T17:59:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-11T04:51:55+00:00",
-"Sözcü Son Dakika": "2026-11-11T18:54:31+00:00",
-"Yeni Şafak Yerel": "2026-11-11T18:53:37+00:00",
+"Sözcü Son Dakika": "2026-11-11T19:57:41+00:00",
+"Yeni Şafak Yerel": "2026-11-11T19:43:35+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-11T14:37:54+00:00",
 "@islamasalya": "2026-11-11T09:18:36+00:00",
