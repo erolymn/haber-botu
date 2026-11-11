@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"79222549dfd2d782",
-"19cb42d8f68e8259",
-"d16c417a831bbf76",
-"d3941c4f6eddbe42",
 "8167be97d4ea9ff2",
 "9bd62a2fe57bc608",
 "a43313e14b467117",
@@ -2999,46 +2995,13 @@
 "8109da25f305c6a1",
 "59adb94334b42fd6",
 "73d12759b0626bf1",
-"3733b7b8867dc0c5"
+"3733b7b8867dc0c5",
+"201accd2dd1e6d3c",
+"ca9bf069ce107fd3",
+"d87299a80a491209",
+"bc87f942beb659d5"
 ],
 "imzalar": [
-[
-"bagcilar",
-"bahcelievler",
-"beykoz",
-"ilcesinde",
-"iski",
-"istanbul",
-"kasim",
-"kesintisi",
-"saatlerce",
-"sular"
-],
-[
-"candan",
-"carpici",
-"den",
-"duyurdu",
-"istifa",
-"medyadan",
-"parti",
-"sosyal",
-"yeni",
-"yuceer"
-],
-[
-"dan",
-"eyyup",
-"inan",
-"izmir",
-"kadir",
-"ozel",
-"ozgur",
-"sana",
-"sehirde",
-"tepkisi",
-"yer"
-],
 [
 "centcom",
 "dan",
@@ -8866,20 +8829,52 @@
 "maci",
 "milli",
 "takim"
+],
+[
+"adliyeye",
+"aliaga",
+"daki",
+"edildi",
+"fabrika",
+"ilgili",
+"patlamasiyla",
+"sevk",
+"sorusturma",
+"supheli"
+],
+[
+"carpisti",
+"iki",
+"motosiklet",
+"silivri",
+"yarali"
+],
+[
+"aylin",
+"erzincan",
+"fabrikasi",
+"gun",
+"ifade",
+"kotil",
+"kuracaklardi",
+"savciya",
+"tesla",
+"tutuklandigi",
+"verdi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-11T14:10:00+00:00",
+"Haber Global": "2026-11-11T15:48:00+00:00",
 "Sonsöz (Ankara)": "2026-11-11T14:40:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-11T04:51:55+00:00",
-"Sözcü Son Dakika": "2026-11-11T14:55:51+00:00",
+"Sözcü Son Dakika": "2026-11-11T15:58:01+00:00",
 "Yeni Şafak Yerel": "2026-11-11T14:52:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-11T14:37:54+00:00",
 "@islamasalya": "2026-11-11T09:18:36+00:00",
 "Yeni Asır (İzmir)": "2026-11-11T09:51:40+00:00",
-"İstanbul Gazetesi": "2026-11-11T14:29:00+00:00",
-"Kandilli Rasathanesi": "2026-11-10T18:12:52+00:00"
+"İstanbul Gazetesi": "2026-11-11T15:56:00+00:00",
+"Kandilli Rasathanesi": "2026-11-11T15:10:24+00:00"
 }
 }
