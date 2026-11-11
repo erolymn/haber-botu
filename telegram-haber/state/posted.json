@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"114c77b8e08755ec",
-"6f5b21c464393b8d",
-"fcc6bd2d943eff24",
 "ecf20230b242bdfb",
 "b4e666cbab79c4d1",
 "c50cab75315faf48",
@@ -2999,44 +2996,12 @@
 "7cc5b66e013a9cd8",
 "15b8c7480e811890",
 "eabe374dbed45b94",
-"c082c56ade51a56a"
+"c082c56ade51a56a",
+"5b452e6229f1f9f5",
+"2adedce23cfe93e2",
+"08a25b8d33a54d5a"
 ],
 "imzalar": [
-[
-"fon",
-"gelisme",
-"gozaltinda",
-"isim",
-"sorusturmasinda",
-"yeni",
-"yeniden"
-],
-[
-"akkaya",
-"alindi",
-"arinci",
-"fon",
-"gozaltina",
-"kemal",
-"sorusturmasinda",
-"yunus"
-],
-[
-"alan",
-"binen",
-"cikiyor",
-"durakta",
-"guzergah",
-"hem",
-"ini",
-"iniyor",
-"izban",
-"izmirim",
-"kart",
-"tarihi",
-"ucuz",
-"yola"
-],
 [
 "girisi",
 "gunluk",
@@ -8844,17 +8809,46 @@
 "neden",
 "nurmagomedov",
 "usman"
+],
+[
+"araziye",
+"bahcesi",
+"bursa",
+"daki",
+"donum",
+"millet",
+"yeni"
+],
+[
+"barut",
+"belli",
+"chp",
+"den",
+"eden",
+"istifa",
+"partisi",
+"saniye",
+"yeni"
+],
+[
+"aldi",
+"alev",
+"iett",
+"nda",
+"otobusu",
+"otoyolu",
+"tem"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-11T21:54:00+00:00",
-"Sonsöz (Ankara)": "2026-11-11T19:35:00+00:00",
+"Sonsöz (Ankara)": "2026-11-11T22:32:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-11T04:51:55+00:00",
-"Sözcü Son Dakika": "2026-11-11T21:53:21+00:00",
+"Sözcü Son Dakika": "2026-11-11T22:18:54+00:00",
 "Yeni Şafak Yerel": "2026-11-11T21:45:31+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-11T20:59:22+00:00",
+"Olay (Bursa)": "2026-11-11T21:33:33+00:00",
 "@islamasalya": "2026-11-11T20:06:27+00:00",
 "Yeni Asır (İzmir)": "2026-11-11T19:08:49+00:00",
 "İstanbul Gazetesi": "2026-11-11T19:08:00+00:00",
