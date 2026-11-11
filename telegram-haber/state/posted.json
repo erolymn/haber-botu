@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"99faf9fb92399679",
-"bae58cec90f2758c",
-"a811d692e09e131e",
 "04ab39b7e12be172",
 "000b29dd45c08c1c",
 "f114106a2416fb08",
@@ -2999,35 +2996,12 @@
 "b561130971200dfc",
 "be244a9172e2ae8a",
 "a77885c6337122ba",
-"f4c22bec5a41591d"
+"f4c22bec5a41591d",
+"b5b3f7885c81f4ee",
+"43e11feec438aa85",
+"832a7b6a7409e04b"
 ],
 "imzalar": [
-[
-"ankara",
-"beklenen",
-"dan",
-"degisiklik",
-"duyuru",
-"ego",
-"erdi",
-"geldi",
-"hattinda",
-"otobus",
-"sona"
-],
-[
-"allah",
-"sabir",
-"versin"
-],
-[
-"besiktas",
-"derbide",
-"farkli",
-"galatasaray",
-"potadaki",
-"yendi"
-],
 [
 "anderson",
 "donuyor",
@@ -8861,11 +8835,38 @@
 "takim",
 "teknik",
 "van"
+],
+[
+"arsavev",
+"fenerbahce",
+"real",
+"sociedad"
+],
+[
+"adam",
+"afyonkarahisar",
+"genc",
+"husumet",
+"kanli",
+"kurtarilamadi",
+"tufekle",
+"vurdu",
+"yasindaki"
+],
+[
+"aleksandr",
+"buyukelcisi",
+"darciyev",
+"hayatini",
+"kaybetti",
+"nin",
+"rusya",
+"washington"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-11T19:43:00+00:00",
-"Sonsöz (Ankara)": "2026-11-11T17:59:00+00:00",
+"Sonsöz (Ankara)": "2026-11-11T19:35:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-11T04:51:55+00:00",
 "Sözcü Son Dakika": "2026-11-11T19:57:41+00:00",
@@ -8873,8 +8874,8 @@
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-11T14:37:54+00:00",
 "@islamasalya": "2026-11-11T09:18:36+00:00",
-"Yeni Asır (İzmir)": "2026-11-11T09:51:40+00:00",
-"İstanbul Gazetesi": "2026-11-11T17:57:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-11T19:08:49+00:00",
+"İstanbul Gazetesi": "2026-11-11T19:08:00+00:00",
 "Kandilli Rasathanesi": "2026-11-11T15:10:24+00:00"
 }
 }
