@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"451ff97618328def",
-"baa4268fc1898370",
-"279984958d995e84",
 "79222549dfd2d782",
 "19cb42d8f68e8259",
 "d16c417a831bbf76",
@@ -2999,41 +2996,12 @@
 "64940e31ef236ad7",
 "41363dd4b3bae6cf",
 "1e58302eb5a1c51e",
-"8109da25f305c6a1"
+"8109da25f305c6a1",
+"59adb94334b42fd6",
+"73d12759b0626bf1",
+"3733b7b8867dc0c5"
 ],
 "imzalar": [
-[
-"baskanindan",
-"fenerbahce",
-"iddiali",
-"kulubunun",
-"lig",
-"maci",
-"sozler",
-"super"
-],
-[
-"bahceli",
-"bekliyoruz",
-"dedigi",
-"karsilandi",
-"nasil",
-"nin",
-"olmali",
-"onerisi",
-"yerlerde",
-"yildir"
-],
-[
-"derbi",
-"fenerbahce",
-"futbol",
-"kadin",
-"ligi",
-"nde",
-"nin",
-"super"
-],
 [
 "bagcilar",
 "bahcelievler",
@@ -8867,20 +8835,51 @@
 "kosulda",
 "tamamen",
 "turizm"
+],
+[
+"anlarina",
+"duyurusu",
+"gullu",
+"hakkinda",
+"iliskin",
+"kervan",
+"nun",
+"rapor",
+"suc",
+"sultan",
+"yeni"
+],
+[
+"bakim",
+"calismalarina",
+"devam",
+"ediyor",
+"galatasaray",
+"park",
+"rams",
+"zemininde"
+],
+[
+"belcika",
+"geldi",
+"izmir",
+"maci",
+"milli",
+"takim"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-11T12:48:00+00:00",
+"Haber Global": "2026-11-11T14:10:00+00:00",
 "Sonsöz (Ankara)": "2026-11-11T14:40:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-11T04:51:55+00:00",
 "Sözcü Son Dakika": "2026-11-11T14:55:51+00:00",
 "Yeni Şafak Yerel": "2026-11-11T14:52:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-11T13:51:26+00:00",
+"Olay (Bursa)": "2026-11-11T14:37:54+00:00",
 "@islamasalya": "2026-11-11T09:18:36+00:00",
 "Yeni Asır (İzmir)": "2026-11-11T09:51:40+00:00",
-"İstanbul Gazetesi": "2026-11-10T18:06:00+00:00",
+"İstanbul Gazetesi": "2026-11-11T14:29:00+00:00",
 "Kandilli Rasathanesi": "2026-11-10T18:12:52+00:00"
 }
 }
