@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"338c0aabf32a2aac",
-"ec295188e5419bdb",
-"8c66caee1ad6ef60",
 "c6da83cce9047c67",
 "4fb372ed3f224338",
 "306e01beaa162403",
@@ -2999,35 +2996,12 @@
 "31cd2fac824f592d",
 "9619759dc74a758b",
 "64ac6aeace104077",
-"309b28962909245e"
+"309b28962909245e",
+"054b12cb1c6184a5",
+"f86d5ef7b4ae5814",
+"3b218c13358d0a70"
 ],
 "imzalar": [
-[
-"ayri",
-"fatih",
-"iki",
-"olayinin",
-"suphelisi",
-"tutuklandi",
-"yankesicilik"
-],
-[
-"adana",
-"duragi",
-"festivali",
-"kultur",
-"nin",
-"yolu"
-],
-[
-"bogazi",
-"carpti",
-"hurmuz",
-"mayina",
-"nda",
-"petrol",
-"tankeri"
-],
 [
 "dikkat",
 "durumu",
@@ -8836,15 +8810,48 @@
 "puan",
 "sey",
 "takim"
+],
+[
+"alkis",
+"arda",
+"cikarilir",
+"gole",
+"guler",
+"kaleciden",
+"rakip",
+"sapka"
+],
+[
+"arda",
+"avlamisti",
+"frikikle",
+"futbolcuya",
+"golu",
+"hayran",
+"kaldi",
+"kaleci",
+"milli",
+"muthis",
+"yiyen"
+],
+[
+"askeri",
+"duzenlendi",
+"iran",
+"kentine",
+"saatler",
+"saldiri",
+"sicak",
+"sirik"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-12T17:53:00+00:00",
+"Haber Global": "2026-11-12T19:40:00+00:00",
 "Sonsöz (Ankara)": "2026-11-12T18:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-12T15:51:23+00:00",
-"Sözcü Son Dakika": "2026-11-12T18:57:55+00:00",
-"Yeni Şafak Yerel": "2026-11-12T19:00:37+00:00",
+"Sözcü Son Dakika": "2026-11-12T19:55:16+00:00",
+"Yeni Şafak Yerel": "2026-11-12T19:58:48+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-12T19:01:25+00:00",
 "@islamasalya": "2026-11-12T16:58:08+00:00",
