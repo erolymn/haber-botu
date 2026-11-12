@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"ecf20230b242bdfb",
-"b4e666cbab79c4d1",
-"c50cab75315faf48",
 "9d5f0b77f8d884f3",
 "c5939c5b19c3faee",
 "4c926c600509c268",
@@ -2999,42 +2996,12 @@
 "c082c56ade51a56a",
 "5b452e6229f1f9f5",
 "2adedce23cfe93e2",
-"08a25b8d33a54d5a"
+"08a25b8d33a54d5a",
+"f3fb22437b71f035",
+"3d41b8b7b029ada4",
+"2a86fccd2294d3f0"
 ],
 "imzalar": [
-[
-"girisi",
-"gunluk",
-"istasyonu",
-"kapatma",
-"kizilay",
-"kullanamayacaksiniz",
-"metro",
-"nda"
-],
-[
-"acti",
-"aractan",
-"ates",
-"kanli",
-"meydaninda",
-"olu",
-"polonya",
-"saldiri",
-"sehir"
-],
-[
-"aciklandi",
-"ameliyat",
-"basketbolcu",
-"cedi",
-"kalacagi",
-"milli",
-"osman",
-"sahalardan",
-"sure",
-"uzak"
-],
 [
 "abd",
 "baskan",
@@ -8838,11 +8805,46 @@
 "otobusu",
 "otoyolu",
 "tem"
+],
+[
+"edildi",
+"genel",
+"kabul",
+"kanunu",
+"kizilay",
+"kurulu",
+"maddeleri",
+"nda",
+"nin",
+"tbmm",
+"teklifi",
+"tum",
+"turk"
+],
+[
+"budo",
+"edildi",
+"hava",
+"iptal",
+"kosullari",
+"nedeniyle",
+"nun",
+"olumsuz",
+"seferi"
+],
+[
+"anne",
+"carpti",
+"inegol",
+"motosiklete",
+"oglu",
+"otomobil",
+"yaralandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-11T21:54:00+00:00",
-"Sonsöz (Ankara)": "2026-11-11T22:32:00+00:00",
+"Haber Global": "2026-11-11T23:11:00+00:00",
+"Sonsöz (Ankara)": "2026-11-11T23:50:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-11T04:51:55+00:00",
 "Sözcü Son Dakika": "2026-11-11T22:18:54+00:00",
@@ -8851,7 +8853,7 @@
 "Olay (Bursa)": "2026-11-11T21:33:33+00:00",
 "@islamasalya": "2026-11-11T20:06:27+00:00",
 "Yeni Asır (İzmir)": "2026-11-11T19:08:49+00:00",
-"İstanbul Gazetesi": "2026-11-11T19:08:00+00:00",
+"İstanbul Gazetesi": "2026-11-11T21:16:00+00:00",
 "Kandilli Rasathanesi": "2026-11-11T15:10:24+00:00"
 }
 }
