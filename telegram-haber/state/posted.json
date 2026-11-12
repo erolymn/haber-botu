@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"9bbab55b34b195bf",
-"959d751b46e61d74",
-"df0f83692c07091c",
 "cbbf7453c587ac1f",
 "5edcb9090375df6b",
 "2f0239a373c1620e",
@@ -2999,46 +2996,12 @@
 "f5a73664fec44633",
 "953157a862d0b0ca",
 "feb3316fa6ac3674",
-"f2724d3797c19410"
+"f2724d3797c19410",
+"5816c9456ede10b2",
+"93b06cc5b3be02e6",
+"5977fcddb0e0ce3c"
 ],
 "imzalar": [
-[
-"alamazsiniz",
-"amedspor",
-"besnik",
-"buradan",
-"direktoru",
-"gol",
-"hasi",
-"puan",
-"teknik",
-"yerseniz"
-],
-[
-"cumhurbaskani",
-"gorevini",
-"hukumeti",
-"israil",
-"kurma",
-"netanyahu",
-"nun",
-"rakibine",
-"verdi"
-],
-[
-"adamin",
-"cektigi",
-"cigligi",
-"cileye",
-"dagladi",
-"eklendi",
-"filistinli",
-"gazzeli",
-"hava",
-"muslumanlarin",
-"soguk",
-"yurekleri"
-],
 [
 "cikti",
 "cop",
@@ -8852,6 +8815,29 @@
 "kupasi",
 "ndan",
 "yas"
+],
+[
+"izmir",
+"nefesler",
+"saniyelerle",
+"tutuldu",
+"yaristilar"
+],
+[
+"anlatti",
+"canimdan",
+"korkunc",
+"olayi",
+"olmadim",
+"sukur",
+"trafikte",
+"yasadigi"
+],
+[
+"aydinlatti",
+"bursa",
+"cinayeti",
+"yillik"
 ]
 ],
 "son_tarih": {
@@ -8859,12 +8845,12 @@
 "Sonsöz (Ankara)": "2026-11-12T02:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-12T05:01:43+00:00",
-"Sözcü Son Dakika": "2026-11-12T05:54:20+00:00",
+"Sözcü Son Dakika": "2026-11-12T06:56:54+00:00",
 "Yeni Şafak Yerel": "2026-11-12T05:52:19+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-12T05:57:37+00:00",
+"Olay (Bursa)": "2026-11-12T07:00:39+00:00",
 "@islamasalya": "2026-11-12T04:40:15+00:00",
-"Yeni Asır (İzmir)": "2026-11-12T05:42:54+00:00",
+"Yeni Asır (İzmir)": "2026-11-12T06:56:49+00:00",
 "İstanbul Gazetesi": "2026-11-11T21:16:00+00:00",
 "Kandilli Rasathanesi": "2026-11-11T15:10:24+00:00"
 }
