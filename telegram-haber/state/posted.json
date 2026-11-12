@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"eba40d8c06e8b77c",
-"cbee3b1ec290feaf",
-"e7d1e1af31c4d19e",
 "b5f66f5fbba37255",
 "7f8bd2aa57885eeb",
 "12e606a5e4b429bb",
@@ -2999,39 +2996,12 @@
 "4ed4e43261761a43",
 "1f83f1fe7005c6af",
 "48d0ed88db2e34ec",
-"3df8634e3dabe591"
+"3df8634e3dabe591",
+"d0615c9e675c35e7",
+"7733cedcf082430c",
+"172f2a790c19dbf9"
 ],
 "imzalar": [
-[
-"akil",
-"almaz",
-"bursa",
-"goruntuler",
-"kazaya",
-"neden"
-],
-[
-"baskasi",
-"bizi",
-"ermeni",
-"isterse",
-"kurtarabilir",
-"rusya",
-"turkiye",
-"yetkili"
-],
-[
-"boca",
-"central",
-"enner",
-"hayallerini",
-"juniors",
-"rosario",
-"sampiyon",
-"valencia",
-"yapti",
-"yikti"
-],
 [
 "beyaza",
 "burundu",
@@ -8850,14 +8820,38 @@
 "dogaya",
 "yeniden",
 "yil"
+],
+[
+"coktu",
+"erisim",
+"hizmetlerinde",
+"microsoft",
+"outlook",
+"sorunlari"
+],
+[
+"arda",
+"bruyne",
+"den",
+"guler",
+"ovgu"
+],
+[
+"adiyaman",
+"arac",
+"carpisti",
+"hafif",
+"otomobil",
+"ticari",
+"yarali"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-12T21:52:00+00:00",
-"Sonsöz (Ankara)": "2026-11-12T19:23:00+00:00",
+"Haber Global": "2026-11-12T22:09:00+00:00",
+"Sonsöz (Ankara)": "2026-11-12T22:52:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-12T20:36:21+00:00",
-"Sözcü Son Dakika": "2026-11-12T22:00:56+00:00",
+"Sözcü Son Dakika": "2026-11-12T22:43:31+00:00",
 "Yeni Şafak Yerel": "2026-11-12T21:59:54+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-12T20:41:53+00:00",
