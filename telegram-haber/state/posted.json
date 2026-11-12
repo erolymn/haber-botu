@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"c7c994a19ffe20a5",
-"3cc75792bc4b1e52",
-"2d76882936b9a641",
 "fdd697ffbcc52115",
 "2351a8bf42b01cc1",
 "e143a10cd60eb401",
@@ -2999,36 +2996,12 @@
 "6931dbdd77660d1f",
 "9961f842b2804089",
 "90f00fdac119de39",
-"89a8c3cdf18ff00a"
+"89a8c3cdf18ff00a",
+"529ca623b63f49cb",
+"d5d9472bbd839bf9",
+"31cd2fac824f592d"
 ],
 "imzalar": [
-[
-"ankara",
-"artacak",
-"baskentte",
-"derece",
-"kisa",
-"mola",
-"sicaklik",
-"verilecek"
-],
-[
-"birbirlerine",
-"bodrum",
-"girdiler",
-"hareketli",
-"mugla",
-"saatler"
-],
-[
-"buyuklugunde",
-"den",
-"deprem",
-"fazla",
-"japonya",
-"kisi",
-"yaralandi"
-],
 [
 "azerbaycan",
 "bakanligi",
@@ -8827,14 +8800,49 @@
 "helikopter",
 "malatya",
 "sehit"
+],
+[
+"aliyev",
+"azerbaycan",
+"baris",
+"cumhurbaskani",
+"dublin",
+"gorustu",
+"koridoru",
+"masada",
+"pasinyan",
+"sureci",
+"vardi",
+"zengezur"
+],
+[
+"dunya",
+"korkutan",
+"nin",
+"provasi",
+"putin",
+"savasi",
+"senaryo",
+"sonrasi",
+"ucuncu"
+],
+[
+"arac",
+"bursa",
+"devrildi",
+"gordu",
+"hasar",
+"insaat",
+"iskelesi",
+"yola"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-12T15:50:00+00:00",
-"Sonsöz (Ankara)": "2026-11-12T15:37:00+00:00",
+"Haber Global": "2026-11-12T17:53:00+00:00",
+"Sonsöz (Ankara)": "2026-11-12T18:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-12T15:51:23+00:00",
-"Sözcü Son Dakika": "2026-11-12T17:01:13+00:00",
+"Sözcü Son Dakika": "2026-11-12T17:55:40+00:00",
 "Yeni Şafak Yerel": "2026-11-12T15:58:03+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-12T14:00:02+00:00",
