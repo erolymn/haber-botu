@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"a480f3d56713db8a",
-"b6fef1a277945b2e",
-"2bd2e3cec40241cc",
 "64be1e9c9a187537",
 "e6363cf94c82b492",
 "0ff97bcc11ad5d2e",
@@ -2999,43 +2996,12 @@
 "83ae27b60c7a6a25",
 "1286d541ff1de2b9",
 "30a92004fe4f5ba1",
-"4c61373cbe50ad15"
+"4c61373cbe50ad15",
+"bbd8c097da425cab",
+"4dd1332fc6ca03b9",
+"6168a277cf9f1584"
 ],
 "imzalar": [
-[
-"atarak",
-"bursa",
-"dondu",
-"kisi",
-"otomobil",
-"takla",
-"ters",
-"yaralandi"
-],
-[
-"bakanlik",
-"cikan",
-"cocuklarin",
-"denetiminde",
-"gozde",
-"ortaya",
-"oyuncaginin",
-"satisi",
-"tehlike",
-"yasaklandi"
-],
-[
-"adaylari",
-"dokunulmazlik",
-"eleme",
-"gitti",
-"kasim",
-"kim",
-"masterchef",
-"oyunu",
-"potaya",
-"turkiye"
-],
 [
 "arda",
 "farka",
@@ -8843,6 +8809,35 @@
 "her",
 "vatandasa",
 "yastan"
+],
+[
+"aylik",
+"bebek",
+"donarak",
+"gazze",
+"hayatini",
+"kaybederek",
+"sehit",
+"soguktan"
+],
+[
+"barajgolu",
+"gorustu",
+"gun",
+"izleri",
+"kiminle",
+"kiyisindaki",
+"olumun",
+"supheli",
+"suruluyor"
+],
+[
+"baslandi",
+"binanin",
+"depremde",
+"goren",
+"hasar",
+"yikimina"
 ]
 ],
 "son_tarih": {
@@ -8850,11 +8845,11 @@
 "Sonsöz (Ankara)": "2026-11-12T02:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-12T05:01:43+00:00",
-"Sözcü Son Dakika": "2026-11-12T08:00:07+00:00",
+"Sözcü Son Dakika": "2026-11-12T09:59:01+00:00",
 "Yeni Şafak Yerel": "2026-11-12T08:59:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-12T09:00:21+00:00",
-"@islamasalya": "2026-11-12T04:40:15+00:00",
+"Olay (Bursa)": "2026-11-12T10:00:35+00:00",
+"@islamasalya": "2026-11-12T09:32:36+00:00",
 "Yeni Asır (İzmir)": "2026-11-12T06:56:49+00:00",
 "İstanbul Gazetesi": "2026-11-11T21:16:00+00:00",
 "Kandilli Rasathanesi": "2026-11-11T15:10:24+00:00"
