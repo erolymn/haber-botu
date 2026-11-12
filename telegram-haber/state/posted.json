@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"7a6d4a70a5df2ed3",
-"f5b10cfd66240fca",
-"f911c9e323c4c3c0",
 "d0289a8e73a736ef",
 "879ba4d79bd23039",
 "1c0205333c04957b",
@@ -2999,36 +2996,12 @@
 "34c58a6a7077a814",
 "425ffadff662e8a7",
 "dbacbab232e2ad2d",
-"c1712dc53c68fabe"
+"c1712dc53c68fabe",
+"c8f0a4e653d796ec",
+"c6eb0b1615726872",
+"e8199ec26678c30c"
 ],
 "imzalar": [
-[
-"dan",
-"fonda",
-"iddialarina",
-"islem",
-"taner",
-"yalanlama",
-"yaptigi",
-"yildiz"
-],
-[
-"degil",
-"dervisoglu",
-"hesap",
-"istiyoruz",
-"kelle"
-],
-[
-"gun",
-"kuruldu",
-"kurultay",
-"oncesi",
-"parti",
-"sandiklar",
-"tarihi",
-"yeni"
-],
 [
 "almanya",
 "baronu",
@@ -8838,18 +8811,49 @@
 "iddialarina",
 "iklim",
 "yalanlama"
+],
+[
+"1000",
+"2026",
+"deger",
+"elhamdulillah",
+"filistin",
+"gazze",
+"hafiz",
+"izlemeye",
+"mubarek",
+"topraklari",
+"verdi"
+],
+[
+"acilis",
+"ankara",
+"belli",
+"degistirecek",
+"dengelerini",
+"tarihi",
+"trafik",
+"yol"
+],
+[
+"dagitti",
+"madrid",
+"para",
+"real",
+"taraftarlara",
+"yildizi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-12T10:56:00+00:00",
-"Sonsöz (Ankara)": "2026-11-12T13:00:00+00:00",
+"Sonsöz (Ankara)": "2026-11-12T15:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-12T05:01:43+00:00",
-"Sözcü Son Dakika": "2026-11-12T13:58:09+00:00",
+"Sözcü Son Dakika": "2026-11-12T15:00:05+00:00",
 "Yeni Şafak Yerel": "2026-11-12T12:57:19+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-12T14:00:02+00:00",
-"@islamasalya": "2026-11-12T13:56:45+00:00",
+"@islamasalya": "2026-11-12T14:48:32+00:00",
 "Yeni Asır (İzmir)": "2026-11-12T06:56:49+00:00",
 "İstanbul Gazetesi": "2026-11-11T21:16:00+00:00",
 "Kandilli Rasathanesi": "2026-11-11T15:10:24+00:00"
