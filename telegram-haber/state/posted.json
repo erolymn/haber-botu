@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"ec817be45fa5dc93",
-"b8faaf0b712ba77c",
-"56e100394b8a3ee9",
 "6441014c3d8ef4ea",
 "3f32ae7a06f12e23",
 "6cd3406d8c6d751e",
@@ -2999,38 +2996,12 @@
 "588046294396636d",
 "5dacba5aeee52daa",
 "137b661252aa75f8",
-"fe541c750255eb0f"
+"fe541c750255eb0f",
+"5130c72c049af289",
+"38bdffd5120d19a9",
+"6edd5d6ae38946cc"
 ],
 "imzalar": [
-[
-"feci",
-"kaza",
-"olu",
-"sayida",
-"van",
-"yarali"
-],
-[
-"ata",
-"bulustu",
-"dunyasinin",
-"istanbul",
-"iyiler",
-"korkut",
-"odullendirildi",
-"sinemasi",
-"turk"
-],
-[
-"anadolu",
-"kar",
-"kazaya",
-"nda",
-"neden",
-"otoyolu",
-"yarali",
-"zincirleme"
-],
 [
 "500",
 "beyaza",
@@ -8832,19 +8803,56 @@
 "panigi",
 "tuneli",
 "yangini"
+],
+[
+"avrupa",
+"binlerce",
+"bomba",
+"havalimani",
+"hedefte",
+"kanali",
+"nin",
+"okul",
+"tehdidi",
+"televizyon",
+"uzerine",
+"yagdi"
+],
+[
+"deki",
+"faciasinda",
+"gelisme",
+"izmir",
+"patlama",
+"supheli",
+"tutuklandi"
+],
+[
+"126",
+"bedavaya",
+"cikan",
+"dursun",
+"ediyor",
+"fenerbahce",
+"maca",
+"oyuncuyu",
+"ozbek",
+"tam",
+"transfer",
+"yildiz"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-12T02:24:00+00:00",
+"Haber Global": "2026-11-12T03:49:00+00:00",
 "Sonsöz (Ankara)": "2026-11-12T02:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-11T04:51:55+00:00",
-"Sözcü Son Dakika": "2026-11-12T02:30:04+00:00",
+"Sözcü Son Dakika": "2026-11-12T03:59:00+00:00",
 "Yeni Şafak Yerel": "2026-11-12T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-11T21:33:33+00:00",
 "@islamasalya": "2026-11-11T20:06:27+00:00",
-"Yeni Asır (İzmir)": "2026-11-11T19:08:49+00:00",
+"Yeni Asır (İzmir)": "2026-11-12T03:52:41+00:00",
 "İstanbul Gazetesi": "2026-11-11T21:16:00+00:00",
 "Kandilli Rasathanesi": "2026-11-11T15:10:24+00:00"
 }
