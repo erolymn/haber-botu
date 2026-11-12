@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"9f59251ce5ea2b2f",
-"52bc6dcd1d33ae91",
-"e7186f4a94a7744e",
 "ec817be45fa5dc93",
 "b8faaf0b712ba77c",
 "56e100394b8a3ee9",
@@ -2999,29 +2996,12 @@
 "39071deb21b26eb0",
 "9d18a374608d4e98",
 "880732de0645784f",
-"588046294396636d"
+"588046294396636d",
+"5dacba5aeee52daa",
+"137b661252aa75f8",
+"fe541c750255eb0f"
 ],
 "imzalar": [
-[
-"amedspor",
-"galatasaray",
-"gollu",
-"macta",
-"maglup"
-],
-[
-"araya",
-"galatasaray",
-"girdi",
-"kazanarak",
-"milli"
-],
-[
-"erdi",
-"galibeyet",
-"serisi",
-"sona"
-],
 [
 "feci",
 "kaza",
@@ -8831,14 +8811,35 @@
 "olu",
 "rize",
 "yuvarlandi"
+],
+[
+"ekvador",
+"gun",
+"ohal",
+"uzatildi"
+],
+[
+"emegin",
+"fabrikalarin",
+"hafizasina",
+"yolculuk"
+],
+[
+"arac",
+"bolu",
+"dagi",
+"nde",
+"panigi",
+"tuneli",
+"yangini"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-11T23:11:00+00:00",
-"Sonsöz (Ankara)": "2026-11-12T01:56:00+00:00",
+"Haber Global": "2026-11-12T02:24:00+00:00",
+"Sonsöz (Ankara)": "2026-11-12T02:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-11T04:51:55+00:00",
-"Sözcü Son Dakika": "2026-11-12T01:40:04+00:00",
+"Sözcü Son Dakika": "2026-11-12T02:30:04+00:00",
 "Yeni Şafak Yerel": "2026-11-12T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-11T21:33:33+00:00",
