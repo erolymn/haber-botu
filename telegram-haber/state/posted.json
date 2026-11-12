@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"0d1b2075bb5a2a13",
-"315b0adf7a13c526",
-"acc26e8dae033e3c",
 "c7c994a19ffe20a5",
 "3cc75792bc4b1e52",
 "2d76882936b9a641",
@@ -2999,29 +2996,12 @@
 "9c0e07682da37b05",
 "0d7a2772ec990ea7",
 "897014a2e4751b53",
-"6931dbdd77660d1f"
+"6931dbdd77660d1f",
+"9961f842b2804089",
+"90f00fdac119de39",
+"89a8c3cdf18ff00a"
 ],
 "imzalar": [
-[
-"2027",
-"atilacak",
-"gibi",
-"kira",
-"konut",
-"oder",
-"polislere",
-"temeli"
-],
-[
-"eski",
-"fenerbahce",
-"geldi",
-"gol",
-"nin",
-"sampiyonluk",
-"tarihi",
-"yildizindan"
-],
 [
 "ankara",
 "artacak",
@@ -8832,6 +8812,21 @@
 "canli",
 "turkiye",
 "yayin"
+],
+[
+"helikopter",
+"kaza",
+"kirima",
+"malatya",
+"ugradi"
+],
+[
+"asker",
+"askeri",
+"dustu",
+"helikopter",
+"malatya",
+"sehit"
 ]
 ],
 "son_tarih": {
@@ -8839,13 +8834,13 @@
 "Sonsöz (Ankara)": "2026-11-12T15:37:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-12T15:51:23+00:00",
-"Sözcü Son Dakika": "2026-11-12T15:59:53+00:00",
+"Sözcü Son Dakika": "2026-11-12T17:01:13+00:00",
 "Yeni Şafak Yerel": "2026-11-12T15:58:03+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-12T14:00:02+00:00",
-"@islamasalya": "2026-11-12T14:48:32+00:00",
+"@islamasalya": "2026-11-12T16:58:08+00:00",
 "Yeni Asır (İzmir)": "2026-11-12T15:41:42+00:00",
-"İstanbul Gazetesi": "2026-11-11T21:16:00+00:00",
+"İstanbul Gazetesi": "2026-11-12T16:59:00+00:00",
 "Kandilli Rasathanesi": "2026-11-11T15:10:24+00:00"
 }
 }
