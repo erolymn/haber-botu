@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"4464a9c75a5668b5",
-"7f7cdbc0a90c1f77",
-"e193d9e6cc61325f",
 "a480f3d56713db8a",
 "b6fef1a277945b2e",
 "2bd2e3cec40241cc",
@@ -2999,40 +2996,12 @@
 "5977fcddb0e0ce3c",
 "0a362b9a0622494c",
 "a002b582708e00c0",
-"83ae27b60c7a6a25"
+"83ae27b60c7a6a25",
+"1286d541ff1de2b9",
+"30a92004fe4f5ba1",
+"4c61373cbe50ad15"
 ],
 "imzalar": [
-[
-"buyuk",
-"capta",
-"evde",
-"gaziantep",
-"geldi",
-"hasar",
-"korkutan",
-"maddi",
-"meydana",
-"mustakil",
-"yangin"
-],
-[
-"adasi",
-"basini",
-"duyuldu",
-"iki",
-"iran",
-"kesm",
-"nda",
-"patlama",
-"sesi"
-],
-[
-"cevdet",
-"cumhurbaskanligina",
-"edecek",
-"vekalet",
-"yilmaz"
-],
 [
 "atarak",
 "bursa",
@@ -8847,17 +8816,44 @@
 "sopalarla",
 "yaklasik",
 "yediler"
+],
+[
+"aciklama",
+"asker",
+"bin",
+"den",
+"gonderilecegi",
+"iddiasina",
+"iliskin",
+"msb",
+"somali"
+],
+[
+"akom",
+"dan",
+"firtina",
+"istanbul",
+"uyarisi"
+],
+[
+"bursa",
+"dijital",
+"egitim",
+"firsati",
+"her",
+"vatandasa",
+"yastan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-12T05:55:00+00:00",
+"Haber Global": "2026-11-12T08:58:00+00:00",
 "Sonsöz (Ankara)": "2026-11-12T02:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-12T05:01:43+00:00",
 "Sözcü Son Dakika": "2026-11-12T08:00:07+00:00",
-"Yeni Şafak Yerel": "2026-11-12T07:59:18+00:00",
+"Yeni Şafak Yerel": "2026-11-12T08:59:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-12T07:59:23+00:00",
+"Olay (Bursa)": "2026-11-12T09:00:21+00:00",
 "@islamasalya": "2026-11-12T04:40:15+00:00",
 "Yeni Asır (İzmir)": "2026-11-12T06:56:49+00:00",
 "İstanbul Gazetesi": "2026-11-11T21:16:00+00:00",
