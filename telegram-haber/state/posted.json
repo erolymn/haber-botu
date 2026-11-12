@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"4d0f2a8328b5cc4c",
-"b160d31842dd50a7",
-"7286b50520b946a7",
 "8d4a5cf4815cb14e",
 "cc2120cad667255b",
 "1689d4ea03704f86",
@@ -2999,39 +2996,12 @@
 "6edd5d6ae38946cc",
 "08ac82e0f407cb40",
 "4522bf4362ac972c",
-"51a15d521d80ea90"
+"51a15d521d80ea90",
+"24721453e9ea42be",
+"75387a25b7166357",
+"f5a73664fec44633"
 ],
 "imzalar": [
-[
-"eisenkot",
-"hukumet",
-"israil",
-"kurma",
-"verildi",
-"yetkisi"
-],
-[
-"200",
-"acun",
-"arsenal",
-"city",
-"deki",
-"hull",
-"ilicali",
-"kaybetti",
-"lig",
-"macinda",
-"nin",
-"premier",
-"takimi"
-],
-[
-"dan",
-"galatasaray",
-"gol",
-"gondermeli",
-"sevinci"
-],
 [
 "eisenkot",
 "gadi",
@@ -8836,6 +8806,34 @@
 "kritik",
 "saate",
 "saatler"
+],
+[
+"altin",
+"ceyrek",
+"dusus",
+"fiyatlarinda",
+"gram",
+"kadar",
+"kasim",
+"suruyor"
+],
+[
+"ayda",
+"buse",
+"cikti",
+"kahvalti",
+"kilo",
+"ortaya",
+"sirri",
+"terim",
+"vermisti"
+],
+[
+"bursa",
+"elektrik",
+"ilcesinde",
+"kesintisi",
+"nin"
 ]
 ],
 "son_tarih": {
@@ -8843,10 +8841,10 @@
 "Sonsöz (Ankara)": "2026-11-12T02:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-12T04:47:47+00:00",
-"Sözcü Son Dakika": "2026-11-12T04:58:06+00:00",
-"Yeni Şafak Yerel": "2026-11-12T01:00:00+00:00",
+"Sözcü Son Dakika": "2026-11-12T05:54:20+00:00",
+"Yeni Şafak Yerel": "2026-11-12T05:52:19+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-11T21:33:33+00:00",
+"Olay (Bursa)": "2026-11-12T05:57:37+00:00",
 "@islamasalya": "2026-11-12T04:40:15+00:00",
 "Yeni Asır (İzmir)": "2026-11-12T03:52:41+00:00",
 "İstanbul Gazetesi": "2026-11-11T21:16:00+00:00",
