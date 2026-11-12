@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"c1531854007190da",
-"bb1ea62bb7eb7a0a",
-"f733afaa857f250d",
 "0d1b2075bb5a2a13",
 "315b0adf7a13c526",
 "acc26e8dae033e3c",
@@ -2999,41 +2996,12 @@
 "e8199ec26678c30c",
 "2f4987677bd7ca43",
 "87a38fa1b29a2243",
-"9c0e07682da37b05"
+"9c0e07682da37b05",
+"0d7a2772ec990ea7",
+"897014a2e4751b53",
+"6931dbdd77660d1f"
 ],
 "imzalar": [
-[
-"barajlari",
-"doldurmaya",
-"eden",
-"istanbulluyu",
-"perisan",
-"yagmurlar",
-"yetmedi"
-],
-[
-"almanya",
-"baronun",
-"film",
-"firarini",
-"gibi",
-"konusuyor",
-"turk"
-],
-[
-"2026",
-"2027",
-"belli",
-"biletleri",
-"cikiyor",
-"dogu",
-"ekspresi",
-"fiyatlar",
-"kis",
-"satisa",
-"sezonu",
-"turistik"
-],
 [
 "2027",
 "atilacak",
@@ -8838,11 +8806,37 @@
 "siddetlenmesi",
 "vurdu",
 "yarin"
+],
+[
+"ankara",
+"ileriye",
+"potansiyelini",
+"tasimali"
+],
+[
+"belediye",
+"destekli",
+"devlet",
+"emeklilerine",
+"haklar",
+"hayat",
+"imkanli",
+"indirimli",
+"izmir",
+"sosyal",
+"ucretsiz",
+"yararlanabilecekleri"
+],
+[
+"belcika",
+"canli",
+"turkiye",
+"yayin"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-12T10:56:00+00:00",
-"Sonsöz (Ankara)": "2026-11-12T15:00:00+00:00",
+"Haber Global": "2026-11-12T15:50:00+00:00",
+"Sonsöz (Ankara)": "2026-11-12T15:37:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-12T15:51:23+00:00",
 "Sözcü Son Dakika": "2026-11-12T15:59:53+00:00",
@@ -8850,7 +8844,7 @@
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-12T14:00:02+00:00",
 "@islamasalya": "2026-11-12T14:48:32+00:00",
-"Yeni Asır (İzmir)": "2026-11-12T06:56:49+00:00",
+"Yeni Asır (İzmir)": "2026-11-12T15:41:42+00:00",
 "İstanbul Gazetesi": "2026-11-11T21:16:00+00:00",
 "Kandilli Rasathanesi": "2026-11-11T15:10:24+00:00"
 }
