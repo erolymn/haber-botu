@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"5c9bba2bfcf561ea",
-"7ce28af56a14e216",
-"18540d83360f35be",
 "3e24e7e96d685529",
 "66e2483f21edf485",
 "e1c7b67e1620ea26",
@@ -2999,36 +2996,12 @@
 "3b218c13358d0a70",
 "85bed01d65b791e0",
 "2c59443855912a74",
-"a04f83f97f74cab9"
+"a04f83f97f74cab9",
+"cbf33a2b9fcd49ea",
+"a5a96d2f2d2888ff",
+"4ed4e43261761a43"
 ],
 "imzalar": [
-[
-"bitiyor",
-"den",
-"elestiri",
-"galatasarayli",
-"kahveci",
-"krediler",
-"nihat",
-"olay",
-"yildiza"
-],
-[
-"billah",
-"havle",
-"illa",
-"kuvvete",
-"vela"
-],
-[
-"ask",
-"den",
-"dongel",
-"iddialarina",
-"melisa",
-"murda",
-"yanit"
-],
 [
 "bircok",
 "den",
@@ -8848,17 +8821,50 @@
 "kullandiklari",
 "reklamlarda",
 "satiyorlar"
+],
+[
+"bulusma",
+"calisanlarin",
+"ceken",
+"dikkat",
+"iyi",
+"konya",
+"masaya",
+"olusu",
+"sektorunde",
+"turizm",
+"yatirildi"
+],
+[
+"avukati",
+"davasinda",
+"ibb",
+"imamoglu",
+"karari",
+"kisiye",
+"nun",
+"tahliye"
+],
+[
+"aci",
+"ailesinin",
+"bursa",
+"cek",
+"kaybi",
+"turgut",
+"vefat",
+"yalki"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-12T20:53:00+00:00",
-"Sonsöz (Ankara)": "2026-11-12T18:01:00+00:00",
+"Sonsöz (Ankara)": "2026-11-12T19:23:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-12T15:51:23+00:00",
+"Mynet Son Dakika": "2026-11-12T20:36:21+00:00",
 "Sözcü Son Dakika": "2026-11-12T20:58:48+00:00",
 "Yeni Şafak Yerel": "2026-11-12T20:57:53+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-12T19:01:25+00:00",
+"Olay (Bursa)": "2026-11-12T20:41:53+00:00",
 "@islamasalya": "2026-11-12T16:58:08+00:00",
 "Yeni Asır (İzmir)": "2026-11-12T15:41:42+00:00",
 "İstanbul Gazetesi": "2026-11-12T16:59:00+00:00",
