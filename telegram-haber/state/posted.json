@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"6441014c3d8ef4ea",
-"3f32ae7a06f12e23",
-"6cd3406d8c6d751e",
 "4d0f2a8328b5cc4c",
 "b160d31842dd50a7",
 "7286b50520b946a7",
@@ -2999,46 +2996,12 @@
 "fe541c750255eb0f",
 "5130c72c049af289",
 "38bdffd5120d19a9",
-"6edd5d6ae38946cc"
+"6edd5d6ae38946cc",
+"08ac82e0f407cb40",
+"4522bf4362ac972c",
+"51a15d521d80ea90"
 ],
 "imzalar": [
-[
-"500",
-"beyaza",
-"bin",
-"burundu",
-"gecit",
-"gosterdi",
-"kis",
-"kutahya",
-"rakimli",
-"yuzunu"
-],
-[
-"aktaracagiz",
-"asrin",
-"bakan",
-"dunyaya",
-"insasi",
-"kurum",
-"ndaki",
-"tecrubemizi",
-"tum"
-],
-[
-"acan",
-"annesinin",
-"derin",
-"dondurucuyu",
-"esyalarini",
-"hayatinin",
-"kadin",
-"olumu",
-"sokunu",
-"sonrasi",
-"toparliyordu",
-"yasadi"
-],
 [
 "eisenkot",
 "hukumet",
@@ -8840,18 +8803,51 @@
 "tam",
 "transfer",
 "yildiz"
+],
+[
+"bazilari",
+"bombaladigi",
+"bugun",
+"hastanesi",
+"israil",
+"nasir",
+"nde",
+"olanlardan",
+"safak",
+"sehit",
+"siyonist",
+"vakti"
+],
+[
+"konustugu",
+"nin",
+"olayda",
+"tahliye",
+"turkiye",
+"yil"
+],
+[
+"borsada",
+"cevrildi",
+"degisebilir",
+"dengeler",
+"doviz",
+"gozler",
+"kritik",
+"saate",
+"saatler"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-12T03:49:00+00:00",
 "Sonsöz (Ankara)": "2026-11-12T02:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-11T04:51:55+00:00",
-"Sözcü Son Dakika": "2026-11-12T03:59:00+00:00",
+"Mynet Son Dakika": "2026-11-12T04:47:47+00:00",
+"Sözcü Son Dakika": "2026-11-12T04:58:06+00:00",
 "Yeni Şafak Yerel": "2026-11-12T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-11T21:33:33+00:00",
-"@islamasalya": "2026-11-11T20:06:27+00:00",
+"@islamasalya": "2026-11-12T04:40:15+00:00",
 "Yeni Asır (İzmir)": "2026-11-12T03:52:41+00:00",
 "İstanbul Gazetesi": "2026-11-11T21:16:00+00:00",
 "Kandilli Rasathanesi": "2026-11-11T15:10:24+00:00"
