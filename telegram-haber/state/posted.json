@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"8d4a5cf4815cb14e",
-"cc2120cad667255b",
-"1689d4ea03704f86",
 "9bbab55b34b195bf",
 "959d751b46e61d74",
 "df0f83692c07091c",
@@ -2999,33 +2996,12 @@
 "51a15d521d80ea90",
 "24721453e9ea42be",
 "75387a25b7166357",
-"f5a73664fec44633"
+"f5a73664fec44633",
+"953157a862d0b0ca",
+"feb3316fa6ac3674",
+"f2724d3797c19410"
 ],
 "imzalar": [
-[
-"eisenkot",
-"gadi",
-"gorevini",
-"herzog",
-"hukumeti",
-"kurma",
-"verdi"
-],
-[
-"gorevlendirildi",
-"isim",
-"israil",
-"netanyahu",
-"rakip"
-],
-[
-"2026",
-"anadolu",
-"ankasi",
-"milli",
-"tamamlandi",
-"tatbikati"
-],
 [
 "alamazsiniz",
 "amedspor",
@@ -8834,19 +8810,61 @@
 "ilcesinde",
 "kesintisi",
 "nin"
+],
+[
+"detay",
+"girmis",
+"hayatini",
+"iscinin",
+"ise",
+"kahreden",
+"kaybettigi",
+"once",
+"patlamada",
+"saat"
+],
+[
+"2026",
+"2027",
+"belli",
+"burs",
+"burslari",
+"gsb",
+"ilk",
+"kredi",
+"kyk",
+"nasil",
+"odeme",
+"onayi",
+"taahhutnamesi",
+"tarihi",
+"yapilir",
+"yatacak",
+"zaman"
+],
+[
+"abd",
+"alti",
+"cekildi",
+"daki",
+"dunya",
+"katar",
+"kupasi",
+"ndan",
+"yas"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-12T03:49:00+00:00",
+"Haber Global": "2026-11-12T05:55:00+00:00",
 "Sonsöz (Ankara)": "2026-11-12T02:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-12T04:47:47+00:00",
+"Mynet Son Dakika": "2026-11-12T05:01:43+00:00",
 "Sözcü Son Dakika": "2026-11-12T05:54:20+00:00",
 "Yeni Şafak Yerel": "2026-11-12T05:52:19+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-12T05:57:37+00:00",
 "@islamasalya": "2026-11-12T04:40:15+00:00",
-"Yeni Asır (İzmir)": "2026-11-12T03:52:41+00:00",
+"Yeni Asır (İzmir)": "2026-11-12T05:42:54+00:00",
 "İstanbul Gazetesi": "2026-11-11T21:16:00+00:00",
 "Kandilli Rasathanesi": "2026-11-11T15:10:24+00:00"
 }
