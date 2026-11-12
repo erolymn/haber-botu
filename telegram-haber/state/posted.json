@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"3e24e7e96d685529",
-"66e2483f21edf485",
-"e1c7b67e1620ea26",
 "eba40d8c06e8b77c",
 "cbee3b1ec290feaf",
 "e7d1e1af31c4d19e",
@@ -2999,40 +2996,12 @@
 "a04f83f97f74cab9",
 "cbf33a2b9fcd49ea",
 "a5a96d2f2d2888ff",
-"4ed4e43261761a43"
+"4ed4e43261761a43",
+"1f83f1fe7005c6af",
+"48d0ed88db2e34ec",
+"3df8634e3dabe591"
 ],
 "imzalar": [
-[
-"bircok",
-"den",
-"firtina",
-"kuvvetli",
-"meteoroloji",
-"uyarisi",
-"yagis"
-],
-[
-"canli",
-"dehseti",
-"indirimli",
-"saniyeler",
-"tanitiyordu",
-"urunleri",
-"yasadi",
-"yayinda"
-],
-[
-"525",
-"ait",
-"cesitli",
-"donemlere",
-"ele",
-"eser",
-"gecirildi",
-"izmir",
-"parca",
-"tarihi"
-],
 [
 "akil",
 "almaz",
@@ -8854,15 +8823,42 @@
 "turgut",
 "vefat",
 "yalki"
+],
+[
+"580",
+"bin",
+"bursaspor",
+"cezasi",
+"para",
+"toplam",
+"verildi"
+],
+[
+"acma",
+"hukumetinin",
+"iran",
+"israil",
+"netanyahu",
+"savas",
+"tartisiliyor",
+"yetkisi"
+],
+[
+"basladilar",
+"birakmaya",
+"devekuslarini",
+"dogaya",
+"yeniden",
+"yil"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-12T20:53:00+00:00",
+"Haber Global": "2026-11-12T21:52:00+00:00",
 "Sonsöz (Ankara)": "2026-11-12T19:23:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-12T20:36:21+00:00",
-"Sözcü Son Dakika": "2026-11-12T20:58:48+00:00",
-"Yeni Şafak Yerel": "2026-11-12T20:57:53+00:00",
+"Sözcü Son Dakika": "2026-11-12T22:00:56+00:00",
+"Yeni Şafak Yerel": "2026-11-12T21:59:54+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-12T20:41:53+00:00",
 "@islamasalya": "2026-11-12T16:58:08+00:00",
