@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"9d5f0b77f8d884f3",
-"c5939c5b19c3faee",
-"4c926c600509c268",
 "b11463c6b2008cb3",
 "01175df80a2dccf0",
 "9f59251ce5ea2b2f",
@@ -2999,38 +2996,12 @@
 "08a25b8d33a54d5a",
 "f3fb22437b71f035",
 "3d41b8b7b029ada4",
-"2a86fccd2294d3f0"
+"2a86fccd2294d3f0",
+"666c8c2d379a3475",
+"39071deb21b26eb0",
+"9d18a374608d4e98"
 ],
 "imzalar": [
-[
-"abd",
-"baskan",
-"baskani",
-"erdogan",
-"gorustu",
-"trump"
-],
-[
-"alamayan",
-"arac",
-"arnavutkoy",
-"devrildi",
-"elektrikli",
-"viraji",
-"yarali"
-],
-[
-"carpisti",
-"hayatini",
-"kaybetti",
-"kaza",
-"kisi",
-"korkunc",
-"minibus",
-"tir",
-"van",
-"yaralandi"
-],
 [
 "carpisti",
 "minibusle",
@@ -8840,15 +8811,41 @@
 "oglu",
 "otomobil",
 "yaralandi"
+],
+[
+"baskani",
+"birakildi",
+"habas",
+"kisi",
+"kurulu",
+"patlamada",
+"serbest",
+"taki",
+"tutuklandi",
+"yonetim"
+],
+[
+"fabrikadaki",
+"iliskin",
+"izmir",
+"patlamaya",
+"supheli",
+"tutuklandi"
+],
+[
+"birakip",
+"gecelim",
+"harekete",
+"sikayeti"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-11T23:11:00+00:00",
-"Sonsöz (Ankara)": "2026-11-11T23:50:00+00:00",
+"Sonsöz (Ankara)": "2026-11-12T00:22:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-11T04:51:55+00:00",
-"Sözcü Son Dakika": "2026-11-11T22:18:54+00:00",
-"Yeni Şafak Yerel": "2026-11-11T21:45:31+00:00",
+"Sözcü Son Dakika": "2026-11-12T00:48:56+00:00",
+"Yeni Şafak Yerel": "2026-11-12T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-11T21:33:33+00:00",
 "@islamasalya": "2026-11-11T20:06:27+00:00",
