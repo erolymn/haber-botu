@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"d0289a8e73a736ef",
-"879ba4d79bd23039",
-"1c0205333c04957b",
 "c1531854007190da",
 "bb1ea62bb7eb7a0a",
 "f733afaa857f250d",
@@ -2999,46 +2996,12 @@
 "c1712dc53c68fabe",
 "c8f0a4e653d796ec",
 "c6eb0b1615726872",
-"e8199ec26678c30c"
+"e8199ec26678c30c",
+"2f4987677bd7ca43",
+"87a38fa1b29a2243",
+"9c0e07682da37b05"
 ],
 "imzalar": [
-[
-"almanya",
-"baronu",
-"cezaevinden",
-"her",
-"kacti",
-"nin",
-"rusvetle",
-"seyi",
-"siki",
-"turk",
-"uyusturucu",
-"yapmis"
-],
-[
-"bakan",
-"dan",
-"eski",
-"fonu",
-"iddialarina",
-"sert",
-"taner",
-"tepki",
-"yatirim",
-"yildiz"
-],
-[
-"alarm",
-"den",
-"firtina",
-"geliyor",
-"kar",
-"kodlu",
-"meteoroloji",
-"saganak",
-"sari"
-],
 [
 "barajlari",
 "doldurmaya",
@@ -8842,15 +8805,48 @@
 "real",
 "taraftarlara",
 "yildizi"
+],
+[
+"bekir",
+"bicak",
+"bulundu",
+"evinde",
+"insani",
+"izleri",
+"kayabasi",
+"kursun",
+"olu",
+"vucudunda"
+],
+[
+"araniyordu",
+"azerbaycan",
+"baris",
+"boyun",
+"dosyadan",
+"elebasi",
+"iade",
+"orgutunun",
+"talebi",
+"yakalandi"
+],
+[
+"bekleniyor",
+"istanbul",
+"lodos",
+"seferleri",
+"siddetlenmesi",
+"vurdu",
+"yarin"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-12T10:56:00+00:00",
 "Sonsöz (Ankara)": "2026-11-12T15:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-12T05:01:43+00:00",
-"Sözcü Son Dakika": "2026-11-12T15:00:05+00:00",
-"Yeni Şafak Yerel": "2026-11-12T12:57:19+00:00",
+"Mynet Son Dakika": "2026-11-12T15:51:23+00:00",
+"Sözcü Son Dakika": "2026-11-12T15:59:53+00:00",
+"Yeni Şafak Yerel": "2026-11-12T15:58:03+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-12T14:00:02+00:00",
 "@islamasalya": "2026-11-12T14:48:32+00:00",
