@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"cbbf7453c587ac1f",
-"5edcb9090375df6b",
-"2f0239a373c1620e",
 "4464a9c75a5668b5",
 "7f7cdbc0a90c1f77",
 "e193d9e6cc61325f",
@@ -2999,35 +2996,12 @@
 "f2724d3797c19410",
 "5816c9456ede10b2",
 "93b06cc5b3be02e6",
-"5977fcddb0e0ce3c"
+"5977fcddb0e0ce3c",
+"0a362b9a0622494c",
+"a002b582708e00c0",
+"83ae27b60c7a6a25"
 ],
 "imzalar": [
-[
-"cikti",
-"cop",
-"dinamit",
-"kenarindaki",
-"maket",
-"saatli",
-"sisli"
-],
-[
-"bursasporlu",
-"gunune",
-"korkutuyor",
-"mal",
-"olmustu",
-"oyuncu"
-],
-[
-"360",
-"alindi",
-"daki",
-"fransa",
-"gozaltina",
-"kisi",
-"protestolarda"
-],
 [
 "buyuk",
 "capta",
@@ -8838,6 +8812,41 @@
 "bursa",
 "cinayeti",
 "yillik"
+],
+[
+"aciklama",
+"bekledigi",
+"belli",
+"enflasyon",
+"geldi",
+"kritik",
+"milyonlarin",
+"raporu",
+"yilin"
+],
+[
+"anlatti",
+"bursa",
+"daki",
+"doc",
+"emeklilerin",
+"metin",
+"salih",
+"sorunlarini"
+],
+[
+"ceza",
+"cikisinda",
+"kesip",
+"kopru",
+"lira",
+"milyon",
+"minibusun",
+"onunu",
+"saldirdilar",
+"sopalarla",
+"yaklasik",
+"yediler"
 ]
 ],
 "son_tarih": {
@@ -8845,10 +8854,10 @@
 "Sonsöz (Ankara)": "2026-11-12T02:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-12T05:01:43+00:00",
-"Sözcü Son Dakika": "2026-11-12T06:56:54+00:00",
-"Yeni Şafak Yerel": "2026-11-12T05:52:19+00:00",
+"Sözcü Son Dakika": "2026-11-12T08:00:07+00:00",
+"Yeni Şafak Yerel": "2026-11-12T07:59:18+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-12T07:00:39+00:00",
+"Olay (Bursa)": "2026-11-12T07:59:23+00:00",
 "@islamasalya": "2026-11-12T04:40:15+00:00",
 "Yeni Asır (İzmir)": "2026-11-12T06:56:49+00:00",
 "İstanbul Gazetesi": "2026-11-11T21:16:00+00:00",
