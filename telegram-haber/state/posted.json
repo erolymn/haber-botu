@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"b11463c6b2008cb3",
-"01175df80a2dccf0",
 "9f59251ce5ea2b2f",
 "52bc6dcd1d33ae91",
 "e7186f4a94a7744e",
@@ -2999,27 +2997,11 @@
 "2a86fccd2294d3f0",
 "666c8c2d379a3475",
 "39071deb21b26eb0",
-"9d18a374608d4e98"
+"9d18a374608d4e98",
+"880732de0645784f",
+"588046294396636d"
 ],
 "imzalar": [
-[
-"carpisti",
-"minibusle",
-"olu",
-"tir",
-"van",
-"yarali"
-],
-[
-"cumhurbaskani",
-"erdogan",
-"gerilimi",
-"gorustu",
-"gundemde",
-"iran",
-"trump",
-"ukrayna"
-],
 [
 "amedspor",
 "galatasaray",
@@ -8837,14 +8819,26 @@
 "gecelim",
 "harekete",
 "sikayeti"
+],
+[
+"aday",
+"gelinimiz",
+"zirveye"
+],
+[
+"dereye",
+"kamyonet",
+"olu",
+"rize",
+"yuvarlandi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-11T23:11:00+00:00",
-"Sonsöz (Ankara)": "2026-11-12T00:22:00+00:00",
+"Sonsöz (Ankara)": "2026-11-12T01:56:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-11T04:51:55+00:00",
-"Sözcü Son Dakika": "2026-11-12T00:48:56+00:00",
+"Sözcü Son Dakika": "2026-11-12T01:40:04+00:00",
 "Yeni Şafak Yerel": "2026-11-12T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-11T21:33:33+00:00",
