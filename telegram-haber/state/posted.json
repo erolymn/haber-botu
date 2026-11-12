@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"c6da83cce9047c67",
-"4fb372ed3f224338",
-"306e01beaa162403",
 "5c9bba2bfcf561ea",
 "7ce28af56a14e216",
 "18540d83360f35be",
@@ -2999,37 +2996,12 @@
 "309b28962909245e",
 "054b12cb1c6184a5",
 "f86d5ef7b4ae5814",
-"3b218c13358d0a70"
+"3b218c13358d0a70",
+"85bed01d65b791e0",
+"2c59443855912a74",
+"a04f83f97f74cab9"
 ],
 "imzalar": [
-[
-"dikkat",
-"durumu",
-"geliyor",
-"hava",
-"izmir",
-"kuvvetli",
-"tarihe",
-"yagis"
-],
-[
-"aci",
-"alinamiyordu",
-"beri",
-"dukkana",
-"dunden",
-"karsilasti",
-"kosan",
-"manzarayla",
-"yakinlari"
-],
-[
-"anlar",
-"esek",
-"gulumseten",
-"kacirdi",
-"muhabiri"
-],
 [
 "bitiyor",
 "den",
@@ -8843,15 +8815,48 @@
 "saldiri",
 "sicak",
 "sirik"
+],
+[
+"acikladi",
+"aydin",
+"bekte",
+"neden",
+"oguz",
+"oynattigini",
+"sag",
+"sergen",
+"yalcin"
+],
+[
+"asildi",
+"askerlerin",
+"baba",
+"bayragi",
+"dusmesi",
+"helikopterin",
+"malatya",
+"ocaklarina",
+"sehit",
+"sonucu",
+"turk"
+],
+[
+"acti",
+"baslarina",
+"ifadeler",
+"internette",
+"kullandiklari",
+"reklamlarda",
+"satiyorlar"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-12T19:40:00+00:00",
+"Haber Global": "2026-11-12T20:53:00+00:00",
 "Sonsöz (Ankara)": "2026-11-12T18:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-12T15:51:23+00:00",
-"Sözcü Son Dakika": "2026-11-12T19:55:16+00:00",
-"Yeni Şafak Yerel": "2026-11-12T19:58:48+00:00",
+"Sözcü Son Dakika": "2026-11-12T20:58:48+00:00",
+"Yeni Şafak Yerel": "2026-11-12T20:57:53+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-12T19:01:25+00:00",
 "@islamasalya": "2026-11-12T16:58:08+00:00",
