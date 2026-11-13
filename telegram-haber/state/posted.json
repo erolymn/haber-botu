@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"51a97e9aa13682c9",
-"60522d5c224821b0",
-"0f5fcf4440954df2",
-"6d6fab5c4fcecf04",
 "f5bd79c3e124810c",
 "88ec4085e1f052ff",
 "2d48ead7e6c84d0a",
@@ -2999,33 +2995,13 @@
 "172f2a790c19dbf9",
 "6d71c1391b2c7f3b",
 "bcf83d132ad37215",
-"efe083bee24fdcfd"
+"efe083bee24fdcfd",
+"40f82324c5de21a4",
+"4756f7f806ee586e",
+"c12ca2d8cb896ece",
+"d4009a0ee255c6e0"
 ],
 "imzalar": [
-[
-"com",
-"https",
-"islamasalya",
-"nsosyal"
-],
-[
-"cikti",
-"egitim",
-"havalimani",
-"hezarfen",
-"nda",
-"pistten",
-"ucagi"
-],
-[
-"azerbaycan",
-"den",
-"gunu",
-"msb",
-"ozel",
-"paylasim",
-"zafer"
-],
 [
 "bursa",
 "dev",
@@ -8842,20 +8818,45 @@
 "takasini",
 "ukrayna",
 "zelenski"
+],
+[
+"ceken",
+"dan",
+"dikkat",
+"milli",
+"savunmasina",
+"sergen",
+"takimin",
+"yalcin",
+"yorum"
+],
+[
+"153",
+"ankara",
+"bulunan",
+"cezasi",
+"hapis",
+"supheli",
+"tutuklandi",
+"yil"
+],
+[
+"hastanede",
+"katliam"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-13T00:00:00+00:00",
-"Sonsöz (Ankara)": "2026-11-12T22:52:00+00:00",
+"Haber Global": "2026-11-13T00:56:00+00:00",
+"Sonsöz (Ankara)": "2026-11-13T00:33:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-12T20:36:21+00:00",
 "Sözcü Son Dakika": "2026-11-12T22:43:31+00:00",
-"Yeni Şafak Yerel": "2026-11-12T21:59:54+00:00",
+"Yeni Şafak Yerel": "2026-11-13T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-12T21:12:30+00:00",
 "@islamasalya": "2026-11-12T16:58:08+00:00",
 "Yeni Asır (İzmir)": "2026-11-12T15:41:42+00:00",
 "İstanbul Gazetesi": "2026-11-12T21:26:00+00:00",
-"Kandilli Rasathanesi": "2026-11-11T15:10:24+00:00"
+"Kandilli Rasathanesi": "2026-11-13T00:05:04+00:00"
 }
 }
