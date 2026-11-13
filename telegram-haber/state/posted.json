@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"e3c4ce3f7680848d",
-"13ed04d43e522bf7",
-"f6f34e049939cc3b",
 "4d2e168bd58a83ff",
 "e57cf3a9d4da1f82",
 "a5cc24de4f20ca32",
@@ -2999,38 +2996,12 @@
 "2d390c579add9698",
 "4e117b2204247d0c",
 "adda4a5dc63a3fba",
-"4aae0984192387df"
+"4aae0984192387df",
+"249593efe09c9bc6",
+"bff9fb626107ff1c",
+"f31a1a4c52c07700"
 ],
 "imzalar": [
-[
-"2026",
-"akdeniz",
-"balina",
-"dogu",
-"mavi",
-"tatbikati",
-"yapilacak"
-],
-[
-"bitiyor",
-"dunya",
-"edilemeyen",
-"hastaligi",
-"kariyeri",
-"kolay",
-"tedavi",
-"yildizinin"
-],
-[
-"agir",
-"bursa",
-"ciftlikte",
-"demir",
-"kisi",
-"saldiri",
-"sopali",
-"yaralandi"
-],
 [
 "anlatimi",
 "canli",
@@ -8889,15 +8860,45 @@
 "onlemini",
 "saniyede",
 "york"
+],
+[
+"belirtiler",
+"caresiz",
+"doktorlar",
+"donen",
+"gizemli",
+"goruldu",
+"hastalik",
+"kaldi",
+"panigi",
+"turistlerde",
+"ulkeden"
+],
+[
+"ankara",
+"basladi",
+"festivali",
+"film",
+"gorkemli",
+"torenle"
+],
+[
+"aci",
+"bahcelievler",
+"beton",
+"carpti",
+"geldi",
+"pompasi",
+"yayaya"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-13T12:01:00+00:00",
-"Sonsöz (Ankara)": "2026-11-13T08:03:00+00:00",
+"Sonsöz (Ankara)": "2026-11-13T20:02:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-13T05:00:14+00:00",
-"Sözcü Son Dakika": "2026-11-13T18:45:14+00:00",
-"Yeni Şafak Yerel": "2026-11-13T18:59:10+00:00",
+"Sözcü Son Dakika": "2026-11-13T19:57:36+00:00",
+"Yeni Şafak Yerel": "2026-11-13T20:03:08+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-13T12:03:21+00:00",
 "@islamasalya": "2026-11-13T18:03:03+00:00",
