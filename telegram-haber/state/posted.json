@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"af16968cf5d89c32",
-"abade6dad17f1e92",
-"256b7f181dbd9bb1",
 "6dfc1ffc1cbf3fa2",
 "915e88b7dd72f914",
 "3529bf7e7c93ec04",
@@ -2999,42 +2996,12 @@
 "42ab25ff56d13ef1",
 "7eee614efb87b758",
 "02bead8ed413ccb9",
-"b71c6e3bd472d033"
+"b71c6e3bd472d033",
+"d9c2fe9c3614bc4b",
+"a738003cfe73d1cb",
+"3c61da75e47fcd1e"
 ],
 "imzalar": [
-[
-"500",
-"asan",
-"asfalti",
-"dev",
-"dunya",
-"gecti",
-"hiz",
-"kilometreyi",
-"kirdi",
-"rekorunu",
-"saatte",
-"yakti"
-],
-[
-"aliyev",
-"basin",
-"baskan",
-"den",
-"erdogan",
-"ortak",
-"toplantisi"
-],
-[
-"akin",
-"aldiris",
-"caddebostan",
-"etmeden",
-"ettiler",
-"havaya",
-"sahili",
-"soguk"
-],
 [
 "bekliyor",
 "devrim",
@@ -8873,20 +8840,48 @@
 "ucretsiz",
 "vatandaslari",
 "yasli"
+],
+[
+"anda",
+"evi",
+"folyo",
+"kalin",
+"koydugunuz",
+"perde",
+"sicacik",
+"yapiyor",
+"zemine"
+],
+[
+"marmara",
+"siddetli",
+"uyarisi",
+"yagis"
+],
+[
+"doktoru",
+"fenerbahce",
+"halil",
+"kac",
+"kimdir",
+"nin",
+"polat",
+"yasinda",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-13T06:55:00+00:00",
+"Haber Global": "2026-11-13T12:01:00+00:00",
 "Sonsöz (Ankara)": "2026-11-13T08:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-13T05:00:14+00:00",
-"Sözcü Son Dakika": "2026-11-13T11:00:08+00:00",
+"Sözcü Son Dakika": "2026-11-13T11:51:26+00:00",
 "Yeni Şafak Yerel": "2026-11-13T12:02:05+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-13T12:03:21+00:00",
 "@islamasalya": "2026-11-13T11:54:09+00:00",
 "Yeni Asır (İzmir)": "2026-11-13T05:49:20+00:00",
-"İstanbul Gazetesi": "2026-11-13T09:58:00+00:00",
+"İstanbul Gazetesi": "2026-11-13T12:00:00+00:00",
 "Kandilli Rasathanesi": "2026-11-13T00:05:04+00:00"
 }
 }
