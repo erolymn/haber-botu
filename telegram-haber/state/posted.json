@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"5c517b10613ab3e1",
-"e640f422ad5dca99",
-"059345070414d866",
 "5671ef4fcab90dfc",
 "45c760e796bf8f39",
 "65483cb88aa74d5c",
@@ -2999,37 +2996,12 @@
 "47286797cf5a2c18",
 "bc0877bc3f7069d0",
 "96fe824dfdbc6682",
-"c360e969c06b5f08"
+"c360e969c06b5f08",
+"ad248eec4b7b72f5",
+"f00e13a4c570a7d6",
+"18c39b22f9a1a847"
 ],
 "imzalar": [
-[
-"cikti",
-"egitim",
-"inis",
-"istanbul",
-"pistten",
-"sirasinda",
-"ucagi"
-],
-[
-"400",
-"bin",
-"gizem",
-"gizlemis",
-"kumlari",
-"mumyali",
-"nin",
-"sakkara",
-"yillik"
-],
-[
-"aliyev",
-"azerbaycan",
-"baskan",
-"erdogan",
-"havalimaninda",
-"karsiladi"
-],
 [
 "aciklamasi",
 "belli",
@@ -8843,19 +8815,60 @@
 "izmir",
 "sehir",
 "ulasti"
+],
+[
+"bankasi",
+"cikti",
+"maaslari",
+"memur",
+"merkez",
+"meslek",
+"nin",
+"ortaya",
+"raporundan",
+"sizdi",
+"yeni"
+],
+[
+"don",
+"kadar",
+"kalmadi",
+"ogrenmeyen",
+"rengine",
+"sarigul"
+],
+[
+"basaran",
+"euroluk",
+"fabrikanin",
+"garaji",
+"gibi",
+"isciye",
+"izmir",
+"koleksiyonu",
+"mehmet",
+"mezar",
+"milyon",
+"muze",
+"otomobil",
+"rustu",
+"sahibinin",
+"servet",
+"sov",
+"yapmis"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-13T03:41:00+00:00",
 "Sonsöz (Ankara)": "2026-11-13T02:37:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-12T20:36:21+00:00",
-"Sözcü Son Dakika": "2026-11-13T03:52:09+00:00",
+"Mynet Son Dakika": "2026-11-13T05:00:14+00:00",
+"Sözcü Son Dakika": "2026-11-13T04:57:43+00:00",
 "Yeni Şafak Yerel": "2026-11-13T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-13T02:00:59+00:00",
 "@islamasalya": "2026-11-12T16:58:08+00:00",
-"Yeni Asır (İzmir)": "2026-11-13T03:56:13+00:00",
+"Yeni Asır (İzmir)": "2026-11-13T05:01:31+00:00",
 "İstanbul Gazetesi": "2026-11-12T21:26:00+00:00",
 "Kandilli Rasathanesi": "2026-11-13T00:05:04+00:00"
 }
