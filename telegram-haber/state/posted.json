@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"b5f66f5fbba37255",
-"7f8bd2aa57885eeb",
-"12e606a5e4b429bb",
 "51a97e9aa13682c9",
 "60522d5c224821b0",
 "0f5fcf4440954df2",
@@ -2999,37 +2996,12 @@
 "3df8634e3dabe591",
 "d0615c9e675c35e7",
 "7733cedcf082430c",
-"172f2a790c19dbf9"
+"172f2a790c19dbf9",
+"6d71c1391b2c7f3b",
+"bcf83d132ad37215",
+"efe083bee24fdcfd"
 ],
 "imzalar": [
-[
-"beyaza",
-"burundu",
-"kesimleri",
-"trabzon",
-"yuksek"
-],
-[
-"abd",
-"altin",
-"brent",
-"gecerken",
-"geriledi",
-"haftasinda",
-"nin",
-"petrol",
-"secim",
-"yukselise"
-],
-[
-"alisveristen",
-"dikkat",
-"kazandiginiz",
-"puanlara",
-"silinebilir",
-"sonunda",
-"yil"
-],
 [
 "com",
 "https",
@@ -8844,20 +8816,46 @@
 "otomobil",
 "ticari",
 "yarali"
+],
+[
+"aciklama",
+"belcika",
+"dan",
+"maci",
+"sergen",
+"sonrasi",
+"yalcin"
+],
+[
+"aciklandi",
+"askerlerin",
+"helikopter",
+"isimleri",
+"kazasinda",
+"sehit"
+],
+[
+"acikladi",
+"arasindaki",
+"esir",
+"rusya",
+"takasini",
+"ukrayna",
+"zelenski"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-12T22:09:00+00:00",
+"Haber Global": "2026-11-13T00:00:00+00:00",
 "Sonsöz (Ankara)": "2026-11-12T22:52:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-12T20:36:21+00:00",
 "Sözcü Son Dakika": "2026-11-12T22:43:31+00:00",
 "Yeni Şafak Yerel": "2026-11-12T21:59:54+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-12T20:41:53+00:00",
+"Olay (Bursa)": "2026-11-12T21:12:30+00:00",
 "@islamasalya": "2026-11-12T16:58:08+00:00",
 "Yeni Asır (İzmir)": "2026-11-12T15:41:42+00:00",
-"İstanbul Gazetesi": "2026-11-12T16:59:00+00:00",
+"İstanbul Gazetesi": "2026-11-12T21:26:00+00:00",
 "Kandilli Rasathanesi": "2026-11-11T15:10:24+00:00"
 }
 }
