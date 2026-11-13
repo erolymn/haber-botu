@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"779b5b0f21959012",
-"7b57c4f5c018027f",
-"3f07088ae3ed52f7",
 "ac4ff1eb983bdc1d",
 "17a2122e67343de0",
 "85ada7595c02b4a7",
@@ -2999,37 +2996,12 @@
 "18c39b22f9a1a847",
 "0c7478420ab87f91",
 "4a630a1c4bf27e6a",
-"510b585699c7402f"
+"510b585699c7402f",
+"438ccd62fb8601ee",
+"93aca26adb266b1c",
+"c0cd7be3a541ab74"
 ],
 "imzalar": [
-[
-"aliyev",
-"buzlari",
-"erdogan",
-"eriten",
-"kol",
-"kola",
-"pistte",
-"yuruduler"
-],
-[
-"arac",
-"esareti",
-"kaldi",
-"kar",
-"sivas",
-"yolda"
-],
-[
-"duasi",
-"ettiler",
-"girdi",
-"insanlari",
-"servet",
-"siraya",
-"tanricasina",
-"zenginlik"
-],
 [
 "kagithane",
 "kuyumcuya",
@@ -8857,15 +8829,44 @@
 "ucuklatan",
 "verilen",
 "yali"
+],
+[
+"aciklamalar",
+"dan",
+"kokleri",
+"ozel",
+"sakli",
+"sibirya",
+"tasagil",
+"turklerin"
+],
+[
+"brent",
+"dolara",
+"fiyati",
+"petrolun",
+"varil",
+"yukseldi"
+],
+[
+"alp",
+"ekin",
+"fotograflardan",
+"koc",
+"konusu",
+"merak",
+"navruz",
+"nedeni",
+"sildi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-13T03:41:00+00:00",
+"Haber Global": "2026-11-13T06:55:00+00:00",
 "Sonsöz (Ankara)": "2026-11-13T02:37:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-13T05:00:14+00:00",
-"Sözcü Son Dakika": "2026-11-13T06:02:36+00:00",
-"Yeni Şafak Yerel": "2026-11-13T05:55:01+00:00",
+"Sözcü Son Dakika": "2026-11-13T07:00:00+00:00",
+"Yeni Şafak Yerel": "2026-11-13T06:59:51+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-13T02:00:59+00:00",
 "@islamasalya": "2026-11-12T16:58:08+00:00",
