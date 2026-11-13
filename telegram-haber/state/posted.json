@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"91fa8c451a83f15f",
-"6722ac6ec770b506",
-"63117760a12437e7",
 "8d0dcc1f23540aa2",
 "b1a3eb17671f35b2",
 "2a8d1afd1d277b2e",
@@ -2999,38 +2996,12 @@
 "bacf30e0d97d9164",
 "a278c16e4b6f584a",
 "e7a7aa368fa08435",
-"d94f75178b56376e"
+"d94f75178b56376e",
+"7abb2d54cb0541b4",
+"e6d941420dca109d",
+"b2de9dbb4d584c90"
 ],
 "imzalar": [
-[
-"anlari",
-"anlatti",
-"elinden",
-"gozyaslariyla",
-"kil",
-"kisiyi",
-"kurtuldular",
-"olduren",
-"payi",
-"saldirganin"
-],
-[
-"carptigi",
-"insaat",
-"kaldirim",
-"kamyonetin",
-"kapaliydi",
-"kisi",
-"nedeniyle"
-],
-[
-"247",
-"akilli",
-"belli",
-"guzergah",
-"kilometrelik",
-"yol"
-],
 [
 "dunya",
 "gelecege",
@@ -8877,17 +8848,44 @@
 "nihat",
 "patlayacak",
 "yerde"
+],
+[
+"abd",
+"durduruldu",
+"edildi",
+"genelinde",
+"ilan",
+"inis",
+"kalkislar",
+"ucus",
+"ulke",
+"yasagi"
+],
+[
+"alanla",
+"bursa",
+"cumhurbaskani",
+"deki",
+"ilgili",
+"karari",
+"nilufer"
+],
+[
+"abd",
+"durduruldu",
+"tum",
+"ucuslar"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-13T21:56:00+00:00",
 "Sonsöz (Ankara)": "2026-11-13T20:02:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-13T05:00:14+00:00",
-"Sözcü Son Dakika": "2026-11-13T22:01:59+00:00",
+"Mynet Son Dakika": "2026-11-13T21:16:58+00:00",
+"Sözcü Son Dakika": "2026-11-13T22:05:00+00:00",
 "Yeni Şafak Yerel": "2026-11-13T21:49:25+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-13T21:01:33+00:00",
+"Olay (Bursa)": "2026-11-13T21:31:59+00:00",
 "@islamasalya": "2026-11-13T21:03:18+00:00",
 "Yeni Asır (İzmir)": "2026-11-13T16:57:30+00:00",
 "İstanbul Gazetesi": "2026-11-13T12:00:00+00:00",
