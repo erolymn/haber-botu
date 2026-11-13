@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"8d0dcc1f23540aa2",
-"b1a3eb17671f35b2",
-"2a8d1afd1d277b2e",
 "3508f3ff6cc2f6fa",
 "75ef4d32a4b1029f",
 "35951454358df67d",
@@ -2999,35 +2996,12 @@
 "d94f75178b56376e",
 "7abb2d54cb0541b4",
 "e6d941420dca109d",
-"b2de9dbb4d584c90"
+"b2de9dbb4d584c90",
+"187ef360a91ef0f4",
+"6587c72e037071d7",
+"cfe320016ea249a1"
 ],
 "imzalar": [
-[
-"dunya",
-"gelecege",
-"surdurulebilir",
-"teknolojisi",
-"telekom",
-"turk",
-"veriyor",
-"yon"
-],
-[
-"aliyev",
-"erdogan",
-"kalesi",
-"susa",
-"ziyaret"
-],
-[
-"bursa",
-"carpici",
-"geciyor",
-"saatimiz",
-"tablo",
-"trafiginde",
-"yollarda"
-],
 [
 "akil",
 "almaz",
@@ -8875,19 +8849,52 @@
 "durduruldu",
 "tum",
 "ucuslar"
+],
+[
+"abd",
+"dan",
+"durdu",
+"faa",
+"genelinde",
+"havalimanlarinda",
+"kalkislar",
+"karari",
+"ucus"
+],
+[
+"abd",
+"caldi",
+"ingiltere",
+"sirenler",
+"ussunde"
+],
+[
+"basmane",
+"cozulemeyen",
+"cukuru",
+"den",
+"gundemde",
+"izmir",
+"partili",
+"sorunu",
+"spo",
+"tekin",
+"tepkisi",
+"yeniden",
+"yillardir"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-13T21:56:00+00:00",
-"Sonsöz (Ankara)": "2026-11-13T20:02:00+00:00",
+"Sonsöz (Ankara)": "2026-11-13T22:25:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-13T21:16:58+00:00",
-"Sözcü Son Dakika": "2026-11-13T22:05:00+00:00",
+"Sözcü Son Dakika": "2026-11-13T22:43:22+00:00",
 "Yeni Şafak Yerel": "2026-11-13T21:49:25+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-13T21:31:59+00:00",
 "@islamasalya": "2026-11-13T21:03:18+00:00",
-"Yeni Asır (İzmir)": "2026-11-13T16:57:30+00:00",
+"Yeni Asır (İzmir)": "2026-11-13T22:52:09+00:00",
 "İstanbul Gazetesi": "2026-11-13T12:00:00+00:00",
 "Kandilli Rasathanesi": "2026-11-13T00:05:04+00:00"
 }
