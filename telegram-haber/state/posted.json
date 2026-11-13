@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"ac4ff1eb983bdc1d",
-"17a2122e67343de0",
-"85ada7595c02b4a7",
 "3fc8186abc3ec16c",
 "7043b207a1fe0256",
 "28658c612a4769a5",
@@ -2999,38 +2996,12 @@
 "510b585699c7402f",
 "438ccd62fb8601ee",
 "93aca26adb266b1c",
-"c0cd7be3a541ab74"
+"c0cd7be3a541ab74",
+"f95b7bdad06a26e3",
+"fff0dde266fdb8a4",
+"df5901ae8e6e0d28"
 ],
 "imzalar": [
-[
-"kagithane",
-"kuyumcuya",
-"saldiri",
-"silahli"
-],
-[
-"bulundu",
-"cesedi",
-"erkek",
-"kormen",
-"nde",
-"sahili"
-],
-[
-"akp",
-"araya",
-"bakani",
-"dugun",
-"eski",
-"getiren",
-"icisleri",
-"kizinin",
-"kurmaylarini",
-"nikah",
-"nin",
-"sahidi",
-"yeni"
-],
 [
 "bakin",
 "bina",
@@ -8858,17 +8829,45 @@
 "navruz",
 "nedeni",
 "sildi"
+],
+[
+"bursalilar",
+"dikkat",
+"edildi",
+"hepsi",
+"iptal"
+],
+[
+"ankara",
+"feto",
+"finans",
+"gozalti",
+"operasyonu"
+],
+[
+"barbarliktir",
+"celik",
+"dusmani",
+"hastanesi",
+"insanlik",
+"israil",
+"nasser",
+"parti",
+"saldirisina",
+"sozcusu",
+"ten",
+"tepki"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-13T06:55:00+00:00",
-"Sonsöz (Ankara)": "2026-11-13T02:37:00+00:00",
+"Sonsöz (Ankara)": "2026-11-13T06:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-13T05:00:14+00:00",
 "Sözcü Son Dakika": "2026-11-13T07:00:00+00:00",
-"Yeni Şafak Yerel": "2026-11-13T06:59:51+00:00",
+"Yeni Şafak Yerel": "2026-11-13T07:03:22+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-13T02:00:59+00:00",
+"Olay (Bursa)": "2026-11-13T05:37:08+00:00",
 "@islamasalya": "2026-11-12T16:58:08+00:00",
 "Yeni Asır (İzmir)": "2026-11-13T05:49:20+00:00",
 "İstanbul Gazetesi": "2026-11-12T21:26:00+00:00",
