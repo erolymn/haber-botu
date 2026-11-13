@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"7ddbc67f2e391293",
-"e58ef48039cd851f",
-"2da09ee11f68f8dd",
 "91fa8c451a83f15f",
 "6722ac6ec770b506",
 "63117760a12437e7",
@@ -2999,44 +2996,12 @@
 "f31a1a4c52c07700",
 "6250e21429cd25ec",
 "cd0164bb576bfae2",
-"bacf30e0d97d9164"
+"bacf30e0d97d9164",
+"a278c16e4b6f584a",
+"e7a7aa368fa08435",
+"d94f75178b56376e"
 ],
 "imzalar": [
-[
-"anlar",
-"bursa",
-"kesen",
-"nefes"
-],
-[
-"bes",
-"biri",
-"carlson",
-"dusmanim",
-"eden",
-"elestirdi",
-"gunde",
-"muslumanlara",
-"nefret",
-"olamaz",
-"secde",
-"soylemini",
-"tucker",
-"vakit",
-"yonelik"
-],
-[
-"altinda",
-"bin",
-"dev",
-"kisilik",
-"metre",
-"sehri",
-"sira",
-"yasam",
-"yeralti",
-"yerin"
-],
 [
 "anlari",
 "anlatti",
@@ -8887,15 +8852,40 @@
 "bizimle",
 "cunku",
 "uzulme"
+],
+[
+"balikesir",
+"batti",
+"firtinasi",
+"lodos",
+"tekne"
+],
+[
+"asvel",
+"besiktas",
+"deplasmanda",
+"devirdi",
+"euroleague"
+],
+[
+"acikladi",
+"arda",
+"guler",
+"ilgili",
+"kahveci",
+"korkusunu",
+"nihat",
+"patlayacak",
+"yerde"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-13T12:01:00+00:00",
+"Haber Global": "2026-11-13T21:56:00+00:00",
 "Sonsöz (Ankara)": "2026-11-13T20:02:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-13T05:00:14+00:00",
-"Sözcü Son Dakika": "2026-11-13T19:57:36+00:00",
-"Yeni Şafak Yerel": "2026-11-13T20:53:45+00:00",
+"Sözcü Son Dakika": "2026-11-13T22:01:59+00:00",
+"Yeni Şafak Yerel": "2026-11-13T21:49:25+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-13T21:01:33+00:00",
 "@islamasalya": "2026-11-13T21:03:18+00:00",
