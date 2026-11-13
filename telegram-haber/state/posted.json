@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"9a41a05f9fd0af76",
-"66f89b28c207752e",
-"4d4efa3bee48372e",
 "af16968cf5d89c32",
 "abade6dad17f1e92",
 "256b7f181dbd9bb1",
@@ -2999,38 +2996,12 @@
 "fcfe03ca604068f0",
 "cba64eb17d22cf61",
 "10c96dd66b391ebb",
-"42ab25ff56d13ef1"
+"42ab25ff56d13ef1",
+"7eee614efb87b758",
+"02bead8ed413ccb9",
+"b71c6e3bd472d033"
 ],
 "imzalar": [
-[
-"coskuyla",
-"hurkus",
-"izmir",
-"karsilandi",
-"milli",
-"ucaklari",
-"ulasti",
-"uslerine",
-"yeni",
-"yerli"
-],
-[
-"basliyor",
-"donemi",
-"dron",
-"gokyuzunde",
-"otoyollari"
-],
-[
-"aciklamasi",
-"dan",
-"milli",
-"olay",
-"sacmaliga",
-"stoilov",
-"takim",
-"verin"
-],
 [
 "500",
 "asan",
@@ -8864,6 +8835,44 @@
 "donem",
 "sigortalarinda",
 "yeni"
+],
+[
+"edilen",
+"gazze",
+"gun",
+"icerisinde",
+"iki",
+"israil",
+"muslumanlar",
+"sehit",
+"siyonist",
+"tarafindan"
+],
+[
+"bunu",
+"cristiano",
+"danimarka",
+"den",
+"jest",
+"macinda",
+"portekiz",
+"ronaldo",
+"takim",
+"tum",
+"unutulmaz",
+"yapacak"
+],
+[
+"birakacaklar",
+"bursa",
+"daki",
+"evlerine",
+"karar",
+"ornek",
+"taksicilerden",
+"ucretsiz",
+"vatandaslari",
+"yasli"
 ]
 ],
 "son_tarih": {
@@ -8872,10 +8881,10 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-13T05:00:14+00:00",
 "Sözcü Son Dakika": "2026-11-13T11:00:08+00:00",
-"Yeni Şafak Yerel": "2026-11-13T11:01:11+00:00",
+"Yeni Şafak Yerel": "2026-11-13T12:02:05+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-13T11:01:33+00:00",
-"@islamasalya": "2026-11-13T08:14:42+00:00",
+"Olay (Bursa)": "2026-11-13T12:03:21+00:00",
+"@islamasalya": "2026-11-13T11:54:09+00:00",
 "Yeni Asır (İzmir)": "2026-11-13T05:49:20+00:00",
 "İstanbul Gazetesi": "2026-11-13T09:58:00+00:00",
 "Kandilli Rasathanesi": "2026-11-13T00:05:04+00:00"
