@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"3c955903cf258764",
-"d444f76153ff82c9",
-"258e53b3aaf76b15",
 "5c517b10613ab3e1",
 "e640f422ad5dca99",
 "059345070414d866",
@@ -2999,36 +2996,12 @@
 "5788682b428bcc14",
 "56d423db906a4e0e",
 "66bfdd6796fa58be",
-"47286797cf5a2c18"
+"47286797cf5a2c18",
+"bc0877bc3f7069d0",
+"96fe824dfdbc6682",
+"c360e969c06b5f08"
 ],
 "imzalar": [
-[
-"250",
-"bin",
-"cikacagiz",
-"den",
-"kisiyle",
-"mesaji",
-"ozel",
-"ozgur",
-"sahaya",
-"secim"
-],
-[
-"ameliyata",
-"calkalaniyor",
-"girmis",
-"gorevlisi",
-"kentimiz",
-"temizlik",
-"yillarca"
-],
-[
-"binada",
-"gaziosmanpasa",
-"katli",
-"yangin"
-],
 [
 "cikti",
 "egitim",
@@ -8838,19 +8811,51 @@
 [
 "intikam",
 "tatbikati"
+],
+[
+"ara",
+"basliyor",
+"bugun",
+"ders",
+"gunluk",
+"milyon",
+"ogrenci",
+"tatil",
+"zili"
+],
+[
+"aci",
+"boyutu",
+"buyuyebilirmis",
+"detay",
+"dusen",
+"facianin",
+"helikopterle",
+"ilgili",
+"malatya",
+"nda"
+],
+[
+"aci",
+"atesi",
+"babaevine",
+"dustu",
+"izmir",
+"sehir",
+"ulasti"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-13T02:18:00+00:00",
+"Haber Global": "2026-11-13T03:41:00+00:00",
 "Sonsöz (Ankara)": "2026-11-13T02:37:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-12T20:36:21+00:00",
-"Sözcü Son Dakika": "2026-11-13T02:37:58+00:00",
+"Sözcü Son Dakika": "2026-11-13T03:52:09+00:00",
 "Yeni Şafak Yerel": "2026-11-13T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-13T02:00:59+00:00",
 "@islamasalya": "2026-11-12T16:58:08+00:00",
-"Yeni Asır (İzmir)": "2026-11-12T15:41:42+00:00",
+"Yeni Asır (İzmir)": "2026-11-13T03:56:13+00:00",
 "İstanbul Gazetesi": "2026-11-12T21:26:00+00:00",
 "Kandilli Rasathanesi": "2026-11-13T00:05:04+00:00"
 }
