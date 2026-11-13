@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"2d48ead7e6c84d0a",
-"b6a7213c12e11b8a",
-"a80469fb214dd004",
 "3c955903cf258764",
 "d444f76153ff82c9",
 "258e53b3aaf76b15",
@@ -2999,39 +2996,12 @@
 "c12ca2d8cb896ece",
 "d4009a0ee255c6e0",
 "0aeff4017342b3fd",
-"5788682b428bcc14"
+"5788682b428bcc14",
+"56d423db906a4e0e",
+"66bfdd6796fa58be",
+"47286797cf5a2c18"
 ],
 "imzalar": [
-[
-"bankada",
-"dedirten",
-"gitmeyin",
-"ishal",
-"mobbing",
-"olmayin",
-"pes",
-"sik",
-"tuvalete"
-],
-[
-"abd",
-"altin",
-"cakildi",
-"etkisi",
-"petrol",
-"piyasalarda",
-"yukseldi"
-],
-[
-"antalya",
-"basliyor",
-"cop31",
-"dunyanin",
-"gozu",
-"olacak",
-"tum",
-"yarin"
-],
 [
 "250",
 "bin",
@@ -8841,14 +8811,41 @@
 "model",
 "ornek",
 "yurt"
+],
+[
+"ailesine",
+"astsubay",
+"daki",
+"huseyin",
+"kidemli",
+"sehadet",
+"tekirdag",
+"ustcavus",
+"verildi",
+"zehir"
+],
+[
+"aciklamasi",
+"aktarilmadi",
+"bakan",
+"den",
+"dernek",
+"kamu",
+"kaynagi",
+"tekin",
+"vakif"
+],
+[
+"intikam",
+"tatbikati"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-13T01:46:00+00:00",
-"Sonsöz (Ankara)": "2026-11-13T00:33:00+00:00",
+"Haber Global": "2026-11-13T02:18:00+00:00",
+"Sonsöz (Ankara)": "2026-11-13T02:37:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-12T20:36:21+00:00",
-"Sözcü Son Dakika": "2026-11-12T22:43:31+00:00",
+"Sözcü Son Dakika": "2026-11-13T02:37:58+00:00",
 "Yeni Şafak Yerel": "2026-11-13T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-13T02:00:59+00:00",
