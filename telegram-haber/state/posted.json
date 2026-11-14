@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"9c8fdb3d45f1693b",
-"15b4944de1a0e493",
-"1b2e5717a059c0fe",
 "82e4eb0ebd48d172",
 "dbe4954f8a91987a",
 "75f033c4e60dbf35",
@@ -2999,34 +2996,12 @@
 "31222b6b5ca557f2",
 "f93d3029e74312a3",
 "d79f0a35e306d32b",
-"63a428f57d55b065"
+"63a428f57d55b065",
+"edeb6e5884e8bc89",
+"a1a4f328f6887e62",
+"8c2939667c650ea7"
 ],
 "imzalar": [
-[
-"cop31",
-"kasim",
-"liderler",
-"zirvesi"
-],
-[
-"birligini",
-"buyuk",
-"dan",
-"duyurdu",
-"gokce",
-"ibiza",
-"milano",
-"nusret"
-],
-[
-"agila",
-"domuzu",
-"girerek",
-"koyunlari",
-"urkuttu",
-"yaban",
-"yalova"
-],
 [
 "bursasporlu",
 "sampiyonluk",
@@ -8858,6 +8833,36 @@
 "ucusunda",
 "ulasti",
 "yorungeye"
+],
+[
+"akbaba",
+"cikti",
+"cinayetinde",
+"gerekceli",
+"gozde",
+"gunluk",
+"izmir",
+"karalik",
+"karar",
+"pusu"
+],
+[
+"destekleri",
+"kuresel",
+"rekor",
+"seviyeye",
+"tarim",
+"ulasti"
+],
+[
+"aldiris",
+"cektirdiler",
+"dalgalara",
+"dev",
+"etmeden",
+"fotograf",
+"sahilinde",
+"uskudar"
 ]
 ],
 "son_tarih": {
@@ -8866,11 +8871,11 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-14T05:00:13+00:00",
 "Sözcü Son Dakika": "2026-11-14T08:01:47+00:00",
-"Yeni Şafak Yerel": "2026-11-14T07:57:34+00:00",
+"Yeni Şafak Yerel": "2026-11-14T09:05:10+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-14T08:03:29+00:00",
+"Olay (Bursa)": "2026-11-14T09:02:10+00:00",
 "@islamasalya": "2026-11-13T21:03:18+00:00",
-"Yeni Asır (İzmir)": "2026-11-14T07:53:36+00:00",
+"Yeni Asır (İzmir)": "2026-11-14T08:58:40+00:00",
 "İstanbul Gazetesi": "2026-11-14T07:05:00+00:00",
 "Kandilli Rasathanesi": "2026-11-14T00:43:58+00:00"
 }
