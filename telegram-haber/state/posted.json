@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"3508f3ff6cc2f6fa",
-"75ef4d32a4b1029f",
-"35951454358df67d",
 "a57e656443969518",
 "a00c7a60702150b6",
 "d5c54996791f19ce",
@@ -2999,41 +2996,12 @@
 "b2de9dbb4d584c90",
 "187ef360a91ef0f4",
 "6587c72e037071d7",
-"cfe320016ea249a1"
+"cfe320016ea249a1",
+"79a400e7187c236d",
+"022cecf268fbcb96",
+"acfbf72aed3d16dc"
 ],
 "imzalar": [
-[
-"akil",
-"almaz",
-"herkes",
-"konusuyor",
-"lig",
-"olanlar",
-"olay",
-"pozisyonu",
-"saniyede"
-],
-[
-"beklentisi",
-"den",
-"dikkat",
-"izmirliler",
-"kar",
-"kis",
-"merkezinde",
-"meteoroloji",
-"sehir",
-"tahmini"
-],
-[
-"ankara",
-"aralik",
-"basliyor",
-"gidilir",
-"heyecani",
-"nereye",
-"yilbasi"
-],
 [
 "degisebilirdi",
 "fenerbahceli",
@@ -8882,19 +8850,50 @@
 "tepkisi",
 "yeniden",
 "yillardir"
+],
+[
+"aktuel",
+"bim",
+"gelecek",
+"geliyor",
+"hafta",
+"hangi",
+"kahve",
+"kasim",
+"katalogu",
+"makinesi",
+"urunler"
+],
+[
+"asti",
+"boyunu",
+"dalgalar",
+"dan",
+"goruntuler",
+"insan",
+"istanbul"
+],
+[
+"ata",
+"cso",
+"dan",
+"kasim",
+"konseri",
+"ozel",
+"saygi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-13T21:56:00+00:00",
-"Sonsöz (Ankara)": "2026-11-13T22:25:00+00:00",
+"Sonsöz (Ankara)": "2026-11-13T23:58:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-13T21:16:58+00:00",
-"Sözcü Son Dakika": "2026-11-13T22:43:22+00:00",
+"Sözcü Son Dakika": "2026-11-13T23:14:28+00:00",
 "Yeni Şafak Yerel": "2026-11-13T21:49:25+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-13T21:31:59+00:00",
 "@islamasalya": "2026-11-13T21:03:18+00:00",
-"Yeni Asır (İzmir)": "2026-11-13T22:52:09+00:00",
+"Yeni Asır (İzmir)": "2026-11-13T23:04:10+00:00",
 "İstanbul Gazetesi": "2026-11-13T12:00:00+00:00",
 "Kandilli Rasathanesi": "2026-11-13T00:05:04+00:00"
 }
