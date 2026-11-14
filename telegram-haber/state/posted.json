@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"4cf234e3adf3e31d",
-"543386be860fb3be",
-"cba1c533abb86bf6",
 "449820b50412c266",
 "f24e7818c52f70c0",
 "effb55654c2254ee",
@@ -2999,45 +2996,12 @@
 "f11c066ce1139364",
 "bf6d394c8effba5f",
 "249efb6352b1d218",
-"8949caf7a8b4b2f0"
+"8949caf7a8b4b2f0",
+"15fb59dae614c388",
+"977716a7a3164069",
+"c05ddb4b10dacc99"
 ],
 "imzalar": [
-[
-"180",
-"aracin",
-"bin",
-"caldi",
-"ceza",
-"diye",
-"kesti",
-"korna",
-"lira",
-"onunu",
-"yedi"
-],
-[
-"aralik",
-"isaret",
-"isim",
-"istanbul",
-"kar",
-"sonunu",
-"tarih",
-"uzman",
-"verdi"
-],
-[
-"bolgeler",
-"elektrik",
-"etkilenecek",
-"hangi",
-"ilcede",
-"izmir",
-"kasim",
-"kesintisi",
-"pazartesi",
-"planli"
-],
 [
 "aciklama",
 "belozoglu",
@@ -8878,17 +8842,43 @@
 "musunuz",
 "oldugunu",
 "sinin"
+],
+[
+"basliyor",
+"bursa",
+"kampanya",
+"kanserle",
+"savasta",
+"yasamsal"
+],
+[
+"beyin",
+"detoksa",
+"gerek",
+"temizligi"
+],
+[
+"2026",
+"2027",
+"burslari",
+"bursu",
+"hangi",
+"kadar",
+"kyk",
+"tarihlerde",
+"yatiyor",
+"yatti"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-13T21:56:00+00:00",
+"Haber Global": "2026-11-14T02:49:00+00:00",
 "Sonsöz (Ankara)": "2026-11-14T01:45:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-13T21:16:58+00:00",
-"Sözcü Son Dakika": "2026-11-13T23:14:28+00:00",
+"Sözcü Son Dakika": "2026-11-14T02:30:33+00:00",
 "Yeni Şafak Yerel": "2026-11-14T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-14T02:00:38+00:00",
+"Olay (Bursa)": "2026-11-14T02:20:04+00:00",
 "@islamasalya": "2026-11-13T21:03:18+00:00",
 "Yeni Asır (İzmir)": "2026-11-13T23:04:10+00:00",
 "İstanbul Gazetesi": "2026-11-13T12:00:00+00:00",
