@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"bce4056f6e544c72",
-"b87a03652bc99f0b",
-"ec36158bf1738f7b",
 "251d22ee25972222",
 "fbeffe6fee202e80",
 "e86e92dfdb6246a1",
@@ -2999,36 +2996,12 @@
 "12f285d910329222",
 "0105734580a6244a",
 "d7bd677968bf84cf",
-"ce1a48b8806a4878"
+"ce1a48b8806a4878",
+"04aa685b15bbb1f3",
+"a1fdfe4852a2a9cb",
+"bab9608432384034"
 ],
 "imzalar": [
-[
-"anda",
-"buyukbas",
-"ciftlik",
-"hayvanlar",
-"inegol",
-"kurtarildi",
-"yangini"
-],
-[
-"ortasinda",
-"patlama",
-"sesleri",
-"sisli",
-"sokak"
-],
-[
-"alan",
-"alev",
-"devrildikten",
-"kaza",
-"korkutan",
-"kul",
-"nde",
-"otomobil",
-"susehri"
-],
 [
 "azaltirsiniz",
 "nasil",
@@ -8864,15 +8837,46 @@
 "seninle",
 "tabuta",
 "ugurladi"
+],
+[
+"abd",
+"arabistan",
+"daki",
+"den",
+"husi",
+"karsi",
+"saldirilari",
+"suudi",
+"tehdidine",
+"uyari",
+"vatandaslarina"
+],
+[
+"akademisyen",
+"anlatti",
+"biyigiyla",
+"cinli",
+"fes",
+"osmanli",
+"tarihini",
+"yeniceri"
+],
+[
+"bes",
+"derbide",
+"fenerbahce",
+"galibiyete",
+"setlik",
+"uzandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-14T17:51:00+00:00",
+"Haber Global": "2026-11-14T18:45:00+00:00",
 "Sonsöz (Ankara)": "2026-11-14T17:28:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-14T17:13:56+00:00",
-"Sözcü Son Dakika": "2026-11-14T18:05:38+00:00",
-"Yeni Şafak Yerel": "2026-11-14T18:04:25+00:00",
+"Sözcü Son Dakika": "2026-11-14T19:05:53+00:00",
+"Yeni Şafak Yerel": "2026-11-14T18:52:27+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-14T12:57:46+00:00",
 "@islamasalya": "2026-11-14T12:17:29+00:00",
