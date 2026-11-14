@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"449820b50412c266",
-"f24e7818c52f70c0",
-"effb55654c2254ee",
 "8ba3face16e1b1f4",
 "b5bf2cdb11e18fd0",
 "52c91011e493a119",
@@ -2999,32 +2996,12 @@
 "8949caf7a8b4b2f0",
 "15fb59dae614c388",
 "977716a7a3164069",
-"c05ddb4b10dacc99"
+"c05ddb4b10dacc99",
+"3dbe14e453599503",
+"cd3d4873d2e5b988",
+"1e9dd2176871efdf"
 ],
 "imzalar": [
-[
-"aciklama",
-"belozoglu",
-"elestirim",
-"emre",
-"kucuk",
-"mac",
-"ndan",
-"olacak",
-"sonu"
-],
-[
-"anlar",
-"bursa",
-"dolu",
-"korku"
-],
-[
-"besiktas",
-"canli",
-"genclerbirligi",
-"yayin"
-],
 [
 "geldi",
 "hale",
@@ -8868,19 +8845,45 @@
 "tarihlerde",
 "yatiyor",
 "yatti"
+],
+[
+"bedava",
+"cebinizden",
+"cikmasin",
+"emekliye",
+"gezebileceginiz",
+"gosterip",
+"izmir",
+"kimliginizi",
+"kurus",
+"tek",
+"yer"
+],
+[
+"balkanlar",
+"kalbi",
+"saraybosna"
+],
+[
+"cin",
+"gerceklestirecek",
+"gorusme",
+"putin",
+"trump",
+"uclu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-14T02:49:00+00:00",
+"Haber Global": "2026-11-14T04:01:00+00:00",
 "Sonsöz (Ankara)": "2026-11-14T01:45:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-13T21:16:58+00:00",
 "Sözcü Son Dakika": "2026-11-14T02:30:33+00:00",
-"Yeni Şafak Yerel": "2026-11-14T01:00:00+00:00",
+"Yeni Şafak Yerel": "2026-11-14T04:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-14T02:20:04+00:00",
 "@islamasalya": "2026-11-13T21:03:18+00:00",
-"Yeni Asır (İzmir)": "2026-11-13T23:04:10+00:00",
+"Yeni Asır (İzmir)": "2026-11-14T03:53:02+00:00",
 "İstanbul Gazetesi": "2026-11-13T12:00:00+00:00",
 "Kandilli Rasathanesi": "2026-11-14T00:43:58+00:00"
 }
