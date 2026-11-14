@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"c2ef8186f48ef304",
-"0e5a09493746ea19",
-"64934902efa6126e",
 "9c8fdb3d45f1693b",
 "15b4944de1a0e493",
 "1b2e5717a059c0fe",
@@ -2999,40 +2996,12 @@
 "6003d31332a918cd",
 "197672685caef840",
 "095b4f92c6af727d",
-"31222b6b5ca557f2"
+"31222b6b5ca557f2",
+"f93d3029e74312a3",
+"d79f0a35e306d32b",
+"63a428f57d55b065"
 ],
 "imzalar": [
-[
-"acikladi",
-"antrenmanda",
-"belozoglu",
-"den",
-"emre",
-"guendouzi",
-"itirafi",
-"matteo",
-"soyledigini"
-],
-[
-"bursaspor",
-"ekibiyle",
-"lig",
-"mac",
-"super",
-"yapacak"
-],
-[
-"alper",
-"amedspor",
-"baris",
-"cikti",
-"formasi",
-"gostermisti",
-"ozel",
-"satisa",
-"tepki",
-"yilmaz"
-],
 [
 "cop31",
 "kasim",
@@ -8856,19 +8825,52 @@
 "susehri",
 "ustyapi",
 "yapiliyor"
+],
+[
+"belli",
+"gurultusunden",
+"huzurlu",
+"ilcelere",
+"ilcesi",
+"isteyenler",
+"izmir",
+"kacmak",
+"sehrin",
+"yoneliyor"
+],
+[
+"ankara",
+"atina",
+"den",
+"itirafi",
+"kahire",
+"nin",
+"plani",
+"takildi",
+"turkiye"
+],
+[
+"inci",
+"roketi",
+"spacex",
+"starship",
+"test",
+"ucusunda",
+"ulasti",
+"yorungeye"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-14T04:01:00+00:00",
+"Haber Global": "2026-11-14T08:00:00+00:00",
 "Sonsöz (Ankara)": "2026-11-14T08:05:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-14T05:00:13+00:00",
 "Sözcü Son Dakika": "2026-11-14T08:01:47+00:00",
-"Yeni Şafak Yerel": "2026-11-14T06:00:00+00:00",
+"Yeni Şafak Yerel": "2026-11-14T07:57:34+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-14T08:03:29+00:00",
 "@islamasalya": "2026-11-13T21:03:18+00:00",
-"Yeni Asır (İzmir)": "2026-11-14T03:53:02+00:00",
+"Yeni Asır (İzmir)": "2026-11-14T07:53:36+00:00",
 "İstanbul Gazetesi": "2026-11-14T07:05:00+00:00",
 "Kandilli Rasathanesi": "2026-11-14T00:43:58+00:00"
 }
