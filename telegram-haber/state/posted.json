@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"251d22ee25972222",
-"fbeffe6fee202e80",
-"e86e92dfdb6246a1",
 "e6e0c8c232999600",
 "ab4ea0a5a96f2fb2",
 "62320894469839a1",
@@ -2999,30 +2996,12 @@
 "ce1a48b8806a4878",
 "04aa685b15bbb1f3",
 "a1fdfe4852a2a9cb",
-"bab9608432384034"
+"bab9608432384034",
+"039fa0768c2fe213",
+"9b2553f19dc61bc0",
+"f22f7772cb48f6f7"
 ],
 "imzalar": [
-[
-"azaltirsiniz",
-"nasil",
-"toksin",
-"vucudunuzun",
-"yukunu"
-],
-[
-"dev",
-"hazin",
-"sonu",
-"tesisin"
-],
-[
-"aramiza",
-"girmesine",
-"hic",
-"izin",
-"kimsenin",
-"vermeyecegiz"
-],
 [
 "bin",
 "coskusu",
@@ -8868,15 +8847,49 @@
 "galibiyete",
 "setlik",
 "uzandi"
+],
+[
+"ankara",
+"cikacaklar",
+"dikkat",
+"kapatilacak",
+"sayida",
+"trafige",
+"yarin",
+"yol"
+],
+[
+"aciklama",
+"butceden",
+"cumhurbaskani",
+"dan",
+"fon",
+"iliskin",
+"kullanilmadi",
+"lira",
+"sorusturmasina",
+"tek",
+"yardimcisi",
+"yilmaz"
+],
+[
+"acilmayinca",
+"baca",
+"donuldu",
+"esiginden",
+"faciasinin",
+"istediler",
+"kapi",
+"yardim"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-14T18:45:00+00:00",
+"Haber Global": "2026-11-14T19:47:00+00:00",
 "Sonsöz (Ankara)": "2026-11-14T17:28:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-14T17:13:56+00:00",
-"Sözcü Son Dakika": "2026-11-14T19:05:53+00:00",
-"Yeni Şafak Yerel": "2026-11-14T18:52:27+00:00",
+"Sözcü Son Dakika": "2026-11-14T19:44:39+00:00",
+"Yeni Şafak Yerel": "2026-11-14T20:03:59+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-14T12:57:46+00:00",
 "@islamasalya": "2026-11-14T12:17:29+00:00",
