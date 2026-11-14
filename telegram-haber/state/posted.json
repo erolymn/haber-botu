@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"8ba3face16e1b1f4",
-"b5bf2cdb11e18fd0",
-"52c91011e493a119",
 "285600f7cdede3d2",
 "0c59ce1c266e8d15",
 "17a6c0f6c93d3c95",
@@ -2999,43 +2996,12 @@
 "c05ddb4b10dacc99",
 "3dbe14e453599503",
 "cd3d4873d2e5b988",
-"1e9dd2176871efdf"
+"1e9dd2176871efdf",
+"5d7dba4ebcf536ab",
+"2d5adfa882488b0a",
+"ebcee669134d4cc5"
 ],
 "imzalar": [
-[
-"geldi",
-"hale",
-"korkutan",
-"kullanilamaz",
-"mustakil",
-"sivas",
-"yangin"
-],
-[
-"gulerek",
-"komsusunu",
-"konustugu",
-"pompali",
-"tufekle",
-"vurdu"
-],
-[
-"alti",
-"ayni",
-"basladi",
-"birakip",
-"boyunca",
-"dustu",
-"her",
-"kalacak",
-"manzara",
-"memleketini",
-"saatlik",
-"uzak",
-"yil",
-"yolculuk",
-"yollara"
-],
 [
 "hayatini",
 "karali",
@@ -8871,15 +8837,47 @@
 "putin",
 "trump",
 "uclu"
+],
+[
+"belli",
+"geliyor",
+"kizilcik",
+"kocasi",
+"nin",
+"nursema",
+"oyuncu",
+"serbeti",
+"yeni"
+],
+[
+"dolu",
+"edildi",
+"hortum",
+"iptal",
+"kapattirdi",
+"kapilari",
+"riski",
+"seferler"
+],
+[
+"askere",
+"eski",
+"gerilla",
+"gibi",
+"gosteren",
+"kolombiya",
+"oldurerek",
+"sivili",
+"yaptirim"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-14T04:01:00+00:00",
 "Sonsöz (Ankara)": "2026-11-14T01:45:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-13T21:16:58+00:00",
-"Sözcü Son Dakika": "2026-11-14T02:30:33+00:00",
-"Yeni Şafak Yerel": "2026-11-14T04:00:00+00:00",
+"Mynet Son Dakika": "2026-11-14T05:00:13+00:00",
+"Sözcü Son Dakika": "2026-11-14T04:59:48+00:00",
+"Yeni Şafak Yerel": "2026-11-14T05:05:06+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-14T02:20:04+00:00",
 "@islamasalya": "2026-11-13T21:03:18+00:00",
