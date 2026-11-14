@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"2f1c9c0e8c087deb",
-"70cb7707701ec5a1",
-"03fcad408be52fca",
 "6c4b12e38552d663",
 "8b5945a5467e7caa",
 "a57a8a56658deaed",
@@ -2999,34 +2996,12 @@
 "7542e2beff37251a",
 "11cd2455edce889c",
 "f30cfaef70af9239",
-"1bd3790be3ecc383"
+"1bd3790be3ecc383",
+"4276cf36187d2b66",
+"06ff14b2c84f758f",
+"f01dd8b9736df508"
 ],
 "imzalar": [
-[
-"buyukcekmece",
-"goruldu",
-"samurlari"
-],
-[
-"615",
-"baskini",
-"bin",
-"ceza",
-"izmir",
-"kisiye",
-"lira",
-"tombala"
-],
-[
-"ara",
-"egitime",
-"ilcesinde",
-"ilin",
-"ilk",
-"kar",
-"mevsimin",
-"tatili"
-],
 [
 "alcaraz",
 "basardi",
@@ -8847,15 +8822,48 @@
 "kurali",
 "penalti",
 "sil"
+],
+[
+"atarak",
+"beraberinde",
+"cip",
+"getirdi",
+"kazayi",
+"metre",
+"silivri",
+"suruklendi",
+"takla",
+"yagmur"
+],
+[
+"kadin",
+"mantardan",
+"nazilli",
+"olen",
+"topraga",
+"verildi",
+"zehirlenip"
+],
+[
+"araya",
+"belli",
+"cinping",
+"dunyanin",
+"gelecegi",
+"gozu",
+"putin",
+"tarih",
+"toplantida",
+"trump"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-14T11:00:00+00:00",
-"Sonsöz (Ankara)": "2026-11-14T16:00:00+00:00",
+"Sonsöz (Ankara)": "2026-11-14T16:35:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-14T12:53:14+00:00",
-"Sözcü Son Dakika": "2026-11-14T16:01:26+00:00",
-"Yeni Şafak Yerel": "2026-11-14T16:00:33+00:00",
+"Sözcü Son Dakika": "2026-11-14T16:59:26+00:00",
+"Yeni Şafak Yerel": "2026-11-14T16:54:29+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-14T12:57:46+00:00",
 "@islamasalya": "2026-11-14T12:17:29+00:00",
