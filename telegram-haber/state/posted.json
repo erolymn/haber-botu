@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"c938f0ae36841462",
-"959a78af8fe437ca",
-"f89d10a0eeb7d0b2",
 "7d418aae44256389",
 "492a735538789e41",
 "42dd516e181a7d25",
@@ -2999,45 +2996,12 @@
 "ef8ce393877f9c74",
 "667ac4fcb990c870",
 "a19fe3407fb1b4fe",
-"a56637ea2810ecb3"
+"a56637ea2810ecb3",
+"62d80a7d16b7d71a",
+"8e3c52a438953367",
+"9892d37c111c8f0f"
 ],
 "imzalar": [
-[
-"aldi",
-"besiktas",
-"genclerbirligi",
-"golle",
-"hata",
-"karsisinda",
-"puani",
-"sahasinda",
-"yapmadi"
-],
-[
-"bassavcivekili",
-"duyurdu",
-"hsk",
-"iki",
-"istanbul",
-"kararnameyi",
-"yeni"
-],
-[
-"arabasiyla",
-"can",
-"feci",
-"gecmek",
-"isteyen",
-"karsisina",
-"kaza",
-"kutahya",
-"satici",
-"seyyar",
-"tekerlekli",
-"verdi",
-"yarali",
-"yolun"
-],
 [
 "cocuklarimiz",
 "gazze",
@@ -8860,17 +8824,44 @@
 "tepki",
 "turkiye",
 "ulkeden"
+],
+[
+"ara",
+"doldu",
+"hareketliligi",
+"havalimanlari",
+"istanbul",
+"kuyruklar",
+"olustu",
+"tasti",
+"tatil",
+"uzun"
+],
+[
+"bursa",
+"edebiyat",
+"esintisi"
+],
+[
+"aksakal",
+"birlikte",
+"dan",
+"dsp",
+"gelecege",
+"mesaji",
+"yasinda",
+"yuruyecegiz"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-14T11:00:00+00:00",
-"Sonsöz (Ankara)": "2026-11-14T12:04:00+00:00",
+"Sonsöz (Ankara)": "2026-11-14T13:02:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-14T05:00:13+00:00",
+"Mynet Son Dakika": "2026-11-14T12:53:14+00:00",
 "Sözcü Son Dakika": "2026-11-14T12:03:10+00:00",
 "Yeni Şafak Yerel": "2026-11-14T13:05:39+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-14T11:01:24+00:00",
+"Olay (Bursa)": "2026-11-14T12:57:46+00:00",
 "@islamasalya": "2026-11-14T12:17:29+00:00",
 "Yeni Asır (İzmir)": "2026-11-14T08:58:40+00:00",
 "İstanbul Gazetesi": "2026-11-14T13:03:00+00:00",
