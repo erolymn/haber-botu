@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"e6e0c8c232999600",
-"ab4ea0a5a96f2fb2",
-"62320894469839a1",
 "5a6bfae6a2abe4c2",
 "35cc66273ece3e4c",
 "bbe5fcb0e5d1f3d1",
@@ -2999,33 +2996,12 @@
 "bab9608432384034",
 "039fa0768c2fe213",
 "9b2553f19dc61bc0",
-"f22f7772cb48f6f7"
+"f22f7772cb48f6f7",
+"6446788f349910c0",
+"1c3fcf6f6df38717",
+"ef2f078a7a73e2ef"
 ],
 "imzalar": [
-[
-"bin",
-"coskusu",
-"dagitildi",
-"festivali",
-"hamsi",
-"iznik",
-"kisiye",
-"ton"
-],
-[
-"benzetti",
-"daki",
-"lotculara",
-"okculari",
-"uhud"
-],
-[
-"bursa",
-"dogalgaz",
-"duzenleme",
-"faturalarini",
-"rahatlatacak"
-],
 [
 "alevlere",
 "mustakil",
@@ -8881,6 +8857,38 @@
 "istediler",
 "kapi",
 "yardim"
+],
+[
+"abd",
+"ceken",
+"dan",
+"deki",
+"dikkat",
+"erhan",
+"iliskin",
+"krizine",
+"ucus",
+"yildirim"
+],
+[
+"aracina",
+"bin",
+"ceza",
+"itibaren",
+"lira",
+"odeyecek",
+"taktirmayan",
+"yarindan",
+"zorunlu"
+],
+[
+"bursa",
+"den",
+"geliyor",
+"kis",
+"meteoloroji",
+"uyari",
+"yeni"
 ]
 ],
 "son_tarih": {
@@ -8888,10 +8896,10 @@
 "Sonsöz (Ankara)": "2026-11-14T17:28:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-14T17:13:56+00:00",
-"Sözcü Son Dakika": "2026-11-14T19:44:39+00:00",
-"Yeni Şafak Yerel": "2026-11-14T20:03:59+00:00",
+"Sözcü Son Dakika": "2026-11-14T21:04:35+00:00",
+"Yeni Şafak Yerel": "2026-11-14T20:59:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-14T12:57:46+00:00",
+"Olay (Bursa)": "2026-11-14T21:05:52+00:00",
 "@islamasalya": "2026-11-14T12:17:29+00:00",
 "Yeni Asır (İzmir)": "2026-11-14T17:36:45+00:00",
 "İstanbul Gazetesi": "2026-11-14T13:03:00+00:00",
