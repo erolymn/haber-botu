@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"82e4eb0ebd48d172",
-"dbe4954f8a91987a",
-"75f033c4e60dbf35",
 "8c81518e44914c5f",
 "3d00d67bb3ba14f3",
 "8d685744ef1e968e",
@@ -2999,36 +2996,12 @@
 "63a428f57d55b065",
 "edeb6e5884e8bc89",
 "a1a4f328f6887e62",
-"8c2939667c650ea7"
+"8c2939667c650ea7",
+"96a1eb278c312358",
+"45b2ca6a08934a87",
+"37c9b9a4bb5b2707"
 ],
 "imzalar": [
-[
-"bursasporlu",
-"sampiyonluk",
-"sozleri",
-"yoneticiden"
-],
-[
-"1969",
-"kaybetti",
-"kayserispor",
-"lig",
-"mardin",
-"puan"
-],
-[
-"azerbaycan",
-"baskan",
-"daki",
-"donus",
-"erdogan",
-"recep",
-"tamamlayarak",
-"tayyip",
-"temaslarini",
-"yapti",
-"yurda"
-],
 [
 "arap",
 "islam",
@@ -8863,11 +8836,38 @@
 "fotograf",
 "sahilinde",
 "uskudar"
+],
+[
+"alperen",
+"gecti",
+"houston",
+"rockets",
+"sengun",
+"tarihine"
+],
+[
+"donuldu",
+"esiginden",
+"facianin",
+"mississippi",
+"nde",
+"nehri"
+],
+[
+"atik",
+"cop31",
+"dunya",
+"konusuldu",
+"nin",
+"sahnesinde",
+"sifir",
+"sultanbeyli",
+"vizyonu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-14T08:00:00+00:00",
-"Sonsöz (Ankara)": "2026-11-14T08:05:00+00:00",
+"Haber Global": "2026-11-14T10:00:00+00:00",
+"Sonsöz (Ankara)": "2026-11-14T10:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-14T05:00:13+00:00",
 "Sözcü Son Dakika": "2026-11-14T08:01:47+00:00",
@@ -8876,7 +8876,7 @@
 "Olay (Bursa)": "2026-11-14T09:02:10+00:00",
 "@islamasalya": "2026-11-13T21:03:18+00:00",
 "Yeni Asır (İzmir)": "2026-11-14T08:58:40+00:00",
-"İstanbul Gazetesi": "2026-11-14T07:05:00+00:00",
+"İstanbul Gazetesi": "2026-11-14T10:05:00+00:00",
 "Kandilli Rasathanesi": "2026-11-14T00:43:58+00:00"
 }
 }
