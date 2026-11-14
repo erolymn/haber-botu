@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"2d97f4c052c89707",
-"3cd31bbace7e2dc5",
-"9ffaa066f715c379",
 "bce4056f6e544c72",
 "b87a03652bc99f0b",
 "ec36158bf1738f7b",
@@ -2999,39 +2996,12 @@
 "f01dd8b9736df508",
 "a67f7072e91458e3",
 "59297ab410fb58ca",
-"12f285d910329222"
+"12f285d910329222",
+"0105734580a6244a",
+"d7bd677968bf84cf",
+"ce1a48b8806a4878"
 ],
 "imzalar": [
-[
-"barcelona",
-"fermin",
-"galibiyete",
-"madrid",
-"tasidi"
-],
-[
-"afyonkarahisar",
-"akraba",
-"bitti",
-"eniste",
-"hayatini",
-"kanli",
-"kavgasi",
-"kaybetti",
-"kayinbiraderlerinin",
-"saldirisina",
-"tufekli",
-"ugrayan",
-"yasindaki"
-],
-[
-"basarisini",
-"benzeyen",
-"insanlarin",
-"kendimize",
-"kiskaniyoruz",
-"neden"
-],
 [
 "anda",
 "buyukbas",
@@ -8860,19 +8830,53 @@
 "tepki",
 "yagmisti",
 "yakisikli"
+],
+[
+"adnan",
+"arzum",
+"atildi",
+"katildi",
+"kizi",
+"parti",
+"sanatci",
+"senses",
+"siyasete"
+],
+[
+"askeri",
+"den",
+"girit",
+"hava",
+"heyeti",
+"kuvvetleri",
+"turk",
+"turkiye",
+"yunanistan",
+"ziyaret"
+],
+[
+"duyuyorum",
+"erdem",
+"gurur",
+"izmir",
+"sarilan",
+"sehidini",
+"seninle",
+"tabuta",
+"ugurladi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-14T17:51:00+00:00",
-"Sonsöz (Ankara)": "2026-11-14T16:35:00+00:00",
+"Sonsöz (Ankara)": "2026-11-14T17:28:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-14T12:53:14+00:00",
+"Mynet Son Dakika": "2026-11-14T17:13:56+00:00",
 "Sözcü Son Dakika": "2026-11-14T18:05:38+00:00",
 "Yeni Şafak Yerel": "2026-11-14T18:04:25+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-14T12:57:46+00:00",
 "@islamasalya": "2026-11-14T12:17:29+00:00",
-"Yeni Asır (İzmir)": "2026-11-14T13:26:15+00:00",
+"Yeni Asır (İzmir)": "2026-11-14T17:36:45+00:00",
 "İstanbul Gazetesi": "2026-11-14T13:03:00+00:00",
 "Kandilli Rasathanesi": "2026-11-14T00:43:58+00:00"
 }
