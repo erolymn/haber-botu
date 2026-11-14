@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"5a6bfae6a2abe4c2",
-"35cc66273ece3e4c",
-"bbe5fcb0e5d1f3d1",
 "a1385300fa4ef483",
 "9379a8d8660649ed",
 "3e5af15ed688c7c7",
@@ -2999,32 +2996,12 @@
 "f22f7772cb48f6f7",
 "6446788f349910c0",
 "1c3fcf6f6df38717",
-"ef2f078a7a73e2ef"
+"ef2f078a7a73e2ef",
+"6dfed2d10cce42ae",
+"036b625d38fa50c6",
+"f8267c0c45b9ca03"
 ],
 "imzalar": [
-[
-"alevlere",
-"mustakil",
-"sivas",
-"teslim"
-],
-[
-"alta",
-"bursa",
-"ceken",
-"dikkat",
-"herkes",
-"oradaydi",
-"parti",
-"toplanti",
-"ustten"
-],
-[
-"ankara",
-"rusvet",
-"sarsan",
-"skandali"
-],
 [
 "belli",
 "bursa",
@@ -8889,15 +8866,45 @@
 "meteoloroji",
 "uyari",
 "yeni"
+],
+[
+"aile",
+"ankara",
+"arasinda",
+"bicakli",
+"iki",
+"kavga",
+"kisi",
+"silahli",
+"yaralandi"
+],
+[
+"carptigi",
+"kaza",
+"nigde",
+"otomobil",
+"savruldu",
+"suv",
+"tirin",
+"zincirleme"
+],
+[
+"binbasi",
+"firari",
+"kulaksiz",
+"saldirisinin",
+"suphelisi",
+"yakalandi",
+"yil"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-14T19:47:00+00:00",
+"Haber Global": "2026-11-14T21:45:00+00:00",
 "Sonsöz (Ankara)": "2026-11-14T17:28:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-14T17:13:56+00:00",
-"Sözcü Son Dakika": "2026-11-14T21:04:35+00:00",
-"Yeni Şafak Yerel": "2026-11-14T20:59:00+00:00",
+"Sözcü Son Dakika": "2026-11-14T21:54:56+00:00",
+"Yeni Şafak Yerel": "2026-11-14T21:49:03+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-14T21:05:52+00:00",
 "@islamasalya": "2026-11-14T12:17:29+00:00",
