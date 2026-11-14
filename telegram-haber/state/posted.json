@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"a57e656443969518",
-"a00c7a60702150b6",
-"d5c54996791f19ce",
-"d43e87913a3274fb",
 "8a39d02f02208b7e",
 "efdc415150ae2c1a",
 "4cf234e3adf3e31d",
@@ -2999,34 +2995,13 @@
 "cfe320016ea249a1",
 "79a400e7187c236d",
 "022cecf268fbcb96",
-"acfbf72aed3d16dc"
+"acfbf72aed3d16dc",
+"566d2ff0d38123a6",
+"e573f819ce7627c9",
+"f11c066ce1139364",
+"bf6d394c8effba5f"
 ],
 "imzalar": [
-[
-"degisebilirdi",
-"fenerbahceli",
-"inanilmaz",
-"isler",
-"olmasa",
-"performans",
-"yildizdan"
-],
-[
-"alev",
-"arnavutkoy",
-"otomobil",
-"yandi"
-],
-[
-"aliyev",
-"antalya",
-"azerbaycan",
-"cop31",
-"cumhurbaskani",
-"daki",
-"katilacak",
-"zirvesi"
-],
 [
 "acildiktan",
 "coktu",
@@ -8881,20 +8856,45 @@
 "konseri",
 "ozel",
 "saygi"
+],
+[
+"acikladi",
+"bakan",
+"dan",
+"donusum",
+"hedeflerini",
+"kacir",
+"mesaji",
+"nin",
+"turkiye",
+"yesil"
+],
+[
+"bursa",
+"buyuklugu",
+"depremin",
+"iste",
+"merkez",
+"sallandi",
+"ussu"
+],
+[
+"fetvasi",
+"suikast"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-13T21:56:00+00:00",
-"Sonsöz (Ankara)": "2026-11-13T23:58:00+00:00",
+"Sonsöz (Ankara)": "2026-11-14T00:23:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-13T21:16:58+00:00",
 "Sözcü Son Dakika": "2026-11-13T23:14:28+00:00",
-"Yeni Şafak Yerel": "2026-11-13T21:49:25+00:00",
+"Yeni Şafak Yerel": "2026-11-14T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-13T21:31:59+00:00",
+"Olay (Bursa)": "2026-11-14T00:49:20+00:00",
 "@islamasalya": "2026-11-13T21:03:18+00:00",
 "Yeni Asır (İzmir)": "2026-11-13T23:04:10+00:00",
 "İstanbul Gazetesi": "2026-11-13T12:00:00+00:00",
-"Kandilli Rasathanesi": "2026-11-13T00:05:04+00:00"
+"Kandilli Rasathanesi": "2026-11-14T00:43:58+00:00"
 }
 }
