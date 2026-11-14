@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"a1385300fa4ef483",
-"9379a8d8660649ed",
-"3e5af15ed688c7c7",
 "b64edfaf42d1cfa8",
 "9fabdcb922237370",
 "3163f604feb7173b",
@@ -2999,34 +2996,12 @@
 "ef2f078a7a73e2ef",
 "6dfed2d10cce42ae",
 "036b625d38fa50c6",
-"f8267c0c45b9ca03"
+"f8267c0c45b9ca03",
+"8a42e9bb8650656c",
+"b4213beb99d9531a",
+"71073c8f592b9840"
 ],
 "imzalar": [
-[
-"belli",
-"bursa",
-"dikkat",
-"gidecekler",
-"guzerg",
-"hastanesine",
-"nin",
-"yeni"
-],
-[
-"akli",
-"futbol",
-"totti"
-],
-[
-"degistiriyor",
-"dikkat",
-"gunde",
-"kahve",
-"neyi",
-"oturanlar",
-"saat",
-"tuketimi"
-],
 [
 "112",
 "bolgeden",
@@ -8896,19 +8871,43 @@
 "suphelisi",
 "yakalandi",
 "yil"
+],
+[
+"akademisyenin",
+"den",
+"parti",
+"skandal",
+"sozde",
+"sozlerine",
+"tepki",
+"yagdi"
+],
+[
+"cumhurbaskanligi",
+"emeklileri",
+"geldi",
+"ndan",
+"umutlandiran"
+],
+[
+"aldi",
+"alev",
+"cami",
+"karabuk",
+"lojmani"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-14T21:45:00+00:00",
-"Sonsöz (Ankara)": "2026-11-14T17:28:00+00:00",
+"Sonsöz (Ankara)": "2026-11-14T22:51:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-14T17:13:56+00:00",
-"Sözcü Son Dakika": "2026-11-14T21:54:56+00:00",
+"Sözcü Son Dakika": "2026-11-14T22:10:05+00:00",
 "Yeni Şafak Yerel": "2026-11-14T21:49:03+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-14T21:05:52+00:00",
 "@islamasalya": "2026-11-14T12:17:29+00:00",
-"Yeni Asır (İzmir)": "2026-11-14T17:36:45+00:00",
+"Yeni Asır (İzmir)": "2026-11-14T21:30:42+00:00",
 "İstanbul Gazetesi": "2026-11-14T13:03:00+00:00",
 "Kandilli Rasathanesi": "2026-11-14T00:43:58+00:00"
 }
