@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"285600f7cdede3d2",
-"0c59ce1c266e8d15",
-"17a6c0f6c93d3c95",
 "1d0e0f9e6896af99",
 "1f2d94c63db3a0b3",
 "9e2653b6ce34851b",
@@ -2999,38 +2996,12 @@
 "1e9dd2176871efdf",
 "5d7dba4ebcf536ab",
 "2d5adfa882488b0a",
-"ebcee669134d4cc5"
+"ebcee669134d4cc5",
+"b647c1d4c55dea0f",
+"1272d86eab454f97",
+"188d17bff49e6ec4"
 ],
 "imzalar": [
-[
-"hayatini",
-"karali",
-"kaybetti",
-"safak",
-"tiyatrocu",
-"usta",
-"yasinda"
-],
-[
-"azerbaycan",
-"cumhurbaskani",
-"dan",
-"erdogan",
-"iliskin",
-"paylasim",
-"ziyaretine"
-],
-[
-"baskani",
-"cop31",
-"duran",
-"eylemini",
-"iklim",
-"iletisim",
-"somut",
-"sonuclara",
-"tasiyacak"
-],
 [
 "aliyev",
 "azerbaycan",
@@ -8869,6 +8840,33 @@
 "oldurerek",
 "sivili",
 "yaptirim"
+],
+[
+"agac",
+"dalgalar",
+"dev",
+"devrildi",
+"etkili",
+"istanbul",
+"lodos",
+"olustu"
+],
+[
+"bahcesi",
+"cop31",
+"dunyaya",
+"kelebek",
+"konya",
+"tanitiliyor",
+"tropikal"
+],
+[
+"basladilar",
+"firsatcilar",
+"ilanlari",
+"kaldirmaya",
+"pusuda",
+"tek"
 ]
 ],
 "son_tarih": {
@@ -8876,13 +8874,13 @@
 "Sonsöz (Ankara)": "2026-11-14T01:45:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-14T05:00:13+00:00",
-"Sözcü Son Dakika": "2026-11-14T04:59:48+00:00",
-"Yeni Şafak Yerel": "2026-11-14T05:05:06+00:00",
+"Sözcü Son Dakika": "2026-11-14T06:05:06+00:00",
+"Yeni Şafak Yerel": "2026-11-14T06:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-14T02:20:04+00:00",
 "@islamasalya": "2026-11-13T21:03:18+00:00",
 "Yeni Asır (İzmir)": "2026-11-14T03:53:02+00:00",
-"İstanbul Gazetesi": "2026-11-13T12:00:00+00:00",
+"İstanbul Gazetesi": "2026-11-14T06:00:00+00:00",
 "Kandilli Rasathanesi": "2026-11-14T00:43:58+00:00"
 }
 }
