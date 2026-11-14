@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"63b4c8a307246d21",
-"64abb6be8a809f1b",
-"c3f1591cefa06c56",
 "c938f0ae36841462",
 "959a78af8fe437ca",
 "f89d10a0eeb7d0b2",
@@ -2999,53 +2996,12 @@
 "32bb474ac4dbc002",
 "6fe6b13c617d9aa7",
 "fdddec9a9d1e302a",
-"ef8ce393877f9c74"
+"ef8ce393877f9c74",
+"667ac4fcb990c870",
+"a19fe3407fb1b4fe",
+"a56637ea2810ecb3"
 ],
 "imzalar": [
-[
-"aralarinda",
-"bulundugu",
-"cadirin",
-"cocuklarin",
-"cokmesi",
-"edilmis",
-"gazze",
-"grup",
-"guneyinde",
-"icerisinde",
-"insanlarin",
-"itibariyla",
-"kum",
-"nin",
-"oldular",
-"sehit",
-"sehitler",
-"sonucu",
-"tepesinin",
-"uzerine",
-"yerinden"
-],
-[
-"aldi",
-"gecerli",
-"gitti",
-"oylarin",
-"ozel",
-"ozgur",
-"rekor",
-"secimde",
-"sonuc",
-"tamami"
-],
-[
-"atti",
-"baltaci",
-"besiktas",
-"gordu",
-"kart",
-"kirmizi",
-"metehan"
-],
 [
 "aldi",
 "besiktas",
@@ -8875,6 +8831,35 @@
 "maltepe",
 "toprak",
 "yarali"
+],
+[
+"cemal",
+"kerem",
+"komutan",
+"kudus",
+"muhammed",
+"sehit",
+"tugaylari",
+"videosunu",
+"yayinladi"
+],
+[
+"basladi",
+"haklarim",
+"kutuphanesi",
+"nde",
+"rami",
+"senligi"
+],
+[
+"hastanesi",
+"israil",
+"nasir",
+"ortak",
+"saldirisina",
+"tepki",
+"turkiye",
+"ulkeden"
 ]
 ],
 "son_tarih": {
@@ -8883,12 +8868,12 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-14T05:00:13+00:00",
 "Sözcü Son Dakika": "2026-11-14T12:03:10+00:00",
-"Yeni Şafak Yerel": "2026-11-14T09:05:10+00:00",
+"Yeni Şafak Yerel": "2026-11-14T13:05:39+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-14T11:01:24+00:00",
-"@islamasalya": "2026-11-14T11:20:42+00:00",
+"@islamasalya": "2026-11-14T12:17:29+00:00",
 "Yeni Asır (İzmir)": "2026-11-14T08:58:40+00:00",
-"İstanbul Gazetesi": "2026-11-14T10:05:00+00:00",
+"İstanbul Gazetesi": "2026-11-14T13:03:00+00:00",
 "Kandilli Rasathanesi": "2026-11-14T00:43:58+00:00"
 }
 }
