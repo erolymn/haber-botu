@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"1cfdd2775bdbd38f",
-"ccf78e283c22e575",
-"1c682705da0c1a37",
 "63b4c8a307246d21",
 "64abb6be8a809f1b",
 "c3f1591cefa06c56",
@@ -2999,33 +2996,12 @@
 "37c9b9a4bb5b2707",
 "48986df976c67b0d",
 "1d40f5c150dfecf3",
-"32bb474ac4dbc002"
+"32bb474ac4dbc002",
+"6fe6b13c617d9aa7",
+"fdddec9a9d1e302a",
+"ef8ce393877f9c74"
 ],
 "imzalar": [
-[
-"adam",
-"bursa",
-"feci",
-"olay",
-"yasindaki"
-],
-[
-"bitirebilirdik",
-"erken",
-"maci",
-"reis",
-"thomas"
-],
-[
-"bursaspor",
-"durum",
-"iste",
-"lider",
-"lig",
-"oldugu",
-"puan",
-"tablosu"
-],
 [
 "aralarinda",
 "bulundugu",
@@ -8864,18 +8840,53 @@
 "parti",
 "sanayi",
 "ziyaret"
+],
+[
+"allah",
+"bilakis",
+"diridirler",
+"katinda",
+"oldurulenleri",
+"oluler",
+"onlar",
+"rableri",
+"riziklandirilmaktadirlar",
+"sakin",
+"sanma",
+"yolunda"
+],
+[
+"batrakov",
+"bedelini",
+"dan",
+"galatasaray",
+"gececek",
+"gorenler",
+"kaldi",
+"kalma",
+"rakam",
+"sasti",
+"serbest",
+"tarihe"
+],
+[
+"insaatta",
+"kaymasi",
+"maltepe",
+"toprak",
+"yarali"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-14T11:00:00+00:00",
-"Sonsöz (Ankara)": "2026-11-14T10:03:00+00:00",
+"Sonsöz (Ankara)": "2026-11-14T12:04:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-14T05:00:13+00:00",
-"Sözcü Son Dakika": "2026-11-14T08:01:47+00:00",
+"Sözcü Son Dakika": "2026-11-14T12:03:10+00:00",
 "Yeni Şafak Yerel": "2026-11-14T09:05:10+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-14T11:01:24+00:00",
-"@islamasalya": "2026-11-14T10:18:05+00:00",
+"@islamasalya": "2026-11-14T11:20:42+00:00",
 "Yeni Asır (İzmir)": "2026-11-14T08:58:40+00:00",
 "İstanbul Gazetesi": "2026-11-14T10:05:00+00:00",
 "Kandilli Rasathanesi": "2026-11-14T00:43:58+00:00"
