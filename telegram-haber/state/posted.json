@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"1d0e0f9e6896af99",
-"1f2d94c63db3a0b3",
-"9e2653b6ce34851b",
 "8c12a42d05c662cb",
 "9fb164e0150ae837",
 "56ececa76c18614e",
@@ -2999,40 +2996,12 @@
 "ebcee669134d4cc5",
 "b647c1d4c55dea0f",
 "1272d86eab454f97",
-"188d17bff49e6ec4"
+"188d17bff49e6ec4",
+"7ff266e4969f1f9f",
+"316813da9bba1d3f",
+"6003d31332a918cd"
 ],
 "imzalar": [
-[
-"aliyev",
-"azerbaycan",
-"ceken",
-"dan",
-"dikkat",
-"erdogan",
-"fotografi",
-"paylasimi"
-],
-[
-"agaci",
-"devrildi",
-"evin",
-"kokunden",
-"osmaniye",
-"ruzgar",
-"siddetli",
-"soktu",
-"uzerine"
-],
-[
-"duzce",
-"funye",
-"onunde",
-"paket",
-"panigi",
-"patlatildi",
-"supheli",
-"valiligi"
-],
 [
 "can",
 "degil",
@@ -8867,20 +8836,46 @@
 "kaldirmaya",
 "pusuda",
 "tek"
+],
+[
+"abd",
+"belli",
+"bomba",
+"deki",
+"havacilik",
+"krizinin",
+"saldiri",
+"sebebi",
+"siber",
+"tehdidi"
+],
+[
+"durduracak",
+"iran",
+"saldirilari",
+"trump"
+],
+[
+"balik",
+"kavgasi",
+"kiyasiya",
+"martilarin",
+"rekabet",
+"sahilde"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-14T04:01:00+00:00",
-"Sonsöz (Ankara)": "2026-11-14T01:45:00+00:00",
+"Sonsöz (Ankara)": "2026-11-14T07:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-14T05:00:13+00:00",
-"Sözcü Son Dakika": "2026-11-14T06:05:06+00:00",
+"Sözcü Son Dakika": "2026-11-14T07:02:22+00:00",
 "Yeni Şafak Yerel": "2026-11-14T06:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-14T02:20:04+00:00",
 "@islamasalya": "2026-11-13T21:03:18+00:00",
 "Yeni Asır (İzmir)": "2026-11-14T03:53:02+00:00",
-"İstanbul Gazetesi": "2026-11-14T06:00:00+00:00",
+"İstanbul Gazetesi": "2026-11-14T07:05:00+00:00",
 "Kandilli Rasathanesi": "2026-11-14T00:43:58+00:00"
 }
 }
