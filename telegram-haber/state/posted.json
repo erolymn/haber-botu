@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"12804a1ec2f618ac",
-"4247c481c978a8d6",
-"e8d0025a326a8904",
 "96bdf6f0d5719545",
 "ed1e3d494d09783e",
 "f8968509d6a2a5da",
@@ -2999,39 +2996,12 @@
 "5889c243fe3bfa4f",
 "2d701917137a2571",
 "998de6c3e2ce8d02",
-"f852078c4c3d50d3"
+"f852078c4c3d50d3",
+"595df937492a522c",
+"70c45b39563d3c61",
+"2529c65f301a7bad"
 ],
 "imzalar": [
-[
-"erdogan",
-"gizli",
-"kapandi",
-"kapilar",
-"sunum",
-"yapildi"
-],
-[
-"ara",
-"egitime",
-"gun",
-"iki",
-"ilimizde",
-"verildi"
-],
-[
-"arda",
-"art",
-"aydinlatma",
-"aydinlatti",
-"cikan",
-"direginde",
-"geceyi",
-"geldi",
-"meydana",
-"patlamalar",
-"sisli",
-"yangin"
-],
 [
 "alarm",
 "ayakkabi",
@@ -8893,17 +8863,44 @@
 "herkes",
 "soru",
 "yapar"
+],
+[
+"basladi",
+"bin",
+"bursa",
+"ceza",
+"lira",
+"uygulama",
+"yaptirmayana",
+"yeni"
+],
+[
+"bakanligi",
+"buyu",
+"fal",
+"karari",
+"ndan",
+"reklamlarina",
+"ticaret",
+"yasak"
+],
+[
+"bagliyor",
+"iki",
+"koprusu",
+"medeniyeti",
+"uskup"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-14T21:45:00+00:00",
-"Sonsöz (Ankara)": "2026-11-14T23:46:00+00:00",
+"Sonsöz (Ankara)": "2026-11-15T00:16:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-14T17:13:56+00:00",
 "Sözcü Son Dakika": "2026-11-14T22:10:05+00:00",
-"Yeni Şafak Yerel": "2026-11-14T21:49:03+00:00",
+"Yeni Şafak Yerel": "2026-11-15T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-14T23:54:20+00:00",
+"Olay (Bursa)": "2026-11-15T00:11:08+00:00",
 "@islamasalya": "2026-11-14T12:17:29+00:00",
 "Yeni Asır (İzmir)": "2026-11-14T21:30:42+00:00",
 "İstanbul Gazetesi": "2026-11-14T20:38:00+00:00",
