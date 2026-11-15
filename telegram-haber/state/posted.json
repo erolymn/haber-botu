@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"c785794aadd75564",
-"52f77008333e7fbb",
-"b68ea3336fd283df",
 "927e3403f9971ef2",
 "8d3f772a31102f71",
 "b2d6124d907fc216",
@@ -2999,41 +2996,12 @@
 "bafbf37c4c0e6432",
 "c607d865f2c0f001",
 "a3021e07701fed62",
-"8343de8c5dbbeef5"
+"8343de8c5dbbeef5",
+"9a97f57f09a47747",
+"3c3e7e523a1ddfbd",
+"2884f4261ec098c4"
 ],
 "imzalar": [
-[
-"alinmadi",
-"atiyorsun",
-"canimizi",
-"cevabi",
-"daki",
-"dedirtti",
-"ders",
-"diyen",
-"faciadan",
-"manisa",
-"otobus",
-"pes",
-"soforunun",
-"tehlikeye",
-"yolculara"
-],
-[
-"bolunecek",
-"gizli",
-"nasil",
-"pazarlik",
-"rusya",
-"suphesi",
-"ukrayna"
-],
-[
-"besiktas",
-"dokunusu",
-"italiano",
-"vlahovic"
-],
 [
 "den",
 "duyuru",
@@ -8842,15 +8810,47 @@
 "muci",
 "soku",
 "trabzonspor"
+],
+[
+"cikti",
+"dondu",
+"geri",
+"maca",
+"resmi",
+"ronaldinho",
+"yasinda",
+"yil"
+],
+[
+"birbirlerine",
+"cikti",
+"futbolcular",
+"girdi",
+"hazirlik",
+"karisti",
+"kart",
+"kirmizi",
+"macinda",
+"ortalik",
+"tekme",
+"tokat"
+],
+[
+"aski",
+"ceken",
+"den",
+"dikkat",
+"hesap",
+"tasarrufu"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-15T14:00:00+00:00",
-"Sonsöz (Ankara)": "2026-11-15T14:04:00+00:00",
+"Sonsöz (Ankara)": "2026-11-15T17:54:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
-"Sözcü Son Dakika": "2026-11-15T17:06:51+00:00",
-"Yeni Şafak Yerel": "2026-11-15T17:06:29+00:00",
+"Sözcü Son Dakika": "2026-11-15T17:52:18+00:00",
+"Yeni Şafak Yerel": "2026-11-15T17:52:10+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-15T13:59:55+00:00",
 "@islamasalya": "2026-11-15T16:29:46+00:00",
