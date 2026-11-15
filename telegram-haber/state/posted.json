@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"24952cb999ad0137",
-"9f84a072a91a0628",
-"068ee58bc8ff78c8",
 "f5d66aff2bee8532",
 "71f18888bf50a9c6",
 "0a7f5abd815e09da",
@@ -2999,36 +2996,12 @@
 "be65271caf4c9c39",
 "daced7b1ce9e1ca8",
 "106cc5cf1a7c511b",
-"7a7de7469693411a"
+"7a7de7469693411a",
+"d97df3b2705f5eef",
+"849924dc5bc34033",
+"bdb01f1e8ab9ca93"
 ],
 "imzalar": [
-[
-"artik",
-"donem",
-"izmir",
-"kamerayla",
-"okunacak",
-"otoparklarda",
-"plakalar",
-"yeni"
-],
-[
-"beyaz",
-"kaplandi",
-"ortuyle",
-"yaylalar",
-"yesil"
-],
-[
-"akif",
-"arjantin",
-"baris",
-"buldu",
-"manaf",
-"odulu",
-"saglik",
-"sahibini"
-],
 [
 "caldi",
 "cin",
@@ -8864,15 +8837,51 @@
 "medyum",
 "tanitimlarina",
 "ticaret"
+],
+[
+"100",
+"alici",
+"bin",
+"bitmeden",
+"buluyor",
+"daki",
+"erzurum",
+"fiyati",
+"liraya",
+"tespihler",
+"ulasiyor"
+],
+[
+"bosanmada",
+"dan",
+"emsal",
+"evde",
+"icen",
+"karar",
+"kusurlu",
+"sigara",
+"tam",
+"yargitay"
+],
+[
+"abd",
+"cikti",
+"gercek",
+"ortaya",
+"panigi",
+"saatlerce",
+"sonradan",
+"uzayli",
+"yasandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-15T03:56:00+00:00",
+"Haber Global": "2026-11-15T06:05:00+00:00",
 "Sonsöz (Ankara)": "2026-11-15T03:15:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
-"Sözcü Son Dakika": "2026-11-15T04:53:02+00:00",
-"Yeni Şafak Yerel": "2026-11-15T05:06:04+00:00",
+"Sözcü Son Dakika": "2026-11-15T06:07:36+00:00",
+"Yeni Şafak Yerel": "2026-11-15T06:02:54+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-15T03:03:02+00:00",
 "@islamasalya": "2026-11-14T12:17:29+00:00",
