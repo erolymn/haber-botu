@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"f53e67c469b1fb2b",
-"6f3bbb41bd68f290",
-"80f575e920f522de",
 "d589372903785a09",
 "d8b166ea52c3de0b",
 "343799dcc188db02",
@@ -2999,44 +2996,12 @@
 "2884f4261ec098c4",
 "450342192284a565",
 "02aa94824dc16840",
-"76af4021b640e9d2"
+"76af4021b640e9d2",
+"0ca931d8ece1a2dc",
+"8c7e62ef48017f24",
+"dfc64f7301b163e1"
 ],
 "imzalar": [
-[
-"arasinda",
-"arayanlar",
-"ayrilik",
-"azerbaycan",
-"baskan",
-"beyhude",
-"cabanin",
-"erdogan",
-"icerisindedir",
-"turkiye"
-],
-[
-"bekleniyordu",
-"belli",
-"degisikligi",
-"karar",
-"logo",
-"parti",
-"yeni"
-],
-[
-"basvurusunda",
-"bulunmustu",
-"cozuldu",
-"diyerek",
-"engelli",
-"gizem",
-"katildi",
-"kayip",
-"oglunu",
-"orgutune",
-"teror",
-"yillik"
-],
 [
 "alesey",
 "arda",
@@ -8854,20 +8819,46 @@
 "kotu",
 "tff",
 "ugurcan"
+],
+[
+"aractan",
+"basip",
+"gaza",
+"inmedi",
+"kacti",
+"karisti",
+"kazaya"
+],
+[
+"cakir",
+"cikarildi",
+"kadrosundan",
+"milli",
+"takim",
+"ugurcan"
+],
+[
+"belli",
+"cakir",
+"dan",
+"durumu",
+"galatasaray",
+"kotu",
+"ugurcan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-15T14:00:00+00:00",
+"Haber Global": "2026-11-15T18:53:00+00:00",
 "Sonsöz (Ankara)": "2026-11-15T17:54:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
-"Sözcü Son Dakika": "2026-11-15T17:52:18+00:00",
+"Sözcü Son Dakika": "2026-11-15T18:55:56+00:00",
 "Yeni Şafak Yerel": "2026-11-15T19:00:11+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-15T13:59:55+00:00",
 "@islamasalya": "2026-11-15T18:45:38+00:00",
 "Yeni Asır (İzmir)": "2026-11-15T17:03:25+00:00",
-"İstanbul Gazetesi": "2026-11-15T16:06:00+00:00",
+"İstanbul Gazetesi": "2026-11-15T18:44:00+00:00",
 "Kandilli Rasathanesi": "2026-11-15T02:46:04+00:00"
 }
 }
