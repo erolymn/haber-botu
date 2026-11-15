@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"a90cd0aefac5d2a4",
-"629c73256d3a3f53",
-"84dac8a752d73896",
 "8b89a2cf48777d57",
 "27640a11fe6e2bd7",
 "3030efbc46ead630",
@@ -2999,45 +2996,12 @@
 "7c3123564beb39ef",
 "91c549752eabaa4d",
 "3ad21089d6a5abf1",
-"69403e8f0b29ff23"
+"69403e8f0b29ff23",
+"f2d01dc5fa16ffeb",
+"535039869e0fc90b",
+"eda54433a0fbf8f5"
 ],
 "imzalar": [
-[
-"almamasina",
-"den",
-"dilmen",
-"elestiri",
-"onu",
-"ridvan",
-"sasirdim",
-"sergen",
-"yalcin"
-],
-[
-"2026",
-"biri",
-"cop31",
-"gecen",
-"kapsaminda",
-"kayitlara",
-"kritik",
-"olacak",
-"rapor",
-"sicak",
-"yildan"
-],
-[
-"adini",
-"ata",
-"ataturk",
-"gokcen",
-"havalimanindan",
-"kizi",
-"manevi",
-"sabiha",
-"seslendiler",
-"tasiyan"
-],
 [
 "biri",
 "camiye",
@@ -8853,17 +8817,44 @@
 "saldiri",
 "siber",
 "ulusal"
+],
+[
+"dan",
+"fenerbahce",
+"lukaku",
+"mujdeli"
+],
+[
+"buyuk",
+"ele",
+"gecirildi",
+"ilgilendiriyor",
+"kisisel",
+"kisiyi",
+"milyonlarca",
+"saldiriyla",
+"veriler"
+],
+[
+"dalgalara",
+"izlenme",
+"kapildilar",
+"kirdilar",
+"medyada",
+"rekoru",
+"sosyal",
+"uskudar"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-15T08:52:00+00:00",
+"Haber Global": "2026-11-15T14:00:00+00:00",
 "Sonsöz (Ankara)": "2026-11-15T14:04:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
-"Sözcü Son Dakika": "2026-11-15T13:08:31+00:00",
+"Sözcü Son Dakika": "2026-11-15T13:53:54+00:00",
 "Yeni Şafak Yerel": "2026-11-15T14:08:07+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-15T13:06:03+00:00",
+"Olay (Bursa)": "2026-11-15T13:59:55+00:00",
 "@islamasalya": "2026-11-15T13:52:00+00:00",
 "Yeni Asır (İzmir)": "2026-11-15T03:50:14+00:00",
 "İstanbul Gazetesi": "2026-11-15T08:03:00+00:00",
