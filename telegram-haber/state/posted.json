@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"7c3266c734924278",
-"fb81f68eeb306378",
-"f6db7fb6ad59b6fb",
 "8d6eedff843a39c5",
 "674d1954b7744815",
 "4691e7de0bc045b1",
@@ -2999,41 +2996,12 @@
 "dcb194db85430678",
 "3471c4a723fb8efd",
 "017ec259e5f575ea",
-"d9386240b9f2ab66"
+"d9386240b9f2ab66",
+"770bd0378c84f45e",
+"1e665b2231822675",
+"be65271caf4c9c39"
 ],
 "imzalar": [
-[
-"gelisme",
-"gozalti",
-"ilaci",
-"kanser",
-"karari",
-"sahte",
-"sorusturmasinda",
-"supheli",
-"yeni"
-],
-[
-"2027",
-"dusuk",
-"emekliye",
-"kadar",
-"maas",
-"ocak",
-"odeme",
-"olacak",
-"payi",
-"refah"
-],
-[
-"can",
-"daki",
-"kaybi",
-"kazasinda",
-"misir",
-"tren",
-"yukseldi"
-],
 [
 "anlatti",
 "ataturk",
@@ -8873,11 +8841,38 @@
 "pesinde",
 "surpriz",
 "takim"
+],
+[
+"bayrami",
+"cumhuriyet",
+"kasim",
+"kktc",
+"kutlaniyor",
+"yasinda"
+],
+[
+"asgari",
+"calisiliyor",
+"emekli",
+"maaslari",
+"ucret"
+],
+[
+"bekleniyor",
+"bircok",
+"den",
+"firtina",
+"kodlu",
+"kuvvetli",
+"meteoroloji",
+"saganak",
+"sari",
+"uyari"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-14T21:45:00+00:00",
-"Sonsöz (Ankara)": "2026-11-15T02:44:00+00:00",
+"Haber Global": "2026-11-15T03:56:00+00:00",
+"Sonsöz (Ankara)": "2026-11-15T03:15:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-14T17:13:56+00:00",
 "Sözcü Son Dakika": "2026-11-15T02:30:30+00:00",
@@ -8885,7 +8880,7 @@
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-15T03:03:02+00:00",
 "@islamasalya": "2026-11-14T12:17:29+00:00",
-"Yeni Asır (İzmir)": "2026-11-14T21:30:42+00:00",
+"Yeni Asır (İzmir)": "2026-11-15T03:50:14+00:00",
 "İstanbul Gazetesi": "2026-11-14T20:38:00+00:00",
 "Kandilli Rasathanesi": "2026-11-15T02:46:04+00:00"
 }
