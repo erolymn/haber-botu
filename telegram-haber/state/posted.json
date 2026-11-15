@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"d589372903785a09",
-"d8b166ea52c3de0b",
-"343799dcc188db02",
 "32c9030c19d90742",
 "025a8f837c53ab87",
 "c8e5ed75b92d295e",
@@ -2999,43 +2996,12 @@
 "76af4021b640e9d2",
 "0ca931d8ece1a2dc",
 "8c7e62ef48017f24",
-"dfc64f7301b163e1"
+"dfc64f7301b163e1",
+"6c94908d5f330175",
+"18b5d3d6ec717c9f",
+"eeede6b52122cad6"
 ],
 "imzalar": [
-[
-"alesey",
-"arda",
-"batrakov",
-"guler",
-"karisimi",
-"kevin",
-"kuranyi",
-"nico",
-"paz"
-],
-[
-"aciklama",
-"bakani",
-"ciftci",
-"deki",
-"den",
-"icisleri",
-"ilgili",
-"izmir",
-"patlamayla"
-],
-[
-"2026",
-"basari",
-"denizi",
-"dostluk",
-"ele",
-"gerceklestirildi",
-"misir",
-"tatbikati",
-"turkiye",
-"verdi"
-],
 [
 "azerbaycan",
 "dan",
@@ -8845,20 +8811,45 @@
 "galatasaray",
 "kotu",
 "ugurcan"
+],
+[
+"canli",
+"fransa",
+"ligi",
+"maci",
+"turkiye",
+"uefa",
+"uluslar"
+],
+[
+"bursa",
+"dugun",
+"kavga",
+"salonunda",
+"yarali"
+],
+[
+"ankara",
+"bulustu",
+"festivali",
+"film",
+"nde",
+"sinemanin",
+"ustalari"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-15T18:53:00+00:00",
-"Sonsöz (Ankara)": "2026-11-15T17:54:00+00:00",
+"Sonsöz (Ankara)": "2026-11-15T20:07:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
-"Sözcü Son Dakika": "2026-11-15T18:55:56+00:00",
+"Sözcü Son Dakika": "2026-11-15T20:02:52+00:00",
 "Yeni Şafak Yerel": "2026-11-15T19:00:11+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-15T13:59:55+00:00",
 "@islamasalya": "2026-11-15T18:45:38+00:00",
 "Yeni Asır (İzmir)": "2026-11-15T17:03:25+00:00",
-"İstanbul Gazetesi": "2026-11-15T18:44:00+00:00",
+"İstanbul Gazetesi": "2026-11-15T20:06:00+00:00",
 "Kandilli Rasathanesi": "2026-11-15T02:46:04+00:00"
 }
 }
