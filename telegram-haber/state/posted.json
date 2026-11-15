@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"927e3403f9971ef2",
-"8d3f772a31102f71",
-"b2d6124d907fc216",
 "f53e67c469b1fb2b",
 "6f3bbb41bd68f290",
 "80f575e920f522de",
@@ -2999,33 +2996,12 @@
 "8343de8c5dbbeef5",
 "9a97f57f09a47747",
 "3c3e7e523a1ddfbd",
-"2884f4261ec098c4"
+"2884f4261ec098c4",
+"450342192284a565",
+"02aa94824dc16840",
+"76af4021b640e9d2"
 ],
 "imzalar": [
-[
-"den",
-"duyuru",
-"gonullu",
-"iade",
-"iliskin",
-"islemlerine",
-"tmsf"
-],
-[
-"celik",
-"demir",
-"fabrikasinda",
-"izmir",
-"patlama"
-],
-[
-"ayrinti",
-"bosanma",
-"ceken",
-"dikkat",
-"kararinda",
-"yargitay"
-],
 [
 "arasinda",
 "arayanlar",
@@ -8842,6 +8818,42 @@
 "dikkat",
 "hesap",
 "tasarrufu"
+],
+[
+"cevirdi",
+"emekliler",
+"gonulluluge",
+"hobilerine",
+"ilgi",
+"izmir",
+"kursa",
+"rotayi",
+"yogun"
+],
+[
+"ahmet",
+"ali",
+"allah",
+"ardindan",
+"esaretin",
+"gecirdigi",
+"hamdolsun",
+"hapishanelerinde",
+"hasan",
+"israil",
+"kavustu",
+"ozgurlugune",
+"siyonist",
+"yillik"
+],
+[
+"acikladi",
+"cakir",
+"dan",
+"durumunu",
+"kotu",
+"tff",
+"ugurcan"
 ]
 ],
 "son_tarih": {
@@ -8850,11 +8862,11 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
 "Sözcü Son Dakika": "2026-11-15T17:52:18+00:00",
-"Yeni Şafak Yerel": "2026-11-15T17:52:10+00:00",
+"Yeni Şafak Yerel": "2026-11-15T19:00:11+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-15T13:59:55+00:00",
-"@islamasalya": "2026-11-15T16:29:46+00:00",
-"Yeni Asır (İzmir)": "2026-11-15T03:50:14+00:00",
+"@islamasalya": "2026-11-15T18:45:38+00:00",
+"Yeni Asır (İzmir)": "2026-11-15T17:03:25+00:00",
 "İstanbul Gazetesi": "2026-11-15T16:06:00+00:00",
 "Kandilli Rasathanesi": "2026-11-15T02:46:04+00:00"
 }
