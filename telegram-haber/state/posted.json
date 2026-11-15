@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"3163f604feb7173b",
-"dc453e940c0ec238",
 "12804a1ec2f618ac",
 "4247c481c978a8d6",
 "e8d0025a326a8904",
@@ -2999,23 +2997,11 @@
 "b4213beb99d9531a",
 "71073c8f592b9840",
 "5889c243fe3bfa4f",
-"2d701917137a2571"
+"2d701917137a2571",
+"998de6c3e2ce8d02",
+"f852078c4c3d50d3"
 ],
 "imzalar": [
-[
-"egitime",
-"ilceye",
-"ildeki",
-"kar",
-"molasi"
-],
-[
-"ayni",
-"gun",
-"ismi",
-"tasidigi",
-"torunuyla"
-],
 [
 "erdogan",
 "gizli",
@@ -8891,17 +8877,33 @@
 "ismi",
 "milli",
 "takim"
+],
+[
+"carpisti",
+"catalca",
+"otomobiller",
+"yarali"
+],
+[
+"bence",
+"bursasporlu",
+"cevap",
+"futbolcuyla",
+"hata",
+"herkes",
+"soru",
+"yapar"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-14T21:45:00+00:00",
-"Sonsöz (Ankara)": "2026-11-14T22:51:00+00:00",
+"Sonsöz (Ankara)": "2026-11-14T23:46:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-14T17:13:56+00:00",
 "Sözcü Son Dakika": "2026-11-14T22:10:05+00:00",
 "Yeni Şafak Yerel": "2026-11-14T21:49:03+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-14T21:09:59+00:00",
+"Olay (Bursa)": "2026-11-14T23:54:20+00:00",
 "@islamasalya": "2026-11-14T12:17:29+00:00",
 "Yeni Asır (İzmir)": "2026-11-14T21:30:42+00:00",
 "İstanbul Gazetesi": "2026-11-14T20:38:00+00:00",
