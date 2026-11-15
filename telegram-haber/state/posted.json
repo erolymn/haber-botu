@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"a96221a38d4fd95b",
-"a6e0d68fbba80700",
-"b2a974a06f059347",
 "c785794aadd75564",
 "52f77008333e7fbb",
 "b68ea3336fd283df",
@@ -2999,39 +2996,12 @@
 "5ad6168cce723a54",
 "e0b3a75db7ea98a7",
 "0cbc24f108a1cbf8",
-"bafbf37c4c0e6432"
+"bafbf37c4c0e6432",
+"c607d865f2c0f001",
+"a3021e07701fed62",
+"8343de8c5dbbeef5"
 ],
 "imzalar": [
-[
-"gidermez",
-"gizli",
-"gunde",
-"hasari",
-"mantar",
-"olusuyor",
-"organ",
-"pisirmek",
-"tehlike",
-"zehirlenmelerinde",
-"zehri"
-],
-[
-"bakan",
-"cop31",
-"erener",
-"hazirladigi",
-"kurum",
-"paylasti",
-"sarkisini",
-"sertab"
-],
-[
-"altinda",
-"bombardiman",
-"gazze",
-"itibariyle",
-"siddetli"
-],
 [
 "alinmadi",
 "atiyorsun",
@@ -8842,6 +8812,36 @@
 "sinvar",
 "yahya",
 "yeni"
+],
+[
+"gazze",
+"isgalci",
+"israil",
+"itibariyle",
+"sehitlerimiz",
+"vuruyor"
+],
+[
+"2026",
+"291",
+"destegi",
+"hak",
+"kasim",
+"liralik",
+"milyar",
+"milyon",
+"odeme",
+"sahiplerine",
+"sed",
+"tamamlandi",
+"ulasti"
+],
+[
+"cikarildi",
+"kadrodan",
+"muci",
+"soku",
+"trabzonspor"
 ]
 ],
 "son_tarih": {
@@ -8849,11 +8849,11 @@
 "Sonsöz (Ankara)": "2026-11-15T14:04:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
-"Sözcü Son Dakika": "2026-11-15T16:05:48+00:00",
-"Yeni Şafak Yerel": "2026-11-15T15:00:07+00:00",
+"Sözcü Son Dakika": "2026-11-15T17:06:51+00:00",
+"Yeni Şafak Yerel": "2026-11-15T17:06:29+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-15T13:59:55+00:00",
-"@islamasalya": "2026-11-15T16:07:43+00:00",
+"@islamasalya": "2026-11-15T16:29:46+00:00",
 "Yeni Asır (İzmir)": "2026-11-15T03:50:14+00:00",
 "İstanbul Gazetesi": "2026-11-15T16:06:00+00:00",
 "Kandilli Rasathanesi": "2026-11-15T02:46:04+00:00"
