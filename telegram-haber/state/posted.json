@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"8b89a2cf48777d57",
-"27640a11fe6e2bd7",
-"3030efbc46ead630",
 "8ddf86b0e0d1a3a7",
 "1496e390fbc86a9c",
 "4cf593ec3c9e36fb",
@@ -2999,42 +2996,12 @@
 "69403e8f0b29ff23",
 "f2d01dc5fa16ffeb",
 "535039869e0fc90b",
-"eda54433a0fbf8f5"
+"eda54433a0fbf8f5",
+"b02fa83737736509",
+"456b2cd4dbdf3317",
+"5ad6168cce723a54"
 ],
 "imzalar": [
-[
-"biri",
-"camiye",
-"digeri",
-"gece",
-"girdi",
-"kaza",
-"kirtasiyeye",
-"sisli",
-"yarisi"
-],
-[
-"baskentte",
-"basladi",
-"basvuru",
-"halk",
-"kart",
-"kimler",
-"nasil",
-"uygulamasi",
-"yapilir",
-"yararlanabilir"
-],
-[
-"anitkabir",
-"apple",
-"ceo",
-"cook",
-"efsane",
-"eski",
-"tim",
-"ziyaret"
-],
 [
 "aciklamalar",
 "bakan",
@@ -8844,6 +8811,38 @@
 "rekoru",
 "sosyal",
 "uskudar"
+],
+[
+"duzce",
+"etmeden",
+"hareket",
+"hayati",
+"kemere",
+"otobusler",
+"polislerden",
+"sarildi",
+"uyari",
+"yolcular"
+],
+[
+"anadolu",
+"atesi",
+"cop31",
+"kulturel",
+"nden",
+"solen"
+],
+[
+"aciklayacagiz",
+"den",
+"fon",
+"hafta",
+"hareketlendiren",
+"kulislerini",
+"listesini",
+"ozel",
+"siyaset",
+"sozler"
 ]
 ],
 "son_tarih": {
@@ -8851,13 +8850,13 @@
 "Sonsöz (Ankara)": "2026-11-15T14:04:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
-"Sözcü Son Dakika": "2026-11-15T13:53:54+00:00",
-"Yeni Şafak Yerel": "2026-11-15T14:08:07+00:00",
+"Sözcü Son Dakika": "2026-11-15T15:05:21+00:00",
+"Yeni Şafak Yerel": "2026-11-15T15:00:07+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-15T13:59:55+00:00",
 "@islamasalya": "2026-11-15T13:52:00+00:00",
 "Yeni Asır (İzmir)": "2026-11-15T03:50:14+00:00",
-"İstanbul Gazetesi": "2026-11-15T08:03:00+00:00",
+"İstanbul Gazetesi": "2026-11-15T15:01:00+00:00",
 "Kandilli Rasathanesi": "2026-11-15T02:46:04+00:00"
 }
 }
