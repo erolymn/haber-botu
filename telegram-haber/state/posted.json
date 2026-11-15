@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"f5d66aff2bee8532",
-"71f18888bf50a9c6",
-"0a7f5abd815e09da",
 "7f696d05ee0e5f7a",
 "520d066fa292b061",
 "9fde7c0bbfc6cc44",
@@ -2999,36 +2996,12 @@
 "7a7de7469693411a",
 "d97df3b2705f5eef",
 "849924dc5bc34033",
-"bdb01f1e8ab9ca93"
+"bdb01f1e8ab9ca93",
+"d079b09cc5b5ed72",
+"6c2214f21e3465ed",
+"d3ec9402e0ff0591"
 ],
 "imzalar": [
-[
-"caldi",
-"cin",
-"iddiasi",
-"iran",
-"kapisini",
-"koseye",
-"savasinda",
-"sikisti",
-"trump"
-],
-[
-"aniden",
-"dustu",
-"hava",
-"kalinligi",
-"kar",
-"santimetreye",
-"sicakligi",
-"ulasti"
-],
-[
-"anda",
-"bursa",
-"kurtarildilar",
-"yangin"
-],
 [
 "benim",
 "gonderme",
@@ -8873,15 +8846,48 @@
 "sonradan",
 "uzayli",
 "yasandi"
+],
+[
+"25a",
+"cin",
+"elektrikli",
+"ilk",
+"ucagi",
+"ucusunu",
+"yapti",
+"yolcu"
+],
+[
+"abd",
+"aldik",
+"bahreyn",
+"deki",
+"devrim",
+"hedef",
+"iha",
+"muhafizlari",
+"radarini"
+],
+[
+"can",
+"kadar",
+"kararmis",
+"niye",
+"olay",
+"rengi",
+"ten",
+"yagdi",
+"yaman",
+"yorumlari"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-15T06:05:00+00:00",
-"Sonsöz (Ankara)": "2026-11-15T03:15:00+00:00",
+"Sonsöz (Ankara)": "2026-11-15T07:05:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
-"Sözcü Son Dakika": "2026-11-15T06:07:36+00:00",
-"Yeni Şafak Yerel": "2026-11-15T06:02:54+00:00",
+"Sözcü Son Dakika": "2026-11-15T07:06:12+00:00",
+"Yeni Şafak Yerel": "2026-11-15T07:06:07+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-15T03:03:02+00:00",
 "@islamasalya": "2026-11-14T12:17:29+00:00",
