@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"96bdf6f0d5719545",
-"ed1e3d494d09783e",
 "f8968509d6a2a5da",
 "24b03bcaeb0b3273",
 "6ee15a7c028e4a2f",
@@ -2999,30 +2997,11 @@
 "f852078c4c3d50d3",
 "595df937492a522c",
 "70c45b39563d3c61",
-"2529c65f301a7bad"
+"2529c65f301a7bad",
+"522b01bff3390ecb",
+"8d5cee27c18853e9"
 ],
 "imzalar": [
-[
-"alarm",
-"ayakkabi",
-"fabrikalar",
-"kapaniyor",
-"sektorunde"
-],
-[
-"ajan",
-"askla",
-"ceo",
-"cikti",
-"devi",
-"diledi",
-"dunya",
-"gundem",
-"nun",
-"ozur",
-"sevgilisi",
-"yasak"
-],
 [
 "dalga",
 "gecmis",
@@ -8890,17 +8869,32 @@
 "koprusu",
 "medeniyeti",
 "uskup"
+],
+[
+"ankara",
+"gozaltinda",
+"magandalarina",
+"operasyon",
+"surucu",
+"trafik"
+],
+[
+"agabeyi",
+"ankara",
+"bursa",
+"gucu",
+"nin"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-14T21:45:00+00:00",
-"Sonsöz (Ankara)": "2026-11-15T00:16:00+00:00",
+"Sonsöz (Ankara)": "2026-11-15T01:22:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-14T17:13:56+00:00",
 "Sözcü Son Dakika": "2026-11-14T22:10:05+00:00",
 "Yeni Şafak Yerel": "2026-11-15T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-15T00:11:08+00:00",
+"Olay (Bursa)": "2026-11-15T02:05:59+00:00",
 "@islamasalya": "2026-11-14T12:17:29+00:00",
 "Yeni Asır (İzmir)": "2026-11-14T21:30:42+00:00",
 "İstanbul Gazetesi": "2026-11-14T20:38:00+00:00",
