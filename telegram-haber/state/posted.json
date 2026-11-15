@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"835501ec08645a55",
-"1e97ed72260a02d6",
-"a3f6d043f8c5d173",
 "fdfaf3584c7355ac",
 "0cb1269922b4375d",
 "d33a298ceca84c07",
@@ -2999,46 +2996,12 @@
 "d3ec9402e0ff0591",
 "2002d9ec3ab2ed7f",
 "7073df7bd6183fc8",
-"6d4bd9ce7c156a19"
+"6d4bd9ce7c156a19",
+"7e224b79f4557425",
+"ab1d22bd5aee4d00",
+"b888cd2b9b6fd939"
 ],
 "imzalar": [
-[
-"balikesir",
-"dehsette",
-"deki",
-"gelisme",
-"hayatini",
-"kaybetmisti",
-"tek",
-"yeni",
-"yumrukla"
-],
-[
-"adil",
-"bankasi",
-"baskan",
-"bddk",
-"fon",
-"genel",
-"katilim",
-"muduru",
-"sorusturmasi",
-"tutuklandi",
-"yardimcisi"
-],
-[
-"acikladi",
-"arsiv",
-"asansorde",
-"bilgisini",
-"gazeteci",
-"iddiasi",
-"ilgili",
-"inanilmaz",
-"sarigul",
-"taciz",
-"terkoglu"
-],
 [
 "basvurular",
 "bursa",
@@ -8875,6 +8838,37 @@
 "kahveye",
 "sefasi",
 "turkiye"
+],
+[
+"basliyor",
+"basvurular",
+"bursa",
+"ciftler",
+"dikkat",
+"evlenecek",
+"kacirmayin",
+"tarihi"
+],
+[
+"beyaza",
+"bitlis",
+"burundu",
+"dag",
+"hizan",
+"ilcesinde",
+"zirveleri"
+],
+[
+"bekledigi",
+"buruk",
+"galatasaraylilarin",
+"geldi",
+"istedigi",
+"kavusuyor",
+"okan",
+"suredir",
+"uzun",
+"yildiza"
 ]
 ],
 "son_tarih": {
@@ -8882,10 +8876,10 @@
 "Sonsöz (Ankara)": "2026-11-15T07:05:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
-"Sözcü Son Dakika": "2026-11-15T08:07:56+00:00",
-"Yeni Şafak Yerel": "2026-11-15T08:04:18+00:00",
+"Sözcü Son Dakika": "2026-11-15T09:03:19+00:00",
+"Yeni Şafak Yerel": "2026-11-15T09:03:10+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-15T03:03:02+00:00",
+"Olay (Bursa)": "2026-11-15T09:02:44+00:00",
 "@islamasalya": "2026-11-14T12:17:29+00:00",
 "Yeni Asır (İzmir)": "2026-11-15T03:50:14+00:00",
 "İstanbul Gazetesi": "2026-11-15T08:03:00+00:00",
