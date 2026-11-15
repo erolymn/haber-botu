@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"bdf2c78545f1ae49",
-"c8eadf7ea663833d",
-"9a20b12fa7560ddb",
 "981b85854e99b61a",
 "3c64da7cfe753c93",
 "6585180f7d031819",
@@ -2999,36 +2996,12 @@
 "7ef47e74d2401bd0",
 "56997622c775d233",
 "c4865a6fec00373e",
-"441e627856237e9a"
+"441e627856237e9a",
+"986d7b6118a371f1",
+"5a16bbd0069e558d",
+"7c3123564beb39ef"
 ],
 "imzalar": [
-[
-"aile",
-"gazze",
-"tamamen",
-"yine"
-],
-[
-"iki",
-"karsi",
-"koydu",
-"musteriye",
-"saldirdi",
-"satirla",
-"taksim",
-"valizle",
-"yuzuk"
-],
-[
-"basindan",
-"itiraf",
-"kahreden",
-"melek",
-"oldurulmustu",
-"vurularak",
-"yasindaki",
-"yengesinden"
-],
 [
 "kasim",
 "omur",
@@ -8851,6 +8824,34 @@
 "kutlualp",
 "ten",
 "yesil"
+],
+[
+"bursa",
+"cemil",
+"imzali",
+"ipekci",
+"mobilyasi",
+"nin",
+"saloni",
+"tanitildi"
+],
+[
+"ambulans",
+"dusen",
+"getirildi",
+"helikopterle",
+"van",
+"yarali",
+"yuksekten"
+],
+[
+"belozoglu",
+"emre",
+"gelisme",
+"geliyorlar",
+"oyuncu",
+"uzen",
+"yildiz"
 ]
 ],
 "son_tarih": {
@@ -8858,10 +8859,10 @@
 "Sonsöz (Ankara)": "2026-11-15T12:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
-"Sözcü Son Dakika": "2026-11-15T12:05:38+00:00",
-"Yeni Şafak Yerel": "2026-11-15T11:08:07+00:00",
+"Sözcü Son Dakika": "2026-11-15T13:08:31+00:00",
+"Yeni Şafak Yerel": "2026-11-15T13:07:02+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-15T12:08:34+00:00",
+"Olay (Bursa)": "2026-11-15T13:06:03+00:00",
 "@islamasalya": "2026-11-15T09:39:42+00:00",
 "Yeni Asır (İzmir)": "2026-11-15T03:50:14+00:00",
 "İstanbul Gazetesi": "2026-11-15T08:03:00+00:00",
