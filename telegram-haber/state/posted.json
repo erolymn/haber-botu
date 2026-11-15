@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"8d6eedff843a39c5",
-"674d1954b7744815",
-"4691e7de0bc045b1",
 "24952cb999ad0137",
 "9f84a072a91a0628",
 "068ee58bc8ff78c8",
@@ -2999,44 +2996,12 @@
 "d9386240b9f2ab66",
 "770bd0378c84f45e",
 "1e665b2231822675",
-"be65271caf4c9c39"
+"be65271caf4c9c39",
+"daced7b1ce9e1ca8",
+"106cc5cf1a7c511b",
+"7a7de7469693411a"
 ],
 "imzalar": [
-[
-"anlatti",
-"ataturk",
-"gunde",
-"gungor",
-"ozden",
-"sozcu",
-"tanik",
-"tarihi",
-"topraga",
-"veren",
-"yasadiklarini",
-"yasayan",
-"yekta"
-],
-[
-"erzincan",
-"gecitler",
-"kara",
-"teslim"
-],
-[
-"cikisi",
-"dan",
-"diyerek",
-"fon",
-"girildi",
-"iki",
-"isaret",
-"ismi",
-"kozmik",
-"odaya",
-"samil",
-"tayyar"
-],
 [
 "artik",
 "donem",
@@ -8868,15 +8833,46 @@
 "saganak",
 "sari",
 "uyari"
+],
+[
+"akp",
+"beklemiyordu",
+"bile",
+"bunu",
+"catirdiyor",
+"erdogan",
+"guc",
+"merkezleri"
+],
+[
+"avukatla",
+"bosanma",
+"davasi",
+"edildi",
+"gittigi",
+"hem",
+"milyonlarindan",
+"sevgili",
+"tehdit"
+],
+[
+"bakanligindan",
+"buyu",
+"durdurma",
+"fal",
+"karari",
+"medyum",
+"tanitimlarina",
+"ticaret"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-15T03:56:00+00:00",
 "Sonsöz (Ankara)": "2026-11-15T03:15:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-14T17:13:56+00:00",
-"Sözcü Son Dakika": "2026-11-15T02:30:30+00:00",
-"Yeni Şafak Yerel": "2026-11-15T01:00:00+00:00",
+"Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
+"Sözcü Son Dakika": "2026-11-15T04:53:02+00:00",
+"Yeni Şafak Yerel": "2026-11-15T05:06:04+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-15T03:03:02+00:00",
 "@islamasalya": "2026-11-14T12:17:29+00:00",
