@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"8ddf86b0e0d1a3a7",
-"1496e390fbc86a9c",
-"4cf593ec3c9e36fb",
 "a96221a38d4fd95b",
 "a6e0d68fbba80700",
 "b2a974a06f059347",
@@ -2999,37 +2996,12 @@
 "eda54433a0fbf8f5",
 "b02fa83737736509",
 "456b2cd4dbdf3317",
-"5ad6168cce723a54"
+"5ad6168cce723a54",
+"e0b3a75db7ea98a7",
+"0cbc24f108a1cbf8",
+"bafbf37c4c0e6432"
 ],
 "imzalar": [
-[
-"aciklamalar",
-"bakan",
-"cop31",
-"dan",
-"kurum",
-"nde",
-"onemli",
-"zirvesi"
-],
-[
-"arda",
-"mac",
-"oyuncularina",
-"sitem",
-"sonunda",
-"turan"
-],
-[
-"bursa",
-"donuldu",
-"esiginden",
-"facianin",
-"manevra",
-"olumune",
-"otobus",
-"soforunden"
-],
 [
 "gidermez",
 "gizli",
@@ -8843,6 +8815,33 @@
 "ozel",
 "siyaset",
 "sozler"
+],
+[
+"alarm",
+"emeklileri",
+"firtina",
+"kipkirmizi",
+"uzere",
+"vurmak",
+"yaklasan"
+],
+[
+"demirel",
+"direktoru",
+"gaziantep",
+"nin",
+"teknik",
+"volkan",
+"yeni"
+],
+[
+"ait",
+"goruntuler",
+"komutan",
+"sehit",
+"sinvar",
+"yahya",
+"yeni"
 ]
 ],
 "son_tarih": {
@@ -8850,13 +8849,13 @@
 "Sonsöz (Ankara)": "2026-11-15T14:04:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
-"Sözcü Son Dakika": "2026-11-15T15:05:21+00:00",
+"Sözcü Son Dakika": "2026-11-15T16:05:48+00:00",
 "Yeni Şafak Yerel": "2026-11-15T15:00:07+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-15T13:59:55+00:00",
-"@islamasalya": "2026-11-15T13:52:00+00:00",
+"@islamasalya": "2026-11-15T16:07:43+00:00",
 "Yeni Asır (İzmir)": "2026-11-15T03:50:14+00:00",
-"İstanbul Gazetesi": "2026-11-15T15:01:00+00:00",
+"İstanbul Gazetesi": "2026-11-15T16:06:00+00:00",
 "Kandilli Rasathanesi": "2026-11-15T02:46:04+00:00"
 }
 }
