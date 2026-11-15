@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"ac26ca1e4f20ee72",
-"530b20fc6e907d26",
-"30314948a18176ae",
 "ccabaf0f24dcee2d",
 "fcd9c39fdd0b5a0d",
 "9e7405de295a4fd4",
@@ -2999,38 +2996,12 @@
 "eeede6b52122cad6",
 "0a82e8f53ce3fb8a",
 "425771cfe0ddcf20",
-"544993643f94345f"
+"544993643f94345f",
+"624f03816becb23f",
+"732bfc84bdb6061f",
+"3db2ceca67f159c2"
 ],
 "imzalar": [
-[
-"bugun",
-"gazze",
-"gun",
-"her"
-],
-[
-"acikladi",
-"cin",
-"den",
-"dolara",
-"ithalati",
-"milyar",
-"nin",
-"turkiye",
-"ulasti",
-"yilmaz"
-],
-[
-"bahis",
-"banka",
-"disi",
-"edenlere",
-"hesabi",
-"operasyon",
-"sitelerine",
-"temin",
-"yasa"
-],
 [
 "ara",
 "biletler",
@@ -8841,14 +8812,42 @@
 "istanbul",
 "motosikletli",
 "yola"
+],
+[
+"erdi",
+"gecti",
+"harry",
+"ispanya",
+"kane",
+"nin",
+"serisi",
+"sona",
+"tarihe"
+],
+[
+"300",
+"bin",
+"carpip",
+"ceza",
+"kacan",
+"surucuye",
+"yaraliya"
+],
+[
+"belcika",
+"dustugu",
+"geriye",
+"italya",
+"macta",
+"yendi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-15T18:53:00+00:00",
-"Sonsöz (Ankara)": "2026-11-15T20:07:00+00:00",
+"Haber Global": "2026-11-15T21:54:00+00:00",
+"Sonsöz (Ankara)": "2026-11-15T22:05:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
-"Sözcü Son Dakika": "2026-11-15T20:02:52+00:00",
+"Sözcü Son Dakika": "2026-11-15T22:08:00+00:00",
 "Yeni Şafak Yerel": "2026-11-15T21:05:01+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-15T21:01:06+00:00",
