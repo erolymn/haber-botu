@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"0d8bde89abcc4a0c",
-"34b40def66f73a51",
-"38e3617a280d3404",
 "e06d8bc4577ab885",
 "ae7d9ca2ebe47c07",
 "3d31d8f0f176b0c9",
@@ -2999,44 +2996,12 @@
 "87d19b38976e7725",
 "c2545512a4baf668",
 "621a90d926fe7e47",
-"4f60ba21a8622c05"
+"4f60ba21a8622c05",
+"0382b1a9c43845e9",
+"4c4d350a86d996c2",
+"0e1b931aeb45a40d"
 ],
 "imzalar": [
-[
-"cektigi",
-"cikinca",
-"cumhurbaskani",
-"degisti",
-"erdogan",
-"esi",
-"gorev",
-"ilkesi",
-"konyali",
-"kurada",
-"tarafsizlik",
-"uygulandi",
-"yeri"
-],
-[
-"azerbaycan",
-"dan",
-"doktora",
-"hamlesi",
-"sanayisinde",
-"savunma",
-"turkiye"
-],
-[
-"alindi",
-"cevik",
-"enver",
-"ettigi",
-"gozaltina",
-"isaret",
-"ozel",
-"ozgur",
-"tekrar"
-],
 [
 "dan",
 "edilen",
@@ -8834,6 +8799,32 @@
 "iran",
 "sure",
 "yeni"
+],
+[
+"adam",
+"avrupa",
+"futbolcumuza",
+"hayran",
+"kaldi",
+"milli",
+"yapsin"
+],
+[
+"essiz",
+"goruntulendi",
+"havadan",
+"istanbul",
+"manzarasi"
+],
+[
+"akcakoca",
+"dalgalar",
+"hircin",
+"metrelik",
+"olusturdu",
+"oyuklar",
+"sahilinde",
+"yaklasik"
 ]
 ],
 "son_tarih": {
@@ -8841,13 +8832,13 @@
 "Sonsöz (Ankara)": "2026-11-16T06:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
-"Sözcü Son Dakika": "2026-11-16T05:04:52+00:00",
-"Yeni Şafak Yerel": "2026-11-16T06:07:09+00:00",
+"Sözcü Son Dakika": "2026-11-16T07:01:58+00:00",
+"Yeni Şafak Yerel": "2026-11-16T07:08:36+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-16T02:15:20+00:00",
 "@islamasalya": "2026-11-15T20:18:21+00:00",
 "Yeni Asır (İzmir)": "2026-11-16T03:50:14+00:00",
-"İstanbul Gazetesi": "2026-11-15T20:06:00+00:00",
+"İstanbul Gazetesi": "2026-11-16T07:03:00+00:00",
 "Kandilli Rasathanesi": "2026-11-16T03:01:48+00:00"
 }
 }
