@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"85b4e5b4bcd3b919",
-"2afd3dc51d827202",
-"40302652ab3d6772",
 "0ff4f8e0efb97fde",
 "905d79dc9cdaeaf4",
 "51fd1e3d09855424",
@@ -2999,40 +2996,12 @@
 "3a266a09d5f441d8",
 "cbe2ad2f2c577a71",
 "2d798045ce754ea6",
-"8f8b6c3d8c59f260"
+"8f8b6c3d8c59f260",
+"128cbe9bb023a09c",
+"8d301c10683665c8",
+"98d8ccb26c42fa99"
 ],
 "imzalar": [
-[
-"edilemeyen",
-"kolay",
-"musiala",
-"oynayamiyor",
-"rahatsizligi",
-"tedavi",
-"yuzden"
-],
-[
-"ankara",
-"dosyasi",
-"gonderildi",
-"hakkindaki",
-"mustafa",
-"sarigul",
-"sorusturma"
-],
-[
-"davasi",
-"hapis",
-"iddialarina",
-"iftira",
-"ihrac",
-"istemi",
-"kadar",
-"mesnetsiz",
-"tegmene",
-"tegmenlerin",
-"yila"
-],
 [
 "gidilir",
 "hafta",
@@ -8816,20 +8785,49 @@
 "tatil",
 "yapanlar",
 "yerlerden"
+],
+[
+"belcika",
+"birakti",
+"lukaku",
+"milli",
+"romelu",
+"takimi"
+],
+[
+"aciklamasi",
+"belli",
+"kizilcik",
+"ndan",
+"nedeni",
+"serbeti",
+"sessizliginin",
+"sibel",
+"tascioglu"
+],
+[
+"alev",
+"arac",
+"catalca",
+"gozaltinda",
+"halindeki",
+"park",
+"supheli",
+"yandi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-16T10:04:00+00:00",
-"Sonsöz (Ankara)": "2026-11-16T09:50:00+00:00",
+"Sonsöz (Ankara)": "2026-11-16T11:11:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
-"Sözcü Son Dakika": "2026-11-16T10:09:28+00:00",
+"Sözcü Son Dakika": "2026-11-16T11:08:47+00:00",
 "Yeni Şafak Yerel": "2026-11-16T10:10:50+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-16T09:49:32+00:00",
 "@islamasalya": "2026-11-15T20:18:21+00:00",
 "Yeni Asır (İzmir)": "2026-11-16T09:52:39+00:00",
-"İstanbul Gazetesi": "2026-11-16T07:03:00+00:00",
+"İstanbul Gazetesi": "2026-11-16T11:08:00+00:00",
 "Kandilli Rasathanesi": "2026-11-16T03:01:48+00:00"
 }
 }
