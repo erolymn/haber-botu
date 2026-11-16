@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"1bb1dc6b918dbfda",
-"b7130cfd077667a8",
-"aee35e9c174c5863",
-"9d0753e7a6423bb4",
 "b6ed52e4ceb7588d",
 "60c249f0e806b1ea",
 "bf84d81679226427",
@@ -2999,42 +2995,13 @@
 "a416a687498b4cec",
 "7bf9cc8914e85fa7",
 "3e36e0719f584e60",
-"b6cd30d4d9b22702"
+"b6cd30d4d9b22702",
+"d23ec24df8cfcd46",
+"827e3ebb561054ae",
+"915786511d375523",
+"e1c195f8b2b6d088"
 ],
 "imzalar": [
-[
-"baskiresim",
-"bulustu",
-"bursa",
-"cocuklarin",
-"dunyasi",
-"hayal"
-],
-[
-"donumunde",
-"dostum",
-"kalbimde",
-"kiymetli",
-"komutani",
-"mucahit",
-"ozel",
-"saha",
-"sahip",
-"sehadetinin",
-"ucuncu",
-"yere",
-"yil"
-],
-[
-"bekleyis",
-"habas",
-"hastanede",
-"izmir",
-"korkulu",
-"patlama",
-"sonrasi",
-"taki"
-],
 [
 "arama",
 "calismalari",
@@ -8827,20 +8794,50 @@
 "direncli",
 "karsi",
 "kent"
+],
+[
+"alt",
+"bursali",
+"efe",
+"madrid",
+"real",
+"secildi",
+"yapisina",
+"yasindaki"
+],
+[
+"azaliyor",
+"beynin",
+"etkisi",
+"gizli",
+"iste",
+"neden",
+"nedeni",
+"uykunun",
+"yaslandikca"
+],
+[
+"calindi",
+"fransa",
+"kisinin",
+"milyon",
+"saldiri",
+"siber",
+"verileri"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-15T23:55:00+00:00",
-"Sonsöz (Ankara)": "2026-11-16T01:52:00+00:00",
+"Sonsöz (Ankara)": "2026-11-16T03:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
-"Sözcü Son Dakika": "2026-11-16T02:03:44+00:00",
+"Sözcü Son Dakika": "2026-11-16T03:05:12+00:00",
 "Yeni Şafak Yerel": "2026-11-16T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-16T02:05:51+00:00",
+"Olay (Bursa)": "2026-11-16T02:15:20+00:00",
 "@islamasalya": "2026-11-15T20:18:21+00:00",
 "Yeni Asır (İzmir)": "2026-11-15T21:34:38+00:00",
 "İstanbul Gazetesi": "2026-11-15T20:06:00+00:00",
-"Kandilli Rasathanesi": "2026-11-15T02:46:04+00:00"
+"Kandilli Rasathanesi": "2026-11-16T03:01:48+00:00"
 }
 }
