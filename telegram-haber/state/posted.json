@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"c23f838bd0604110",
-"c018fc854a60a88f",
-"1c7d36f454eb27c1",
 "0b4a6bb9922871ab",
 "3ac3ab3a0339552e",
 "93d232d6a285b9ca",
@@ -2999,40 +2996,12 @@
 "3db2ceca67f159c2",
 "c3fec1a2f1153526",
 "d8405a0f2e97d084",
-"d770e2fbceb40a0a"
+"d770e2fbceb40a0a",
+"16e80e2f0a68b675",
+"68531a646c6b73f1",
+"bcadc3f8854df900"
 ],
 "imzalar": [
-[
-"111",
-"aciklamalar",
-"baskan",
-"dan",
-"donem",
-"erdogan",
-"kaymakamlar",
-"kurasi",
-"nde",
-"onemli",
-"toreni"
-],
-[
-"ferdi",
-"hayalleri",
-"muzikle",
-"yasatilacak",
-"zeyrek"
-],
-[
-"batrakov",
-"geliyor",
-"istanbul",
-"iste",
-"kalma",
-"maddesi",
-"menajeri",
-"serbest",
-"yeni"
-],
 [
 "buldu",
 "dusan",
@@ -8837,14 +8806,40 @@
 "skora",
 "yalcin",
 "yansitamadik"
+],
+[
+"aranan",
+"bicaklanmis",
+"bulundu",
+"cocuk",
+"halde",
+"kayip",
+"mardin",
+"olarak"
+],
+[
+"iktidar",
+"kurultay",
+"mesaji",
+"olacagiz",
+"omuz",
+"omuza",
+"ozel"
+],
+[
+"feci",
+"kaza",
+"kisi",
+"osmaniye",
+"yaralandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-15T21:54:00+00:00",
-"Sonsöz (Ankara)": "2026-11-15T22:55:00+00:00",
+"Haber Global": "2026-11-15T23:55:00+00:00",
+"Sonsöz (Ankara)": "2026-11-16T00:07:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
-"Sözcü Son Dakika": "2026-11-15T22:33:29+00:00",
+"Sözcü Son Dakika": "2026-11-16T00:00:28+00:00",
 "Yeni Şafak Yerel": "2026-11-15T22:19:18+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-15T21:01:06+00:00",
