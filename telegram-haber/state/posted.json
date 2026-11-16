@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"e06d8bc4577ab885",
-"ae7d9ca2ebe47c07",
-"3d31d8f0f176b0c9",
 "8401b6c6b3afce91",
 "6bc6283116462b6a",
 "729e000b1c04cc4f",
@@ -2999,35 +2996,12 @@
 "4f60ba21a8622c05",
 "0382b1a9c43845e9",
 "4c4d350a86d996c2",
-"0e1b931aeb45a40d"
+"0e1b931aeb45a40d",
+"e8679accf57da0e5",
+"aad9aa758a86879c",
+"9f8165007cc7997a"
 ],
 "imzalar": [
-[
-"dan",
-"edilen",
-"hakkinda",
-"iddianame",
-"ihrac",
-"tegmen",
-"tsk"
-],
-[
-"alindi",
-"gozaltina",
-"insan",
-"kacakciligi",
-"kardesi",
-"orban",
-"suphesiyle",
-"viktor"
-],
-[
-"cook",
-"cumhurbaskani",
-"erdogan",
-"kabul",
-"tim"
-],
 [
 "ataturk",
 "dort",
@@ -8825,6 +8799,33 @@
 "oyuklar",
 "sahilinde",
 "yaklasik"
+],
+[
+"avantajli",
+"bilet",
+"den",
+"disina",
+"kampanyasi",
+"thy",
+"yurt"
+],
+[
+"211",
+"ayda",
+"bin",
+"bogazi",
+"gemi",
+"istanbul",
+"kaydedildi",
+"nda",
+"trafigi"
+],
+[
+"asisi",
+"bilinci",
+"bursa",
+"cevre",
+"cocuklara"
 ]
 ],
 "son_tarih": {
@@ -8833,11 +8834,11 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
 "Sözcü Son Dakika": "2026-11-16T07:01:58+00:00",
-"Yeni Şafak Yerel": "2026-11-16T07:08:36+00:00",
+"Yeni Şafak Yerel": "2026-11-16T08:09:21+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-16T02:15:20+00:00",
+"Olay (Bursa)": "2026-11-16T08:10:48+00:00",
 "@islamasalya": "2026-11-15T20:18:21+00:00",
-"Yeni Asır (İzmir)": "2026-11-16T03:50:14+00:00",
+"Yeni Asır (İzmir)": "2026-11-16T08:08:37+00:00",
 "İstanbul Gazetesi": "2026-11-16T07:03:00+00:00",
 "Kandilli Rasathanesi": "2026-11-16T03:01:48+00:00"
 }
