@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"a46abed37c3ffe30",
-"8ac479523788203b",
-"7be5c68a5ffe2332",
 "ec54429d36aa399b",
 "6705fc9f0292b6eb",
 "da2beaee1250e46a",
@@ -2999,45 +2996,12 @@
 "93f3d0aa5ff11247",
 "2b380fd2dd8c4d12",
 "492382d8422fae7a",
-"dc44a0b8fca098e5"
+"dc44a0b8fca098e5",
+"8a1b9342510024ff",
+"31c8107adddd1e66",
+"b822630dcd42d31b"
 ],
 "imzalar": [
-[
-"cozmek",
-"devreye",
-"istasyonundaki",
-"kecileri",
-"soktular",
-"sorunu",
-"tren"
-],
-[
-"abdulkerim",
-"bera",
-"buyuk",
-"ebu",
-"isa",
-"kassam",
-"komutan",
-"mervan",
-"nin",
-"sehit",
-"tugaylari",
-"videosunu",
-"yayinladi"
-],
-[
-"alan",
-"fransa",
-"hedef",
-"iran",
-"kalmayacak",
-"karsiliksiz",
-"marketleri",
-"saldiridan",
-"sorumlu",
-"tuttu"
-],
 [
 "acikladi",
 "can",
@@ -8824,15 +8788,38 @@
 "olacak",
 "yenileniyor",
 "yillik"
+],
+[
+"bolgede",
+"ekiplerinden",
+"helikopterin",
+"inemedigi",
+"kurtarma",
+"umke",
+"zorlu"
+],
+[
+"abd",
+"bankalara",
+"erisim",
+"sorunu"
+],
+[
+"emekliyi",
+"kulis",
+"payi",
+"refah",
+"surprizi",
+"yikan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-16T17:05:00+00:00",
+"Haber Global": "2026-11-16T19:10:00+00:00",
 "Sonsöz (Ankara)": "2026-11-16T15:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
-"Sözcü Son Dakika": "2026-11-16T18:09:32+00:00",
-"Yeni Şafak Yerel": "2026-11-16T18:09:57+00:00",
+"Sözcü Son Dakika": "2026-11-16T19:10:31+00:00",
+"Yeni Şafak Yerel": "2026-11-16T19:09:48+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-16T18:07:45+00:00",
 "@islamasalya": "2026-11-16T13:43:25+00:00",
