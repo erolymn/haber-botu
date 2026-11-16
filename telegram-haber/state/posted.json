@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"22d146b3be0c39dd",
-"7b9aaa1cffdf4329",
-"162bc094b2e620cb",
 "1bb1dc6b918dbfda",
 "b7130cfd077667a8",
 "aee35e9c174c5863",
@@ -2999,34 +2996,12 @@
 "dd2e806a2f2ebf39",
 "e8960769db37f841",
 "90a57781bd508950",
-"a416a687498b4cec"
+"a416a687498b4cec",
+"7bf9cc8914e85fa7",
+"3e36e0719f584e60",
+"b6cd30d4d9b22702"
 ],
 "imzalar": [
-[
-"luks",
-"nin",
-"protein",
-"turkiye",
-"ucurumu",
-"yemek"
-],
-[
-"can",
-"cekecek",
-"degilsin",
-"eski",
-"fenerbahceliden",
-"hareket",
-"irfan",
-"kapasitede",
-"sert",
-"sozler"
-],
-[
-"adana",
-"deprem",
-"korkutan"
-],
 [
 "baskiresim",
 "bulustu",
@@ -8823,17 +8798,46 @@
 "olmaz",
 "olur",
 "tasarruf"
+],
+[
+"actirmadi",
+"aydin",
+"goz",
+"nazilli",
+"polisi",
+"tacirlerine",
+"tutuklama",
+"zehir"
+],
+[
+"dolar",
+"gommusler",
+"milyon",
+"ormana",
+"rusveti",
+"saat",
+"sayimi",
+"surdu",
+"tam"
+],
+[
+"birlesti",
+"bursa",
+"depreme",
+"direncli",
+"karsi",
+"kent"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-15T23:55:00+00:00",
-"Sonsöz (Ankara)": "2026-11-16T00:54:00+00:00",
+"Sonsöz (Ankara)": "2026-11-16T01:52:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
-"Sözcü Son Dakika": "2026-11-16T01:00:29+00:00",
+"Sözcü Son Dakika": "2026-11-16T02:03:44+00:00",
 "Yeni Şafak Yerel": "2026-11-16T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-15T21:49:56+00:00",
+"Olay (Bursa)": "2026-11-16T02:05:51+00:00",
 "@islamasalya": "2026-11-15T20:18:21+00:00",
 "Yeni Asır (İzmir)": "2026-11-15T21:34:38+00:00",
 "İstanbul Gazetesi": "2026-11-15T20:06:00+00:00",
