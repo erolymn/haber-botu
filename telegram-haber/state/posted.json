@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"9145e9bed3ec4a6a",
-"b6d71d6d8bc9d27e",
-"4c91d87dfe8aa276",
 "44d607558141aff7",
 "9ac660a78d7a4c5c",
 "2b68abedcdd70aee",
@@ -2999,43 +2996,12 @@
 "9ab8cd009839b118",
 "cbb35d5df4fcd038",
 "4a4c49c14fd6a455",
-"8033d6ca96d3ca1d"
+"8033d6ca96d3ca1d",
+"da84ea585eb098d2",
+"85c54ced01279810",
+"12bcd35610dfc059"
 ],
 "imzalar": [
-[
-"aci",
-"aciklandi",
-"aliaga",
-"bilanco",
-"daki",
-"faciada",
-"hayatini",
-"isci",
-"izmir",
-"kaybetmisti",
-"kimlikleri",
-"yaralilarin"
-],
-[
-"aciklamasi",
-"bakan",
-"cop31",
-"dan",
-"davet",
-"degismeyecek",
-"etmedik",
-"israil",
-"kurum",
-"tutumumuz"
-],
-[
-"anlamli",
-"etkinligi",
-"kasim",
-"mudanya",
-"ozel",
-"spor"
-],
 [
 "acilis",
 "dikec",
@@ -8815,15 +8781,43 @@
 "villa",
 "yetisecek",
 "zemini"
+],
+[
+"altinda",
+"cadirlari",
+"canli",
+"dalga",
+"gazzelilerle",
+"gectiler",
+"kalan",
+"yayinda"
+],
+[
+"dustu",
+"ligi",
+"milli",
+"takim",
+"uefa",
+"uluslar"
+],
+[
+"adaya",
+"agaclari",
+"avliyorlar",
+"getirdikleri",
+"yilan",
+"yillardir",
+"yuzunden",
+"zeytin"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-16T19:59:00+00:00",
+"Haber Global": "2026-11-16T21:53:00+00:00",
 "Sonsöz (Ankara)": "2026-11-16T15:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
-"Sözcü Son Dakika": "2026-11-16T21:11:07+00:00",
-"Yeni Şafak Yerel": "2026-11-16T21:05:43+00:00",
+"Sözcü Son Dakika": "2026-11-16T22:00:28+00:00",
+"Yeni Şafak Yerel": "2026-11-16T21:47:48+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-16T20:11:49+00:00",
 "@islamasalya": "2026-11-16T13:43:25+00:00",
