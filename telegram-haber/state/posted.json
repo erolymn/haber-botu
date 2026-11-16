@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"44d607558141aff7",
-"9ac660a78d7a4c5c",
-"2b68abedcdd70aee",
 "0363316523c0230c",
 "082698a46544b40f",
 "578d865dde28bfac",
@@ -2999,41 +2996,12 @@
 "8033d6ca96d3ca1d",
 "da84ea585eb098d2",
 "85c54ced01279810",
-"12bcd35610dfc059"
+"12bcd35610dfc059",
+"dfd4023ddd0c7aa5",
+"b86ac22f84edd663",
+"d8f2692c830dabf7"
 ],
 "imzalar": [
-[
-"acilis",
-"dikec",
-"ikonik",
-"pozuyla",
-"toreni",
-"yapildi",
-"yusuf"
-],
-[
-"alarmi",
-"ankara",
-"hangi",
-"kapatilacak",
-"kasim",
-"trafige",
-"yollar"
-],
-[
-"abd",
-"benzeri",
-"den",
-"garantisi",
-"getirildi",
-"gundemine",
-"guvenlik",
-"nato",
-"nin",
-"onerisi",
-"rusya",
-"ukrayna"
-],
 [
 "belli",
 "boy",
@@ -8809,11 +8777,39 @@
 "yillardir",
 "yuzunden",
 "zeytin"
+],
+[
+"bekleyen",
+"buyuleyici",
+"gecmisin",
+"izinde",
+"izmir",
+"kesfedilmeyi",
+"muzeleri",
+"yolculuk"
+],
+[
+"cocuk",
+"duzce",
+"kanala",
+"otomobil",
+"uctu",
+"yarali"
+],
+[
+"alamayan",
+"feci",
+"karabuk",
+"kaza",
+"otomobil",
+"sarampole",
+"viraji",
+"yuvarlandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-16T21:53:00+00:00",
-"Sonsöz (Ankara)": "2026-11-16T15:12:00+00:00",
+"Haber Global": "2026-11-16T22:55:00+00:00",
+"Sonsöz (Ankara)": "2026-11-16T23:08:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
 "Sözcü Son Dakika": "2026-11-16T22:00:28+00:00",
@@ -8821,7 +8817,7 @@
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-16T20:11:49+00:00",
 "@islamasalya": "2026-11-16T13:43:25+00:00",
-"Yeni Asır (İzmir)": "2026-11-16T19:48:09+00:00",
+"Yeni Asır (İzmir)": "2026-11-16T20:39:37+00:00",
 "İstanbul Gazetesi": "2026-11-16T21:02:00+00:00",
 "Kandilli Rasathanesi": "2026-11-16T03:01:48+00:00"
 }
