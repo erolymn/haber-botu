@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"8401b6c6b3afce91",
-"6bc6283116462b6a",
-"729e000b1c04cc4f",
 "27d0a33e16bc875f",
 "1ba325f7a3b36ea8",
 "6d74352af5c5fc69",
@@ -2999,41 +2996,12 @@
 "0e1b931aeb45a40d",
 "e8679accf57da0e5",
 "aad9aa758a86879c",
-"9f8165007cc7997a"
+"9f8165007cc7997a",
+"a06f08f8d3bfb3ae",
+"f14f05e5e391f628",
+"7054a10af1bcee65"
 ],
 "imzalar": [
-[
-"ataturk",
-"dort",
-"ezgileri",
-"istanbul",
-"kasim",
-"yaninda",
-"yukselecek"
-],
-[
-"besiktas",
-"dan",
-"derbisi",
-"galatasaray",
-"girdi",
-"kotu",
-"leao",
-"osimhen",
-"tehlikeye"
-],
-[
-"borc",
-"dan",
-"herkesi",
-"ilgilendiriyor",
-"karari",
-"mesaji",
-"para",
-"veren",
-"whatsapp",
-"yargitay"
-],
 [
 "hidayet",
 "kadrosu",
@@ -8826,15 +8794,42 @@
 "bursa",
 "cevre",
 "cocuklara"
+],
+[
+"167",
+"ilde",
+"operasyonu",
+"siber",
+"suc",
+"supheli",
+"yakalandi"
+],
+[
+"devam",
+"ediyor",
+"eskisehir",
+"insaati",
+"kompleksinin",
+"saglik",
+"yeni"
+],
+[
+"aselsan",
+"dan",
+"dev",
+"euroluk",
+"imza",
+"milyar",
+"roketsan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-16T06:05:00+00:00",
-"Sonsöz (Ankara)": "2026-11-16T06:10:00+00:00",
+"Haber Global": "2026-11-16T09:03:00+00:00",
+"Sonsöz (Ankara)": "2026-11-16T09:05:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
 "Sözcü Son Dakika": "2026-11-16T07:01:58+00:00",
-"Yeni Şafak Yerel": "2026-11-16T08:09:21+00:00",
+"Yeni Şafak Yerel": "2026-11-16T09:07:17+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-16T08:10:48+00:00",
 "@islamasalya": "2026-11-15T20:18:21+00:00",
