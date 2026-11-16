@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"5dbc2338679afbef",
-"854cdf5030f65617",
-"ce90fd8714393287",
 "5f1aab5292c7e7b9",
 "6a720773795e8a3e",
 "bad1f65dc1beac31",
@@ -2999,35 +2996,12 @@
 "1c5faf66d851e920",
 "18d46cc22d2f94a9",
 "5fe025d61b37f6b7",
-"fd63319b05aaacf1"
+"fd63319b05aaacf1",
+"594603f97e1c9c56",
+"90e5c1b419e190f6",
+"afcb404ed0c22606"
 ],
 "imzalar": [
-[
-"bahceli",
-"den",
-"kasim",
-"mesaji"
-],
-[
-"aydin",
-"kisi",
-"operasyon",
-"orgutune",
-"sayisi",
-"suc",
-"toplam",
-"tutuklandi",
-"tutuklu"
-],
-[
-"calisma",
-"durma",
-"geldi",
-"nedeniyle",
-"noktasina",
-"trafik",
-"yapilan"
-],
 [
 "cumhurbaskani",
 "dan",
@@ -8806,15 +8780,49 @@
 "meclisi",
 "parti",
 "yeni"
+],
+[
+"sarigul",
+"sorusturmasi",
+"supheliye",
+"talebi",
+"tutuklama"
+],
+[
+"aciklama",
+"akp",
+"cigdem",
+"fon",
+"iddialarindan",
+"ilgili",
+"ilk",
+"karaaslan",
+"krizi",
+"nin",
+"parti",
+"yeni"
+],
+[
+"bolluk",
+"boyle",
+"dustu",
+"fiyati",
+"gormedim",
+"haftada",
+"palamudun",
+"ucuzluk",
+"yari",
+"yariya",
+"yildir"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-16T10:04:00+00:00",
+"Haber Global": "2026-11-16T14:50:00+00:00",
 "Sonsöz (Ankara)": "2026-11-16T15:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
-"Sözcü Son Dakika": "2026-11-16T11:08:47+00:00",
-"Yeni Şafak Yerel": "2026-11-16T12:09:37+00:00",
+"Sözcü Son Dakika": "2026-11-16T15:05:10+00:00",
+"Yeni Şafak Yerel": "2026-11-16T15:12:12+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-16T15:09:33+00:00",
 "@islamasalya": "2026-11-16T13:43:25+00:00",
