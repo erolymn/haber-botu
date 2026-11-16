@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"0ff363eb4c782db5",
-"e6bc7cb4ffca5791",
-"9b8fb6954fb6e7f9",
 "0d8bde89abcc4a0c",
 "34b40def66f73a51",
 "38e3617a280d3404",
@@ -2999,39 +2996,12 @@
 "ec93d9a5ac2ed0f7",
 "612a820ce661cea9",
 "5331e1ef69e93fe6",
-"87d19b38976e7725"
+"87d19b38976e7725",
+"c2545512a4baf668",
+"621a90d926fe7e47",
+"4f60ba21a8622c05"
 ],
 "imzalar": [
-[
-"aliaga",
-"bassagligi",
-"belediyesi",
-"mesaji",
-"mustafakemalpasa",
-"nden"
-],
-[
-"ajet",
-"bilet",
-"indirimli",
-"kampanyasi",
-"kktc",
-"ten",
-"ucuslarinda"
-],
-[
-"aciklama",
-"bakan",
-"betul",
-"fatma",
-"gurlek",
-"iddiasi",
-"kaya",
-"koruma",
-"ozel",
-"sayan",
-"ten"
-],
 [
 "cektigi",
 "cikinca",
@@ -8835,15 +8805,44 @@
 "istenen",
 "turk",
 "yapiyordu"
+],
+[
+"basladi",
+"haftaya",
+"kuresel",
+"piyasalar",
+"temkinli"
+],
+[
+"atlari",
+"bitlis",
+"daglarda",
+"siirt",
+"sinirina",
+"yakin",
+"yilki",
+"yoneldi",
+"zirvelere"
+],
+[
+"bogazi",
+"dan",
+"gune",
+"hamle",
+"hurmuz",
+"indirildi",
+"iran",
+"sure",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-16T04:40:00+00:00",
-"Sonsöz (Ankara)": "2026-11-16T03:03:00+00:00",
+"Haber Global": "2026-11-16T06:05:00+00:00",
+"Sonsöz (Ankara)": "2026-11-16T06:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
 "Sözcü Son Dakika": "2026-11-16T05:04:52+00:00",
-"Yeni Şafak Yerel": "2026-11-16T04:32:38+00:00",
+"Yeni Şafak Yerel": "2026-11-16T06:07:09+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-16T02:15:20+00:00",
 "@islamasalya": "2026-11-15T20:18:21+00:00",
