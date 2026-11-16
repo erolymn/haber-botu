@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"27d0a33e16bc875f",
-"1ba325f7a3b36ea8",
-"6d74352af5c5fc69",
 "2fdacfc9bce4df28",
 "f1b7168da42c9151",
 "e826777e2f2d0274",
@@ -2999,46 +2996,12 @@
 "9f8165007cc7997a",
 "a06f08f8d3bfb3ae",
 "f14f05e5e391f628",
-"7054a10af1bcee65"
+"7054a10af1bcee65",
+"7bef6add6d962144",
+"ff3cdaebbec8afb3",
+"3a266a09d5f441d8"
 ],
 "imzalar": [
-[
-"hidayet",
-"kadrosu",
-"milli",
-"olusturduk",
-"takim",
-"turkoglu",
-"yeni"
-],
-[
-"adim",
-"baskan",
-"cemil",
-"cikti",
-"cop31",
-"gelir",
-"guclu",
-"iklim",
-"kursuye",
-"mucadelesinde",
-"tugay",
-"yerel",
-"yonetimlerden"
-],
-[
-"acikladi",
-"anlatirken",
-"bizde",
-"candan",
-"carpici",
-"deyip",
-"duyum",
-"ilgili",
-"plani",
-"simdi",
-"yuceer"
-],
 [
 "arnavutkoy",
 "carpisti",
@@ -8821,15 +8784,44 @@
 "imza",
 "milyar",
 "roketsan"
+],
+[
+"aci",
+"can",
+"dusen",
+"helezon",
+"isci",
+"makinesine",
+"olay",
+"osmaniye",
+"verdi"
+],
+[
+"aciklama",
+"bekleniyor",
+"kilitlendi",
+"saat",
+"turkiye"
+],
+[
+"gribi",
+"kitligi",
+"kus",
+"norvec",
+"tavuk",
+"ten",
+"uyarisi",
+"yasanabilir",
+"yumurta"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-16T09:03:00+00:00",
+"Haber Global": "2026-11-16T10:04:00+00:00",
 "Sonsöz (Ankara)": "2026-11-16T09:05:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
-"Sözcü Son Dakika": "2026-11-16T07:01:58+00:00",
-"Yeni Şafak Yerel": "2026-11-16T09:07:17+00:00",
+"Sözcü Son Dakika": "2026-11-16T10:09:28+00:00",
+"Yeni Şafak Yerel": "2026-11-16T10:10:50+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-16T08:10:48+00:00",
 "@islamasalya": "2026-11-15T20:18:21+00:00",
