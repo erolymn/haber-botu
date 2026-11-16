@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"ec54429d36aa399b",
-"6705fc9f0292b6eb",
-"da2beaee1250e46a",
 "e468534d2ed20bc2",
 "50238fe7127e848f",
 "a7464c42a79d9838",
@@ -2999,43 +2996,12 @@
 "dc44a0b8fca098e5",
 "8a1b9342510024ff",
 "31c8107adddd1e66",
-"b822630dcd42d31b"
+"b822630dcd42d31b",
+"ef83a8451e8d9961",
+"b4f228f343e38237",
+"5b4e14351318ae54"
 ],
 "imzalar": [
-[
-"acikladi",
-"can",
-"erdogan",
-"kaybi",
-"korkunc",
-"tabloyu",
-"yukseldi"
-],
-[
-"cop31",
-"icecek",
-"tanitti",
-"tesisi",
-"uludag",
-"uretim",
-"yatirimini",
-"yeni"
-],
-[
-"alarm",
-"alindi",
-"beyaz",
-"cevresinde",
-"cikislar",
-"gecici",
-"giris",
-"gozaltina",
-"iki",
-"kapatildi",
-"kisi",
-"olarak",
-"saray"
-],
 [
 "film",
 "hayat",
@@ -8811,6 +8777,32 @@
 "refah",
 "surprizi",
 "yikan"
+],
+[
+"telegram",
+"ulkede",
+"yasaklandi"
+],
+[
+"beer",
+"besiktas",
+"biletleri",
+"cikacak",
+"hapoel",
+"karsilasmasinin",
+"satisa",
+"sheva",
+"yarin"
+],
+[
+"acikladi",
+"adayini",
+"ceferin",
+"hamlesini",
+"infantino",
+"karsi",
+"uefa",
+"yapti"
 ]
 ],
 "son_tarih": {
@@ -8818,10 +8810,10 @@
 "Sonsöz (Ankara)": "2026-11-16T15:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
-"Sözcü Son Dakika": "2026-11-16T19:10:31+00:00",
-"Yeni Şafak Yerel": "2026-11-16T19:09:48+00:00",
+"Sözcü Son Dakika": "2026-11-16T20:06:30+00:00",
+"Yeni Şafak Yerel": "2026-11-16T20:11:01+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-16T18:07:45+00:00",
+"Olay (Bursa)": "2026-11-16T20:11:49+00:00",
 "@islamasalya": "2026-11-16T13:43:25+00:00",
 "Yeni Asır (İzmir)": "2026-11-16T09:52:39+00:00",
 "İstanbul Gazetesi": "2026-11-16T15:55:00+00:00",
