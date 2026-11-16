@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"93d232d6a285b9ca",
-"92c544ad48a852dd",
-"8de6efd4eaf4c8de",
 "22d146b3be0c39dd",
 "7b9aaa1cffdf4329",
 "162bc094b2e620cb",
@@ -2999,35 +2996,12 @@
 "68531a646c6b73f1",
 "bcadc3f8854df900",
 "569649c28f0fa911",
-"dd2e806a2f2ebf39"
+"dd2e806a2f2ebf39",
+"e8960769db37f841",
+"90a57781bd508950",
+"a416a687498b4cec"
 ],
 "imzalar": [
-[
-"400",
-"bahcesinde",
-"cikti",
-"fazla",
-"gomulu",
-"kilogramdan",
-"luks",
-"operasyon",
-"uyusturucu",
-"villaya"
-],
-[
-"bahcesine",
-"besliyor",
-"gelen",
-"tilkiyi"
-],
-[
-"aile",
-"antalya",
-"faciasi",
-"hayatini",
-"kaybetti",
-"kisi"
-],
 [
 "luks",
 "nin",
@@ -8829,15 +8803,35 @@
 "mudahalesi",
 "polis",
 "yapan"
+],
+[
+"alevler",
+"bursa",
+"mahalleyi",
+"sardi",
+"teslim",
+"yangina"
+],
+[
+"guvenilir",
+"muttefik",
+"turkiye"
+],
+[
+"itibardan",
+"ogretmenden",
+"olmaz",
+"olur",
+"tasarruf"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-15T23:55:00+00:00",
-"Sonsöz (Ankara)": "2026-11-16T00:07:00+00:00",
+"Sonsöz (Ankara)": "2026-11-16T00:54:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
-"Sözcü Son Dakika": "2026-11-16T00:00:28+00:00",
-"Yeni Şafak Yerel": "2026-11-15T22:19:18+00:00",
+"Sözcü Son Dakika": "2026-11-16T01:00:29+00:00",
+"Yeni Şafak Yerel": "2026-11-16T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-15T21:49:56+00:00",
 "@islamasalya": "2026-11-15T20:18:21+00:00",
