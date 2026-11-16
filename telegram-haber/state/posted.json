@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"e468534d2ed20bc2",
-"50238fe7127e848f",
-"a7464c42a79d9838",
 "9b9b10d71a6cc2d2",
 "5d0c7d723c89c3ab",
 "fdd0486b127112d0",
@@ -2999,38 +2996,12 @@
 "b822630dcd42d31b",
 "ef83a8451e8d9961",
 "b4f228f343e38237",
-"5b4e14351318ae54"
+"5b4e14351318ae54",
+"62961ffb3207b3fa",
+"891da0d092541a9d",
+"9ab8cd009839b118"
 ],
 "imzalar": [
-[
-"film",
-"hayat",
-"karaktere",
-"meryem",
-"oluyor",
-"roman",
-"uzerli",
-"verecek",
-"yillik"
-],
-[
-"cumhurbaskani",
-"den",
-"destek",
-"erdogan",
-"gorustu",
-"mesaji",
-"nijer",
-"tchiani",
-"turkiye"
-],
-[
-"basketbol",
-"besiktas",
-"karsiyaka",
-"ligi",
-"super"
-],
 [
 "besiktas",
 "farkla",
@@ -8803,10 +8774,42 @@
 "karsi",
 "uefa",
 "yapti"
+],
+[
+"200",
+"adet",
+"arnavutkoy",
+"ele",
+"gecirildi",
+"hap",
+"milyon"
+],
+[
+"abd",
+"ardindan",
+"bankacilik",
+"bankalar",
+"buyuk",
+"durumda",
+"erisilemez",
+"erisim",
+"kesintisi",
+"krizinin",
+"sisteminde",
+"soku",
+"ucus"
+],
+[
+"bingol",
+"hastaneye",
+"kaldirildi",
+"kisi",
+"mantar",
+"zehirlenmesi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-16T19:10:00+00:00",
+"Haber Global": "2026-11-16T19:59:00+00:00",
 "Sonsöz (Ankara)": "2026-11-16T15:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
@@ -8815,8 +8818,8 @@
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-16T20:11:49+00:00",
 "@islamasalya": "2026-11-16T13:43:25+00:00",
-"Yeni Asır (İzmir)": "2026-11-16T09:52:39+00:00",
-"İstanbul Gazetesi": "2026-11-16T15:55:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-16T19:48:09+00:00",
+"İstanbul Gazetesi": "2026-11-16T19:39:00+00:00",
 "Kandilli Rasathanesi": "2026-11-16T03:01:48+00:00"
 }
 }
