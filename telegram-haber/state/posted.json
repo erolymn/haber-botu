@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"bad29ffd617b6fbe",
-"4bb7bf6272355cde",
-"c25b3aed65eccbaf",
 "5dbc2338679afbef",
 "854cdf5030f65617",
 "ce90fd8714393287",
@@ -2999,28 +2996,12 @@
 "98d8ccb26c42fa99",
 "bcffac8d2d7aa067",
 "f19ab0a88ca59c4b",
-"1c5faf66d851e920"
+"1c5faf66d851e920",
+"18d46cc22d2f94a9",
+"5fe025d61b37f6b7",
+"fd63319b05aaacf1"
 ],
 "imzalar": [
-[
-"alindi",
-"fon",
-"gozaltina",
-"gulkan",
-"kapsaminda",
-"murat",
-"omer",
-"sorusturmasi"
-],
-[
-"acikladi",
-"altinda",
-"gram",
-"hedefi",
-"islam",
-"memis",
-"yeni"
-],
 [
 "bahceli",
 "den",
@@ -8807,18 +8788,36 @@
 "iste",
 "stadyum",
 "teklif"
+],
+[
+"bekci",
+"birakmadi",
+"engelli",
+"goruntu",
+"isitan",
+"vatandasi",
+"yalniz",
+"yurekleri"
+],
+[
+"160",
+"donemi",
+"kisilik",
+"meclisi",
+"parti",
+"yeni"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-16T10:04:00+00:00",
-"Sonsöz (Ankara)": "2026-11-16T11:11:00+00:00",
+"Sonsöz (Ankara)": "2026-11-16T15:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
 "Sözcü Son Dakika": "2026-11-16T11:08:47+00:00",
 "Yeni Şafak Yerel": "2026-11-16T12:09:37+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-16T12:10:36+00:00",
-"@islamasalya": "2026-11-16T11:23:00+00:00",
+"Olay (Bursa)": "2026-11-16T15:09:33+00:00",
+"@islamasalya": "2026-11-16T13:43:25+00:00",
 "Yeni Asır (İzmir)": "2026-11-16T09:52:39+00:00",
 "İstanbul Gazetesi": "2026-11-16T11:08:00+00:00",
 "Kandilli Rasathanesi": "2026-11-16T03:01:48+00:00"
