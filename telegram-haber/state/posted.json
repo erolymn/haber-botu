@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"0b4a6bb9922871ab",
-"3ac3ab3a0339552e",
 "93d232d6a285b9ca",
 "92c544ad48a852dd",
 "8de6efd4eaf4c8de",
@@ -2999,30 +2997,11 @@
 "d770e2fbceb40a0a",
 "16e80e2f0a68b675",
 "68531a646c6b73f1",
-"bcadc3f8854df900"
+"bcadc3f8854df900",
+"569649c28f0fa911",
+"dd2e806a2f2ebf39"
 ],
 "imzalar": [
-[
-"buldu",
-"dusan",
-"italiano",
-"kendini",
-"krallik",
-"ortak",
-"vincenzo",
-"vlahovic",
-"yarisinda",
-"yeniden",
-"zirveye"
-],
-[
-"baglandi",
-"dosya",
-"icinde",
-"karara",
-"milyon",
-"yil"
-],
 [
 "400",
 "bahcesinde",
@@ -8832,6 +8811,24 @@
 "kisi",
 "osmaniye",
 "yaralandi"
+],
+[
+"alanlari",
+"dogayla",
+"guzel",
+"ice",
+"izmir",
+"kacis",
+"piknik",
+"rotalari"
+],
+[
+"bursa",
+"gruba",
+"gurultu",
+"mudahalesi",
+"polis",
+"yapan"
 ]
 ],
 "son_tarih": {
@@ -8842,9 +8839,9 @@
 "Sözcü Son Dakika": "2026-11-16T00:00:28+00:00",
 "Yeni Şafak Yerel": "2026-11-15T22:19:18+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-15T21:01:06+00:00",
+"Olay (Bursa)": "2026-11-15T21:49:56+00:00",
 "@islamasalya": "2026-11-15T20:18:21+00:00",
-"Yeni Asır (İzmir)": "2026-11-15T17:03:25+00:00",
+"Yeni Asır (İzmir)": "2026-11-15T21:34:38+00:00",
 "İstanbul Gazetesi": "2026-11-15T20:06:00+00:00",
 "Kandilli Rasathanesi": "2026-11-15T02:46:04+00:00"
 }
