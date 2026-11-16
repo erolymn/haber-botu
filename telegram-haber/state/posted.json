@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"c8afab3e0b912e0a",
-"e45a4a2e80aa3f24",
-"14cb92b445e30fdb",
 "2b14a6cee4933e56",
 "d802895c63ae96f8",
 "50cab147aad6566b",
@@ -2999,44 +2996,12 @@
 "afcb404ed0c22606",
 "6efdcf0c2097dbe9",
 "426ca502a8399252",
-"aaf099957e114932"
+"aaf099957e114932",
+"177c9fdc02bd944b",
+"76908d2808d8f99d",
+"93f3d0aa5ff11247"
 ],
 "imzalar": [
-[
-"belli",
-"ceken",
-"detayi",
-"dikkat",
-"fifa",
-"messi",
-"ronaldo",
-"yilin"
-],
-[
-"ankara",
-"degisiyor",
-"duzenleme",
-"guzerg",
-"hattinin",
-"iste",
-"otobus",
-"yeni"
-],
-[
-"baskan",
-"dan",
-"donus",
-"erdogan",
-"geri",
-"kazanan",
-"milyon",
-"olacak",
-"terorsuz",
-"turkiye",
-"vurgusu",
-"yoktur",
-"yoldan"
-],
 [
 "beden",
 "dersinde",
@@ -8819,15 +8784,51 @@
 "sert",
 "tepki",
 "zihniyeti"
+],
+[
+"akp",
+"beyinsizler",
+"ettirdi",
+"fon",
+"icimizdeki",
+"isyan",
+"krizi",
+"vekili"
+],
+[
+"aciklandi",
+"beer",
+"besiktas",
+"bilet",
+"fiyatlari",
+"hapoel",
+"macinin",
+"sheva"
+],
+[
+"ani",
+"arka",
+"arkaya",
+"baskini",
+"dusecek",
+"istanbul",
+"kilogram",
+"meteoroloji",
+"metrekareye",
+"riski",
+"sel",
+"uyardi",
+"valiligi",
+"yagis"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-16T14:50:00+00:00",
+"Haber Global": "2026-11-16T17:05:00+00:00",
 "Sonsöz (Ankara)": "2026-11-16T15:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
-"Sözcü Son Dakika": "2026-11-16T15:54:39+00:00",
-"Yeni Şafak Yerel": "2026-11-16T16:08:31+00:00",
+"Sözcü Son Dakika": "2026-11-16T17:01:06+00:00",
+"Yeni Şafak Yerel": "2026-11-16T17:10:50+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-16T15:09:33+00:00",
 "@islamasalya": "2026-11-16T13:43:25+00:00",
