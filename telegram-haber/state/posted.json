@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"37a8556c45eb956a",
-"6aa378315b4a13ad",
-"04ae255a24a1c11b",
 "c0b8fc354321273d",
 "0ff363eb4c782db5",
 "e6bc7cb4ffca5791",
@@ -2999,34 +2996,12 @@
 "e1c195f8b2b6d088",
 "85e52b5c374a16b9",
 "f7bc8e6ebd1b7c4f",
-"00bf525a7a58ec51"
+"00bf525a7a58ec51",
+"ec93d9a5ac2ed0f7",
+"612a820ce661cea9",
+"5331e1ef69e93fe6"
 ],
 "imzalar": [
-[
-"aciklama",
-"deki",
-"fabrikadan",
-"geldi",
-"izmir",
-"patlama"
-],
-[
-"1200",
-"aldigi",
-"ikinci",
-"kazandirdi",
-"koltuk",
-"liraya",
-"pazarindan",
-"servet"
-],
-[
-"bitti",
-"caykur",
-"hasreti",
-"rizespor",
-"saha"
-],
 [
 "dorduncu",
 "kafilesi",
@@ -8823,15 +8798,49 @@
 "randevusu",
 "vize",
 "yeni"
+],
+[
+"557",
+"779",
+"adet",
+"bin",
+"ekimde",
+"ihracati",
+"ocak",
+"otomotiv"
+],
+[
+"insanlik",
+"kaybedebilir",
+"kontrolu",
+"korkutan",
+"senaryo",
+"uyarisi",
+"uzmanlardan",
+"yapay",
+"yil",
+"zekada"
+],
+[
+"alacak",
+"deyip",
+"fenerbahce",
+"futbolcuyu",
+"geri",
+"gonderdigi",
+"odeyerek",
+"olmaz",
+"senden",
+"servet"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-16T03:50:00+00:00",
+"Haber Global": "2026-11-16T04:40:00+00:00",
 "Sonsöz (Ankara)": "2026-11-16T03:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-15T05:01:04+00:00",
-"Sözcü Son Dakika": "2026-11-16T04:08:58+00:00",
-"Yeni Şafak Yerel": "2026-11-16T01:00:00+00:00",
+"Sözcü Son Dakika": "2026-11-16T05:04:52+00:00",
+"Yeni Şafak Yerel": "2026-11-16T04:32:38+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-16T02:15:20+00:00",
 "@islamasalya": "2026-11-15T20:18:21+00:00",
