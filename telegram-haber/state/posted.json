@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"2fdacfc9bce4df28",
-"f1b7168da42c9151",
-"e826777e2f2d0274",
 "85b4e5b4bcd3b919",
 "2afd3dc51d827202",
 "40302652ab3d6772",
@@ -2999,34 +2996,12 @@
 "7054a10af1bcee65",
 "7bef6add6d962144",
 "ff3cdaebbec8afb3",
-"3a266a09d5f441d8"
+"3a266a09d5f441d8",
+"cbe2ad2f2c577a71",
+"2d798045ce754ea6",
+"8f8b6c3d8c59f260"
 ],
 "imzalar": [
-[
-"arnavutkoy",
-"carpisti",
-"kamyon",
-"minibusu",
-"servis"
-],
-[
-"baskanlari",
-"bulustu",
-"divan",
-"kulubun",
-"sampiyon"
-],
-[
-"devam",
-"ediyor",
-"fenerbahce",
-"gollerine",
-"guiza",
-"olay",
-"olmustu",
-"transferi",
-"yasinda"
-],
 [
 "edilemeyen",
 "kolay",
@@ -8813,19 +8788,47 @@
 "uyarisi",
 "yasanabilir",
 "yumurta"
+],
+[
+"basketbol",
+"bursaspor",
+"gelisme"
+],
+[
+"aileler",
+"bebeklerin",
+"binlerce",
+"fatura",
+"isyan",
+"lira",
+"tedavisine",
+"yenidogan"
+],
+[
+"ara",
+"biri",
+"buraya",
+"cocuklarla",
+"gidebileceginiz",
+"guzel",
+"izmir",
+"plani",
+"tatil",
+"yapanlar",
+"yerlerden"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-16T10:04:00+00:00",
-"Sonsöz (Ankara)": "2026-11-16T09:05:00+00:00",
+"Sonsöz (Ankara)": "2026-11-16T09:50:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
 "Sözcü Son Dakika": "2026-11-16T10:09:28+00:00",
 "Yeni Şafak Yerel": "2026-11-16T10:10:50+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-16T08:10:48+00:00",
+"Olay (Bursa)": "2026-11-16T09:49:32+00:00",
 "@islamasalya": "2026-11-15T20:18:21+00:00",
-"Yeni Asır (İzmir)": "2026-11-16T08:08:37+00:00",
+"Yeni Asır (İzmir)": "2026-11-16T09:52:39+00:00",
 "İstanbul Gazetesi": "2026-11-16T07:03:00+00:00",
 "Kandilli Rasathanesi": "2026-11-16T03:01:48+00:00"
 }
