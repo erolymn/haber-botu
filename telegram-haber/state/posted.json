@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"b758b553396a2473",
-"a96f26a77bf7547e",
-"bd9b3fb11bb68fc8",
 "717797cff47d22f1",
 "afe7be01b2a19552",
 "a76982bd66ae949b",
@@ -2999,38 +2996,12 @@
 "2cc54bc65e66cd86",
 "75a0fa016a5dca77",
 "fd717fde8c058650",
-"775237fd50b1654c"
+"775237fd50b1654c",
+"6b8545ed83841059",
+"f99a7f253e1e3444",
+"467f4be896fbe6c7"
 ],
 "imzalar": [
-[
-"brezilyali",
-"eski",
-"ettigi",
-"filistinlinin",
-"hediye",
-"kerim",
-"kur",
-"musluman",
-"okuyunca",
-"papaz"
-],
-[
-"charles",
-"dunya",
-"habercisi",
-"ingiltere",
-"konusuyor",
-"krali",
-"neyin",
-"parmaklarini"
-],
-[
-"bursalilar",
-"dikkat",
-"elektrikler",
-"ilcede",
-"kesilecek"
-],
 [
 "buyuyor",
 "diploma",
@@ -8821,15 +8792,50 @@
 "kaza",
 "maltepe",
 "zincirleme"
+],
+[
+"avrupa",
+"katilma",
+"kaybetti",
+"milli",
+"sampiyonasi",
+"sansini",
+"takim",
+"umit"
+],
+[
+"800",
+"alip",
+"annesinin",
+"avcilar",
+"bin",
+"birikimiyle",
+"felc",
+"geciren",
+"ihanet",
+"kacti",
+"liralik",
+"otomobil",
+"tum"
+],
+[
+"anlatarak",
+"cinsel",
+"gundem",
+"hayatini",
+"iddiali",
+"olmustu",
+"pozlar",
+"verdi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-17T16:07:00+00:00",
+"Haber Global": "2026-11-17T18:04:00+00:00",
 "Sonsöz (Ankara)": "2026-11-17T17:05:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T11:06:40+00:00",
-"Sözcü Son Dakika": "2026-11-17T16:07:34+00:00",
-"Yeni Şafak Yerel": "2026-11-17T17:07:21+00:00",
+"Sözcü Son Dakika": "2026-11-17T18:09:34+00:00",
+"Yeni Şafak Yerel": "2026-11-17T18:06:21+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-17T16:15:29+00:00",
 "@islamasalya": "2026-11-17T09:45:49+00:00",
