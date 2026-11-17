@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"29738ba37aa9764d",
-"b89e2ce3721a5448",
-"1032bc1e03941b0a",
-"c6f720c5bfc49190",
 "3002648a831b4a91",
 "c73243c4ce1417c7",
 "02d8a2267fd6a7d3",
@@ -2999,36 +2995,13 @@
 "49db5bacb54d457f",
 "859b860c160bb635",
 "d1d9466e8bab044a",
-"4818da42f9e46885"
+"4818da42f9e46885",
+"2ecddfccbe69836d",
+"36675d8c8625ceb3",
+"55605cae7fc71eaf",
+"90048fe5555d4699"
 ],
 "imzalar": [
-[
-"aldi",
-"geri",
-"kose",
-"ters",
-"verdiklerini",
-"yapti",
-"yine"
-],
-[
-"bursa",
-"durdu",
-"hayat",
-"saat"
-],
-[
-"anlatir",
-"ataturk",
-"bana",
-"belediyesi",
-"duygulandirdi",
-"duzce",
-"hazirladigi",
-"misiniz",
-"nin",
-"video"
-],
 [
 "buzagiyi",
 "dogan",
@@ -8827,6 +8800,37 @@
 "inanc",
 "mirasi",
 "nun"
+],
+[
+"adam",
+"attik",
+"baraja",
+"bulamadilar",
+"cinayet",
+"donduran",
+"dosyasinda",
+"ifade",
+"kan",
+"yillik"
+],
+[
+"beton",
+"bursaspor",
+"deplasmani",
+"ekenler",
+"hazirliklarini",
+"sivasspor",
+"surdurdu"
+],
+[
+"ahmet",
+"cinayeti",
+"donduran",
+"kan",
+"kirpi",
+"nde",
+"sozler",
+"yil"
 ]
 ],
 "son_tarih": {
@@ -8834,13 +8838,13 @@
 "Sonsöz (Ankara)": "2026-11-17T15:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T11:06:40+00:00",
-"Sözcü Son Dakika": "2026-11-17T14:13:38+00:00",
-"Yeni Şafak Yerel": "2026-11-17T15:05:20+00:00",
+"Sözcü Son Dakika": "2026-11-17T16:07:34+00:00",
+"Yeni Şafak Yerel": "2026-11-17T16:09:06+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-17T13:09:57+00:00",
+"Olay (Bursa)": "2026-11-17T16:15:29+00:00",
 "@islamasalya": "2026-11-17T09:45:49+00:00",
 "Yeni Asır (İzmir)": "2026-11-17T15:08:57+00:00",
 "İstanbul Gazetesi": "2026-11-16T21:02:00+00:00",
-"Kandilli Rasathanesi": "2026-11-16T03:01:48+00:00"
+"Kandilli Rasathanesi": "2026-11-17T15:57:45+00:00"
 }
 }
