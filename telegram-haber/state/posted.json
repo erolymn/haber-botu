@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"15405db2a7fccd2b",
-"851d22c7164952e7",
-"026921f9bb33d7c2",
 "d58c23f3f28ecbcf",
 "a3b3011538aa58a2",
 "837ee165b5c4d393",
@@ -2999,36 +2996,12 @@
 "ccb31569d2dabb74",
 "f813364726f6c698",
 "251dd3b30a1f431f",
-"e5186b38c4473256"
+"e5186b38c4473256",
+"417eef4399df3794",
+"13d969d9325e0fc8",
+"0b9e01a9be6add2b"
 ],
 "imzalar": [
-[
-"bursaspor",
-"donecek",
-"ismi",
-"sahalara",
-"talihsiz",
-"zaman"
-],
-[
-"grubu",
-"ibb",
-"kuruldu",
-"meclisi",
-"nde",
-"parti",
-"yeni"
-],
-[
-"bitlis",
-"ele",
-"gecirildi",
-"kacakcilik",
-"liralik",
-"milyon",
-"operasyonu",
-"urun"
-],
 [
 "basladi",
 "calismalara",
@@ -8784,14 +8757,44 @@
 "pazarci",
 "tuketiciyi",
 "ureticiyi"
+],
+[
+"bursa",
+"den",
+"ilde",
+"istanbul",
+"izmir",
+"kar",
+"kod",
+"meteoroloji",
+"pes",
+"pese",
+"sari",
+"uyarisi",
+"yagmur"
+],
+[
+"beraat",
+"davasinda",
+"etmisti",
+"kez",
+"minguzzi",
+"tehditten",
+"tutuklandi"
+],
+[
+"atandi",
+"com",
+"kayyum",
+"sozcu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-17T02:06:00+00:00",
-"Sonsöz (Ankara)": "2026-11-17T00:54:00+00:00",
+"Haber Global": "2026-11-17T02:57:00+00:00",
+"Sonsöz (Ankara)": "2026-11-17T03:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
-"Sözcü Son Dakika": "2026-11-17T01:55:21+00:00",
+"Sözcü Son Dakika": "2026-11-17T03:08:45+00:00",
 "Yeni Şafak Yerel": "2026-11-17T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-17T02:10:44+00:00",
