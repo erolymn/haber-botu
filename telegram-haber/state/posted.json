@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"56774523fd11f61f",
-"4d12b2147cc92f0a",
-"a71f08788c84907d",
 "43642fd24c8ebef3",
 "d22d059a40812815",
 "5b2f8c4d56b6100c",
@@ -2999,37 +2996,12 @@
 "fe6d74adde2155b4",
 "54cc929765a36adb",
 "c929d6863c4dae63",
-"76cbcda059578877"
+"76cbcda059578877",
+"0184e8ee1fc9f24e",
+"95f509d56b96ae8f",
+"9aa86e94b5430986"
 ],
 "imzalar": [
-[
-"dalisi",
-"dolmabahce",
-"onunde",
-"sarayi",
-"saygi"
-],
-[
-"aranan",
-"artik",
-"meyve",
-"olgunlasti",
-"ozgu",
-"sadece",
-"sonbahara",
-"toplaniyor"
-],
-[
-"belli",
-"cikti",
-"haritasi",
-"icinde",
-"nin",
-"ortaya",
-"turkiye",
-"zeka",
-"zeki"
-],
 [
 "ankara",
 "ataturk",
@@ -8839,6 +8811,41 @@
 "jasikevicius",
 "mutlu",
 "tarfin"
+],
+[
+"duraklar",
+"ege",
+"gereken",
+"gormeniz",
+"incisinde",
+"izmir",
+"kesif",
+"nin",
+"ozel",
+"rehberi"
+],
+[
+"abd",
+"alarm",
+"duyuramadi",
+"edilen",
+"genelinde",
+"herkese",
+"kriz",
+"sesini",
+"sisteminde",
+"test",
+"ulusal"
+],
+[
+"aramizda",
+"duyacagiz",
+"gormekten",
+"ittifakinda",
+"mekke",
+"memnuniyet",
+"ulkeleri",
+"yeni"
 ]
 ],
 "son_tarih": {
@@ -8847,12 +8854,12 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T11:06:40+00:00",
 "Sözcü Son Dakika": "2026-11-17T21:09:45+00:00",
-"Yeni Şafak Yerel": "2026-11-17T19:43:08+00:00",
+"Yeni Şafak Yerel": "2026-11-17T21:01:17+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-17T21:09:36+00:00",
 "@islamasalya": "2026-11-17T09:45:49+00:00",
-"Yeni Asır (İzmir)": "2026-11-17T15:08:57+00:00",
-"İstanbul Gazetesi": "2026-11-17T18:27:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-17T19:28:47+00:00",
+"İstanbul Gazetesi": "2026-11-17T21:04:00+00:00",
 "Kandilli Rasathanesi": "2026-11-17T15:57:45+00:00"
 }
 }
