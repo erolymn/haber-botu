@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"0363316523c0230c",
-"082698a46544b40f",
 "578d865dde28bfac",
 "8fa6cf2e1cdb1f45",
 "f64f136b9783a28d",
@@ -2999,25 +2997,11 @@
 "12bcd35610dfc059",
 "dfd4023ddd0c7aa5",
 "b86ac22f84edd663",
-"d8f2692c830dabf7"
+"d8f2692c830dabf7",
+"d13c36db4e3912a3",
+"0b8e0942c928b845"
 ],
 "imzalar": [
-[
-"belli",
-"boy",
-"futbolcu",
-"golden",
-"kazanan"
-],
-[
-"abd",
-"ara",
-"baskani",
-"imkansiz",
-"kazanmak",
-"secimleri",
-"trump"
-],
 [
 "cumhurbaskani",
 "degistirici",
@@ -8805,11 +8789,28 @@
 "sarampole",
 "viraji",
 "yuvarlandi"
+],
+[
+"karabuk",
+"otomobil",
+"sarampole",
+"surucu",
+"yasamini",
+"yitirdi",
+"yuvarlandi"
+],
+[
+"daire",
+"dondu",
+"kayseri",
+"korkutan",
+"kule",
+"yangini"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-16T22:55:00+00:00",
-"Sonsöz (Ankara)": "2026-11-16T23:08:00+00:00",
+"Haber Global": "2026-11-16T23:55:00+00:00",
+"Sonsöz (Ankara)": "2026-11-17T00:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
 "Sözcü Son Dakika": "2026-11-16T22:00:28+00:00",
