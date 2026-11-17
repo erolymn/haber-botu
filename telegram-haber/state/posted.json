@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"85c212fe74ed13ca",
-"bc8851a1edbc6e17",
-"1211717b56ebb7a7",
 "56774523fd11f61f",
 "4d12b2147cc92f0a",
 "a71f08788c84907d",
@@ -2999,38 +2996,12 @@
 "8cec38b49f1b5f00",
 "f651b97666e94c74",
 "2b0cfd843fb63a30",
-"fe6d74adde2155b4"
+"fe6d74adde2155b4",
+"54cc929765a36adb",
+"c929d6863c4dae63",
+"76cbcda059578877"
 ],
 "imzalar": [
-[
-"den",
-"dolu",
-"fatih",
-"galatasaray",
-"ovgu",
-"sozler",
-"terim",
-"yildizina"
-],
-[
-"aglayarak",
-"gazze",
-"gormuyorsunuz",
-"gosterdi",
-"izlenmemesine",
-"neden",
-"paylasimlarinin",
-"tepki"
-],
-[
-"aski",
-"eski",
-"hayatini",
-"kaybetti",
-"niro",
-"nun",
-"robert"
-],
 [
 "dalisi",
 "dolmabahce",
@@ -8838,17 +8809,47 @@
 "olacak",
 "olay",
 "sarkicidan"
+],
+[
+"carpti",
+"igdir",
+"kamyona",
+"motosiklet",
+"olu",
+"yarali"
+],
+[
+"aciklama",
+"algi",
+"biba",
+"bursa",
+"daki",
+"dan",
+"denilerek",
+"faturalariyla",
+"her",
+"ilgili",
+"yapiliyor",
+"zam"
+],
+[
+"farkli",
+"fenerbahce",
+"galibiyeti",
+"jasikevicius",
+"mutlu",
+"tarfin"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-17T20:03:00+00:00",
+"Haber Global": "2026-11-17T21:09:00+00:00",
 "Sonsöz (Ankara)": "2026-11-17T17:05:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T11:06:40+00:00",
-"Sözcü Son Dakika": "2026-11-17T20:10:32+00:00",
+"Sözcü Son Dakika": "2026-11-17T21:09:45+00:00",
 "Yeni Şafak Yerel": "2026-11-17T19:43:08+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-17T16:15:29+00:00",
+"Olay (Bursa)": "2026-11-17T21:09:36+00:00",
 "@islamasalya": "2026-11-17T09:45:49+00:00",
 "Yeni Asır (İzmir)": "2026-11-17T15:08:57+00:00",
 "İstanbul Gazetesi": "2026-11-17T18:27:00+00:00",
