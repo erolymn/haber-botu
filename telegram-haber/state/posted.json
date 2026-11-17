@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"3002648a831b4a91",
-"c73243c4ce1417c7",
-"02d8a2267fd6a7d3",
 "35fa142b25fa69f2",
 "61629e1750487b90",
 "71a76e3cbfa68636",
@@ -2999,43 +2996,12 @@
 "2ecddfccbe69836d",
 "36675d8c8625ceb3",
 "55605cae7fc71eaf",
-"90048fe5555d4699"
+"90048fe5555d4699",
+"5a0364df51d32cfc",
+"0d99270b54447ef3",
+"2cc54bc65e66cd86"
 ],
 "imzalar": [
-[
-"buzagiyi",
-"dogan",
-"kirsalda",
-"koye",
-"makinesi",
-"tasidi"
-],
-[
-"asiliyor",
-"bornova",
-"buca",
-"hattinda",
-"izmir",
-"mujde",
-"nde",
-"sahin",
-"suruculere",
-"tepesi",
-"yol",
-"zorlu"
-],
-[
-"anildi",
-"ataturk",
-"duzenlenen",
-"gazi",
-"kemal",
-"meydani",
-"mustafa",
-"nda",
-"programla",
-"taksim"
-],
 [
 "2027",
 "asgari",
@@ -8831,11 +8797,38 @@
 "nde",
 "sozler",
 "yil"
+],
+[
+"belli",
+"devam",
+"durum",
+"edecek",
+"hayatina",
+"sozcu",
+"yayin"
+],
+[
+"durumu",
+"hgs",
+"iyilestirmek",
+"mevcut",
+"toplanti",
+"yapacagiz"
+],
+[
+"archie",
+"brown",
+"bulustu",
+"fenerbahceli",
+"futbolcu",
+"gununde",
+"imza",
+"taraftarlarla"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-17T14:08:00+00:00",
-"Sonsöz (Ankara)": "2026-11-17T15:12:00+00:00",
+"Haber Global": "2026-11-17T16:07:00+00:00",
+"Sonsöz (Ankara)": "2026-11-17T15:17:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T11:06:40+00:00",
 "Sözcü Son Dakika": "2026-11-17T16:07:34+00:00",
@@ -8844,7 +8837,7 @@
 "Olay (Bursa)": "2026-11-17T16:15:29+00:00",
 "@islamasalya": "2026-11-17T09:45:49+00:00",
 "Yeni Asır (İzmir)": "2026-11-17T15:08:57+00:00",
-"İstanbul Gazetesi": "2026-11-16T21:02:00+00:00",
+"İstanbul Gazetesi": "2026-11-17T15:53:00+00:00",
 "Kandilli Rasathanesi": "2026-11-17T15:57:45+00:00"
 }
 }
