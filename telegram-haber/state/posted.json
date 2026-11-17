@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"83d938d4272188c8",
-"919deb270aa3a7b3",
-"1eb81b170ab09688",
 "9bfeef9b7338c3a3",
 "bcbadb4bf01032a7",
 "f1095ed5e4d9ed8b",
@@ -2999,43 +2996,12 @@
 "57d0bf1acb27d320",
 "d9728b64c07d9d3e",
 "24cc85a1e8919e71",
-"5a105e30738949b4"
+"5a105e30738949b4",
+"0359bdb46bf928fe",
+"07d9e6bba44ab835",
+"5b63526e3f0dc8a6"
 ],
 "imzalar": [
-[
-"bursa",
-"buyuk",
-"dokunus",
-"losemi",
-"mucadelesine",
-"sosyal",
-"umut"
-],
-[
-"aradan",
-"atesledi",
-"batrakov",
-"fark",
-"fitili",
-"galatasaray",
-"isim",
-"kusursuz",
-"milli",
-"sonraki",
-"yaratti",
-"yukselisinde"
-],
-[
-"duyuldu",
-"fransizca",
-"gazi",
-"ilk",
-"kez",
-"konusmasi",
-"nin",
-"sozleri",
-"yayinlandi"
-],
 [
 "bekleniyor",
 "bircok",
@@ -8815,17 +8781,45 @@
 "tff",
 "timucin",
 "vefat"
+],
+[
+"basladi",
+"cilginligi",
+"gta",
+"hazirliginda",
+"izin",
+"kisi",
+"milyonlarca"
+],
+[
+"ankara",
+"burhan",
+"dan",
+"hareketlendirecek",
+"iki",
+"isim",
+"katilacak",
+"kulislerini",
+"parti",
+"sinan"
+],
+[
+"kaptani",
+"kim",
+"masterchef",
+"mavi",
+"takim"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-17T07:08:00+00:00",
+"Haber Global": "2026-11-17T08:09:00+00:00",
 "Sonsöz (Ankara)": "2026-11-17T06:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T06:04:15+00:00",
 "Sözcü Son Dakika": "2026-11-17T07:07:37+00:00",
-"Yeni Şafak Yerel": "2026-11-17T07:14:03+00:00",
+"Yeni Şafak Yerel": "2026-11-17T08:08:44+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-17T06:12:07+00:00",
+"Olay (Bursa)": "2026-11-17T08:07:33+00:00",
 "@islamasalya": "2026-11-17T05:00:24+00:00",
 "Yeni Asır (İzmir)": "2026-11-17T06:08:06+00:00",
 "İstanbul Gazetesi": "2026-11-16T21:02:00+00:00",
