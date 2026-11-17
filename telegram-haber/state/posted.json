@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"f09537f56b42cd98",
-"1841dd0c9e59b59a",
-"38ee2ee7fcd6ac81",
 "7f0cb7190f71c233",
 "ad87c74c019c3365",
 "6537f87324ea3184",
@@ -2999,34 +2996,12 @@
 "e9373da9f2cf2bbe",
 "b0e732f65ad60ab3",
 "9567dbe9e5a06784",
-"894ea764de43a10b"
+"894ea764de43a10b",
+"94bda83634a23837",
+"c87ccbb2d838360f",
+"44d009849868daab"
 ],
 "imzalar": [
-[
-"bitis",
-"iran",
-"savas",
-"surecinde",
-"trump"
-],
-[
-"ata",
-"nobeti",
-"saygi",
-"tekirdag",
-"tutuldu"
-],
-[
-"cafer",
-"dalga",
-"firari",
-"gozalti",
-"ikinci",
-"ilde",
-"mahiroglu",
-"operasyon",
-"sorusturmasinda"
-],
 [
 "anitkabir",
 "ataturk",
@@ -8827,6 +8802,41 @@
 "meclis",
 "mhp",
 "ziyaret"
+],
+[
+"brezilya",
+"dakikada",
+"dan",
+"gollu",
+"hat",
+"sov",
+"trick",
+"vinicius",
+"yapti"
+],
+[
+"ayinda",
+"bursu",
+"gozler",
+"kasim",
+"kyk",
+"odemeler",
+"tarihte",
+"yatacak",
+"yatti",
+"zaman"
+],
+[
+"baskani",
+"bursaspor",
+"dan",
+"duyurdu",
+"karari",
+"mhk",
+"pozisyon",
+"sonucu",
+"tartisilan",
+"taylor"
 ]
 ],
 "son_tarih": {
@@ -8834,12 +8844,12 @@
 "Sonsöz (Ankara)": "2026-11-17T11:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T11:06:40+00:00",
-"Sözcü Son Dakika": "2026-11-17T12:09:12+00:00",
+"Sözcü Son Dakika": "2026-11-17T13:02:18+00:00",
 "Yeni Şafak Yerel": "2026-11-17T12:13:52+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-17T11:08:37+00:00",
+"Olay (Bursa)": "2026-11-17T13:09:57+00:00",
 "@islamasalya": "2026-11-17T09:45:49+00:00",
-"Yeni Asır (İzmir)": "2026-11-17T06:08:06+00:00",
+"Yeni Asır (İzmir)": "2026-11-17T13:05:45+00:00",
 "İstanbul Gazetesi": "2026-11-16T21:02:00+00:00",
 "Kandilli Rasathanesi": "2026-11-16T03:01:48+00:00"
 }
