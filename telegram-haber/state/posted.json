@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"43642fd24c8ebef3",
-"d22d059a40812815",
-"5b2f8c4d56b6100c",
 "a2444128ed34640f",
 "fd9325ff0fd20fed",
 "6c89cb0ed13b29a8",
@@ -2999,35 +2996,12 @@
 "76cbcda059578877",
 "0184e8ee1fc9f24e",
 "95f509d56b96ae8f",
-"9aa86e94b5430986"
+"9aa86e94b5430986",
+"a8710f5eeac2272f",
+"257fd1d7feba0947",
+"86fcc98f729cc752"
 ],
 "imzalar": [
-[
-"ankara",
-"ataturk",
-"goruntuler",
-"naasinin",
-"nakledildigi",
-"paylasildi"
-],
-[
-"aysenur",
-"bakirkoy",
-"kamerada",
-"kaza",
-"oldugu",
-"yasindaki"
-],
-[
-"cinayet",
-"davasinda",
-"hapis",
-"isparta",
-"muebbet",
-"saniga",
-"talebi",
-"yillik"
-],
 [
 "basladi",
 "dev",
@@ -8846,14 +8820,39 @@
 "memnuniyet",
 "ulkeleri",
 "yeni"
+],
+[
+"devirerek",
+"duellosunda",
+"galler",
+"gol",
+"grubu",
+"portekiz",
+"tamamladi",
+"zirvede"
+],
+[
+"baslarina",
+"dert",
+"getirdikleri",
+"kurtulmak",
+"salyangozlardan",
+"solucanlar"
+],
+[
+"ankara",
+"korkutan",
+"samsun",
+"yangin",
+"yolunda"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-17T21:09:00+00:00",
-"Sonsöz (Ankara)": "2026-11-17T17:05:00+00:00",
+"Haber Global": "2026-11-17T21:53:00+00:00",
+"Sonsöz (Ankara)": "2026-11-17T22:06:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T11:06:40+00:00",
-"Sözcü Son Dakika": "2026-11-17T21:09:45+00:00",
+"Sözcü Son Dakika": "2026-11-17T22:01:08+00:00",
 "Yeni Şafak Yerel": "2026-11-17T21:01:17+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-17T21:09:36+00:00",
