@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"e28b76789433b778",
-"f27382ccef436546",
-"69a17432f47dcc8d",
 "239d634527cbc3b2",
 "271e3a324588963b",
 "ec82f3b7a1bd1d21",
@@ -2999,36 +2996,12 @@
 "0b9e01a9be6add2b",
 "d1a4eb32b83e55c6",
 "d3452faa292e3fe0",
-"a1ad4dd532801dd3"
+"a1ad4dd532801dd3",
+"481fb7441e8cec10",
+"b068e2ff170dab79",
+"b6806fc410b7fd15"
 ],
 "imzalar": [
-[
-"basladi",
-"calismalarina",
-"futbol",
-"milli",
-"takimi",
-"umit"
-],
-[
-"carpti",
-"kamyona",
-"kisi",
-"konya",
-"otomobil",
-"yasamini",
-"yitirdi"
-],
-[
-"araca",
-"bekleyen",
-"bolu",
-"carpti",
-"iki",
-"isikta",
-"kirmizi",
-"tir"
-],
 [
 "hayat",
 "karar"
@@ -8794,18 +8767,48 @@
 "ukrayna",
 "uyeligine",
 "zafere"
+],
+[
+"arada",
+"fotograf",
+"gosteren",
+"kardesleri",
+"liderler",
+"muhammed",
+"sehit",
+"sinvar",
+"yahya"
+],
+[
+"binanin",
+"bursa",
+"dumandan",
+"etkilendi",
+"katinda",
+"katli",
+"kisi",
+"yangin"
+],
+[
+"birakacak",
+"golgede",
+"gundem",
+"iddiasi",
+"istanbul",
+"izmir",
+"parti"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-17T04:00:00+00:00",
 "Sonsöz (Ankara)": "2026-11-17T03:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-17T03:47:27+00:00",
+"Mynet Son Dakika": "2026-11-17T05:09:38+00:00",
 "Sözcü Son Dakika": "2026-11-17T03:08:45+00:00",
-"Yeni Şafak Yerel": "2026-11-17T01:00:00+00:00",
+"Yeni Şafak Yerel": "2026-11-17T05:07:43+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-17T02:10:44+00:00",
-"@islamasalya": "2026-11-16T13:43:25+00:00",
+"@islamasalya": "2026-11-17T05:00:24+00:00",
 "Yeni Asır (İzmir)": "2026-11-17T03:50:15+00:00",
 "İstanbul Gazetesi": "2026-11-16T21:02:00+00:00",
 "Kandilli Rasathanesi": "2026-11-16T03:01:48+00:00"
