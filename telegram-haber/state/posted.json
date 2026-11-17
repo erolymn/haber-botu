@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"7f0cb7190f71c233",
-"ad87c74c019c3365",
-"6537f87324ea3184",
 "cf1ac5d39c56b205",
 "3dd2a32b416ee3b8",
 "015369906e198f68",
@@ -2999,41 +2996,12 @@
 "894ea764de43a10b",
 "94bda83634a23837",
 "c87ccbb2d838360f",
-"44d009849868daab"
+"44d009849868daab",
+"e2bba04116e5c122",
+"6a624ff4decfb7b5",
+"49db5bacb54d457f"
 ],
 "imzalar": [
-[
-"anitkabir",
-"ataturk",
-"baskan",
-"devlet",
-"donumu",
-"erdogan",
-"erkani",
-"vefatinin",
-"yil"
-],
-[
-"165",
-"254",
-"abd",
-"ara",
-"cumhuriyetciler",
-"deki",
-"demokratlar",
-"meclisinde",
-"sandalyeye",
-"secimlerde",
-"temsilciler",
-"ulasti"
-],
-[
-"infaz",
-"kursunlu",
-"onunde",
-"sofore",
-"yolcularin"
-],
 [
 "200",
 "aylik",
@@ -8837,14 +8805,41 @@
 "sonucu",
 "tartisilan",
 "taylor"
+],
+[
+"istanbul",
+"kanli",
+"kisi",
+"saldiri",
+"trafikte"
+],
+[
+"basliyor",
+"cezalarinda",
+"degisecek",
+"donem",
+"hgs",
+"neler",
+"yeni"
+],
+[
+"fenerbahceli",
+"geldi",
+"kapaninca",
+"kapilar",
+"kuyruk",
+"metrelerce",
+"olustu",
+"tepki",
+"yildiz"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-17T12:07:00+00:00",
-"Sonsöz (Ankara)": "2026-11-17T11:01:00+00:00",
+"Haber Global": "2026-11-17T14:08:00+00:00",
+"Sonsöz (Ankara)": "2026-11-17T14:09:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T11:06:40+00:00",
-"Sözcü Son Dakika": "2026-11-17T13:02:18+00:00",
+"Sözcü Son Dakika": "2026-11-17T14:13:38+00:00",
 "Yeni Şafak Yerel": "2026-11-17T12:13:52+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-17T13:09:57+00:00",
