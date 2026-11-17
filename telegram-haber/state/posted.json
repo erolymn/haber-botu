@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"d58c23f3f28ecbcf",
-"a3b3011538aa58a2",
-"837ee165b5c4d393",
 "e28b76789433b778",
 "f27382ccef436546",
 "69a17432f47dcc8d",
@@ -2999,30 +2996,12 @@
 "e5186b38c4473256",
 "417eef4399df3794",
 "13d969d9325e0fc8",
-"0b9e01a9be6add2b"
+"0b9e01a9be6add2b",
+"d1a4eb32b83e55c6",
+"d3452faa292e3fe0",
+"a1ad4dd532801dd3"
 ],
 "imzalar": [
-[
-"basladi",
-"calismalara",
-"milli",
-"rize",
-"takim",
-"umit"
-],
-[
-"kalbimizdesin"
-],
-[
-"2027",
-"adalet",
-"bakanligi",
-"butcesi",
-"edildi",
-"kabul",
-"tbmm",
-"yili"
-],
 [
 "basladi",
 "calismalarina",
@@ -8787,19 +8766,47 @@
 "com",
 "kayyum",
 "sozcu"
+],
+[
+"binada",
+"bursa",
+"kalanlar",
+"katli",
+"kurtarildi",
+"mahsur",
+"yangin"
+],
+[
+"destekleyecegiz",
+"filistin",
+"kararlilikla",
+"mucadelesini"
+],
+[
+"bitiyor",
+"donbas",
+"emri",
+"hazirlik",
+"karsilik",
+"nato",
+"rusya",
+"savas",
+"ukrayna",
+"uyeligine",
+"zafere"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-17T02:57:00+00:00",
+"Haber Global": "2026-11-17T04:00:00+00:00",
 "Sonsöz (Ankara)": "2026-11-17T03:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
+"Mynet Son Dakika": "2026-11-17T03:47:27+00:00",
 "Sözcü Son Dakika": "2026-11-17T03:08:45+00:00",
 "Yeni Şafak Yerel": "2026-11-17T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-17T02:10:44+00:00",
 "@islamasalya": "2026-11-16T13:43:25+00:00",
-"Yeni Asır (İzmir)": "2026-11-16T20:39:37+00:00",
+"Yeni Asır (İzmir)": "2026-11-17T03:50:15+00:00",
 "İstanbul Gazetesi": "2026-11-16T21:02:00+00:00",
 "Kandilli Rasathanesi": "2026-11-16T03:01:48+00:00"
 }
