@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"717797cff47d22f1",
-"afe7be01b2a19552",
-"a76982bd66ae949b",
 "8864e5b21e39d30f",
 "51c3ac0372717039",
 "d9ee1d3d5ca431bb",
@@ -2999,32 +2996,12 @@
 "775237fd50b1654c",
 "6b8545ed83841059",
 "f99a7f253e1e3444",
-"467f4be896fbe6c7"
+"467f4be896fbe6c7",
+"05c9aac01a7ed87a",
+"e5881c1c84846649",
+"8cec38b49f1b5f00"
 ],
 "imzalar": [
-[
-"buyuyor",
-"diploma",
-"gelecek",
-"genclerin",
-"kaygisi"
-],
-[
-"anildi",
-"anitkabir",
-"ataturk",
-"donumunde",
-"inci",
-"vefatinin",
-"yil"
-],
-[
-"alacak",
-"baskanligi",
-"personel",
-"sayistay",
-"sozlesmeli"
-],
 [
 "anildi",
 "ataturk",
@@ -8827,6 +8804,42 @@
 "olmustu",
 "pozlar",
 "verdi"
+],
+[
+"destek",
+"donusumune",
+"kobi",
+"lerin",
+"lira",
+"milyar",
+"yesil"
+],
+[
+"anlar",
+"batrakov",
+"galatasaray",
+"korkutan",
+"macta",
+"milli",
+"sakatlik",
+"taraftarini",
+"yasadi"
+],
+[
+"abd",
+"bile",
+"cikariyor",
+"den",
+"dogan",
+"gozden",
+"kuresel",
+"ogun",
+"oligarsi",
+"sermaye",
+"seyfi",
+"suleyman",
+"uyarisi",
+"yeni"
 ]
 ],
 "son_tarih": {
@@ -8834,13 +8847,13 @@
 "Sonsöz (Ankara)": "2026-11-17T17:05:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T11:06:40+00:00",
-"Sözcü Son Dakika": "2026-11-17T18:09:34+00:00",
-"Yeni Şafak Yerel": "2026-11-17T18:06:21+00:00",
+"Sözcü Son Dakika": "2026-11-17T19:08:39+00:00",
+"Yeni Şafak Yerel": "2026-11-17T19:09:12+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-17T16:15:29+00:00",
 "@islamasalya": "2026-11-17T09:45:49+00:00",
 "Yeni Asır (İzmir)": "2026-11-17T15:08:57+00:00",
-"İstanbul Gazetesi": "2026-11-17T17:15:00+00:00",
+"İstanbul Gazetesi": "2026-11-17T18:27:00+00:00",
 "Kandilli Rasathanesi": "2026-11-17T15:57:45+00:00"
 }
 }
