@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"a6de90f2979534ea",
-"d7e1a72e34d362df",
-"301de5603669aaa4",
 "3ad24ab3933826c4",
 "07c9c6f731a58165",
 "83ce08fd0cbd6657",
@@ -2999,37 +2996,12 @@
 "5b63526e3f0dc8a6",
 "3facb53091d93ddf",
 "cde9bed851e19037",
-"1b1ae189acc16436"
+"1b1ae189acc16436",
+"1980c23059327e3f",
+"62bd2fd035c39947",
+"93677c3dbe4179a8"
 ],
 "imzalar": [
-[
-"agir",
-"genci",
-"turiste",
-"tutuklama",
-"yaralayan"
-],
-[
-"alemdar",
-"ayip",
-"boguldu",
-"buyuk",
-"dan",
-"gozyaslarina",
-"gurkan",
-"memati",
-"polat",
-"uygun"
-],
-[
-"belozoglu",
-"emre",
-"farkinin",
-"galatasaray",
-"geceriz",
-"onemi",
-"puan"
-],
 [
 "atese",
 "fabrikada",
@@ -8804,18 +8776,60 @@
 "mujde",
 "severlere",
 "seyahat"
+],
+[
+"artik",
+"bombalanmasi",
+"cocuk",
+"cunku",
+"deki",
+"devam",
+"dondugunde",
+"ediyor",
+"eve",
+"evini",
+"evinin",
+"evlerin",
+"filistinli",
+"gordu",
+"gucleri",
+"halil",
+"isgal",
+"okuldan",
+"olmadigini",
+"yasanan",
+"yikimi",
+"yikmisti",
+"zulum"
+],
+[
+"cumhurbaskani",
+"dan",
+"istifa",
+"karari",
+"khurelsukh",
+"mogolistan",
+"ukhnaa"
+],
+[
+"balikesir",
+"duzensiz",
+"gocmen",
+"supheli",
+"tutuklandi",
+"yakalandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-17T09:04:00+00:00",
+"Haber Global": "2026-11-17T10:09:00+00:00",
 "Sonsöz (Ankara)": "2026-11-17T06:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T06:04:15+00:00",
 "Sözcü Son Dakika": "2026-11-17T07:07:37+00:00",
-"Yeni Şafak Yerel": "2026-11-17T09:13:58+00:00",
+"Yeni Şafak Yerel": "2026-11-17T10:11:43+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-17T09:14:37+00:00",
-"@islamasalya": "2026-11-17T05:00:24+00:00",
+"@islamasalya": "2026-11-17T09:45:49+00:00",
 "Yeni Asır (İzmir)": "2026-11-17T06:08:06+00:00",
 "İstanbul Gazetesi": "2026-11-16T21:02:00+00:00",
 "Kandilli Rasathanesi": "2026-11-16T03:01:48+00:00"
