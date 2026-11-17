@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"35fa142b25fa69f2",
-"61629e1750487b90",
-"71a76e3cbfa68636",
 "b758b553396a2473",
 "a96f26a77bf7547e",
 "bd9b3fb11bb68fc8",
@@ -2999,40 +2996,12 @@
 "90048fe5555d4699",
 "5a0364df51d32cfc",
 "0d99270b54447ef3",
-"2cc54bc65e66cd86"
+"2cc54bc65e66cd86",
+"75a0fa016a5dca77",
+"fd717fde8c058650",
+"775237fd50b1654c"
 ],
 "imzalar": [
-[
-"2027",
-"asgari",
-"iste",
-"kadar",
-"masadaki",
-"olacak",
-"tahminleri",
-"ucret",
-"zam"
-],
-[
-"ankara",
-"den",
-"eskisehir",
-"meteoroloji",
-"pus",
-"sakarya",
-"sehrimiz",
-"sis",
-"uyarisi"
-],
-[
-"alindilar",
-"boyle",
-"devreye",
-"girdi",
-"gozaltina",
-"harekat",
-"ozel"
-],
 [
 "brezilyali",
 "eski",
@@ -8824,20 +8793,48 @@
 "gununde",
 "imza",
 "taraftarlarla"
+],
+[
+"edildi",
+"fon",
+"milyar",
+"sorusturmasinda",
+"tahsil"
+],
+[
+"atamiyoruz",
+"derinlige",
+"gemlik",
+"goruntulendi",
+"goruyor",
+"kadar",
+"korfezi",
+"metre",
+"motorlar",
+"musilaj",
+"nde",
+"zarar"
+],
+[
+"aracin",
+"karistigi",
+"kaza",
+"maltepe",
+"zincirleme"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-17T16:07:00+00:00",
-"Sonsöz (Ankara)": "2026-11-17T15:17:00+00:00",
+"Sonsöz (Ankara)": "2026-11-17T17:05:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T11:06:40+00:00",
 "Sözcü Son Dakika": "2026-11-17T16:07:34+00:00",
-"Yeni Şafak Yerel": "2026-11-17T16:09:06+00:00",
+"Yeni Şafak Yerel": "2026-11-17T17:07:21+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-17T16:15:29+00:00",
 "@islamasalya": "2026-11-17T09:45:49+00:00",
 "Yeni Asır (İzmir)": "2026-11-17T15:08:57+00:00",
-"İstanbul Gazetesi": "2026-11-17T15:53:00+00:00",
+"İstanbul Gazetesi": "2026-11-17T17:15:00+00:00",
 "Kandilli Rasathanesi": "2026-11-17T15:57:45+00:00"
 }
 }
