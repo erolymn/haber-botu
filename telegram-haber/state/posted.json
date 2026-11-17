@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"0536b1d6dc10c2f5",
-"867ae8afad5057fc",
-"7606d6c2baf45bd2",
 "9dcb88b13a866efc",
 "0652283d9e0d7184",
 "d15e4e4809fb6de8",
@@ -2999,43 +2996,12 @@
 "93677c3dbe4179a8",
 "2b11712cae56f6c5",
 "717464cbe12142f8",
-"0bb151ce00a7546b"
+"0bb151ce00a7546b",
+"28923ad59c346d8d",
+"d6b596e198a54d53",
+"e9373da9f2cf2bbe"
 ],
 "imzalar": [
-[
-"durumu",
-"ege",
-"geliyor",
-"gozler",
-"hava",
-"izmir",
-"kar",
-"karisik",
-"karla",
-"kasim",
-"saganak",
-"sali",
-"yagacak",
-"zaman"
-],
-[
-"agir",
-"baskan",
-"chp",
-"durumu",
-"gecirerek",
-"hastaneye",
-"kaldirildi",
-"kaza"
-],
-[
-"cetesi",
-"dalga",
-"genisliyor",
-"kanser",
-"operasyon",
-"sorusturmasi"
-],
 [
 "apple",
 "dan",
@@ -8820,14 +8786,45 @@
 "tilaveti",
 "tonuyla",
 "ugur"
+],
+[
+"100",
+"atik",
+"cop31",
+"gunde",
+"seferberligi",
+"sifir",
+"ton"
+],
+[
+"emekliler",
+"emlak",
+"odemeyecek",
+"saglayan",
+"sartlari",
+"vergisi"
+],
+[
+"anne",
+"bebegini",
+"bicaklayip",
+"ceken",
+"dan",
+"dikkat",
+"dogan",
+"karar",
+"olduren",
+"yargitay",
+"yeni",
+"yerinden"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-17T10:09:00+00:00",
-"Sonsöz (Ankara)": "2026-11-17T06:10:00+00:00",
+"Haber Global": "2026-11-17T11:10:00+00:00",
+"Sonsöz (Ankara)": "2026-11-17T11:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T11:06:40+00:00",
-"Sözcü Son Dakika": "2026-11-17T07:07:37+00:00",
+"Sözcü Son Dakika": "2026-11-17T11:01:56+00:00",
 "Yeni Şafak Yerel": "2026-11-17T11:14:17+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-17T11:08:37+00:00",
