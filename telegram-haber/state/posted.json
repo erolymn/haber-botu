@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"10887f5343c6bcef",
-"74f323d057e71d85",
-"bfc9fb408231b3b9",
 "15405db2a7fccd2b",
 "851d22c7164952e7",
 "026921f9bb33d7c2",
@@ -2999,44 +2996,12 @@
 "ff82f6474db31d17",
 "7de803ead59b30df",
 "1e82ce84e642ac7f",
-"ccb31569d2dabb74"
+"ccb31569d2dabb74",
+"f813364726f6c698",
+"251dd3b30a1f431f",
+"e5186b38c4473256"
 ],
 "imzalar": [
-[
-"alinmamasini",
-"den",
-"dilmen",
-"elestirdi",
-"eve",
-"her",
-"kadroya",
-"lazim",
-"ridvan",
-"sergen",
-"tepki",
-"yalcin"
-],
-[
-"bursaspor",
-"gidiyor",
-"koptu",
-"stari",
-"super"
-],
-[
-"abidin",
-"agir",
-"araca",
-"baskani",
-"carpan",
-"chp",
-"devrildi",
-"ekren",
-"ilce",
-"otomobil",
-"pendik",
-"yaralandi"
-],
 [
 "bursaspor",
 "donecek",
@@ -8792,17 +8757,44 @@
 "kisinin",
 "operasyon",
 "yil"
+],
+[
+"new",
+"sirri",
+"times",
+"yazdi",
+"yillik",
+"york"
+],
+[
+"buyuklugundeki",
+"depremle",
+"endonezya",
+"sarsildi"
+],
+[
+"bursa",
+"cagrisi",
+"hem",
+"ilgilendiriyor",
+"inden",
+"market",
+"mehmet",
+"nin",
+"pazarci",
+"tuketiciyi",
+"ureticiyi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-17T00:28:00+00:00",
+"Haber Global": "2026-11-17T02:06:00+00:00",
 "Sonsöz (Ankara)": "2026-11-17T00:54:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-16T04:23:43+00:00",
-"Sözcü Son Dakika": "2026-11-17T01:00:20+00:00",
+"Sözcü Son Dakika": "2026-11-17T01:55:21+00:00",
 "Yeni Şafak Yerel": "2026-11-17T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-16T20:11:49+00:00",
+"Olay (Bursa)": "2026-11-17T02:10:44+00:00",
 "@islamasalya": "2026-11-16T13:43:25+00:00",
 "Yeni Asır (İzmir)": "2026-11-16T20:39:37+00:00",
 "İstanbul Gazetesi": "2026-11-16T21:02:00+00:00",
