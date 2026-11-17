@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"239d634527cbc3b2",
-"271e3a324588963b",
-"ec82f3b7a1bd1d21",
 "0f690857a73fd113",
 "edc31b2551af5a8e",
 "0f88ca8f6987d9ab",
@@ -2999,25 +2996,12 @@
 "a1ad4dd532801dd3",
 "481fb7441e8cec10",
 "b068e2ff170dab79",
-"b6806fc410b7fd15"
+"b6806fc410b7fd15",
+"3f613accaac3ac9d",
+"d57da7457e5d7ff0",
+"3d40cd22df4694c8"
 ],
 "imzalar": [
-[
-"hayat",
-"karar"
-],
-[
-"bomba",
-"fabrika",
-"gibi",
-"patladi"
-],
-[
-"bitmiyor",
-"tacizi",
-"tegmene",
-"yargi"
-],
 [
 "aldi",
 "alev",
@@ -8797,17 +8781,47 @@
 "istanbul",
 "izmir",
 "parti"
+],
+[
+"bogazi",
+"dan",
+"hurmuz",
+"iha",
+"iran",
+"nda",
+"operasyonu"
+],
+[
+"apartmanda",
+"bursa",
+"can",
+"daki",
+"dokuldu",
+"mahalleli",
+"pazari",
+"sokaga"
+],
+[
+"baskani",
+"belediye",
+"cumhurbaskani",
+"erdogan",
+"geciyor",
+"iki",
+"parti",
+"rozetlerini",
+"takacak"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-17T04:00:00+00:00",
-"Sonsöz (Ankara)": "2026-11-17T03:01:00+00:00",
+"Sonsöz (Ankara)": "2026-11-17T06:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T05:09:38+00:00",
 "Sözcü Son Dakika": "2026-11-17T03:08:45+00:00",
-"Yeni Şafak Yerel": "2026-11-17T05:07:43+00:00",
+"Yeni Şafak Yerel": "2026-11-17T06:12:51+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-17T02:10:44+00:00",
+"Olay (Bursa)": "2026-11-17T06:12:07+00:00",
 "@islamasalya": "2026-11-17T05:00:24+00:00",
 "Yeni Asır (İzmir)": "2026-11-17T03:50:15+00:00",
 "İstanbul Gazetesi": "2026-11-16T21:02:00+00:00",
