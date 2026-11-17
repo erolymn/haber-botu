@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"b95a2dfb4ea4f009",
-"77bdaaf1d7877fd2",
-"48baea26e2862202",
 "83d938d4272188c8",
 "919deb270aa3a7b3",
 "1eb81b170ab09688",
@@ -2999,36 +2996,12 @@
 "3d40cd22df4694c8",
 "02217ddb5234fac1",
 "a4fe27402823a936",
-"57d0bf1acb27d320"
+"57d0bf1acb27d320",
+"d9728b64c07d9d3e",
+"24cc85a1e8919e71",
+"5a105e30738949b4"
 ],
 "imzalar": [
-[
-"dev",
-"devrim",
-"fenerbahce",
-"futbol",
-"idari",
-"kadrosunda",
-"nin",
-"operasyon",
-"patronu",
-"teknik",
-"yapacak",
-"yeni"
-],
-[
-"adeta",
-"bursaspor",
-"kendisiyle",
-"yarisiyor"
-],
-[
-"bursa",
-"geldi",
-"guzel",
-"mujde",
-"sonunda"
-],
 [
 "bursa",
 "buyuk",
@@ -8809,15 +8782,48 @@
 "fenerbahce",
 "nin",
 "tercihi"
+],
+[
+"ardindan",
+"capkin",
+"ceo",
+"donmesi",
+"gecildi",
+"hamle",
+"harekete",
+"nun",
+"skandalin",
+"surpriz"
+],
+[
+"ayinda",
+"azaldi",
+"ekim",
+"konut",
+"satislari",
+"yuzde"
+],
+[
+"cug",
+"duyurdu",
+"eski",
+"futbolcu",
+"haberini",
+"hayatini",
+"kaybetti",
+"milli",
+"tff",
+"timucin",
+"vefat"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-17T04:00:00+00:00",
+"Haber Global": "2026-11-17T07:08:00+00:00",
 "Sonsöz (Ankara)": "2026-11-17T06:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T06:04:15+00:00",
-"Sözcü Son Dakika": "2026-11-17T03:08:45+00:00",
-"Yeni Şafak Yerel": "2026-11-17T06:14:03+00:00",
+"Sözcü Son Dakika": "2026-11-17T07:07:37+00:00",
+"Yeni Şafak Yerel": "2026-11-17T07:14:03+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-17T06:12:07+00:00",
 "@islamasalya": "2026-11-17T05:00:24+00:00",
