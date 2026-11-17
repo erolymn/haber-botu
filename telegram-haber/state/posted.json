@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"0f690857a73fd113",
-"edc31b2551af5a8e",
-"0f88ca8f6987d9ab",
 "b95a2dfb4ea4f009",
 "77bdaaf1d7877fd2",
 "48baea26e2862202",
@@ -2999,32 +2996,12 @@
 "b6806fc410b7fd15",
 "3f613accaac3ac9d",
 "d57da7457e5d7ff0",
-"3d40cd22df4694c8"
+"3d40cd22df4694c8",
+"02217ddb5234fac1",
+"a4fe27402823a936",
+"57d0bf1acb27d320"
 ],
 "imzalar": [
-[
-"aldi",
-"alev",
-"bolu",
-"motosikleti"
-],
-[
-"aldi",
-"bodrum",
-"can",
-"esnaf",
-"kavgasi",
-"muhammet",
-"yasamini",
-"yasindaki",
-"yitirdi"
-],
-[
-"kavga",
-"kirikkale",
-"silahli",
-"yarali"
-],
 [
 "dev",
 "devrim",
@@ -8811,19 +8788,40 @@
 "parti",
 "rozetlerini",
 "takacak"
+],
+[
+"canli",
+"kavga",
+"tekme",
+"tokat",
+"yayinda"
+],
+[
+"kemalpasa",
+"kuruluyor",
+"mezarlik",
+"yeni"
+],
+[
+"belli",
+"besiktas",
+"elanga",
+"fenerbahce",
+"nin",
+"tercihi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-17T04:00:00+00:00",
 "Sonsöz (Ankara)": "2026-11-17T06:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-17T05:09:38+00:00",
+"Mynet Son Dakika": "2026-11-17T06:04:15+00:00",
 "Sözcü Son Dakika": "2026-11-17T03:08:45+00:00",
-"Yeni Şafak Yerel": "2026-11-17T06:12:51+00:00",
+"Yeni Şafak Yerel": "2026-11-17T06:14:03+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-17T06:12:07+00:00",
 "@islamasalya": "2026-11-17T05:00:24+00:00",
-"Yeni Asır (İzmir)": "2026-11-17T03:50:15+00:00",
+"Yeni Asır (İzmir)": "2026-11-17T06:08:06+00:00",
 "İstanbul Gazetesi": "2026-11-16T21:02:00+00:00",
 "Kandilli Rasathanesi": "2026-11-16T03:01:48+00:00"
 }
