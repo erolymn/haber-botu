@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"9bfeef9b7338c3a3",
-"bcbadb4bf01032a7",
-"f1095ed5e4d9ed8b",
 "a6de90f2979534ea",
 "d7e1a72e34d362df",
 "301de5603669aaa4",
@@ -2999,45 +2996,12 @@
 "5a105e30738949b4",
 "0359bdb46bf928fe",
 "07d9e6bba44ab835",
-"5b63526e3f0dc8a6"
+"5b63526e3f0dc8a6",
+"3facb53091d93ddf",
+"cde9bed851e19037",
+"1b1ae189acc16436"
 ],
 "imzalar": [
-[
-"bekleniyor",
-"bircok",
-"dahil",
-"den",
-"durumu",
-"hava",
-"ilde",
-"istanbul",
-"kapida",
-"kar",
-"meteoroloji",
-"raporu",
-"saganak",
-"yagis",
-"yeni"
-],
-[
-"anilacak",
-"ataturk",
-"kasim",
-"olacak",
-"saygiyla",
-"tek",
-"turkiye",
-"yurek"
-],
-[
-"bakanligi",
-"formasini",
-"ifsa",
-"markasi",
-"okul",
-"ticaret",
-"toplatiyor"
-],
 [
 "agir",
 "genci",
@@ -8809,17 +8773,48 @@
 "masterchef",
 "mavi",
 "takim"
+],
+[
+"acikladi",
+"bakan",
+"ciftci",
+"den",
+"donus",
+"rakami",
+"suriye",
+"suruyor",
+"turkiye"
+],
+[
+"asti",
+"bini",
+"boynuzlu",
+"cengel",
+"dag",
+"erzurum",
+"kecilerinin",
+"sayisi",
+"yaban"
+],
+[
+"basladi",
+"bilet",
+"indirimli",
+"kampanyasi",
+"mujde",
+"severlere",
+"seyahat"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-17T08:09:00+00:00",
+"Haber Global": "2026-11-17T09:04:00+00:00",
 "Sonsöz (Ankara)": "2026-11-17T06:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T06:04:15+00:00",
 "Sözcü Son Dakika": "2026-11-17T07:07:37+00:00",
-"Yeni Şafak Yerel": "2026-11-17T08:08:44+00:00",
+"Yeni Şafak Yerel": "2026-11-17T09:13:58+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-17T08:07:33+00:00",
+"Olay (Bursa)": "2026-11-17T09:14:37+00:00",
 "@islamasalya": "2026-11-17T05:00:24+00:00",
 "Yeni Asır (İzmir)": "2026-11-17T06:08:06+00:00",
 "İstanbul Gazetesi": "2026-11-16T21:02:00+00:00",
