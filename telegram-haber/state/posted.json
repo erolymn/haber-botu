@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"006017796fb88082",
-"cd1753f9fd980dd5",
-"6fa3048ebbacf18f",
 "28681daa0ee5b837",
 "3ed6e892faffa279",
 "f0d199f5fb9107fb",
@@ -2999,37 +2996,12 @@
 "5c18416ea4cd0878",
 "dcddb715ed6fdceb",
 "0f89079b0db98529",
-"6e2cb635243f61dd"
+"6e2cb635243f61dd",
+"ccd19a92720df70f",
+"358e4d7cb752728d",
+"68709c84d7d29f4c"
 ],
 "imzalar": [
-[
-"ankara",
-"devrildi",
-"ego",
-"otobusu",
-"yarali"
-],
-[
-"altina",
-"can",
-"eskisehir",
-"girip",
-"kaza",
-"korkunc",
-"tir",
-"verdi"
-],
-[
-"andik",
-"ataturk",
-"buyuk",
-"kemal",
-"mustafa",
-"onderimiz",
-"ozlemle",
-"vefatinin",
-"yilinda"
-],
 [
 "carpistilar",
 "faciaya",
@@ -8823,18 +8795,43 @@
 "oncu",
 "portekiz",
 "siradaki"
+],
+[
+"biiznillah",
+"yaklasiyor",
+"yaklasmakta"
+],
+[
+"belli",
+"cem",
+"ceza",
+"hakkinda",
+"istenen",
+"kucuk",
+"sarikaya",
+"tahir"
+],
+[
+"cilesi",
+"donus",
+"eve",
+"istanbul",
+"trafik",
+"ulasti",
+"yogunlugu",
+"yuzde"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-18T12:13:00+00:00",
+"Haber Global": "2026-11-18T16:10:00+00:00",
 "Sonsöz (Ankara)": "2026-11-18T07:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T13:14:25+00:00",
-"Sözcü Son Dakika": "2026-11-18T15:17:13+00:00",
+"Sözcü Son Dakika": "2026-11-18T16:16:38+00:00",
 "Yeni Şafak Yerel": "2026-11-18T15:06:42+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-18T15:03:27+00:00",
-"@islamasalya": "2026-11-18T13:46:41+00:00",
+"@islamasalya": "2026-11-18T15:49:59+00:00",
 "Yeni Asır (İzmir)": "2026-11-18T12:13:10+00:00",
 "İstanbul Gazetesi": "2026-11-18T06:57:00+00:00",
 "Kandilli Rasathanesi": "2026-11-18T01:16:57+00:00"
