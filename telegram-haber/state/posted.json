@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"2783bae27a59eb22",
-"1bfa8f77a8e1d30c",
-"045d182b539a8802",
 "8b889bd12ca1a55b",
 "6382fd3d66783bff",
 "989beb7ddd87de9d",
@@ -2999,36 +2996,12 @@
 "e78be41681c8611e",
 "4f8d3cb24708e10a",
 "769584438afa01a1",
-"8d946820778f5eac"
+"8d946820778f5eac",
+"b3a047dd8e639b4b",
+"625ff99deadf2da8",
+"bdb10c72f1dca64a"
 ],
 "imzalar": [
-[
-"hapsi",
-"ismail",
-"kalkti",
-"karari",
-"saymaz"
-],
-[
-"araya",
-"baskan",
-"erdogan",
-"geldi",
-"genel",
-"guterres",
-"sekreteri"
-],
-[
-"baskan",
-"cozumler",
-"dan",
-"gulpinar",
-"iklim",
-"mesajlar",
-"mucadelesinde",
-"onemli",
-"yerel"
-],
 [
 "lig",
 "sistem",
@@ -8819,15 +8792,48 @@
 "tesisini",
 "uretim",
 "yavru"
+],
+[
+"aniden",
+"birakan",
+"hasta",
+"hastaneye",
+"ignelerini",
+"iki",
+"kaldirildi",
+"zayiflama"
+],
+[
+"canli",
+"ceken",
+"dilber",
+"esi",
+"kutlama",
+"nisanlandi",
+"sarkiyla",
+"tepki",
+"yaptilar",
+"yayinda"
+],
+[
+"belediyeden",
+"fiyatina",
+"gosterdi",
+"ilgi",
+"neredeyse",
+"vatandas",
+"yari",
+"yogun",
+"zeytinyagi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-18T02:55:00+00:00",
+"Haber Global": "2026-11-18T04:18:00+00:00",
 "Sonsöz (Ankara)": "2026-11-18T03:07:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T03:59:08+00:00",
-"Sözcü Son Dakika": "2026-11-18T04:09:35+00:00",
-"Yeni Şafak Yerel": "2026-11-18T04:14:55+00:00",
+"Sözcü Son Dakika": "2026-11-18T05:10:46+00:00",
+"Yeni Şafak Yerel": "2026-11-18T05:16:59+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-18T02:15:25+00:00",
 "@islamasalya": "2026-11-17T09:45:49+00:00",
