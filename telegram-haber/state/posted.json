@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"7bce8b1abd3e90bf",
-"224c1d1ca8dca710",
-"ba28d941173f925e",
 "7f76f1e85b698bd7",
 "a5c4ef5b338cc017",
 "78ccf86d8840c6ca",
@@ -2999,36 +2996,12 @@
 "1474b56d5716c270",
 "ab9e7832c84eab6d",
 "6198fd7c68b6f28e",
-"e56711b8f89ec503"
+"e56711b8f89ec503",
+"0156481b5fd3fa87",
+"69a5b7b123c369cb",
+"e78be41681c8611e"
 ],
 "imzalar": [
-[
-"atti",
-"banglades",
-"cami",
-"faaliyeti",
-"kulliye",
-"sadakatasi",
-"temelleri",
-"yardim"
-],
-[
-"505",
-"herkesin",
-"kapisini",
-"milyon",
-"satiliyor",
-"tanidigi"
-],
-[
-"istanbul",
-"joker",
-"kocaeli",
-"kurslarina",
-"nde",
-"operasyonu",
-"surucu"
-],
 [
 "100",
 "bal",
@@ -8817,14 +8790,38 @@
 "hukumlu",
 "tutuklandi",
 "yil"
+],
+[
+"baskani",
+"can",
+"chp",
+"ilce",
+"kazada",
+"verdi"
+],
+[
+"alarm",
+"den",
+"kar",
+"kent",
+"meteoroloji",
+"saganak",
+"sari",
+"yagis"
+],
+[
+"buyuklugunde",
+"depremle",
+"romanya",
+"sallandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-18T02:09:00+00:00",
-"Sonsöz (Ankara)": "2026-11-18T01:19:00+00:00",
+"Haber Global": "2026-11-18T02:55:00+00:00",
+"Sonsöz (Ankara)": "2026-11-18T03:07:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T11:06:40+00:00",
-"Sözcü Son Dakika": "2026-11-18T02:00:02+00:00",
+"Sözcü Son Dakika": "2026-11-18T02:10:02+00:00",
 "Yeni Şafak Yerel": "2026-11-18T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-18T02:15:25+00:00",
