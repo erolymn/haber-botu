@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"ec61dce28f0612df",
-"f012f514c30cec4e",
-"8cbfd52f7802c4bd",
 "5ebafce8e8f7fbb8",
 "3ee4006b6e0851fc",
 "19761f11000965ff",
@@ -2999,40 +2996,12 @@
 "11f3e046c7d900bd",
 "309570a7770f1572",
 "5c7c326b64d1308c",
-"bf6d3d735301aab7"
+"bf6d3d735301aab7",
+"e9752b9cb9a62e89",
+"c850ad7c1615dcef",
+"156595bba75a9b13"
 ],
 "imzalar": [
-[
-"basbakan",
-"deprem",
-"eski",
-"gozaltisi",
-"insan",
-"kacakciligi",
-"kardesine",
-"macaristan",
-"orban",
-"siyasi"
-],
-[
-"buyuk",
-"donduran",
-"faciasinda",
-"gercek",
-"gun",
-"habas",
-"izmir",
-"kan",
-"once",
-"patlamadan"
-],
-[
-"deki",
-"eskisehir",
-"goruntuler",
-"kazadan",
-"korkunc"
-],
 [
 "boya",
 "getirdikleri",
@@ -8843,6 +8812,30 @@
 "ortaya",
 "pelin",
 "pinar"
+],
+[
+"acma",
+"artis",
+"bedelinde",
+"den",
+"iski",
+"kapama",
+"lik",
+"yeni",
+"yuzde",
+"zam"
+],
+[
+"dan",
+"ertugrul",
+"istifa",
+"kaya",
+"yeni",
+"yol"
+],
+[
+"habergazze",
+"https"
 ]
 ],
 "son_tarih": {
@@ -8850,11 +8843,11 @@
 "Sonsöz (Ankara)": "2026-11-18T16:09:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T18:15:51+00:00",
-"Sözcü Son Dakika": "2026-11-18T18:18:01+00:00",
-"Yeni Şafak Yerel": "2026-11-18T16:58:49+00:00",
+"Sözcü Son Dakika": "2026-11-18T19:16:52+00:00",
+"Yeni Şafak Yerel": "2026-11-18T19:12:58+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-18T15:03:27+00:00",
-"@islamasalya": "2026-11-18T17:35:52+00:00",
+"@islamasalya": "2026-11-18T19:17:36+00:00",
 "Yeni Asır (İzmir)": "2026-11-18T16:44:27+00:00",
 "İstanbul Gazetesi": "2026-11-18T06:57:00+00:00",
 "Kandilli Rasathanesi": "2026-11-18T01:16:57+00:00"
