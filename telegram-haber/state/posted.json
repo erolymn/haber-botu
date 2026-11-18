@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"796d6758b028b2e9",
-"8bcf01edc0efccb0",
-"446d3f2ad7509c30",
 "62d8ea69bbda18c7",
 "7113886785b2dfe8",
 "cc503842e8c7960b",
@@ -2999,36 +2996,12 @@
 "ea4a45d86da78826",
 "b3393d68728fadac",
 "ee7b25e649826158",
-"d153e3cdbb4e6f6e"
+"d153e3cdbb4e6f6e",
+"d077ede6d1997ec4",
+"42bb6e46ddf117ce",
+"5c18416ea4cd0878"
 ],
 "imzalar": [
-[
-"bursaspor",
-"disipline",
-"goturdu",
-"hakem",
-"tepkisi",
-"yoneticileri"
-],
-[
-"cennet",
-"doganin",
-"dolu",
-"huzur",
-"izmir",
-"kacis",
-"kamp",
-"kosesi",
-"kucaginda",
-"rotasi"
-],
-[
-"alkole",
-"buyuk",
-"geliyor",
-"sigara",
-"zam"
-],
 [
 "baska",
 "can",
@@ -8833,6 +8806,29 @@
 "karardi",
 "koprusu",
 "sis"
+],
+[
+"ebu",
+"ibrahim",
+"komutan",
+"muhammed",
+"sehit",
+"sinvar"
+],
+[
+"demirel",
+"den",
+"hatayspor",
+"konusulacak",
+"sozleri",
+"volkan"
+],
+[
+"amsterdam",
+"bursa",
+"dan",
+"dijital",
+"hareketlilik"
 ]
 ],
 "son_tarih": {
@@ -8840,11 +8836,11 @@
 "Sonsöz (Ankara)": "2026-11-18T07:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T13:14:25+00:00",
-"Sözcü Son Dakika": "2026-11-18T13:12:29+00:00",
+"Sözcü Son Dakika": "2026-11-18T14:17:05+00:00",
 "Yeni Şafak Yerel": "2026-11-18T13:17:03+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-18T12:04:41+00:00",
-"@islamasalya": "2026-11-18T11:47:19+00:00",
+"Olay (Bursa)": "2026-11-18T14:17:41+00:00",
+"@islamasalya": "2026-11-18T13:46:41+00:00",
 "Yeni Asır (İzmir)": "2026-11-18T12:13:10+00:00",
 "İstanbul Gazetesi": "2026-11-18T06:57:00+00:00",
 "Kandilli Rasathanesi": "2026-11-18T01:16:57+00:00"
