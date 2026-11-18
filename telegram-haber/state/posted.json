@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"5ebafce8e8f7fbb8",
-"3ee4006b6e0851fc",
-"19761f11000965ff",
 "6a88f5429ff24365",
 "10e018053a657a07",
 "9d9b06d5bbb43d51",
@@ -2999,39 +2996,12 @@
 "bf6d3d735301aab7",
 "e9752b9cb9a62e89",
 "c850ad7c1615dcef",
-"156595bba75a9b13"
+"156595bba75a9b13",
+"543f5e8f7ce7d3e9",
+"f98620b2a27fc310",
+"56b544d23db5cddd"
 ],
 "imzalar": [
-[
-"boya",
-"getirdikleri",
-"hazirladi",
-"kendi",
-"kirmizi",
-"sehirlerine",
-"sonlarini"
-],
-[
-"binasi",
-"bursa",
-"duygusal",
-"personelden",
-"tasindi",
-"veda",
-"yillarin"
-],
-[
-"basliyoruz",
-"dan",
-"gecmisi",
-"ilk",
-"mesaj",
-"oyuncularina",
-"sergen",
-"unutun",
-"yalcin",
-"yeniden"
-],
 [
 "basladi",
 "robotik",
@@ -8836,15 +8806,49 @@
 [
 "habergazze",
 "https"
+],
+[
+"aldik",
+"alimpijevic",
+"basantrenoru",
+"besiktas",
+"buyuk",
+"dusan",
+"ettik",
+"fuzul",
+"galibiyet",
+"taniklik",
+"tarihe"
+],
+[
+"bursa",
+"carptigi",
+"otomobilin",
+"yaya"
+],
+[
+"aihm",
+"avukata",
+"basini",
+"buyuk",
+"ceza",
+"den",
+"fena",
+"ictihat",
+"kullanan",
+"sahte",
+"yakti",
+"yapay",
+"zeka"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-18T16:57:00+00:00",
+"Haber Global": "2026-11-18T20:04:00+00:00",
 "Sonsöz (Ankara)": "2026-11-18T16:09:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T18:15:51+00:00",
-"Sözcü Son Dakika": "2026-11-18T19:16:52+00:00",
-"Yeni Şafak Yerel": "2026-11-18T19:12:58+00:00",
+"Sözcü Son Dakika": "2026-11-18T20:11:32+00:00",
+"Yeni Şafak Yerel": "2026-11-18T20:07:55+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-18T15:03:27+00:00",
 "@islamasalya": "2026-11-18T19:17:36+00:00",
