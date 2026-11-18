@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"bbb4d1530a7f26b0",
-"12ab8e85788411bf",
-"72752b04f9e8ea6b",
 "ec61dce28f0612df",
 "f012f514c30cec4e",
 "8cbfd52f7802c4bd",
@@ -2999,40 +2996,12 @@
 "c79c95d70c5e74b0",
 "3ed32e2c07eb4d27",
 "740cbb4bc8055ace",
-"11f3e046c7d900bd"
+"11f3e046c7d900bd",
+"309570a7770f1572",
+"5c7c326b64d1308c",
+"bf6d3d735301aab7"
 ],
 "imzalar": [
-[
-"baltik",
-"hava",
-"havalandi",
-"nato",
-"savas",
-"tehdidi",
-"ucaklari"
-],
-[
-"bulutlarindan",
-"doga",
-"firtina",
-"isik",
-"meksika",
-"nadir",
-"olayi",
-"semalarinda",
-"uzaya",
-"yukseldi"
-],
-[
-"ayrinti",
-"bassavciligi",
-"calisiliyor",
-"davasi",
-"geciren",
-"harekete",
-"kapatilmaya",
-"kozinoglu"
-],
 [
 "basbakan",
 "deprem",
@@ -8831,18 +8800,61 @@
 "yasadigi",
 "yasam",
 "yeni"
+],
+[
+"aclik",
+"ardindan",
+"cihadin",
+"direnis",
+"duyuruldu",
+"ebu",
+"iki",
+"mucahit",
+"nabil",
+"nin",
+"nukayra",
+"refah",
+"sabir",
+"sehadet",
+"suren",
+"tunellerinde",
+"yil"
+],
+[
+"almanya",
+"cikti",
+"dan",
+"iddiasi",
+"ilgili",
+"kanitlar",
+"net",
+"ortaya",
+"rusya",
+"silah",
+"yasakli"
+],
+[
+"cikti",
+"duserek",
+"goruntuleri",
+"hayatini",
+"kattan",
+"kaybeden",
+"ortaya",
+"pelin",
+"pinar"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-18T16:57:00+00:00",
 "Sonsöz (Ankara)": "2026-11-18T16:09:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-18T16:09:48+00:00",
-"Sözcü Son Dakika": "2026-11-18T17:14:11+00:00",
+"Mynet Son Dakika": "2026-11-18T18:15:51+00:00",
+"Sözcü Son Dakika": "2026-11-18T18:18:01+00:00",
 "Yeni Şafak Yerel": "2026-11-18T16:58:49+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-18T15:03:27+00:00",
-"@islamasalya": "2026-11-18T15:49:59+00:00",
+"@islamasalya": "2026-11-18T17:35:52+00:00",
 "Yeni Asır (İzmir)": "2026-11-18T16:44:27+00:00",
 "İstanbul Gazetesi": "2026-11-18T06:57:00+00:00",
 "Kandilli Rasathanesi": "2026-11-18T01:16:57+00:00"
