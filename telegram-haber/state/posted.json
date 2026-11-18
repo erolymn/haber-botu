@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"1422f7c20a6a4e7b",
-"24f0f9cbbf3bb6e2",
-"7f6228b566ed6db9",
 "d4263e0080043d49",
 "4a7041bc9a6f15a5",
 "92a676f23c200e74",
@@ -2999,43 +2996,12 @@
 "56b544d23db5cddd",
 "1ca6e447cf7e537f",
 "2cb7d758caec0b17",
-"01a0ee8ede4a21e5"
+"01a0ee8ede4a21e5",
+"ae4e00ade87fa7a4",
+"9680fd5b20cbe2d1",
+"72266285d0e81f01"
 ],
 "imzalar": [
-[
-"alarma",
-"gecti",
-"halk",
-"havalandi",
-"iki",
-"indi",
-"pes",
-"pese",
-"savas",
-"siginaklara",
-"ucaklari",
-"ulke"
-],
-[
-"fransa",
-"kabusu",
-"maci",
-"milli",
-"nda",
-"oncesi",
-"sakatlik",
-"takimi",
-"turkiye",
-"yasaniyor"
-],
-[
-"baskani",
-"bursa",
-"dan",
-"hisarciklioglu",
-"tobb",
-"ziyaret"
-],
 [
 "artik",
 "degistirecek",
@@ -8850,14 +8816,38 @@
 "telefonu",
 "transfer",
 "volkan"
+],
+[
+"1400",
+"altin",
+"bulundu",
+"kulenin",
+"kutu",
+"tarihi",
+"temelinde",
+"yillik"
+],
+[
+"anne",
+"kizi",
+"manisa",
+"sobadan",
+"zehirlendi"
+],
+[
+"arca",
+"basaksehir",
+"corum",
+"hazirlaniyor",
+"istanbul"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-18T20:04:00+00:00",
-"Sonsöz (Ankara)": "2026-11-18T16:09:00+00:00",
+"Haber Global": "2026-11-18T22:10:00+00:00",
+"Sonsöz (Ankara)": "2026-11-18T22:17:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T18:15:51+00:00",
-"Sözcü Son Dakika": "2026-11-18T21:18:17+00:00",
+"Sözcü Son Dakika": "2026-11-18T22:00:41+00:00",
 "Yeni Şafak Yerel": "2026-11-18T21:13:59+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-18T15:03:27+00:00",
