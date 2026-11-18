@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"29525a4f3848d3cc",
-"46c7cb86e8712b05",
-"46b27d22be219768",
 "2f915f2ff2ce2e93",
 "bf6870685742c5ce",
 "45cdf3d3307f33f2",
@@ -2999,37 +2996,12 @@
 "bdb10c72f1dca64a",
 "9c97be2954dbd823",
 "98896f773976462c",
-"2b2269cb040930ad"
+"2b2269cb040930ad",
+"93ae571fccb834c0",
+"e4da2807f7d173c7",
+"700eaffbb14a7aec"
 ],
 "imzalar": [
-[
-"dikildi",
-"gecmisine",
-"gonderme",
-"heykel",
-"ortasina",
-"parkin",
-"trump",
-"yapan"
-],
-[
-"istanbul",
-"trafik",
-"ulasti",
-"yogunlugu",
-"yuzde"
-],
-[
-"cerrahpasalilar",
-"donuyor",
-"efsanesi",
-"film",
-"geri",
-"kurtlar",
-"nin",
-"oluyor",
-"vadisi"
-],
 [
 "aldi",
 "alev",
@@ -8819,15 +8791,45 @@
 "turkiye",
 "uluslararasi",
 "yururluk"
+],
+[
+"anestezi",
+"cekimi",
+"dis",
+"disci",
+"kahvesinde",
+"kars",
+"koy",
+"penseyle",
+"sasirtti"
+],
+[
+"cuma",
+"gorundu",
+"gunu",
+"indirim",
+"motorine"
+],
+[
+"avustralya",
+"bati",
+"daki",
+"dan",
+"hedefte",
+"kisi",
+"kurulus",
+"seria",
+"yaptirim",
+"yerlesimlere"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-18T04:18:00+00:00",
+"Haber Global": "2026-11-18T07:11:00+00:00",
 "Sonsöz (Ankara)": "2026-11-18T03:07:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T03:59:08+00:00",
-"Sözcü Son Dakika": "2026-11-18T06:07:46+00:00",
-"Yeni Şafak Yerel": "2026-11-18T06:13:35+00:00",
+"Sözcü Son Dakika": "2026-11-18T07:14:22+00:00",
+"Yeni Şafak Yerel": "2026-11-18T07:17:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-18T06:09:08+00:00",
 "@islamasalya": "2026-11-17T09:45:49+00:00",
