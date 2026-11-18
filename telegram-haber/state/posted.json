@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"5e2e3018413ac4bc",
-"ca1b44d6e93922c7",
-"69218b7f6a9220a0",
 "c76997fa72ccb26e",
 "669fec1e92e4578b",
 "1715a6904edf7bdb",
@@ -2999,28 +2996,12 @@
 "a52f6516253278c5",
 "b0d69c9702a84050",
 "01741392782e5a7c",
-"272f384cd992f664"
+"272f384cd992f664",
+"cc7eb80b60dcfd78",
+"e48d186709dc4413",
+"daf1435ef6bf7ad2"
 ],
 "imzalar": [
-[
-"aksam",
-"gazze"
-],
-[
-"aksam",
-"gazze"
-],
-[
-"aralik",
-"basvurmayan",
-"dikkat",
-"emeklilik",
-"fazla",
-"kadar",
-"odeyecek",
-"prim",
-"tamamlayacaklar"
-],
 [
 "bursa",
 "gozde",
@@ -8824,18 +8805,46 @@
 "goztepe",
 "one",
 "rekabetinde"
+],
+[
+"ayni",
+"dunyanin",
+"iste",
+"mutlu",
+"pasaportlari",
+"ulke",
+"yine",
+"zirvede"
+],
+[
+"bakan",
+"dan",
+"ersoy",
+"eserleri",
+"iki",
+"kutlu",
+"mujde",
+"mustafa",
+"onemli",
+"vefa",
+"ziyareti"
+],
+[
+"bitmiyor",
+"siyonizmin",
+"zulmu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-18T07:11:00+00:00",
+"Haber Global": "2026-11-18T09:10:00+00:00",
 "Sonsöz (Ankara)": "2026-11-18T07:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T03:59:08+00:00",
 "Sözcü Son Dakika": "2026-11-18T08:11:55+00:00",
-"Yeni Şafak Yerel": "2026-11-18T08:15:58+00:00",
+"Yeni Şafak Yerel": "2026-11-18T09:16:21+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-18T06:09:08+00:00",
-"@islamasalya": "2026-11-18T08:11:20+00:00",
+"@islamasalya": "2026-11-18T09:17:04+00:00",
 "Yeni Asır (İzmir)": "2026-11-18T06:59:34+00:00",
 "İstanbul Gazetesi": "2026-11-18T06:57:00+00:00",
 "Kandilli Rasathanesi": "2026-11-18T01:16:57+00:00"
