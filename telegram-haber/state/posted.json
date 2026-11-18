@@ -1,6 +1,5 @@
 {
 "gonderilen": [
-"5b666b41426b797b",
 "7bce8b1abd3e90bf",
 "224c1d1ca8dca710",
 "ba28d941173f925e",
@@ -2999,18 +2998,10 @@
 "491e7fb48387c4df",
 "1474b56d5716c270",
 "ab9e7832c84eab6d",
-"6198fd7c68b6f28e"
+"6198fd7c68b6f28e",
+"e56711b8f89ec503"
 ],
 "imzalar": [
-[
-"bakan",
-"duyurdu",
-"duzenleme",
-"etiketlerinde",
-"peynir",
-"yeni",
-"yumakli"
-],
 [
 "atti",
 "banglades",
@@ -8816,11 +8807,21 @@
 "hastane",
 "sayim",
 "yeni"
+],
+[
+"aranan",
+"cezasiyla",
+"edirne",
+"firari",
+"hapis",
+"hukumlu",
+"tutuklandi",
+"yil"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-18T02:09:00+00:00",
-"Sonsöz (Ankara)": "2026-11-18T00:44:00+00:00",
+"Sonsöz (Ankara)": "2026-11-18T01:19:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T11:06:40+00:00",
 "Sözcü Son Dakika": "2026-11-18T02:00:02+00:00",
