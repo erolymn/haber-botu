@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"2f915f2ff2ce2e93",
-"bf6870685742c5ce",
-"45cdf3d3307f33f2",
 "70d43c962fe66a53",
 "855fb09daf6d62f1",
 "90e747de9caaaccc",
@@ -2999,46 +2996,12 @@
 "2b2269cb040930ad",
 "93ae571fccb834c0",
 "e4da2807f7d173c7",
-"700eaffbb14a7aec"
+"700eaffbb14a7aec",
+"f5b576b90a92fa9c",
+"7f3a3e70343eee5e",
+"a52f6516253278c5"
 ],
 "imzalar": [
-[
-"aldi",
-"alev",
-"arkadaki",
-"balatalari",
-"dikkati",
-"faciayi",
-"fren",
-"halindeki",
-"kamyonun",
-"onledi",
-"seyir",
-"surucunun"
-],
-[
-"agir",
-"baslatti",
-"gazze",
-"israil",
-"itibariyla",
-"karsi",
-"saldirilar",
-"siyonist",
-"yeniden",
-"yogun"
-],
-[
-"bassavciliktan",
-"hazirlanan",
-"iliskin",
-"itiraz",
-"kasif",
-"kozinoglu",
-"nun",
-"olumune",
-"rapora"
-],
 [
 "adli",
 "bassavciligindan",
@@ -8821,11 +8784,37 @@
 "seria",
 "yaptirim",
 "yerlesimlere"
+],
+[
+"deniz",
+"engeli",
+"firtina",
+"marmara",
+"ulasimina"
+],
+[
+"akmayacak",
+"duyurdu",
+"gelecek",
+"ilcelerde",
+"izmir",
+"izsu",
+"saatlerce",
+"sular",
+"zaman"
+],
+[
+"ankara",
+"duzenlenecek",
+"gunu",
+"konser",
+"ogretmenler",
+"ozel"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-18T07:11:00+00:00",
-"Sonsöz (Ankara)": "2026-11-18T03:07:00+00:00",
+"Sonsöz (Ankara)": "2026-11-18T07:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T03:59:08+00:00",
 "Sözcü Son Dakika": "2026-11-18T07:14:22+00:00",
@@ -8833,8 +8822,8 @@
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-18T06:09:08+00:00",
 "@islamasalya": "2026-11-17T09:45:49+00:00",
-"Yeni Asır (İzmir)": "2026-11-17T19:28:47+00:00",
-"İstanbul Gazetesi": "2026-11-17T21:04:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-18T06:59:34+00:00",
+"İstanbul Gazetesi": "2026-11-18T06:57:00+00:00",
 "Kandilli Rasathanesi": "2026-11-18T01:16:57+00:00"
 }
 }
