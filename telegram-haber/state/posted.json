@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"8b889bd12ca1a55b",
-"6382fd3d66783bff",
-"989beb7ddd87de9d",
 "29525a4f3848d3cc",
 "46c7cb86e8712b05",
 "46b27d22be219768",
@@ -2999,38 +2996,12 @@
 "8d946820778f5eac",
 "b3a047dd8e639b4b",
 "625ff99deadf2da8",
-"bdb10c72f1dca64a"
+"bdb10c72f1dca64a",
+"9c97be2954dbd823",
+"98896f773976462c",
+"2b2269cb040930ad"
 ],
 "imzalar": [
-[
-"lig",
-"sistem",
-"super",
-"yeni"
-],
-[
-"bostanci",
-"dikkat",
-"duzenlemesi",
-"goztepe",
-"istanbullular",
-"koprulerinde",
-"trafik"
-],
-[
-"2026",
-"aktuel",
-"bim",
-"cikan",
-"fiyatlar",
-"haftanin",
-"indirimli",
-"kasim",
-"katalogu",
-"one",
-"onerileri",
-"urunler"
-],
 [
 "dikildi",
 "gecmisine",
@@ -8825,6 +8796,29 @@
 "yari",
 "yogun",
 "zeytinyagi"
+],
+[
+"arayisinda",
+"besiktas",
+"kanat",
+"milyonluk",
+"rota",
+"yildiz"
+],
+[
+"bursa",
+"elektrikler",
+"kesilecek"
+],
+[
+"anlasmasinin",
+"gazete",
+"nin",
+"resmi",
+"tarihleri",
+"turkiye",
+"uluslararasi",
+"yururluk"
 ]
 ],
 "son_tarih": {
@@ -8832,10 +8826,10 @@
 "Sonsöz (Ankara)": "2026-11-18T03:07:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T03:59:08+00:00",
-"Sözcü Son Dakika": "2026-11-18T05:10:46+00:00",
-"Yeni Şafak Yerel": "2026-11-18T05:16:59+00:00",
+"Sözcü Son Dakika": "2026-11-18T06:07:46+00:00",
+"Yeni Şafak Yerel": "2026-11-18T06:13:35+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-18T02:15:25+00:00",
+"Olay (Bursa)": "2026-11-18T06:09:08+00:00",
 "@islamasalya": "2026-11-17T09:45:49+00:00",
 "Yeni Asır (İzmir)": "2026-11-17T19:28:47+00:00",
 "İstanbul Gazetesi": "2026-11-17T21:04:00+00:00",
