@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"62d8ea69bbda18c7",
-"7113886785b2dfe8",
-"cc503842e8c7960b",
 "006017796fb88082",
 "cd1753f9fd980dd5",
 "6fa3048ebbacf18f",
@@ -2999,44 +2996,12 @@
 "d153e3cdbb4e6f6e",
 "d077ede6d1997ec4",
 "42bb6e46ddf117ce",
-"5c18416ea4cd0878"
+"5c18416ea4cd0878",
+"dcddb715ed6fdceb",
+"0f89079b0db98529",
+"6e2cb635243f61dd"
 ],
 "imzalar": [
-[
-"baska",
-"can",
-"carpti",
-"cikan",
-"dan",
-"feci",
-"inen",
-"sekilde",
-"surucuye",
-"tir",
-"verdi",
-"yangin"
-],
-[
-"bursa",
-"donemin",
-"edilmis",
-"gozde",
-"halde",
-"mekaniydi",
-"nin",
-"simdi",
-"terk"
-],
-[
-"aksaray",
-"babasi",
-"cocuk",
-"feci",
-"hayatini",
-"kaybetti",
-"kazasi",
-"traktor"
-],
 [
 "ankara",
 "devrildi",
@@ -8829,6 +8794,35 @@
 "dan",
 "dijital",
 "hareketlilik"
+],
+[
+"aydin",
+"bursa",
+"cezasi",
+"erkan",
+"hapis",
+"nihat",
+"siyasi",
+"yasak",
+"yesiltas"
+],
+[
+"birlikte",
+"cikti",
+"gorenler",
+"hayran",
+"kaldi",
+"lodosla",
+"ortaya"
+],
+[
+"deniz",
+"duragi",
+"moto2",
+"nun",
+"oncu",
+"portekiz",
+"siradaki"
 ]
 ],
 "son_tarih": {
@@ -8836,10 +8830,10 @@
 "Sonsöz (Ankara)": "2026-11-18T07:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T13:14:25+00:00",
-"Sözcü Son Dakika": "2026-11-18T14:17:05+00:00",
-"Yeni Şafak Yerel": "2026-11-18T13:17:03+00:00",
+"Sözcü Son Dakika": "2026-11-18T15:17:13+00:00",
+"Yeni Şafak Yerel": "2026-11-18T15:06:42+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-18T14:17:41+00:00",
+"Olay (Bursa)": "2026-11-18T15:03:27+00:00",
 "@islamasalya": "2026-11-18T13:46:41+00:00",
 "Yeni Asır (İzmir)": "2026-11-18T12:13:10+00:00",
 "İstanbul Gazetesi": "2026-11-18T06:57:00+00:00",
