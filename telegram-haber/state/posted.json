@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"785c4dc4f17efbe2",
-"13d54d290797953d",
-"b2654db49b87dc63",
 "e264dd3310b2a861",
 "8ebdd9436db437ee",
 "244681b6076f254d",
@@ -2999,42 +2996,12 @@
 "f15db8ba6e2c26f3",
 "f11c9f46e7672990",
 "c7b9f2283ce39e7e",
-"e0c7fa4ecd5dda87"
+"e0c7fa4ecd5dda87",
+"b1ce6052a7a74155",
+"ed6671da433f59c0",
+"ecf07191efd0daa9"
 ],
 "imzalar": [
-[
-"arkadasina",
-"belli",
-"cezasi",
-"cinayetinde",
-"gonderme",
-"istegi",
-"kiz",
-"sanigin",
-"takip"
-],
-[
-"anketlerde",
-"aradan",
-"ilk",
-"milliyetcilerin",
-"tercihi",
-"uzun",
-"yasandi"
-],
-[
-"alev",
-"aliyor",
-"arac",
-"den",
-"hatalar",
-"iste",
-"izmir",
-"kritik",
-"neden",
-"sahiplerine",
-"uyari"
-],
 [
 "esine",
 "gittigini",
@@ -8827,15 +8794,37 @@
 "yarisi",
 "yasamini",
 "yitirdi"
+],
+[
+"kahramanmaras",
+"kazasi",
+"trafik",
+"yarali"
+],
+[
+"aracta",
+"feci",
+"hisarcik",
+"itfaiye",
+"kamyon",
+"kaza",
+"kurtardi",
+"sikisan",
+"surucusunu"
+],
+[
+"cozuluyor",
+"dugum",
+"fonda"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-17T23:18:00+00:00",
-"Sonsöz (Ankara)": "2026-11-17T23:38:00+00:00",
+"Haber Global": "2026-11-18T00:27:00+00:00",
+"Sonsöz (Ankara)": "2026-11-18T00:44:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-17T11:06:40+00:00",
 "Sözcü Son Dakika": "2026-11-17T22:53:27+00:00",
-"Yeni Şafak Yerel": "2026-11-17T21:44:44+00:00",
+"Yeni Şafak Yerel": "2026-11-18T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-17T21:09:36+00:00",
 "@islamasalya": "2026-11-17T09:45:49+00:00",
