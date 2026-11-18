@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"6a88f5429ff24365",
-"10e018053a657a07",
-"9d9b06d5bbb43d51",
 "1422f7c20a6a4e7b",
 "24f0f9cbbf3bb6e2",
 "7f6228b566ed6db9",
@@ -2999,35 +2996,12 @@
 "156595bba75a9b13",
 "543f5e8f7ce7d3e9",
 "f98620b2a27fc310",
-"56b544d23db5cddd"
+"56b544d23db5cddd",
+"1ca6e447cf7e537f",
+"2cb7d758caec0b17",
+"01a0ee8ede4a21e5"
 ],
 "imzalar": [
-[
-"basladi",
-"robotik",
-"sampiyonlukla",
-"sezona",
-"takimi",
-"teknoloji"
-],
-[
-"aksina",
-"asfalt",
-"buyuksehir",
-"den",
-"guney",
-"izmir",
-"kilometrelik",
-"yatirimi"
-],
-[
-"aciklandi",
-"benzin",
-"gelecegi",
-"indirim",
-"motorine",
-"tarih"
-],
 [
 "alarma",
 "gecti",
@@ -8840,6 +8814,42 @@
 "yakti",
 "yapay",
 "zeka"
+],
+[
+"aglardi",
+"bilseydi",
+"buyuk",
+"gece",
+"genclerin",
+"gunduz",
+"kadar",
+"kaybettigimiz",
+"oldugunu",
+"onlar",
+"ummet",
+"vallahi"
+],
+[
+"bes",
+"carpisan",
+"iki",
+"kisi",
+"otomobildeki",
+"sanliurfa",
+"yaralandi"
+],
+[
+"belozoglu",
+"demirel",
+"den",
+"emre",
+"fenerbahceli",
+"futbolcu",
+"hedefi",
+"ilk",
+"telefonu",
+"transfer",
+"volkan"
 ]
 ],
 "son_tarih": {
@@ -8847,11 +8857,11 @@
 "Sonsöz (Ankara)": "2026-11-18T16:09:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T18:15:51+00:00",
-"Sözcü Son Dakika": "2026-11-18T20:11:32+00:00",
-"Yeni Şafak Yerel": "2026-11-18T20:07:55+00:00",
+"Sözcü Son Dakika": "2026-11-18T21:18:17+00:00",
+"Yeni Şafak Yerel": "2026-11-18T21:13:59+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-18T15:03:27+00:00",
-"@islamasalya": "2026-11-18T19:17:36+00:00",
+"@islamasalya": "2026-11-18T20:25:03+00:00",
 "Yeni Asır (İzmir)": "2026-11-18T16:44:27+00:00",
 "İstanbul Gazetesi": "2026-11-18T06:57:00+00:00",
 "Kandilli Rasathanesi": "2026-11-18T01:16:57+00:00"
