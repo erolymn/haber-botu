@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"7679a23f65508a72",
-"1b3c3751bce2fd4c",
-"34309984cd429fed",
 "796d6758b028b2e9",
 "8bcf01edc0efccb0",
 "446d3f2ad7509c30",
@@ -2999,39 +2996,12 @@
 "460759be70f6cd5b",
 "c62108c7ed3021f0",
 "5c7c89bddcce49b1",
-"ea4a45d86da78826"
+"ea4a45d86da78826",
+"b3393d68728fadac",
+"ee7b25e649826158",
+"d153e3cdbb4e6f6e"
 ],
 "imzalar": [
-[
-"beyoglu",
-"cikti",
-"halindeki",
-"nda",
-"seyir",
-"takside",
-"yangin"
-],
-[
-"buyuk",
-"hayalini",
-"kuruyordu",
-"sok",
-"yildir",
-"zaniolo"
-],
-[
-"562",
-"719",
-"bin",
-"cezasi",
-"eden",
-"kavga",
-"lira",
-"para",
-"pendik",
-"surucuye",
-"trafikte"
-],
 [
 "bursaspor",
 "disipline",
@@ -8833,15 +8803,45 @@
 "iltisakli",
 "medya",
 "sosyal"
+],
+[
+"basladi",
+"geri",
+"sayim",
+"tam",
+"yasaniyor",
+"yilda"
+],
+[
+"den",
+"izleme",
+"karari",
+"komisyonu",
+"parti",
+"terorsuz",
+"turkiye",
+"yeni"
+],
+[
+"bulutlar",
+"cevresini",
+"galata",
+"hava",
+"istanbul",
+"kapladi",
+"kara",
+"karardi",
+"koprusu",
+"sis"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-18T12:13:00+00:00",
 "Sonsöz (Ankara)": "2026-11-18T07:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-18T03:59:08+00:00",
-"Sözcü Son Dakika": "2026-11-18T12:05:57+00:00",
-"Yeni Şafak Yerel": "2026-11-18T12:14:30+00:00",
+"Mynet Son Dakika": "2026-11-18T13:14:25+00:00",
+"Sözcü Son Dakika": "2026-11-18T13:12:29+00:00",
+"Yeni Şafak Yerel": "2026-11-18T13:17:03+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-18T12:04:41+00:00",
 "@islamasalya": "2026-11-18T11:47:19+00:00",
