@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"a681e8fc581672da",
-"58f99f6f1e7bfa58",
 "7d154c251bde3686",
 "b9cde96151743592",
 "cfbb962d1e9d7d68",
@@ -2999,31 +2997,11 @@
 "72266285d0e81f01",
 "b1ac21718b931e20",
 "d23f0db4bad9de94",
-"bcd0b2bb88e7c555"
+"bcd0b2bb88e7c555",
+"e52bbdc82e71c664",
+"48dee42c4acf82c3"
 ],
 "imzalar": [
-[
-"acti",
-"agzini",
-"apple",
-"ceo",
-"giren",
-"haliciya",
-"kapalicarsi",
-"kesenin"
-],
-[
-"aldi",
-"arjantin",
-"dan",
-"deniz",
-"hava",
-"iran",
-"kuvvetleri",
-"listesine",
-"misilleme",
-"teror"
-],
 [
 "alacak",
 "belli",
@@ -8835,6 +8813,31 @@
 "operasyonu",
 "tefeci",
 "tutuklandi"
+],
+[
+"aldiran",
+"altina",
+"ayaklarinizin",
+"hafta",
+"iyi",
+"izmir",
+"manzara",
+"nefes",
+"noktalari",
+"sehri",
+"seren",
+"seyir",
+"sonu",
+"tepeleri"
+],
+[
+"engeli",
+"kaldirmayacak",
+"lisansinda",
+"mahk",
+"miyet",
+"pilot",
+"sarti"
 ]
 ],
 "son_tarih": {
@@ -8842,12 +8845,12 @@
 "Sonsöz (Ankara)": "2026-11-18T22:17:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T18:15:51+00:00",
-"Sözcü Son Dakika": "2026-11-18T22:00:41+00:00",
+"Sözcü Son Dakika": "2026-11-18T23:13:37+00:00",
 "Yeni Şafak Yerel": "2026-11-18T21:44:20+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-18T21:02:53+00:00",
 "@islamasalya": "2026-11-18T20:25:03+00:00",
-"Yeni Asır (İzmir)": "2026-11-18T16:44:27+00:00",
+"Yeni Asır (İzmir)": "2026-11-18T20:34:01+00:00",
 "İstanbul Gazetesi": "2026-11-18T21:25:00+00:00",
 "Kandilli Rasathanesi": "2026-11-18T01:16:57+00:00"
 }
