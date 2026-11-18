@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"2e702b540eda1bbe",
-"e68800f328d69184",
-"fdc569af7f21e13e",
 "20717654e44bb6ed",
 "5048816e53f3220d",
 "1da2d75908c496b9",
@@ -2999,43 +2996,12 @@
 "daf1435ef6bf7ad2",
 "584e776a82123440",
 "3453b71e0c642935",
-"2e8b9ab97b97780f"
+"2e8b9ab97b97780f",
+"22dd2e7d281030c5",
+"3de39e1e3f4b8476",
+"460759be70f6cd5b"
 ],
 "imzalar": [
-[
-"alarmi",
-"avrupa",
-"gribi",
-"kullanimi",
-"kus",
-"sularin",
-"ulkesinde",
-"yasaklandi"
-],
-[
-"bekliyoruz",
-"cafer",
-"chp",
-"degerlendirecegini",
-"den",
-"duyurusu",
-"firsati",
-"hakkinda",
-"karari",
-"mahiroglu",
-"suc"
-],
-[
-"bingol",
-"cavus",
-"hastanede",
-"hayatini",
-"kaybetti",
-"kazasinda",
-"trafik",
-"uzman",
-"yaralanan"
-],
 [
 "adayini",
 "buyuk",
@@ -8837,6 +8803,42 @@
 "sahap",
 "sorusturma",
 "talebi"
+],
+[
+"ardindan",
+"askin",
+"ateskesin",
+"baslattiklarini",
+"bombardimanin",
+"devam",
+"duyuruyor",
+"eden",
+"gazze",
+"gucler",
+"halkina",
+"harek",
+"isgalci",
+"kara",
+"karsi",
+"ragmen",
+"saglanmasina",
+"simdi",
+"suredir",
+"yeni",
+"yili"
+],
+[
+"cagirildi",
+"ifadeye",
+"mustafa",
+"yazici"
+],
+[
+"basliyor",
+"buyuksehir",
+"fuari",
+"kitap",
+"sanliurfa"
 ]
 ],
 "son_tarih": {
@@ -8845,11 +8847,11 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T03:59:08+00:00",
 "Sözcü Son Dakika": "2026-11-18T10:17:27+00:00",
-"Yeni Şafak Yerel": "2026-11-18T10:17:03+00:00",
+"Yeni Şafak Yerel": "2026-11-18T12:14:30+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-18T10:12:35+00:00",
-"@islamasalya": "2026-11-18T09:17:04+00:00",
-"Yeni Asır (İzmir)": "2026-11-18T06:59:34+00:00",
+"@islamasalya": "2026-11-18T11:47:19+00:00",
+"Yeni Asır (İzmir)": "2026-11-18T12:13:10+00:00",
 "İstanbul Gazetesi": "2026-11-18T06:57:00+00:00",
 "Kandilli Rasathanesi": "2026-11-18T01:16:57+00:00"
 }
