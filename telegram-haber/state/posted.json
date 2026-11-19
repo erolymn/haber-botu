@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"5e1f089987c16c98",
-"7ec104f2d8c36207",
-"50355abf3d056e0a",
 "11ceafa26b21c87c",
 "9316e4f08f8c214f",
 "2a7a991c4a53b4ff",
@@ -2999,44 +2996,12 @@
 "4e7a5cc5f93c06e9",
 "1d8cdeef1f27686a",
 "cc9905bb0aa6c753",
-"921a115e16296d81"
+"921a115e16296d81",
+"181d7a162b561a57",
+"8890b3dc08698824",
+"56d2a24af090feb5"
 ],
 "imzalar": [
-[
-"barut",
-"belli",
-"chp",
-"den",
-"eden",
-"istifa",
-"partisi",
-"saniye",
-"yeni"
-],
-[
-"aldi",
-"alev",
-"iett",
-"nda",
-"otobusu",
-"otoyolu",
-"tem"
-],
-[
-"edildi",
-"genel",
-"kabul",
-"kanunu",
-"kizilay",
-"kurulu",
-"maddeleri",
-"nda",
-"nin",
-"tbmm",
-"teklifi",
-"tum",
-"turk"
-],
 [
 "budo",
 "edildi",
@@ -8818,17 +8783,43 @@
 "kaldirdi",
 "polisler",
 "yoldan"
+],
+[
+"besiktas",
+"federasyonu",
+"futbol",
+"hirvatistan",
+"temsilcilerinden",
+"uefa",
+"ziyaret"
+],
+[
+"acikladi",
+"bursasporlu",
+"buyuk",
+"hedefini",
+"lincoln"
+],
+[
+"binlerce",
+"durduracak",
+"harcayacaklar",
+"mayin",
+"mayinlara",
+"servet",
+"stoklanacak",
+"tanklari"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-19T13:11:00+00:00",
+"Haber Global": "2026-11-19T15:14:00+00:00",
 "Sonsöz (Ankara)": "2026-11-19T13:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-19T08:00:52+00:00",
-"Sözcü Son Dakika": "2026-11-19T14:10:23+00:00",
+"Sözcü Son Dakika": "2026-11-19T15:19:14+00:00",
 "Yeni Şafak Yerel": "2026-11-19T13:11:16+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-19T14:18:06+00:00",
+"Olay (Bursa)": "2026-11-19T15:15:26+00:00",
 "@islamasalya": "2026-11-19T14:13:36+00:00",
 "Yeni Asır (İzmir)": "2026-11-19T11:16:45+00:00",
 "İstanbul Gazetesi": "2026-11-19T13:12:00+00:00",
