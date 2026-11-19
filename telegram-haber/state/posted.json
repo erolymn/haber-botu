@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"ed41c7c7177fec54",
-"0d11dc9a7359593f",
 "633c6d0fb0487d49",
 "fb755d2e59151822",
 "174505134bc9c3fc",
@@ -2999,27 +2997,11 @@
 "58af8aca29d4b3e9",
 "3930c9b2a275537b",
 "f9f51bea5636485f",
-"334e249a8d1c489c"
+"334e249a8d1c489c",
+"75361b03aa3a53c2",
+"4a22ee2dee610130"
 ],
 "imzalar": [
-[
-"acilimi",
-"cop31",
-"gun",
-"kac",
-"nedir",
-"surecek"
-],
-[
-"aktif",
-"asan",
-"banka",
-"bankasi",
-"buyuklugu",
-"ilk",
-"trilyon",
-"ziraat"
-],
 [
 "fransa",
 "macinda",
@@ -8835,17 +8817,34 @@
 "selcuklu",
 "sultan",
 "zirvesi"
+],
+[
+"degisiklik",
+"gazete",
+"lisans",
+"nde",
+"pilot",
+"resmi",
+"yonetmeligi"
+],
+[
+"bursa",
+"hastanesine",
+"nin",
+"tarihi",
+"veda",
+"zamani"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-19T01:02:00+00:00",
+"Haber Global": "2026-11-19T01:48:00+00:00",
 "Sonsöz (Ankara)": "2026-11-19T01:08:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T18:15:51+00:00",
 "Sözcü Son Dakika": "2026-11-18T23:20:52+00:00",
 "Yeni Şafak Yerel": "2026-11-19T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-18T21:02:53+00:00",
+"Olay (Bursa)": "2026-11-19T02:10:40+00:00",
 "@islamasalya": "2026-11-18T20:25:03+00:00",
 "Yeni Asır (İzmir)": "2026-11-18T20:34:01+00:00",
 "İstanbul Gazetesi": "2026-11-18T21:25:00+00:00",
