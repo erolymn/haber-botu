@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"1d7c698f5aee1728",
-"f5b39a1ebe845f38",
-"1cba1b65f93e55bf",
 "8394b938588432de",
 "77156129f53af5d6",
 "acad35ad4209cee7",
@@ -2999,41 +2996,12 @@
 "03e26c3ce32429cc",
 "5c45430fde640d0f",
 "4ffc395de47981eb",
-"3e56dbb61168c1e6"
+"3e56dbb61168c1e6",
+"57931cb6002c7288",
+"7cd922f07060a0b1",
+"6c5f9f4d7da8e009"
 ],
 "imzalar": [
-[
-"arac",
-"bolu",
-"dagi",
-"nde",
-"panigi",
-"tuneli",
-"yangini"
-],
-[
-"avrupa",
-"binlerce",
-"bomba",
-"havalimani",
-"hedefte",
-"kanali",
-"nin",
-"okul",
-"tehdidi",
-"televizyon",
-"uzerine",
-"yagdi"
-],
-[
-"deki",
-"faciasinda",
-"gelisme",
-"izmir",
-"patlama",
-"supheli",
-"tutuklandi"
-],
 [
 "126",
 "bedavaya",
@@ -8824,15 +8792,53 @@
 "kupa",
 "voley",
 "yari"
+],
+[
+"ankara",
+"bekleyen",
+"disinda",
+"guzellikleri",
+"kesfedilmeyi",
+"kizilay",
+"nin",
+"rota",
+"sakli",
+"tunali"
+],
+[
+"arabistan",
+"endonezya",
+"gundemde",
+"hazirlaniyor",
+"ittifaki",
+"katilima",
+"katilimi",
+"mekke",
+"olusturdugu",
+"pakistan",
+"suudi",
+"turkiye",
+"ulkenin",
+"yeni"
+],
+[
+"bedenine",
+"cansiz",
+"cayi",
+"cocugun",
+"dusen",
+"kocabas",
+"ulasildi",
+"yasindaki"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-19T18:16:00+00:00",
-"Sonsöz (Ankara)": "2026-11-19T13:10:00+00:00",
+"Sonsöz (Ankara)": "2026-11-19T18:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-19T08:00:52+00:00",
+"Mynet Son Dakika": "2026-11-19T18:03:53+00:00",
 "Sözcü Son Dakika": "2026-11-19T18:13:57+00:00",
-"Yeni Şafak Yerel": "2026-11-19T16:54:59+00:00",
+"Yeni Şafak Yerel": "2026-11-19T18:05:28+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-19T15:15:26+00:00",
 "@islamasalya": "2026-11-19T16:34:25+00:00",
