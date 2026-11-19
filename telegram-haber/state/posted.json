@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"7037727d1374b1e8",
-"8d96c1752e996008",
 "d1bbb90b3a492263",
 "94262a52f537d1ef",
 "8424b13f4e3da139",
@@ -2999,34 +2997,11 @@
 "ebc805f0b1fd02ee",
 "376ea9091cb2fb4d",
 "3d1ce68cd31dc6a5",
-"7bc181004d002054"
+"7bc181004d002054",
+"a2d63124992cb8f6",
+"ee835f36c51a6bcd"
 ],
 "imzalar": [
-[
-"ceza",
-"cikisinda",
-"kesip",
-"kopru",
-"lira",
-"milyon",
-"minibusun",
-"onunu",
-"saldirdilar",
-"sopalarla",
-"yaklasik",
-"yediler"
-],
-[
-"aciklama",
-"asker",
-"bin",
-"den",
-"gonderilecegi",
-"iddiasina",
-"iliskin",
-"msb",
-"somali"
-],
 [
 "akom",
 "dan",
@@ -8807,6 +8782,33 @@
 "tarih",
 "yagacak",
 "zaman"
+],
+[
+"alma",
+"dolu",
+"duraklari",
+"gereken",
+"guzel",
+"izmirlilerin",
+"kafeler",
+"karmasasindan",
+"kesfetmesi",
+"kitap",
+"kultur",
+"kutuphane",
+"nefes",
+"sanat",
+"sehrin",
+"uzak"
+],
+[
+"dort",
+"kazasi",
+"kisi",
+"susurluk",
+"trafik",
+"yaralandi",
+"zincirleme"
 ]
 ],
 "son_tarih": {
@@ -8815,11 +8817,11 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-19T21:16:20+00:00",
 "Sözcü Son Dakika": "2026-11-19T23:13:18+00:00",
-"Yeni Şafak Yerel": "2026-11-19T20:19:06+00:00",
+"Yeni Şafak Yerel": "2026-11-19T21:48:34+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-19T21:11:33+00:00",
 "@islamasalya": "2026-11-19T22:04:35+00:00",
-"Yeni Asır (İzmir)": "2026-11-19T11:16:45+00:00",
+"Yeni Asır (İzmir)": "2026-11-19T21:45:23+00:00",
 "İstanbul Gazetesi": "2026-11-19T22:04:00+00:00",
 "Kandilli Rasathanesi": "2026-11-19T08:45:53+00:00"
 }
