@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"8271125dc82dd5b9",
-"6baa2e3c2bce3437",
-"2487af59054e5e4e",
 "3ca4d63c5f3ab552",
 "b864423b5a2a0a7b",
 "0c641e933e1bfc0c",
@@ -2999,36 +2996,12 @@
 "62b12d9211ef4aae",
 "41cf80e432b6e8d4",
 "f63650be963c8cd7",
-"23e703dd468c3844"
+"23e703dd468c3844",
+"e0b53f1807aa465f",
+"ed1a85d02a64c553",
+"4e7a5cc5f93c06e9"
 ],
 "imzalar": [
-[
-"dan",
-"esini",
-"hamile",
-"karari",
-"oldurmekle",
-"suclaniyordu",
-"tahliye",
-"yargitay"
-],
-[
-"anne",
-"bursa",
-"kaza",
-"korkunc",
-"oglu"
-],
-[
-"carpip",
-"cekiciye",
-"gelen",
-"kacti",
-"kaza",
-"olay",
-"sonrasi",
-"yerine"
-],
 [
 "antalya",
 "dan",
@@ -8821,14 +8794,39 @@
 "cocuklugu",
 "ellerinden",
 "gazze"
+],
+[
+"alisveris",
+"kriterler",
+"olmaz",
+"olmazsa",
+"online",
+"yapanlar"
+],
+[
+"askerin",
+"cenazesi",
+"gitti",
+"kocaeli",
+"sehit",
+"yil"
+],
+[
+"den",
+"gozdagi",
+"putin",
+"sonrasi",
+"uclu",
+"ukrayna",
+"zirve"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-19T08:09:00+00:00",
-"Sonsöz (Ankara)": "2026-11-19T12:14:00+00:00",
+"Haber Global": "2026-11-19T13:11:00+00:00",
+"Sonsöz (Ankara)": "2026-11-19T13:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-19T08:00:52+00:00",
-"Sözcü Son Dakika": "2026-11-19T12:16:23+00:00",
+"Sözcü Son Dakika": "2026-11-19T13:07:34+00:00",
 "Yeni Şafak Yerel": "2026-11-19T13:11:16+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-19T13:18:24+00:00",
