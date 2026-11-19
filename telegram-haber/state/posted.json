@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"36e99001a2b3f990",
-"babb2c0a310f6da0",
-"73b0b21b17d5abbf",
 "43863513379be099",
 "f032973901a9a9db",
 "488f6c07c3d60ce9",
@@ -2999,39 +2996,12 @@
 "aa8cfaade85cb00d",
 "82ed96072881d282",
 "2c487f6f67085777",
-"97260a82e848bb1b"
+"97260a82e848bb1b",
+"cd0d4a82674a20ff",
+"7fbb3f29d031ed38",
+"62b12d9211ef4aae"
 ],
 "imzalar": [
-[
-"cinsel",
-"cocuguna",
-"gozalti",
-"iddiasina",
-"istismar",
-"kiz"
-],
-[
-"bankasi",
-"dort",
-"kaleminde",
-"kredi",
-"merkez",
-"siniri",
-"yukseltti"
-],
-[
-"belcika",
-"biz",
-"bommel",
-"cikacagiz",
-"direktoru",
-"kazanmak",
-"milli",
-"sahaya",
-"takim",
-"teknik",
-"van"
-],
 [
 "arsavev",
 "fenerbahce",
@@ -8830,15 +8800,41 @@
 "cocuklarla",
 "geldi",
 "valisi"
+],
+[
+"ardindan",
+"enistesini",
+"etmek",
+"intihar",
+"istedi",
+"oldurdu",
+"tabancayla"
+],
+[
+"diploma",
+"ekrem",
+"imamoglu",
+"iptali",
+"kesinlesti",
+"nun"
+],
+[
+"gecirilmesini",
+"gozden",
+"istedi",
+"schengen",
+"sureclerinin",
+"turkiye",
+"vize"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-19T08:09:00+00:00",
-"Sonsöz (Ankara)": "2026-11-19T07:11:00+00:00",
+"Sonsöz (Ankara)": "2026-11-19T12:14:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-19T08:00:52+00:00",
-"Sözcü Son Dakika": "2026-11-19T10:18:41+00:00",
-"Yeni Şafak Yerel": "2026-11-19T11:16:31+00:00",
+"Sözcü Son Dakika": "2026-11-19T12:16:23+00:00",
+"Yeni Şafak Yerel": "2026-11-19T12:17:56+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-19T11:20:26+00:00",
 "@islamasalya": "2026-11-19T08:37:33+00:00",
