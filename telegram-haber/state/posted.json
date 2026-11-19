@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"43863513379be099",
-"f032973901a9a9db",
-"488f6c07c3d60ce9",
 "8271125dc82dd5b9",
 "6baa2e3c2bce3437",
 "2487af59054e5e4e",
@@ -2999,36 +2996,12 @@
 "97260a82e848bb1b",
 "cd0d4a82674a20ff",
 "7fbb3f29d031ed38",
-"62b12d9211ef4aae"
+"62b12d9211ef4aae",
+"41cf80e432b6e8d4",
+"f63650be963c8cd7",
+"23e703dd468c3844"
 ],
 "imzalar": [
-[
-"arsavev",
-"fenerbahce",
-"real",
-"sociedad"
-],
-[
-"adam",
-"afyonkarahisar",
-"genc",
-"husumet",
-"kanli",
-"kurtarilamadi",
-"tufekle",
-"vurdu",
-"yasindaki"
-],
-[
-"aleksandr",
-"buyukelcisi",
-"darciyev",
-"hayatini",
-"kaybetti",
-"nin",
-"rusya",
-"washington"
-],
 [
 "dan",
 "esini",
@@ -8826,6 +8799,28 @@
 "sureclerinin",
 "turkiye",
 "vize"
+],
+[
+"arac",
+"carpisti",
+"eskisehir",
+"feci",
+"hafif",
+"kaza",
+"tanker",
+"ticari"
+],
+[
+"dosyasinda",
+"gullu",
+"karar"
+],
+[
+"alindi",
+"cocuklarin",
+"cocuklugu",
+"ellerinden",
+"gazze"
 ]
 ],
 "son_tarih": {
@@ -8834,12 +8829,12 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-19T08:00:52+00:00",
 "Sözcü Son Dakika": "2026-11-19T12:16:23+00:00",
-"Yeni Şafak Yerel": "2026-11-19T12:17:56+00:00",
+"Yeni Şafak Yerel": "2026-11-19T13:11:16+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-19T11:20:26+00:00",
+"Olay (Bursa)": "2026-11-19T13:18:24+00:00",
 "@islamasalya": "2026-11-19T08:37:33+00:00",
 "Yeni Asır (İzmir)": "2026-11-19T11:16:45+00:00",
-"İstanbul Gazetesi": "2026-11-19T08:13:00+00:00",
+"İstanbul Gazetesi": "2026-11-19T13:12:00+00:00",
 "Kandilli Rasathanesi": "2026-11-19T08:45:53+00:00"
 }
 }
