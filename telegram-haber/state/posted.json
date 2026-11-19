@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"af25e81737aeea14",
-"8a05a32f76cee492",
-"78f9338de5be75f6",
 "3fd660a5d0eef0ae",
 "fac2e8257b47752b",
 "549625739b754fc0",
@@ -2999,35 +2996,12 @@
 "2004b5f00ef9b2f4",
 "3abf43a4bc57f17d",
 "eae3e6830563fd2e",
-"eb37d49daede5460"
+"eb37d49daede5460",
+"e0e551565d577e7f",
+"508c4a8177c45c28",
+"aa8cfaade85cb00d"
 ],
 "imzalar": [
-[
-"aziz",
-"cop31",
-"duzenlenen",
-"kapsaminda",
-"katildi",
-"programa",
-"yildirim"
-],
-[
-"basketbol",
-"kadin",
-"karadag",
-"maglup",
-"milli",
-"takimi"
-],
-[
-"ankarali",
-"belli",
-"festival",
-"mujde",
-"old",
-"sinemaseverlere",
-"tarih"
-],
 [
 "cati",
 "dumandan",
@@ -8825,6 +8799,36 @@
 "sirketinde",
 "sokunu",
 "yasadi"
+],
+[
+"acikladi",
+"aylik",
+"bebek",
+"dogdu",
+"iste",
+"izmir",
+"kac",
+"rakam",
+"tuik"
+],
+[
+"ari",
+"beraat",
+"gazeteci",
+"ismail",
+"tahliye"
+],
+[
+"abha",
+"alarm",
+"alindi",
+"devreye",
+"erken",
+"hamis",
+"musayt",
+"necran",
+"sistemi",
+"uyari"
 ]
 ],
 "son_tarih": {
@@ -8832,12 +8836,12 @@
 "Sonsöz (Ankara)": "2026-11-19T07:11:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-19T08:00:52+00:00",
-"Sözcü Son Dakika": "2026-11-19T08:18:50+00:00",
-"Yeni Şafak Yerel": "2026-11-19T09:15:46+00:00",
+"Sözcü Son Dakika": "2026-11-19T10:18:41+00:00",
+"Yeni Şafak Yerel": "2026-11-19T10:19:17+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-19T09:20:01+00:00",
 "@islamasalya": "2026-11-19T08:37:33+00:00",
-"Yeni Asır (İzmir)": "2026-11-19T08:03:54+00:00",
+"Yeni Asır (İzmir)": "2026-11-19T10:14:54+00:00",
 "İstanbul Gazetesi": "2026-11-19T08:13:00+00:00",
 "Kandilli Rasathanesi": "2026-11-19T08:45:53+00:00"
 }
