@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"216e7df106205834",
-"c382246eed66a501",
-"fa976f747a0b4ebb",
 "dcf9dc4cdb8ebbf7",
 "465c585708cf4e5e",
 "9892a8c7311a983a",
@@ -2999,28 +2996,12 @@
 "56d2a24af090feb5",
 "158f95b7a2dfb820",
 "ac903bdf0bd3a291",
-"204d7a4a6d3b5f25"
+"204d7a4a6d3b5f25",
+"d3fb6312b2b3a5f1",
+"58f20c4e3a00daeb",
+"03e26c3ce32429cc"
 ],
 "imzalar": [
-[
-"fabrikadaki",
-"iliskin",
-"izmir",
-"patlamaya",
-"supheli",
-"tutuklandi"
-],
-[
-"birakip",
-"gecelim",
-"harekete",
-"sikayeti"
-],
-[
-"aday",
-"gelinimiz",
-"zirveye"
-],
 [
 "dereye",
 "kamyonet",
@@ -8808,6 +8789,33 @@
 "tepki",
 "uclu",
 "zirveye"
+],
+[
+"bitmiyor",
+"gazze",
+"itibariyle",
+"soykirim",
+"suruyor",
+"vedalar"
+],
+[
+"belgede",
+"istanbul",
+"operasyonunda",
+"resmi",
+"sahtecilik",
+"supheli",
+"yakalandi"
+],
+[
+"acikladi",
+"detaylarini",
+"hedefte",
+"kirim",
+"koprusu",
+"saldirinin",
+"ukrayna",
+"yine"
 ]
 ],
 "son_tarih": {
@@ -8815,11 +8823,11 @@
 "Sonsöz (Ankara)": "2026-11-19T13:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-19T08:00:52+00:00",
-"Sözcü Son Dakika": "2026-11-19T16:19:51+00:00",
-"Yeni Şafak Yerel": "2026-11-19T16:14:56+00:00",
+"Sözcü Son Dakika": "2026-11-19T17:15:51+00:00",
+"Yeni Şafak Yerel": "2026-11-19T16:54:59+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-19T15:15:26+00:00",
-"@islamasalya": "2026-11-19T14:13:36+00:00",
+"@islamasalya": "2026-11-19T16:34:25+00:00",
 "Yeni Asır (İzmir)": "2026-11-19T11:16:45+00:00",
 "İstanbul Gazetesi": "2026-11-19T16:07:00+00:00",
 "Kandilli Rasathanesi": "2026-11-19T08:45:53+00:00"
