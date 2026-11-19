@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"cfe2922d161f4d3f",
-"1f9b8abd488b2e16",
-"2c4637d7ed4f33db",
 "ed41c7c7177fec54",
 "0d11dc9a7359593f",
 "633c6d0fb0487d49",
@@ -2999,32 +2996,12 @@
 "48dee42c4acf82c3",
 "cdd2216b5a6ee85a",
 "c75e75604f742ee3",
-"58af8aca29d4b3e9"
+"58af8aca29d4b3e9",
+"3930c9b2a275537b",
+"f9f51bea5636485f",
+"334e249a8d1c489c"
 ],
 "imzalar": [
-[
-"cop31",
-"erdogan",
-"good",
-"karsiladi",
-"katilan",
-"liderleri",
-"masallah",
-"morning"
-],
-[
-"antalya",
-"dunya",
-"liderleri"
-],
-[
-"den",
-"dikkat",
-"marmara",
-"meteoroloji",
-"uyari",
-"yarina"
-],
 [
 "acilimi",
 "cop31",
@@ -8835,15 +8812,38 @@
 "puanla",
 "turkiye",
 "zirveye"
+],
+[
+"hesabi",
+"kotulugun",
+"organize",
+"soruluyor"
+],
+[
+"dalgalar",
+"etkili",
+"istanbul",
+"kiyiya",
+"lodos",
+"nedeniyle",
+"vurdu"
+],
+[
+"buyuk",
+"meliksah",
+"nun",
+"selcuklu",
+"sultan",
+"zirvesi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-19T00:05:00+00:00",
-"Sonsöz (Ankara)": "2026-11-19T00:11:00+00:00",
+"Haber Global": "2026-11-19T01:02:00+00:00",
+"Sonsöz (Ankara)": "2026-11-19T01:08:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T18:15:51+00:00",
 "Sözcü Son Dakika": "2026-11-18T23:20:52+00:00",
-"Yeni Şafak Yerel": "2026-11-18T21:44:20+00:00",
+"Yeni Şafak Yerel": "2026-11-19T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-18T21:02:53+00:00",
 "@islamasalya": "2026-11-18T20:25:03+00:00",
