@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"1759a7da23591690",
-"89f02f0e0980d316",
-"55d9bb7d8a04701b",
 "459695c7f3c0388f",
 "a2d68b8f0d885462",
 "82d4cca34eabcd92",
@@ -2999,38 +2996,12 @@
 "9b6260dbc1a866c2",
 "08bf92524c4e6bc9",
 "d31aa416996efc4c",
-"b46ea8759fbe562b"
+"b46ea8759fbe562b",
+"e62869abd643b4a5",
+"8c7598deb4154907",
+"208bfcfe50066e4f"
 ],
 "imzalar": [
-[
-"ara",
-"chp",
-"davasinda",
-"durusma",
-"ertelendi",
-"karar",
-"kasim",
-"kurultay"
-],
-[
-"adim",
-"bursa",
-"ilk",
-"yeniden",
-"yesil"
-],
-[
-"200",
-"aile",
-"dna",
-"kadin",
-"kardesi",
-"ogrendi",
-"olabilir",
-"sirrini",
-"testiyle",
-"turk"
-],
 [
 "altinda",
 "baski",
@@ -8838,19 +8809,49 @@
 "kpss",
 "ortaogretim",
 "sonuclari"
+],
+[
+"antartika",
+"arasindan",
+"buzullarin",
+"cikti",
+"dev",
+"kafatasi",
+"kesfetti",
+"korkutan",
+"manzara",
+"nasa"
+],
+[
+"aci",
+"altinda",
+"cocuk",
+"coken",
+"duvarin",
+"hayatini",
+"kalan",
+"kaybetti",
+"manisa",
+"olay"
+],
+[
+"erisim",
+"kuresel",
+"playstation",
+"sorunu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-19T03:06:00+00:00",
+"Haber Global": "2026-11-19T03:51:00+00:00",
 "Sonsöz (Ankara)": "2026-11-19T03:15:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T18:15:51+00:00",
-"Sözcü Son Dakika": "2026-11-19T02:15:15+00:00",
+"Sözcü Son Dakika": "2026-11-19T04:02:52+00:00",
 "Yeni Şafak Yerel": "2026-11-19T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-19T02:10:40+00:00",
 "@islamasalya": "2026-11-18T20:25:03+00:00",
-"Yeni Asır (İzmir)": "2026-11-18T20:34:01+00:00",
+"Yeni Asır (İzmir)": "2026-11-19T03:52:56+00:00",
 "İstanbul Gazetesi": "2026-11-18T21:25:00+00:00",
 "Kandilli Rasathanesi": "2026-11-19T02:52:34+00:00"
 }
