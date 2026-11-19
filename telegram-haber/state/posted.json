@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"c459d787fe5c7a4f",
-"d8501302608764db",
-"c9ba97bf69fc15e5",
 "813c5bc0f9fca809",
 "93f4fbcb648caaee",
 "51f81949dc9e77bc",
@@ -2999,41 +2996,12 @@
 "208bfcfe50066e4f",
 "a102582605fdd899",
 "113c9f5d0191e24f",
-"e92ca333e4502c4c"
+"e92ca333e4502c4c",
+"6c2a0dece7a2850e",
+"439fbeead3917f22",
+"c5c4a4dacb6117ba"
 ],
 "imzalar": [
-[
-"300",
-"bomba",
-"ihbari",
-"italya",
-"okula",
-"yonelik"
-],
-[
-"basladi",
-"baslama",
-"bekliyor",
-"geri",
-"nin",
-"sayim",
-"stadi",
-"turkiye",
-"vurusunu",
-"yeni"
-],
-[
-"cadirlarini",
-"cevirdi",
-"edilen",
-"filistinlilerin",
-"heva",
-"israil",
-"kule",
-"saldirilari",
-"tel",
-"yerinden"
-],
 [
 "araya",
 "gelmiyor",
@@ -8842,15 +8810,44 @@
 "gocmen",
 "tir",
 "yakalandi"
+],
+[
+"bolmeden",
+"cikti",
+"dorsesindeki",
+"gizli",
+"gocmen",
+"kacak",
+"tir"
+],
+[
+"den",
+"dunyanin",
+"hamlesi",
+"karsilama",
+"karsilamadi",
+"konustugu",
+"putin",
+"sarildi",
+"trump"
+],
+[
+"bildirdi",
+"gectigini",
+"gorusmesinin",
+"kremlin",
+"olumlu",
+"putin",
+"trump"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-19T03:51:00+00:00",
-"Sonsöz (Ankara)": "2026-11-19T03:15:00+00:00",
+"Sonsöz (Ankara)": "2026-11-19T06:13:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-19T05:12:40+00:00",
-"Sözcü Son Dakika": "2026-11-19T05:16:35+00:00",
-"Yeni Şafak Yerel": "2026-11-19T05:18:56+00:00",
+"Sözcü Son Dakika": "2026-11-19T06:19:22+00:00",
+"Yeni Şafak Yerel": "2026-11-19T06:19:36+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-19T02:10:40+00:00",
 "@islamasalya": "2026-11-18T20:25:03+00:00",
