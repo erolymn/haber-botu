@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"b20fb97589742dfe",
-"2761d85ae52c08cb",
-"48bbcfcb111d86be",
 "b0a356acbfad7249",
 "c059fc5c292ec06d",
 "9868acb4eaf6909a",
@@ -2999,41 +2996,12 @@
 "83b29431a6adaf61",
 "2daaf86f102b96e3",
 "c759659cc7cb6aa9",
-"8e82ae20c404a861"
+"8e82ae20c404a861",
+"5184c7aa1e8c06d3",
+"af94e1feffaba013",
+"ea3b601cf472320b"
 ],
 "imzalar": [
-[
-"adliyeye",
-"aliaga",
-"daki",
-"edildi",
-"fabrika",
-"ilgili",
-"patlamasiyla",
-"sevk",
-"sorusturma",
-"supheli"
-],
-[
-"carpisti",
-"iki",
-"motosiklet",
-"silivri",
-"yarali"
-],
-[
-"aylin",
-"erzincan",
-"fabrikasi",
-"gun",
-"ifade",
-"kotil",
-"kuracaklardi",
-"savciya",
-"tesla",
-"tutuklandigi",
-"verdi"
-],
 [
 "1835",
 "345",
@@ -8834,19 +8802,52 @@
 "burs",
 "kyk",
 "odemeleri"
+],
+[
+"etmedi",
+"kabul",
+"konuda",
+"lider",
+"medyada",
+"onu",
+"secildi",
+"sosyal"
+],
+[
+"alip",
+"aralik",
+"artik",
+"basliyor",
+"dikkat",
+"donem",
+"islem",
+"olacak",
+"satacaklar",
+"yeni",
+"zorunlu"
+],
+[
+"cikti",
+"dna",
+"gizli",
+"hindistan",
+"kokleri",
+"prensin",
+"sindan",
+"tahtin"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-19T07:14:00+00:00",
+"Haber Global": "2026-11-19T08:09:00+00:00",
 "Sonsöz (Ankara)": "2026-11-19T07:11:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-19T05:12:40+00:00",
+"Mynet Son Dakika": "2026-11-19T08:00:52+00:00",
 "Sözcü Son Dakika": "2026-11-19T08:18:50+00:00",
 "Yeni Şafak Yerel": "2026-11-19T08:17:43+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-19T02:10:40+00:00",
 "@islamasalya": "2026-11-18T20:25:03+00:00",
-"Yeni Asır (İzmir)": "2026-11-19T03:52:56+00:00",
+"Yeni Asır (İzmir)": "2026-11-19T08:03:54+00:00",
 "İstanbul Gazetesi": "2026-11-19T08:13:00+00:00",
 "Kandilli Rasathanesi": "2026-11-19T02:52:34+00:00"
 }
