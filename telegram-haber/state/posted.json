@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"459695c7f3c0388f",
-"a2d68b8f0d885462",
-"82d4cca34eabcd92",
 "c459d787fe5c7a4f",
 "d8501302608764db",
 "c9ba97bf69fc15e5",
@@ -2999,35 +2996,12 @@
 "b46ea8759fbe562b",
 "e62869abd643b4a5",
 "8c7598deb4154907",
-"208bfcfe50066e4f"
+"208bfcfe50066e4f",
+"a102582605fdd899",
+"113c9f5d0191e24f",
+"e92ca333e4502c4c"
 ],
 "imzalar": [
-[
-"altinda",
-"baski",
-"merz",
-"sansolye",
-"santaj",
-"suclamasi",
-"uyelerinden"
-],
-[
-"bin",
-"dogdu",
-"meslek",
-"taleplere",
-"yeniden",
-"yetisemiyorlar",
-"yillik"
-],
-[
-"agri",
-"dagi",
-"eteklerinde",
-"gocmen",
-"kacak",
-"yakalandi"
-],
 [
 "300",
 "bomba",
@@ -8839,15 +8813,44 @@
 "kuresel",
 "playstation",
 "sorunu"
+],
+[
+"basladi",
+"baslangic",
+"cin",
+"gorusmesi",
+"olabilir",
+"sozler",
+"trump",
+"umutlu"
+],
+[
+"doganlar",
+"gecirdi",
+"harekete",
+"hollanda",
+"ilinde",
+"nin",
+"turkiye"
+],
+[
+"bolmede",
+"diyarbakir",
+"dorsesindeki",
+"duzensiz",
+"gizli",
+"gocmen",
+"tir",
+"yakalandi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-19T03:51:00+00:00",
 "Sonsöz (Ankara)": "2026-11-19T03:15:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-18T18:15:51+00:00",
-"Sözcü Son Dakika": "2026-11-19T04:02:52+00:00",
-"Yeni Şafak Yerel": "2026-11-19T01:00:00+00:00",
+"Mynet Son Dakika": "2026-11-19T05:12:40+00:00",
+"Sözcü Son Dakika": "2026-11-19T05:16:35+00:00",
+"Yeni Şafak Yerel": "2026-11-19T05:18:56+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-19T02:10:40+00:00",
 "@islamasalya": "2026-11-18T20:25:03+00:00",
