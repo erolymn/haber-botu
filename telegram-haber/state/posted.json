@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"11ceafa26b21c87c",
-"9316e4f08f8c214f",
-"2a7a991c4a53b4ff",
 "216e7df106205834",
 "c382246eed66a501",
 "fa976f747a0b4ebb",
@@ -2999,41 +2996,12 @@
 "921a115e16296d81",
 "181d7a162b561a57",
 "8890b3dc08698824",
-"56d2a24af090feb5"
+"56d2a24af090feb5",
+"158f95b7a2dfb820",
+"ac903bdf0bd3a291",
+"204d7a4a6d3b5f25"
 ],
 "imzalar": [
-[
-"budo",
-"edildi",
-"hava",
-"iptal",
-"kosullari",
-"nedeniyle",
-"nun",
-"olumsuz",
-"seferi"
-],
-[
-"anne",
-"carpti",
-"inegol",
-"motosiklete",
-"oglu",
-"otomobil",
-"yaralandi"
-],
-[
-"baskani",
-"birakildi",
-"habas",
-"kisi",
-"kurulu",
-"patlamada",
-"serbest",
-"taki",
-"tutuklandi",
-"yonetim"
-],
 [
 "fabrikadaki",
 "iliskin",
@@ -8809,6 +8777,37 @@
 "servet",
 "stoklanacak",
 "tanklari"
+],
+[
+"bazi",
+"bozcaada",
+"edildi",
+"feribot",
+"gokceada",
+"hattindaki",
+"iptal",
+"seferleri"
+],
+[
+"birbirlerini",
+"ederken",
+"felaket",
+"hayvanlari",
+"itlaf",
+"jandarma",
+"takip",
+"telef",
+"yasandi"
+],
+[
+"bahceli",
+"den",
+"hatirlatti",
+"ittifaki",
+"onerdikleri",
+"tepki",
+"uclu",
+"zirveye"
 ]
 ],
 "son_tarih": {
@@ -8816,13 +8815,13 @@
 "Sonsöz (Ankara)": "2026-11-19T13:10:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-19T08:00:52+00:00",
-"Sözcü Son Dakika": "2026-11-19T15:19:14+00:00",
-"Yeni Şafak Yerel": "2026-11-19T13:11:16+00:00",
+"Sözcü Son Dakika": "2026-11-19T16:19:51+00:00",
+"Yeni Şafak Yerel": "2026-11-19T16:14:56+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-19T15:15:26+00:00",
 "@islamasalya": "2026-11-19T14:13:36+00:00",
 "Yeni Asır (İzmir)": "2026-11-19T11:16:45+00:00",
-"İstanbul Gazetesi": "2026-11-19T13:12:00+00:00",
+"İstanbul Gazetesi": "2026-11-19T16:07:00+00:00",
 "Kandilli Rasathanesi": "2026-11-19T08:45:53+00:00"
 }
 }
