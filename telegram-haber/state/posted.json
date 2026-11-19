@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"813c5bc0f9fca809",
-"93f4fbcb648caaee",
-"51f81949dc9e77bc",
 "98ba25a05f93a0d4",
 "30366c218c042b8c",
 "c525293d647c034f",
@@ -2999,38 +2996,12 @@
 "e92ca333e4502c4c",
 "6c2a0dece7a2850e",
 "439fbeead3917f22",
-"c5c4a4dacb6117ba"
+"c5c4a4dacb6117ba",
+"98fa24aaa32f7f4d",
+"959345c86ad46831",
+"83b29431a6adaf61"
 ],
 "imzalar": [
-[
-"araya",
-"gelmiyor",
-"iki",
-"memurun",
-"yakasi"
-],
-[
-"ayri",
-"degeri",
-"ele",
-"gecirildi",
-"milyon",
-"operasyonda",
-"piyasa",
-"tam"
-],
-[
-"artik",
-"cennetinin",
-"giremeyecekler",
-"hicbir",
-"israillilere",
-"kapandi",
-"kapisi",
-"kosulda",
-"tamamen",
-"turizm"
-],
 [
 "anlarina",
 "duyurusu",
@@ -8839,15 +8810,44 @@
 "olumlu",
 "putin",
 "trump"
+],
+[
+"basladi",
+"borsa",
+"gune",
+"nasil"
+],
+[
+"2027",
+"asgari",
+"kritik",
+"senaryosu",
+"tahmin",
+"ucrette",
+"yili",
+"yuzde",
+"zam"
+],
+[
+"ayriligi",
+"besiktas",
+"cerny",
+"firsati",
+"geliyor",
+"gidiyor",
+"gundemdeydi",
+"juventus",
+"transfer",
+"yildizi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-19T03:51:00+00:00",
-"Sonsöz (Ankara)": "2026-11-19T06:13:00+00:00",
+"Haber Global": "2026-11-19T07:14:00+00:00",
+"Sonsöz (Ankara)": "2026-11-19T07:11:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-19T05:12:40+00:00",
 "Sözcü Son Dakika": "2026-11-19T06:19:22+00:00",
-"Yeni Şafak Yerel": "2026-11-19T06:19:36+00:00",
+"Yeni Şafak Yerel": "2026-11-19T07:18:46+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-19T02:10:40+00:00",
 "@islamasalya": "2026-11-18T20:25:03+00:00",
