@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"b0a356acbfad7249",
-"c059fc5c292ec06d",
-"9868acb4eaf6909a",
-"a8525ea1b200f615",
 "af25e81737aeea14",
 "8a05a32f76cee492",
 "78f9338de5be75f6",
@@ -2999,42 +2995,13 @@
 "8e82ae20c404a861",
 "5184c7aa1e8c06d3",
 "af94e1feffaba013",
-"ea3b601cf472320b"
+"ea3b601cf472320b",
+"2004b5f00ef9b2f4",
+"3abf43a4bc57f17d",
+"eae3e6830563fd2e",
+"eb37d49daede5460"
 ],
 "imzalar": [
-[
-"1835",
-"345",
-"aci",
-"ayda",
-"bin",
-"kisi",
-"tablo",
-"yaralandi",
-"yollarda"
-],
-[
-"binanin",
-"bolgede",
-"bolgesinde",
-"coktu",
-"durmuyor",
-"duvari",
-"facia",
-"istinat",
-"toprak",
-"yikildigi",
-"zonguldak"
-],
-[
-"eleyerek",
-"fenerbahce",
-"finale",
-"halkbank",
-"medicana",
-"yari",
-"yukseldi"
-],
 [
 "aziz",
 "cop31",
@@ -8835,6 +8802,29 @@
 "prensin",
 "sindan",
 "tahtin"
+],
+[
+"allah"
+],
+[
+"aciklamasi",
+"gelindi",
+"izleme",
+"komisyonunda",
+"kurtulmus",
+"sona",
+"tan",
+"terorsuz",
+"turkiye"
+],
+[
+"babasinin",
+"bursa",
+"calisti",
+"hayatinin",
+"sirketinde",
+"sokunu",
+"yasadi"
 ]
 ],
 "son_tarih": {
@@ -8843,12 +8833,12 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-19T08:00:52+00:00",
 "Sözcü Son Dakika": "2026-11-19T08:18:50+00:00",
-"Yeni Şafak Yerel": "2026-11-19T08:17:43+00:00",
+"Yeni Şafak Yerel": "2026-11-19T09:15:46+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-19T02:10:40+00:00",
-"@islamasalya": "2026-11-18T20:25:03+00:00",
+"Olay (Bursa)": "2026-11-19T09:20:01+00:00",
+"@islamasalya": "2026-11-19T08:37:33+00:00",
 "Yeni Asır (İzmir)": "2026-11-19T08:03:54+00:00",
 "İstanbul Gazetesi": "2026-11-19T08:13:00+00:00",
-"Kandilli Rasathanesi": "2026-11-19T02:52:34+00:00"
+"Kandilli Rasathanesi": "2026-11-19T08:45:53+00:00"
 }
 }
