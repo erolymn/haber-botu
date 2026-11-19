@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"633c6d0fb0487d49",
-"fb755d2e59151822",
-"174505134bc9c3fc",
-"95cb7cd56df26967",
 "1759a7da23591690",
 "89f02f0e0980d316",
 "55d9bb7d8a04701b",
@@ -2999,35 +2995,13 @@
 "f9f51bea5636485f",
 "334e249a8d1c489c",
 "75361b03aa3a53c2",
-"4a22ee2dee610130"
+"4a22ee2dee610130",
+"9b6260dbc1a866c2",
+"08bf92524c4e6bc9",
+"d31aa416996efc4c",
+"b46ea8759fbe562b"
 ],
 "imzalar": [
-[
-"fransa",
-"macinda",
-"mbappe",
-"oynayacak",
-"soku",
-"turkiye"
-],
-[
-"baskani",
-"bddk",
-"istifa",
-"kavcioglu",
-"sahap"
-],
-[
-"cikarilmasina",
-"dan",
-"disina",
-"iran",
-"izin",
-"karari",
-"ulke",
-"uranyum",
-"verilmeyecek"
-],
 [
 "ara",
 "chp",
@@ -8834,20 +8808,50 @@
 "tarihi",
 "veda",
 "zamani"
+],
+[
+"190",
+"dolar",
+"gogh",
+"milyon",
+"tablosuna",
+"van"
+],
+[
+"emeklilere",
+"erdogan",
+"formulleri",
+"hesabi",
+"iste",
+"maas",
+"masadaki",
+"mujdeyi",
+"olacak",
+"simdi",
+"verdi",
+"yeni",
+"zam"
+],
+[
+"acildi",
+"erisime",
+"kpss",
+"ortaogretim",
+"sonuclari"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-19T01:48:00+00:00",
-"Sonsöz (Ankara)": "2026-11-19T01:08:00+00:00",
+"Haber Global": "2026-11-19T03:06:00+00:00",
+"Sonsöz (Ankara)": "2026-11-19T03:15:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-18T18:15:51+00:00",
-"Sözcü Son Dakika": "2026-11-18T23:20:52+00:00",
+"Sözcü Son Dakika": "2026-11-19T02:15:15+00:00",
 "Yeni Şafak Yerel": "2026-11-19T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-19T02:10:40+00:00",
 "@islamasalya": "2026-11-18T20:25:03+00:00",
 "Yeni Asır (İzmir)": "2026-11-18T20:34:01+00:00",
 "İstanbul Gazetesi": "2026-11-18T21:25:00+00:00",
-"Kandilli Rasathanesi": "2026-11-18T01:16:57+00:00"
+"Kandilli Rasathanesi": "2026-11-19T02:52:34+00:00"
 }
 }
