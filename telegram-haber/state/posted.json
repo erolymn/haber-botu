@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"743f2c916c15db88",
-"3a06fa54c776c301",
-"d1eafc91ed59cefe",
 "7037727d1374b1e8",
 "8d96c1752e996008",
 "d1bbb90b3a492263",
@@ -2999,36 +2996,12 @@
 "21d793db8449ccf3",
 "5d33638c8bc37cae",
 "60b8c4fef92fcad5",
-"ebc805f0b1fd02ee"
+"ebc805f0b1fd02ee",
+"376ea9091cb2fb4d",
+"3d1ce68cd31dc6a5",
+"7bc181004d002054"
 ],
 "imzalar": [
-[
-"aydinlatti",
-"bursa",
-"cinayeti",
-"yillik"
-],
-[
-"aciklama",
-"bekledigi",
-"belli",
-"enflasyon",
-"geldi",
-"kritik",
-"milyonlarin",
-"raporu",
-"yilin"
-],
-[
-"anlatti",
-"bursa",
-"daki",
-"doc",
-"emeklilerin",
-"metin",
-"salih",
-"sorunlarini"
-],
 [
 "ceza",
 "cikisinda",
@@ -8809,14 +8782,39 @@
 [
 "gazze",
 "itibariyle"
+],
+[
+"caktilar",
+"civi",
+"dustu",
+"maliyet",
+"plastik",
+"topraga",
+"yuzde"
+],
+[
+"baskan",
+"baskani",
+"belediye",
+"duzenleme",
+"secimine",
+"vekili"
+],
+[
+"ankara",
+"belli",
+"kar",
+"tarih",
+"yagacak",
+"zaman"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-19T20:16:00+00:00",
-"Sonsöz (Ankara)": "2026-11-19T18:00:00+00:00",
+"Haber Global": "2026-11-19T23:17:00+00:00",
+"Sonsöz (Ankara)": "2026-11-19T23:21:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-19T21:16:20+00:00",
-"Sözcü Son Dakika": "2026-11-19T22:00:08+00:00",
+"Sözcü Son Dakika": "2026-11-19T23:13:18+00:00",
 "Yeni Şafak Yerel": "2026-11-19T20:19:06+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-19T21:11:33+00:00",
