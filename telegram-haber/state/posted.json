@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"a1c2efc54b81c20b",
-"6016dc901bc35d1d",
-"79094a254b874bb0",
 "7ddb594c64e71839",
 "14e8034b416a37ea",
 "e67ce2f9164e2703",
@@ -2999,41 +2996,12 @@
 "6c5f9f4d7da8e009",
 "22e0cfd4ce288490",
 "e845154021200b80",
-"19e12eaa55f83a4a"
+"19e12eaa55f83a4a",
+"0d7b722453b955d5",
+"04f589783914c343",
+"c746b517760ba001"
 ],
 "imzalar": [
-[
-"borsada",
-"cevrildi",
-"degisebilir",
-"dengeler",
-"doviz",
-"gozler",
-"kritik",
-"saate",
-"saatler"
-],
-[
-"altin",
-"ceyrek",
-"dusus",
-"fiyatlarinda",
-"gram",
-"kadar",
-"kasim",
-"suruyor"
-],
-[
-"ayda",
-"buse",
-"cikti",
-"kahvalti",
-"kilo",
-"ortaya",
-"sirri",
-"terim",
-"vermisti"
-],
 [
 "bursa",
 "elektrik",
@@ -8827,20 +8795,50 @@
 "toyota",
 "yil",
 "yollara"
+],
+[
+"aracin",
+"bagcilar",
+"karistigi",
+"kazada",
+"kisi",
+"nda",
+"otoyolu",
+"tem",
+"yaralandi"
+],
+[
+"adamin",
+"bedeni",
+"bulundu",
+"cansiz",
+"findiklikta",
+"giresun",
+"yasli"
+],
+[
+"abd",
+"acikladi",
+"bedeli",
+"iran",
+"nin",
+"odedigi",
+"pentagon",
+"savasi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-19T19:01:00+00:00",
+"Haber Global": "2026-11-19T20:16:00+00:00",
 "Sonsöz (Ankara)": "2026-11-19T18:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-19T18:03:53+00:00",
 "Sözcü Son Dakika": "2026-11-19T19:07:09+00:00",
-"Yeni Şafak Yerel": "2026-11-19T19:21:13+00:00",
+"Yeni Şafak Yerel": "2026-11-19T20:19:06+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-19T15:15:26+00:00",
 "@islamasalya": "2026-11-19T16:34:25+00:00",
 "Yeni Asır (İzmir)": "2026-11-19T11:16:45+00:00",
-"İstanbul Gazetesi": "2026-11-19T18:06:00+00:00",
+"İstanbul Gazetesi": "2026-11-19T20:16:00+00:00",
 "Kandilli Rasathanesi": "2026-11-19T08:45:53+00:00"
 }
 }
