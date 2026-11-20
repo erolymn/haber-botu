@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"a84a4ba7a3cbc5d0",
-"3813663bcb74af5b",
-"b1626c27e7a8cc50",
 "de3393832601d8c2",
 "5d581604c9f155c6",
 "25ed8c727712f523",
@@ -2999,38 +2996,12 @@
 "47c10c6b5f3b0250",
 "1fff7a71fe6236dc",
 "41b41d2770f0fb9e",
-"b7de69ec213eeb0d"
+"b7de69ec213eeb0d",
+"2c998d79c0586952",
+"7d474d562bcb381e",
+"8b7b25916b94f289"
 ],
 "imzalar": [
-[
-"agac",
-"canakkale",
-"devrildi",
-"otomobilin",
-"uzerine"
-],
-[
-"bagisi",
-"donecek",
-"kez",
-"mudanya",
-"organ",
-"pedallar"
-],
-[
-"abd",
-"basarmisti",
-"edecek",
-"ilk",
-"ilki",
-"kur",
-"musluman",
-"sayed",
-"senator",
-"tarihinde",
-"uzerine",
-"yemin"
-],
 [
 "abd",
 "cin",
@@ -8804,19 +8775,49 @@
 "saglikli",
 "uyumak",
 "yeterli"
+],
+[
+"bilgileri",
+"binden",
+"fazla",
+"mastercard",
+"musterinin",
+"olabilir",
+"saldiri",
+"siber",
+"sizdirilmis",
+"soku",
+"visa"
+],
+[
+"apec",
+"erdogan",
+"nde",
+"olmaliydi",
+"zirvesi"
+],
+[
+"aluminyum",
+"boyunca",
+"cagrisi",
+"duvara",
+"folyo",
+"saat",
+"yapildi",
+"yapistirin"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-20T02:55:00+00:00",
+"Haber Global": "2026-11-20T03:47:00+00:00",
 "Sonsöz (Ankara)": "2026-11-20T03:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-19T21:16:20+00:00",
-"Sözcü Son Dakika": "2026-11-20T00:03:49+00:00",
+"Sözcü Son Dakika": "2026-11-20T04:20:07+00:00",
 "Yeni Şafak Yerel": "2026-11-20T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-20T02:10:55+00:00",
 "@islamasalya": "2026-11-19T22:04:35+00:00",
-"Yeni Asır (İzmir)": "2026-11-19T21:45:23+00:00",
+"Yeni Asır (İzmir)": "2026-11-20T03:50:14+00:00",
 "İstanbul Gazetesi": "2026-11-19T22:04:00+00:00",
 "Kandilli Rasathanesi": "2026-11-19T08:45:53+00:00"
 }
