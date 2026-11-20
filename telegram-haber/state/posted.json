@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"4404e9304132cc3d",
-"e1a1558c0e732766",
-"6a7d5bf3aaebc237",
 "1dc964534925539d",
 "bece69361fb33a38",
 "ff12504da2392d40",
@@ -2999,41 +2996,12 @@
 "b05ab4950a50f7d7",
 "ebacdf1f40af6c3d",
 "06608d731f5719bc",
-"83285ec5addc5629"
+"83285ec5addc5629",
+"08bb38e2304a1f1a",
+"d7601ed8865be11f",
+"c024092f457facc4"
 ],
 "imzalar": [
-[
-"bursa",
-"disindan",
-"gelecekler",
-"incelemeye",
-"model",
-"ornek",
-"yurt"
-],
-[
-"ailesine",
-"astsubay",
-"daki",
-"huseyin",
-"kidemli",
-"sehadet",
-"tekirdag",
-"ustcavus",
-"verildi",
-"zehir"
-],
-[
-"aciklamasi",
-"aktarilmadi",
-"bakan",
-"den",
-"dernek",
-"kamu",
-"kaynagi",
-"tekin",
-"vakif"
-],
 [
 "intikam",
 "tatbikati"
@@ -8821,18 +8789,45 @@
 "mustafa",
 "teknik",
 "yeni"
+],
+[
+"aday",
+"arda",
+"baskanlik",
+"cakmak",
+"degisimi",
+"genclerbirligi",
+"haydar",
+"nde",
+"olmayacak"
+],
+[
+"altinda",
+"bombardiman",
+"gazze",
+"itibariyle",
+"siddetli"
+],
+[
+"anlasti",
+"caylagi",
+"galatasaray",
+"miles",
+"olivia",
+"wnba",
+"yilin"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-20T17:15:00+00:00",
-"Sonsöz (Ankara)": "2026-11-20T15:23:00+00:00",
+"Sonsöz (Ankara)": "2026-11-20T18:16:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-20T08:15:55+00:00",
-"Sözcü Son Dakika": "2026-11-20T16:13:10+00:00",
+"Sözcü Son Dakika": "2026-11-20T18:22:18+00:00",
 "Yeni Şafak Yerel": "2026-11-20T17:09:34+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-20T13:22:56+00:00",
-"@islamasalya": "2026-11-20T17:05:33+00:00",
+"@islamasalya": "2026-11-20T18:21:44+00:00",
 "Yeni Asır (İzmir)": "2026-11-20T16:13:52+00:00",
 "İstanbul Gazetesi": "2026-11-19T22:04:00+00:00",
 "Kandilli Rasathanesi": "2026-11-20T05:23:23+00:00"
