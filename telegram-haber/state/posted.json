@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"ff6d3bc754e71d15",
-"d557849a77c4dd48",
-"8568b43241de9c83",
 "1d75a6a91fc0c75d",
 "7adcea9392c2440d",
 "12cb9a9f5d385dcb",
@@ -2999,35 +2996,12 @@
 "e2acdd715ceabab8",
 "39dae4e8cfde1ed9",
 "80b5e4d650ea8071",
-"808456c063c3b011"
+"808456c063c3b011",
+"87c2dbcb75f9b733",
+"b2cb7124c9c05274",
+"4f52d25d13c76b5c"
 ],
 "imzalar": [
-[
-"acma",
-"hukumetinin",
-"iran",
-"israil",
-"netanyahu",
-"savas",
-"tartisiliyor",
-"yetkisi"
-],
-[
-"basladilar",
-"birakmaya",
-"devekuslarini",
-"dogaya",
-"yeniden",
-"yil"
-],
-[
-"coktu",
-"erisim",
-"hizmetlerinde",
-"microsoft",
-"outlook",
-"sorunlari"
-],
 [
 "arda",
 "bruyne",
@@ -8800,11 +8774,37 @@
 "menfezin",
 "minibus",
 "sirnak"
+],
+[
+"arkadasini",
+"bicaklayan",
+"supheli",
+"tartistigi",
+"tutuklandi"
+],
+[
+"aciklamasi",
+"bakan",
+"durduruldu",
+"hgs",
+"icra",
+"ndan",
+"takipleri",
+"uraloglu"
+],
+[
+"bakan",
+"cezalarinda",
+"donem",
+"duyurdu",
+"hgs",
+"uraloglu",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-20T10:18:00+00:00",
-"Sonsöz (Ankara)": "2026-11-20T12:22:00+00:00",
+"Haber Global": "2026-11-20T13:52:00+00:00",
+"Sonsöz (Ankara)": "2026-11-20T14:16:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-20T08:15:55+00:00",
 "Sözcü Son Dakika": "2026-11-20T14:19:56+00:00",
@@ -8812,7 +8812,7 @@
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-20T13:22:56+00:00",
 "@islamasalya": "2026-11-20T14:08:46+00:00",
-"Yeni Asır (İzmir)": "2026-11-20T13:20:10+00:00",
+"Yeni Asır (İzmir)": "2026-11-20T14:10:22+00:00",
 "İstanbul Gazetesi": "2026-11-19T22:04:00+00:00",
 "Kandilli Rasathanesi": "2026-11-20T05:23:23+00:00"
 }
