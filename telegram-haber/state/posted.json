@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"d1bbb90b3a492263",
-"94262a52f537d1ef",
-"8424b13f4e3da139",
 "3a4489551dd30f70",
 "710a7e52a3a5be9a",
 "6f8c8983c76af1c5",
@@ -2999,35 +2996,12 @@
 "3d1ce68cd31dc6a5",
 "7bc181004d002054",
 "a2d63124992cb8f6",
-"ee835f36c51a6bcd"
+"ee835f36c51a6bcd",
+"a106f681297b5caf",
+"9a26a56f538e39d6",
+"aedbef059ac2c1b0"
 ],
 "imzalar": [
-[
-"akom",
-"dan",
-"firtina",
-"istanbul",
-"uyarisi"
-],
-[
-"bursa",
-"dijital",
-"egitim",
-"firsati",
-"her",
-"vatandasa",
-"yastan"
-],
-[
-"aylik",
-"bebek",
-"donarak",
-"gazze",
-"hayatini",
-"kaybederek",
-"sehit",
-"soguktan"
-],
 [
 "barajgolu",
 "gorustu",
@@ -8809,14 +8783,39 @@
 "trafik",
 "yaralandi",
 "zincirleme"
+],
+[
+"baskani",
+"belediye",
+"donem",
+"seciminde",
+"vekili",
+"yeni"
+],
+[
+"ayni",
+"cankiri",
+"gunde",
+"iki",
+"kardes",
+"vefat"
+],
+[
+"lig",
+"saha",
+"serileri",
+"super",
+"tarihinin",
+"uzun",
+"yenilmezlik"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-19T23:17:00+00:00",
-"Sonsöz (Ankara)": "2026-11-19T23:21:00+00:00",
+"Haber Global": "2026-11-19T23:56:00+00:00",
+"Sonsöz (Ankara)": "2026-11-19T23:24:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-19T21:16:20+00:00",
-"Sözcü Son Dakika": "2026-11-19T23:13:18+00:00",
+"Sözcü Son Dakika": "2026-11-20T00:03:49+00:00",
 "Yeni Şafak Yerel": "2026-11-19T21:48:34+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-19T21:11:33+00:00",
