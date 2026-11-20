@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"9a9cf508de4f3079",
-"4a3b30371f3d252f",
-"90de7c2f7d8b64cd",
 "278a4fdb11e19757",
 "e0559f93a16ab494",
 "b1ba7e33e9db8968",
@@ -2999,39 +2996,12 @@
 "e9f42a3d98355f72",
 "99e2b1a1da234e89",
 "11fae08007262b5e",
-"eea7fcdd36d123b7"
+"eea7fcdd36d123b7",
+"8fa38d06ab2cbb3a",
+"4b4dc8881162270b",
+"95c7427f367ec033"
 ],
 "imzalar": [
-[
-"acilis",
-"ankara",
-"belli",
-"degistirecek",
-"dengelerini",
-"tarihi",
-"trafik",
-"yol"
-],
-[
-"dagitti",
-"madrid",
-"para",
-"real",
-"taraftarlara",
-"yildizi"
-],
-[
-"bekir",
-"bicak",
-"bulundu",
-"evinde",
-"insani",
-"izleri",
-"kayabasi",
-"kursun",
-"olu",
-"vucudunda"
-],
 [
 "araniyordu",
 "azerbaycan",
@@ -8791,17 +8761,48 @@
 "talep",
 "yetistirdigi",
 "yogun"
+],
+[
+"cocuk",
+"dunya",
+"gunu",
+"haklari",
+"kasim",
+"nedir",
+"nelerdir"
+],
+[
+"agac",
+"bursa",
+"devrildi",
+"donuldu",
+"esiginden",
+"facianin",
+"kalabalik",
+"parkta"
+],
+[
+"abd",
+"alirsa",
+"belirtti",
+"buyukelcisi",
+"israil",
+"karari",
+"katilacaklarini",
+"leiter",
+"saldiri",
+"yeni"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-20T04:59:00+00:00",
-"Sonsöz (Ankara)": "2026-11-20T06:21:00+00:00",
+"Sonsöz (Ankara)": "2026-11-20T07:19:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-19T21:16:20+00:00",
 "Sözcü Son Dakika": "2026-11-20T06:20:47+00:00",
-"Yeni Şafak Yerel": "2026-11-20T06:21:36+00:00",
+"Yeni Şafak Yerel": "2026-11-20T07:22:07+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-20T02:10:55+00:00",
+"Olay (Bursa)": "2026-11-20T07:20:35+00:00",
 "@islamasalya": "2026-11-19T22:04:35+00:00",
 "Yeni Asır (İzmir)": "2026-11-20T03:50:14+00:00",
 "İstanbul Gazetesi": "2026-11-19T22:04:00+00:00",
