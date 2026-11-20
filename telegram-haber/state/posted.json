@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"444e7153824de911",
-"8a12567e5575652e",
-"ee592483154bb632",
 "8c02e5e38571e212",
 "ddd6fc92c241cfea",
 "5a8a226a9302931e",
@@ -2999,34 +2996,12 @@
 "e1eb78678ea22a22",
 "4d223be797312fda",
 "e4257db4e31a7577",
-"1026c8da38f2546f"
+"1026c8da38f2546f",
+"16ba29f4566e3d47",
+"bdb16ba722777439",
+"9387b35ff64aca7d"
 ],
 "imzalar": [
-[
-"alp",
-"ekin",
-"fotograflardan",
-"koc",
-"konusu",
-"merak",
-"navruz",
-"nedeni",
-"sildi"
-],
-[
-"bursalilar",
-"dikkat",
-"edildi",
-"hepsi",
-"iptal"
-],
-[
-"ankara",
-"feto",
-"finans",
-"gozalti",
-"operasyonu"
-],
 [
 "barbarliktir",
 "celik",
@@ -8818,11 +8793,38 @@
 "j5vrubvtve",
 "mj9qzg",
 "status"
+],
+[
+"adim",
+"cin",
+"den",
+"elektrikli",
+"ilk",
+"insan",
+"kez",
+"tamamen",
+"tarihi",
+"tasidi",
+"ucak"
+],
+[
+"birligi",
+"ege",
+"kuruldu",
+"mugla",
+"universiteler"
+],
+[
+"aydin",
+"merkezli",
+"operasyonlari",
+"tutuklama",
+"uyusturucu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-20T20:09:00+00:00",
-"Sonsöz (Ankara)": "2026-11-20T19:00:00+00:00",
+"Haber Global": "2026-11-20T22:10:00+00:00",
+"Sonsöz (Ankara)": "2026-11-20T20:08:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-20T18:25:53+00:00",
 "Sözcü Son Dakika": "2026-11-20T21:15:52+00:00",
@@ -8830,7 +8832,7 @@
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-20T19:11:03+00:00",
 "@islamasalya": "2026-11-20T21:21:58+00:00",
-"Yeni Asır (İzmir)": "2026-11-20T16:13:52+00:00",
+"Yeni Asır (İzmir)": "2026-11-20T21:58:19+00:00",
 "İstanbul Gazetesi": "2026-11-19T22:04:00+00:00",
 "Kandilli Rasathanesi": "2026-11-20T05:23:23+00:00"
 }
