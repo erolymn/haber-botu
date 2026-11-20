@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"479eb450c944fec5",
-"f42520b96029b7bb",
-"b59ad1c2c15c3380",
 "1e01bc4b4b9dd3ef",
 "2c2060ed7915fedf",
 "a84a4ba7a3cbc5d0",
@@ -2999,36 +2996,12 @@
 "aedbef059ac2c1b0",
 "20a61964e43fd9b5",
 "be138a2e61310530",
-"641a62a8a1504a02"
+"641a62a8a1504a02",
+"59ffaa2747c8a97e",
+"47c10c6b5f3b0250",
+"1fff7a71fe6236dc"
 ],
 "imzalar": [
-[
-"artti",
-"ciddi",
-"cocuklari",
-"dikkat",
-"korumak",
-"sekilde",
-"uyarilara",
-"vakalar"
-],
-[
-"106",
-"ankara",
-"bagimlilikla",
-"hekim",
-"iniyor",
-"mucadele",
-"sahaya"
-],
-[
-"beklenen",
-"carrick",
-"karari",
-"manchester",
-"united",
-"verildi"
-],
 [
 "bursa",
 "muhtesem",
@@ -8807,17 +8780,39 @@
 "motosiklet",
 "polisten",
 "surucusune"
+],
+[
+"basti",
+"hatay",
+"saganak",
+"sokaklari",
+"yagis"
+],
+[
+"aracin",
+"dondu",
+"erzurum",
+"karistigi",
+"kazada",
+"kisi",
+"olumden"
+],
+[
+"bursa",
+"gorevlendirme",
+"parti",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-20T00:50:00+00:00",
-"Sonsöz (Ankara)": "2026-11-20T01:16:00+00:00",
+"Haber Global": "2026-11-20T01:41:00+00:00",
+"Sonsöz (Ankara)": "2026-11-20T01:46:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-19T21:16:20+00:00",
 "Sözcü Son Dakika": "2026-11-20T00:03:49+00:00",
 "Yeni Şafak Yerel": "2026-11-20T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-19T21:11:33+00:00",
+"Olay (Bursa)": "2026-11-20T02:10:55+00:00",
 "@islamasalya": "2026-11-19T22:04:35+00:00",
 "Yeni Asır (İzmir)": "2026-11-19T21:45:23+00:00",
 "İstanbul Gazetesi": "2026-11-19T22:04:00+00:00",
