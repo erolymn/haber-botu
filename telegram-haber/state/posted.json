@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"3a156ca5e2f93851",
-"400b25315dbd596c",
-"bdc60f5915795955",
 "0b18450ce2dff93b",
 "43e4ece361bc24f5",
 "bc0932a53b73cc4a",
@@ -2999,51 +2996,12 @@
 "69ca5ce2fd6832b9",
 "dea148c52cb07cb8",
 "a386efb3fd6d7338",
-"4f7a8160d0b55a93"
+"4f7a8160d0b55a93",
+"1e42fc4ff49bbc9f",
+"1cc58f835d797edc",
+"e1eb78678ea22a22"
 ],
 "imzalar": [
-[
-"basaran",
-"euroluk",
-"fabrikanin",
-"garaji",
-"gibi",
-"isciye",
-"izmir",
-"koleksiyonu",
-"mehmet",
-"mezar",
-"milyon",
-"muze",
-"otomobil",
-"rustu",
-"sahibinin",
-"servet",
-"sov",
-"yapmis"
-],
-[
-"akaryakit",
-"akaryakitta",
-"ankara",
-"benzin",
-"cifte",
-"fiyati",
-"fiyatlari",
-"guncel",
-"indirim",
-"istanbul",
-"izmir",
-"kasim",
-"ruzgari"
-],
-[
-"ahlak",
-"cuma",
-"dijital",
-"hutbesi",
-"mecrada"
-],
 [
 "dudak",
 "hapsi",
@@ -8825,15 +8783,47 @@
 "siirle",
 "tavana",
 "yeri"
+],
+[
+"anadolu",
+"basantrenoru",
+"derece",
+"efes",
+"koyulan",
+"laso",
+"memnunum",
+"ortaya",
+"pablo",
+"performanstan"
+],
+[
+"batiminda",
+"buyuleyen",
+"camii",
+"gokyuzu",
+"gun",
+"istanbul",
+"manzara",
+"mest",
+"suleymaniye"
+],
+[
+"altinbas",
+"aranan",
+"cekya",
+"fon",
+"serdar",
+"sorusturmasinda",
+"yakalandi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-20T19:07:00+00:00",
+"Haber Global": "2026-11-20T20:09:00+00:00",
 "Sonsöz (Ankara)": "2026-11-20T19:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-20T18:25:53+00:00",
-"Sözcü Son Dakika": "2026-11-20T19:06:23+00:00",
-"Yeni Şafak Yerel": "2026-11-20T19:22:02+00:00",
+"Sözcü Son Dakika": "2026-11-20T20:22:26+00:00",
+"Yeni Şafak Yerel": "2026-11-20T20:15:37+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-20T19:11:03+00:00",
 "@islamasalya": "2026-11-20T18:21:44+00:00",
