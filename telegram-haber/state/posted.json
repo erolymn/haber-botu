@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"8c02e5e38571e212",
-"ddd6fc92c241cfea",
-"5a8a226a9302931e",
 "47394109fd777f8e",
 "9c33720e63e9fb5a",
 "ac8fa1ef874c38cc",
@@ -2999,37 +2996,12 @@
 "1026c8da38f2546f",
 "16ba29f4566e3d47",
 "bdb16ba722777439",
-"9387b35ff64aca7d"
+"9387b35ff64aca7d",
+"1d83f846fbb5076c",
+"4ffb101654c92a40",
+"829246edeb352824"
 ],
 "imzalar": [
-[
-"barbarliktir",
-"celik",
-"dusmani",
-"hastanesi",
-"insanlik",
-"israil",
-"nasser",
-"parti",
-"saldirisina",
-"sozcusu",
-"ten",
-"tepki"
-],
-[
-"basarili",
-"cop31",
-"duran",
-"gidiyor",
-"simdiden"
-],
-[
-"ataturk",
-"bursa",
-"konseri",
-"senfoniden",
-"zaman"
-],
 [
 "deki",
 "detay",
@@ -8820,18 +8792,42 @@
 "operasyonlari",
 "tutuklama",
 "uyusturucu"
+],
+[
+"artarak",
+"devam",
+"ediyor",
+"kervani",
+"sehitler"
+],
+[
+"bicaklandi",
+"bursa",
+"cocuk",
+"sirtindan",
+"yasindaki"
+],
+[
+"150",
+"asayis",
+"capli",
+"denetimi",
+"eskisehir",
+"genis",
+"polisle",
+"trafik"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-20T22:10:00+00:00",
-"Sonsöz (Ankara)": "2026-11-20T20:08:00+00:00",
+"Haber Global": "2026-11-20T22:56:00+00:00",
+"Sonsöz (Ankara)": "2026-11-20T23:08:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-20T18:25:53+00:00",
 "Sözcü Son Dakika": "2026-11-20T21:15:52+00:00",
 "Yeni Şafak Yerel": "2026-11-20T21:20:17+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-20T19:11:03+00:00",
-"@islamasalya": "2026-11-20T21:21:58+00:00",
+"@islamasalya": "2026-11-20T22:39:07+00:00",
 "Yeni Asır (İzmir)": "2026-11-20T21:58:19+00:00",
 "İstanbul Gazetesi": "2026-11-19T22:04:00+00:00",
 "Kandilli Rasathanesi": "2026-11-20T05:23:23+00:00"
