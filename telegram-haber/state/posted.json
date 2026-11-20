@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"0a9562b68a40cb30",
-"d74bc1c88f5c1560",
-"66168dd77c9593f3",
 "3a156ca5e2f93851",
 "400b25315dbd596c",
 "bdc60f5915795955",
@@ -2999,39 +2996,12 @@
 "c024092f457facc4",
 "73187c5489153e6a",
 "ecec2aefd98a004d",
-"69ca5ce2fd6832b9"
+"69ca5ce2fd6832b9",
+"dea148c52cb07cb8",
+"a386efb3fd6d7338",
+"4f7a8160d0b55a93"
 ],
 "imzalar": [
-[
-"aci",
-"atesi",
-"babaevine",
-"dustu",
-"izmir",
-"sehir",
-"ulasti"
-],
-[
-"bankasi",
-"cikti",
-"maaslari",
-"memur",
-"merkez",
-"meslek",
-"nin",
-"ortaya",
-"raporundan",
-"sizdi",
-"yeni"
-],
-[
-"don",
-"kadar",
-"kalmadi",
-"ogrenmeyen",
-"rengine",
-"sarigul"
-],
 [
 "basaran",
 "euroluk",
@@ -8815,14 +8785,54 @@
 "saldiriya",
 "siber",
 "ulke"
+],
+[
+"170",
+"akilli",
+"bin",
+"casus",
+"casuslugu",
+"deki",
+"dinliyorlar",
+"teknoloji",
+"televizyonu",
+"turkiye",
+"ulkeyi",
+"vuran",
+"yazilimla"
+],
+[
+"alarma",
+"ankara",
+"bomba",
+"gecti",
+"genel",
+"ihbari",
+"merkezi",
+"onunde",
+"parti",
+"polis",
+"yeni"
+],
+[
+"cikti",
+"doldurdu",
+"duvarlardan",
+"her",
+"kadar",
+"nedeni",
+"ortaya",
+"siirle",
+"tavana",
+"yeri"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-20T19:07:00+00:00",
-"Sonsöz (Ankara)": "2026-11-20T18:16:00+00:00",
+"Sonsöz (Ankara)": "2026-11-20T19:00:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-20T08:15:55+00:00",
-"Sözcü Son Dakika": "2026-11-20T18:22:18+00:00",
+"Mynet Son Dakika": "2026-11-20T18:25:53+00:00",
+"Sözcü Son Dakika": "2026-11-20T19:06:23+00:00",
 "Yeni Şafak Yerel": "2026-11-20T19:22:02+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-20T19:11:03+00:00",
