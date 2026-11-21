@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"42aed83d720c0451",
-"b4fc739284eabad6",
-"b25f48f7d487145d",
 "84e47743ab2e582f",
 "6a3e6fcaa7817173",
 "b8a6dd794cf2ac58",
@@ -2999,39 +2996,12 @@
 "7d5458c909c20e46",
 "222109522dbca2ee",
 "b53b1d32b875d722",
-"17590c6b55053c52"
+"17590c6b55053c52",
+"e6169e9800654328",
+"e97e44fde3481927",
+"f4035c5d3bcd6487"
 ],
 "imzalar": [
-[
-"belirtiler",
-"caresiz",
-"doktorlar",
-"donen",
-"gizemli",
-"goruldu",
-"hastalik",
-"kaldi",
-"panigi",
-"turistlerde",
-"ulkeden"
-],
-[
-"ankara",
-"basladi",
-"festivali",
-"film",
-"gorkemli",
-"torenle"
-],
-[
-"aci",
-"bahcelievler",
-"beton",
-"carpti",
-"geldi",
-"pompasi",
-"yayaya"
-],
 [
 "arjantin",
 "baskenti",
@@ -8807,17 +8777,44 @@
 "rusya",
 "sozcusu",
 "zaharova"
+],
+[
+"adim",
+"alti",
+"avrupa",
+"eksik",
+"geliyor",
+"kriter",
+"meclis",
+"vizesiz",
+"yeni"
+],
+[
+"cinsel",
+"cocuga",
+"suphelisi",
+"taciz",
+"yakalandi"
+],
+[
+"bozuyuk",
+"dolandiricilik",
+"para",
+"polisten",
+"sahte",
+"uyarisi",
+"vatandaslara"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-21T04:58:00+00:00",
+"Haber Global": "2026-11-21T07:18:00+00:00",
 "Sonsöz (Ankara)": "2026-11-21T06:19:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-21T04:25:17+00:00",
 "Sözcü Son Dakika": "2026-11-21T06:19:14+00:00",
-"Yeni Şafak Yerel": "2026-11-21T06:23:59+00:00",
+"Yeni Şafak Yerel": "2026-11-21T07:23:56+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-21T02:20:47+00:00",
+"Olay (Bursa)": "2026-11-21T07:17:00+00:00",
 "@islamasalya": "2026-11-21T04:14:03+00:00",
 "Yeni Asır (İzmir)": "2026-11-21T03:50:17+00:00",
 "İstanbul Gazetesi": "2026-11-19T22:04:00+00:00",
