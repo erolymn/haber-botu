@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"84e47743ab2e582f",
-"6a3e6fcaa7817173",
-"b8a6dd794cf2ac58",
 "e46ad813d0df0d25",
 "cd2faf7ccdb92289",
 "5dad74353750267d",
@@ -2999,33 +2996,12 @@
 "17590c6b55053c52",
 "e6169e9800654328",
 "e97e44fde3481927",
-"f4035c5d3bcd6487"
+"f4035c5d3bcd6487",
+"87b7531bf2ad9c86",
+"0b1b3c99aa3bcb29",
+"320dc7caac7840dc"
 ],
 "imzalar": [
-[
-"arjantin",
-"baskenti",
-"faciayi",
-"onlarca",
-"yarali",
-"yasadi"
-],
-[
-"atti",
-"bursa",
-"bursaspor",
-"ekibine",
-"imza",
-"ismi",
-"sampiyon"
-],
-[
-"allah",
-"beraberdir",
-"bizimle",
-"cunku",
-"uzulme"
-],
 [
 "balikesir",
 "batti",
@@ -8804,15 +8780,45 @@
 "sahte",
 "uyarisi",
 "vatandaslara"
+],
+[
+"bahcesi",
+"cop31",
+"gordu",
+"ilgi",
+"kelebek",
+"tropikal",
+"yogun"
+],
+[
+"asti",
+"baraj",
+"daki",
+"doluluk",
+"istanbul",
+"kritik",
+"orani",
+"seviyeyi"
+],
+[
+"beyoglu",
+"carpti",
+"gecekonduya",
+"kamyon",
+"moloz",
+"nda",
+"olmadi",
+"yaralanan",
+"yuklu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-21T07:18:00+00:00",
+"Haber Global": "2026-11-21T08:12:00+00:00",
 "Sonsöz (Ankara)": "2026-11-21T06:19:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-21T04:25:17+00:00",
-"Sözcü Son Dakika": "2026-11-21T06:19:14+00:00",
-"Yeni Şafak Yerel": "2026-11-21T07:23:56+00:00",
+"Sözcü Son Dakika": "2026-11-21T08:18:32+00:00",
+"Yeni Şafak Yerel": "2026-11-21T08:24:53+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-21T07:17:00+00:00",
 "@islamasalya": "2026-11-21T04:14:03+00:00",
