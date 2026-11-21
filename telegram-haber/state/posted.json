@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"a51436bcc3344401",
-"b58adf1b7906d88f",
-"ebdef447995e5644",
 "5836e71b33925311",
 "8dc49c277104ea14",
 "7ee04da43f7590bd",
@@ -2999,39 +2996,12 @@
 "38ea12d5dab625fd",
 "24c579a746ff82dc",
 "e703e773584a37d4",
-"ddbdf339af8f881d"
+"ddbdf339af8f881d",
+"0b43fae5710680c0",
+"3b92194949f321e6",
+"83e2344c206b5947"
 ],
 "imzalar": [
-[
-"basladi",
-"haklarim",
-"kutuphanesi",
-"nde",
-"rami",
-"senligi"
-],
-[
-"hastanesi",
-"israil",
-"nasir",
-"ortak",
-"saldirisina",
-"tepki",
-"turkiye",
-"ulkeden"
-],
-[
-"ara",
-"doldu",
-"hareketliligi",
-"havalimanlari",
-"istanbul",
-"kuyruklar",
-"olustu",
-"tasti",
-"tatil",
-"uzun"
-],
 [
 "bursa",
 "edebiyat",
@@ -8844,15 +8814,40 @@
 "supheli",
 "tutuklandi",
 "uyusturucu"
+],
+[
+"anlara",
+"atasehir",
+"deki",
+"dustu",
+"gokdelenlere",
+"kamerada",
+"yildirim"
+],
+[
+"deprem",
+"iran",
+"korkutan",
+"sinirinda",
+"turkiye"
+],
+[
+"binada",
+"cocuk",
+"gaziosmanpasa",
+"katli",
+"kurtarilamadi",
+"yangin",
+"yasindaki"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-21T22:09:00+00:00",
-"Sonsöz (Ankara)": "2026-11-21T22:14:00+00:00",
+"Sonsöz (Ankara)": "2026-11-21T23:05:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-21T04:25:17+00:00",
-"Sözcü Son Dakika": "2026-11-21T21:14:51+00:00",
-"Yeni Şafak Yerel": "2026-11-21T21:23:37+00:00",
+"Sözcü Son Dakika": "2026-11-21T22:39:50+00:00",
+"Yeni Şafak Yerel": "2026-11-21T21:49:09+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-21T16:16:00+00:00",
 "@islamasalya": "2026-11-21T22:11:40+00:00",
