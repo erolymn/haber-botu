@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"29ce50e126e7c46f",
-"b13922a1668fc824",
-"e1ae0815ea17c19b",
-"783df56d2b61b29b",
 "db33e7e7195c04e9",
 "b0fa0e699a3afcfe",
 "54f8938e45e9c89c",
@@ -2999,35 +2995,13 @@
 "e6562beaad13d612",
 "b83e1b6a44e100a6",
 "083c45d9c18374bc",
-"446ab273a4d8de98"
+"446ab273a4d8de98",
+"4d12f22415f624a4",
+"dac7345ffdd0e428",
+"c1b0ac2327bd4076",
+"7b9fa357c53b50fd"
 ],
 "imzalar": [
-[
-"destekleri",
-"kuresel",
-"rekor",
-"seviyeye",
-"tarim",
-"ulasti"
-],
-[
-"aldiris",
-"cektirdiler",
-"dalgalara",
-"dev",
-"etmeden",
-"fotograf",
-"sahilinde",
-"uskudar"
-],
-[
-"alperen",
-"gecti",
-"houston",
-"rockets",
-"sengun",
-"tarihine"
-],
 [
 "donuldu",
 "esiginden",
@@ -8831,20 +8805,49 @@
 "yuksek",
 "zeytin",
 "zeytinyagina"
+],
+[
+"hayatini",
+"kaybetti",
+"kisinin",
+"mantari",
+"ormandan",
+"suruyor",
+"tedavisi",
+"topladigi",
+"yedi"
+],
+[
+"arsenal",
+"buldu",
+"galibiyet",
+"karsisinda",
+"newcastle",
+"serisi",
+"united"
+],
+[
+"altina",
+"kaldirim",
+"kameralara",
+"sakladilar",
+"taslarinin",
+"uyusturucuyu",
+"yakalandilar"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-21T18:55:00+00:00",
+"Haber Global": "2026-11-21T20:02:00+00:00",
 "Sonsöz (Ankara)": "2026-11-21T17:20:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-21T04:25:17+00:00",
-"Sözcü Son Dakika": "2026-11-21T19:09:20+00:00",
-"Yeni Şafak Yerel": "2026-11-21T19:23:38+00:00",
+"Sözcü Son Dakika": "2026-11-21T20:00:31+00:00",
+"Yeni Şafak Yerel": "2026-11-21T20:25:08+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-21T16:16:00+00:00",
 "@islamasalya": "2026-11-21T17:52:44+00:00",
 "Yeni Asır (İzmir)": "2026-11-21T15:14:57+00:00",
 "İstanbul Gazetesi": "2026-11-19T22:04:00+00:00",
-"Kandilli Rasathanesi": "2026-11-21T02:17:49+00:00"
+"Kandilli Rasathanesi": "2026-11-21T19:21:10+00:00"
 }
 }
