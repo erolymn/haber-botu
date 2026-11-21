@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"edc3844208f2f77b",
-"9f52f98772a7becf",
-"0c6939a8309dd4f8",
 "665e97c3586b09b3",
 "436740d999ca3111",
 "341d3f55f78a77a5",
@@ -2999,34 +2996,12 @@
 "4e555e58b998b32f",
 "d7a3483ca85cabfa",
 "f2bbf0e5711c6095",
-"68dcb5ea66646c71"
+"68dcb5ea66646c71",
+"ddc655a0f162f3b5",
+"affc3a9ebf8eb6dd",
+"04d93f91678cc4fb"
 ],
 "imzalar": [
-[
-"acikladi",
-"bakan",
-"dan",
-"donusum",
-"hedeflerini",
-"kacir",
-"mesaji",
-"nin",
-"turkiye",
-"yesil"
-],
-[
-"bursa",
-"buyuklugu",
-"depremin",
-"iste",
-"merkez",
-"sallandi",
-"ussu"
-],
-[
-"fetvasi",
-"suikast"
-],
 [
 "bursa",
 "buyuklugunde",
@@ -8817,6 +8792,38 @@
 "isbirligi",
 "protokolu",
 "tihek"
+],
+[
+"agza",
+"getiren",
+"hastaneye",
+"kaldirildi",
+"lig",
+"olay",
+"oyuncu",
+"super",
+"yildiz",
+"yurekleri"
+],
+[
+"charles",
+"cop31",
+"cumhurbaskani",
+"erdogan",
+"eylem",
+"ingiltere",
+"krali",
+"mektubu",
+"mirasi",
+"olmali",
+"sahipligi",
+"tan",
+"tesekkur"
+],
+[
+"gecede",
+"milyarder",
+"oldular"
 ]
 ],
 "son_tarih": {
@@ -8824,10 +8831,10 @@
 "Sonsöz (Ankara)": "2026-11-21T11:24:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-21T04:25:17+00:00",
-"Sözcü Son Dakika": "2026-11-21T10:11:25+00:00",
-"Yeni Şafak Yerel": "2026-11-21T11:24:15+00:00",
+"Sözcü Son Dakika": "2026-11-21T12:19:31+00:00",
+"Yeni Şafak Yerel": "2026-11-21T12:22:11+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-21T07:17:00+00:00",
+"Olay (Bursa)": "2026-11-21T12:23:59+00:00",
 "@islamasalya": "2026-11-21T11:14:59+00:00",
 "Yeni Asır (İzmir)": "2026-11-21T10:14:50+00:00",
 "İstanbul Gazetesi": "2026-11-19T22:04:00+00:00",
