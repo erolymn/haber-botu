@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"ef3f993e963a380f",
-"0fa122f1920718e2",
-"a0a74de467b61b9a",
 "f99bdba544545d5f",
 "f31ab0411f6ce696",
 "97f8fb5ba4fe7012",
@@ -2999,38 +2996,12 @@
 "d947eb91e84cb41c",
 "39b02bc1b44d9bac",
 "4227d27788da2c9d",
-"9cf8cc1e2cc6605c"
+"9cf8cc1e2cc6605c",
+"d7d0c1ac56a47089",
+"c7d19b9493f212db",
+"4c68991343d865af"
 ],
 "imzalar": [
-[
-"bahcesi",
-"cop31",
-"dunyaya",
-"kelebek",
-"konya",
-"tanitiliyor",
-"tropikal"
-],
-[
-"basladilar",
-"firsatcilar",
-"ilanlari",
-"kaldirmaya",
-"pusuda",
-"tek"
-],
-[
-"abd",
-"belli",
-"bomba",
-"deki",
-"havacilik",
-"krizinin",
-"saldiri",
-"sebebi",
-"siber",
-"tehdidi"
-],
 [
 "durduracak",
 "iran",
@@ -8819,6 +8790,34 @@
 "manzara",
 "pide",
 "salonunda"
+],
+[
+"bursa",
+"deki",
+"ekibinden",
+"lig",
+"seri",
+"sonu",
+"super"
+],
+[
+"anlatim",
+"canli",
+"fenerbahce",
+"kocaelispor",
+"maci"
+],
+[
+"buruk",
+"cephesinden",
+"mac",
+"okan",
+"olay",
+"paylasim",
+"sert",
+"sonu",
+"sozler",
+"tff"
 ]
 ],
 "son_tarih": {
@@ -8826,10 +8825,10 @@
 "Sonsöz (Ankara)": "2026-11-21T15:11:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-21T04:25:17+00:00",
-"Sözcü Son Dakika": "2026-11-21T15:24:25+00:00",
-"Yeni Şafak Yerel": "2026-11-21T15:23:00+00:00",
+"Sözcü Son Dakika": "2026-11-21T16:23:26+00:00",
+"Yeni Şafak Yerel": "2026-11-21T16:24:39+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-21T15:23:54+00:00",
+"Olay (Bursa)": "2026-11-21T16:16:00+00:00",
 "@islamasalya": "2026-11-21T14:40:33+00:00",
 "Yeni Asır (İzmir)": "2026-11-21T15:14:57+00:00",
 "İstanbul Gazetesi": "2026-11-19T22:04:00+00:00",
