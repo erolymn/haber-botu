@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"fe7d0dcf91c09dba",
-"578eca15c1ee15e9",
-"aa858e0e73684f22",
 "d8dcb9049ba99fd5",
 "65f6a425830a6751",
 "99eda06d0cdda882",
@@ -2999,42 +2996,12 @@
 "992090805e35ccfd",
 "cfeceaabf4e71e52",
 "d837e2c8fdafac6b",
-"c62463b4ca825fe6"
+"c62463b4ca825fe6",
+"f13da2783ab6ea28",
+"5099983bb57d4cda",
+"4e555e58b998b32f"
 ],
 "imzalar": [
-[
-"abd",
-"dan",
-"durdu",
-"faa",
-"genelinde",
-"havalimanlarinda",
-"kalkislar",
-"karari",
-"ucus"
-],
-[
-"abd",
-"caldi",
-"ingiltere",
-"sirenler",
-"ussunde"
-],
-[
-"basmane",
-"cozulemeyen",
-"cukuru",
-"den",
-"gundemde",
-"izmir",
-"partili",
-"sorunu",
-"spo",
-"tekin",
-"tepkisi",
-"yeniden",
-"yillardir"
-],
 [
 "aktuel",
 "bim",
@@ -8832,19 +8799,49 @@
 "saldiri",
 "silahli",
 "supheli"
+],
+[
+"alarma",
+"dunyayi",
+"gecirdi",
+"goruntuler",
+"habercisi",
+"kiyamet",
+"silahlarinin"
+],
+[
+"kahve",
+"kasim",
+"katalogu",
+"kez",
+"raflarinda",
+"ruzgari",
+"sok",
+"teknoloji"
+],
+[
+"736",
+"altindaki",
+"bin",
+"can",
+"gazze",
+"israil",
+"kaybi",
+"saldirilari",
+"yukseldi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-21T08:12:00+00:00",
+"Haber Global": "2026-11-21T10:21:00+00:00",
 "Sonsöz (Ankara)": "2026-11-21T10:25:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-21T04:25:17+00:00",
-"Sözcü Son Dakika": "2026-11-21T08:18:32+00:00",
+"Sözcü Son Dakika": "2026-11-21T10:11:25+00:00",
 "Yeni Şafak Yerel": "2026-11-21T10:22:51+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-21T07:17:00+00:00",
 "@islamasalya": "2026-11-21T10:12:17+00:00",
-"Yeni Asır (İzmir)": "2026-11-21T03:50:17+00:00",
+"Yeni Asır (İzmir)": "2026-11-21T10:14:50+00:00",
 "İstanbul Gazetesi": "2026-11-19T22:04:00+00:00",
 "Kandilli Rasathanesi": "2026-11-21T02:17:49+00:00"
 }
