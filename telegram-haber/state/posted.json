@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"3f95f05f1e01fdd1",
-"ee846ba6487cc202",
-"385b0911f1cb05fe",
 "ef3f993e963a380f",
 "0fa122f1920718e2",
 "a0a74de467b61b9a",
@@ -2999,40 +2996,12 @@
 "4fd55e4279f1d120",
 "3bc4277c0f9e139f",
 "cea68f65894f78f7",
-"d947eb91e84cb41c"
+"d947eb91e84cb41c",
+"39b02bc1b44d9bac",
+"4227d27788da2c9d",
+"9cf8cc1e2cc6605c"
 ],
 "imzalar": [
-[
-"dolu",
-"edildi",
-"hortum",
-"iptal",
-"kapattirdi",
-"kapilari",
-"riski",
-"seferler"
-],
-[
-"askere",
-"eski",
-"gerilla",
-"gibi",
-"gosteren",
-"kolombiya",
-"oldurerek",
-"sivili",
-"yaptirim"
-],
-[
-"agac",
-"dalgalar",
-"dev",
-"devrildi",
-"etkili",
-"istanbul",
-"lodos",
-"olustu"
-],
 [
 "bahcesi",
 "cop31",
@@ -8821,19 +8790,48 @@
 "kesildi",
 "kipkirmizi",
 "rize"
+],
+[
+"buruk",
+"galatasaray",
+"okan",
+"rekor",
+"tan",
+"tarihi"
+],
+[
+"dinlenir",
+"hafta",
+"huzur",
+"izmir",
+"kafa",
+"nerede",
+"rotalari",
+"sonu"
+],
+[
+"beklemedigi",
+"cikmiyor",
+"dua",
+"etmeden",
+"gorenler",
+"kimsenin",
+"manzara",
+"pide",
+"salonunda"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-21T10:21:00+00:00",
-"Sonsöz (Ankara)": "2026-11-21T11:24:00+00:00",
+"Sonsöz (Ankara)": "2026-11-21T15:11:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-21T04:25:17+00:00",
 "Sözcü Son Dakika": "2026-11-21T15:24:25+00:00",
-"Yeni Şafak Yerel": "2026-11-21T14:20:46+00:00",
+"Yeni Şafak Yerel": "2026-11-21T15:23:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-21T15:23:54+00:00",
 "@islamasalya": "2026-11-21T14:40:33+00:00",
-"Yeni Asır (İzmir)": "2026-11-21T10:14:50+00:00",
+"Yeni Asır (İzmir)": "2026-11-21T15:14:57+00:00",
 "İstanbul Gazetesi": "2026-11-19T22:04:00+00:00",
 "Kandilli Rasathanesi": "2026-11-21T02:17:49+00:00"
 }
