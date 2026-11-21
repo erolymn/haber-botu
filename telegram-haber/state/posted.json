@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"e46ad813d0df0d25",
-"cd2faf7ccdb92289",
-"5dad74353750267d",
 "bae0824c82a56a74",
 "a90e0936bccb2674",
 "e78e7ae4554f085b",
@@ -2999,34 +2996,12 @@
 "f4035c5d3bcd6487",
 "87b7531bf2ad9c86",
 "0b1b3c99aa3bcb29",
-"320dc7caac7840dc"
+"320dc7caac7840dc",
+"ee6bac6df13053cf",
+"c241b7cf5512a73b",
+"992090805e35ccfd"
 ],
 "imzalar": [
-[
-"balikesir",
-"batti",
-"firtinasi",
-"lodos",
-"tekne"
-],
-[
-"asvel",
-"besiktas",
-"deplasmanda",
-"devirdi",
-"euroleague"
-],
-[
-"acikladi",
-"arda",
-"guler",
-"ilgili",
-"kahveci",
-"korkusunu",
-"nihat",
-"patlayacak",
-"yerde"
-],
 [
 "abd",
 "durduruldu",
@@ -8810,18 +8785,50 @@
 "olmadi",
 "yaralanan",
 "yuklu"
+],
+[
+"den",
+"ekim",
+"gazze",
+"onceki"
+],
+[
+"baskent",
+"jammer",
+"ogrencilerinden",
+"projesi",
+"radar",
+"sanayisine",
+"savunma",
+"universitesi"
+],
+[
+"1999",
+"2008",
+"arasi",
+"duyurdu",
+"edilen",
+"emeklilik",
+"gun",
+"kademeli",
+"merak",
+"prim",
+"sekillendi",
+"sigortalilarin",
+"tablosu",
+"tarihi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-21T08:12:00+00:00",
-"Sonsöz (Ankara)": "2026-11-21T06:19:00+00:00",
+"Sonsöz (Ankara)": "2026-11-21T09:20:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-21T04:25:17+00:00",
 "Sözcü Son Dakika": "2026-11-21T08:18:32+00:00",
-"Yeni Şafak Yerel": "2026-11-21T08:24:53+00:00",
+"Yeni Şafak Yerel": "2026-11-21T09:20:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-21T07:17:00+00:00",
-"@islamasalya": "2026-11-21T04:14:03+00:00",
+"@islamasalya": "2026-11-21T08:54:42+00:00",
 "Yeni Asır (İzmir)": "2026-11-21T03:50:17+00:00",
 "İstanbul Gazetesi": "2026-11-19T22:04:00+00:00",
 "Kandilli Rasathanesi": "2026-11-21T02:17:49+00:00"
