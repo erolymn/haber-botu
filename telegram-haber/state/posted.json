@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"2b0975f9a145a499",
-"29eaf551bd71fc76",
-"f1e0f3993244c276",
 "f2dd5b10631b20ac",
 "926b49e5af6ddfdb",
 "860cc26f88dd50ff",
@@ -2999,37 +2996,12 @@
 "3f9956ce595d1403",
 "2d63496ed90cebbe",
 "6ef398072d4faf0f",
-"8b78e2a8b73c6fa5"
+"8b78e2a8b73c6fa5",
+"78ce35aae3a0349f",
+"44beccc716067042",
+"55c710fe159ea0fe"
 ],
 "imzalar": [
-[
-"marmara",
-"siddetli",
-"uyarisi",
-"yagis"
-],
-[
-"doktoru",
-"fenerbahce",
-"halil",
-"kac",
-"kimdir",
-"nin",
-"polat",
-"yasinda",
-"yeni"
-],
-[
-"456",
-"altin",
-"bin",
-"ele",
-"eser",
-"gecirildi",
-"gumus",
-"kiliclara",
-"sikkelerden"
-],
 [
 "buyuk",
 "dahil",
@@ -8833,15 +8805,46 @@
 "soyledi",
 "trump",
 "yapilmasi"
+],
+[
+"bektas",
+"bolgeye",
+"deprem",
+"dikkat",
+"faylara",
+"gorunmeyen",
+"haritalarda",
+"osman",
+"tan",
+"uyarisi"
+],
+[
+"basladi",
+"donem",
+"fazla",
+"hatayi",
+"kartinda",
+"kredi",
+"odeyecek",
+"yapan",
+"yeni"
+],
+[
+"ayi",
+"bahceye",
+"boz",
+"dev",
+"erzincan",
+"girdi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-21T02:05:00+00:00",
+"Haber Global": "2026-11-21T04:58:00+00:00",
 "Sonsöz (Ankara)": "2026-11-21T03:11:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-20T18:25:53+00:00",
-"Sözcü Son Dakika": "2026-11-21T04:12:48+00:00",
-"Yeni Şafak Yerel": "2026-11-21T04:18:37+00:00",
+"Sözcü Son Dakika": "2026-11-21T05:17:57+00:00",
+"Yeni Şafak Yerel": "2026-11-21T05:24:10+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-21T02:20:47+00:00",
 "@islamasalya": "2026-11-21T04:14:03+00:00",
