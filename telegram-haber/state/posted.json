@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"8252086fabe4b6f9",
-"f3ef0517943fcb5d",
-"06776ab96c45c62f",
 "29ce50e126e7c46f",
 "b13922a1668fc824",
 "e1ae0815ea17c19b",
@@ -2999,42 +2996,12 @@
 "1b745e0844ecc77f",
 "17c71418cf9a1be7",
 "30d9fd8145c460f6",
-"e6562beaad13d612"
+"e6562beaad13d612",
+"b83e1b6a44e100a6",
+"083c45d9c18374bc",
+"446ab273a4d8de98"
 ],
 "imzalar": [
-[
-"ankara",
-"atina",
-"den",
-"itirafi",
-"kahire",
-"nin",
-"plani",
-"takildi",
-"turkiye"
-],
-[
-"inci",
-"roketi",
-"spacex",
-"starship",
-"test",
-"ucusunda",
-"ulasti",
-"yorungeye"
-],
-[
-"akbaba",
-"cikti",
-"cinayetinde",
-"gerekceli",
-"gozde",
-"gunluk",
-"izmir",
-"karalik",
-"karar",
-"pusu"
-],
 [
 "destekleri",
 "kuresel",
@@ -8827,15 +8794,52 @@
 "hemen",
 "paylasti",
 "yenildi"
+],
+[
+"alindi",
+"beykoz",
+"bicakli",
+"gozaltina",
+"iett",
+"istanbul",
+"otobusunde",
+"supheli",
+"tehdit"
+],
+[
+"belozoglu",
+"elestiri",
+"emre",
+"faul",
+"gecildi",
+"ndan",
+"net"
+],
+[
+"bin",
+"bulanlari",
+"diyorsunuz",
+"elestirdi",
+"fiyati",
+"hasadi",
+"ozay",
+"pahali",
+"parfume",
+"tugba",
+"veriyorsunuz",
+"yapti",
+"yuksek",
+"zeytin",
+"zeytinyagina"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-21T18:18:00+00:00",
+"Haber Global": "2026-11-21T18:55:00+00:00",
 "Sonsöz (Ankara)": "2026-11-21T17:20:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-21T04:25:17+00:00",
-"Sözcü Son Dakika": "2026-11-21T18:21:06+00:00",
-"Yeni Şafak Yerel": "2026-11-21T17:20:54+00:00",
+"Sözcü Son Dakika": "2026-11-21T19:09:20+00:00",
+"Yeni Şafak Yerel": "2026-11-21T19:23:38+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-21T16:16:00+00:00",
 "@islamasalya": "2026-11-21T17:52:44+00:00",
