@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"3316adff4296e3d6",
-"8ba7dfceb8902a3f",
-"7866ee01433df818",
 "76885e9ddf51e8d1",
 "5d47fd68b0a4e246",
 "baca31084e0fdfde",
@@ -2999,34 +2996,12 @@
 "039443791cfbdb6d",
 "5027018dae4fc60a",
 "a2656c272983c7e5",
-"2e18a6647981c062"
+"2e18a6647981c062",
+"66bf3a81668250ae",
+"ef6ab0c59e414471",
+"96da5ef580955f1f"
 ],
 "imzalar": [
-[
-"dakikalar",
-"hareketli",
-"koprusu",
-"nde",
-"sehitler",
-"temmuz"
-],
-[
-"ateskese",
-"den",
-"israil",
-"ragmen",
-"saldirilar",
-"yeni"
-],
-[
-"cikarildi",
-"fransiz",
-"kadrodan",
-"maci",
-"oncesi",
-"turkiye",
-"yildiz"
-],
 [
 "arda",
 "aziz",
@@ -8826,15 +8801,40 @@
 "tan",
 "trump",
 "vergi"
+],
+[
+"fonluyor",
+"kim",
+"seni"
+],
+[
+"carpisti",
+"iki",
+"karabuk",
+"otomobil",
+"tunelde",
+"yarali",
+"yenice",
+"yolundaki"
+],
+[
+"altina",
+"artis",
+"bin",
+"emekli",
+"gundemde",
+"kademeli",
+"lira",
+"zamminda"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-20T23:35:00+00:00",
-"Sonsöz (Ankara)": "2026-11-20T23:50:00+00:00",
+"Sonsöz (Ankara)": "2026-11-21T01:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-20T18:25:53+00:00",
-"Sözcü Son Dakika": "2026-11-20T21:25:43+00:00",
-"Yeni Şafak Yerel": "2026-11-20T21:37:27+00:00",
+"Sözcü Son Dakika": "2026-11-21T01:21:52+00:00",
+"Yeni Şafak Yerel": "2026-11-21T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-20T19:11:03+00:00",
 "@islamasalya": "2026-11-20T22:39:07+00:00",
