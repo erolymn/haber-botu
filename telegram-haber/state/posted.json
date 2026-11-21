@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"47394109fd777f8e",
-"9c33720e63e9fb5a",
-"ac8fa1ef874c38cc",
 "c4810de8b230261d",
 "3316adff4296e3d6",
 "8ba7dfceb8902a3f",
@@ -2999,33 +2996,12 @@
 "9387b35ff64aca7d",
 "1d83f846fbb5076c",
 "4ffb101654c92a40",
-"829246edeb352824"
+"829246edeb352824",
+"039443791cfbdb6d",
+"5027018dae4fc60a",
+"a2656c272983c7e5"
 ],
 "imzalar": [
-[
-"deki",
-"detay",
-"dugun",
-"kahreden",
-"mersin",
-"once",
-"saldirida",
-"silahli",
-"yapmis"
-],
-[
-"allah",
-"gazze",
-"sahibi"
-],
-[
-"bayragini",
-"degistirdi",
-"dunyayi",
-"titreten",
-"ulke",
-"yil"
-],
 [
 "basladi",
 "bile",
@@ -8816,15 +8792,47 @@
 "genis",
 "polisle",
 "trafik"
+],
+[
+"cayi",
+"gurun",
+"iki",
+"ilcesinde",
+"kisi",
+"otomobil",
+"sivas",
+"tohma",
+"uctu",
+"yaralandi"
+],
+[
+"2027",
+"belediyesi",
+"butcesi",
+"buyuksehir",
+"edildi",
+"istanbul",
+"kabul",
+"mali",
+"yili"
+],
+[
+"carpmanin",
+"devrilip",
+"etkisiyle",
+"kaza",
+"korkutan",
+"narlidere",
+"suruklendi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-20T22:56:00+00:00",
-"Sonsöz (Ankara)": "2026-11-20T23:08:00+00:00",
+"Haber Global": "2026-11-20T23:35:00+00:00",
+"Sonsöz (Ankara)": "2026-11-20T23:50:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-20T18:25:53+00:00",
 "Sözcü Son Dakika": "2026-11-20T21:15:52+00:00",
-"Yeni Şafak Yerel": "2026-11-20T21:20:17+00:00",
+"Yeni Şafak Yerel": "2026-11-20T21:37:27+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-20T19:11:03+00:00",
 "@islamasalya": "2026-11-20T22:39:07+00:00",
