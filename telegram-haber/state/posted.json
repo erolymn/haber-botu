@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"f99bdba544545d5f",
-"f31ab0411f6ce696",
-"97f8fb5ba4fe7012",
 "074a206b4af87119",
 "37476467ff02f49a",
 "682c82005c484eec",
@@ -2999,30 +2996,12 @@
 "9cf8cc1e2cc6605c",
 "d7d0c1ac56a47089",
 "c7d19b9493f212db",
-"4c68991343d865af"
+"4c68991343d865af",
+"1ccbdf938e89d42d",
+"55b04f0a9d58b7e3",
+"1b745e0844ecc77f"
 ],
 "imzalar": [
-[
-"durduracak",
-"iran",
-"saldirilari",
-"trump"
-],
-[
-"balik",
-"kavgasi",
-"kiyasiya",
-"martilarin",
-"rekabet",
-"sahilde"
-],
-[
-"asmaya",
-"basladi",
-"duyanlar",
-"folyo",
-"penceresine"
-],
 [
 "araci",
 "direksiyonu",
@@ -8818,15 +8797,48 @@
 "sonu",
 "sozler",
 "tff"
+],
+[
+"catalca",
+"dolu",
+"dondu",
+"gok",
+"gole",
+"gurultulu",
+"istanbul",
+"saganak",
+"yagdi",
+"yollar"
+],
+[
+"bulundu",
+"cesedi",
+"denizde",
+"erkek",
+"kadikoy"
+],
+[
+"ateskes",
+"baskani",
+"gazze",
+"gorustu",
+"hamas",
+"heyetiyle",
+"ihlalleri",
+"istanbul",
+"kalin",
+"masada",
+"mit",
+"vardi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-21T10:21:00+00:00",
-"Sonsöz (Ankara)": "2026-11-21T15:11:00+00:00",
+"Sonsöz (Ankara)": "2026-11-21T17:20:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-21T04:25:17+00:00",
-"Sözcü Son Dakika": "2026-11-21T16:23:26+00:00",
-"Yeni Şafak Yerel": "2026-11-21T16:24:39+00:00",
+"Sözcü Son Dakika": "2026-11-21T17:03:56+00:00",
+"Yeni Şafak Yerel": "2026-11-21T17:20:54+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-21T16:16:00+00:00",
 "@islamasalya": "2026-11-21T14:40:33+00:00",
