@@ -1,10 +1,5 @@
 {
 "gonderilen": [
-"a42573dc5e0c9768",
-"5fcf110ef4da8df9",
-"3065fc368e44bef4",
-"9d79894cc95226c0",
-"151e78453b6f63a8",
 "a51436bcc3344401",
 "b58adf1b7906d88f",
 "ebdef447995e5644",
@@ -2999,41 +2994,14 @@
 "33519faaf1217d00",
 "932ff8fdb83a33d0",
 "3c083895d59aacbf",
-"6a4d798be65d41af"
+"6a4d798be65d41af",
+"02d1320642b00676",
+"38ea12d5dab625fd",
+"24c579a746ff82dc",
+"e703e773584a37d4",
+"ddbdf339af8f881d"
 ],
 "imzalar": [
-[
-"batrakov",
-"bedelini",
-"dan",
-"galatasaray",
-"gececek",
-"gorenler",
-"kaldi",
-"kalma",
-"rakam",
-"sasti",
-"serbest",
-"tarihe"
-],
-[
-"insaatta",
-"kaymasi",
-"maltepe",
-"toprak",
-"yarali"
-],
-[
-"cemal",
-"kerem",
-"komutan",
-"kudus",
-"muhammed",
-"sehit",
-"tugaylari",
-"videosunu",
-"yayinladi"
-],
 [
 "basladi",
 "haklarim",
@@ -8834,20 +8802,62 @@
 "silah",
 "sonucu",
 "yalin"
+],
+[
+"arda",
+"celta",
+"dondu",
+"geri",
+"guler",
+"karsisinda",
+"madrid",
+"real",
+"vigo"
+],
+[
+"altina",
+"anlari",
+"ayni",
+"bilmeyen",
+"birlikte",
+"bitmek",
+"emanet",
+"ettiklerimizi",
+"finca",
+"gecirdigimiz",
+"gunleri",
+"guzel",
+"icten",
+"kahkahalarini",
+"ozluyorum",
+"paylastigimiz",
+"seslerini",
+"sofrada",
+"sohbetlerini",
+"topragin"
+],
+[
+"alinan",
+"gozaltina",
+"kirikkale",
+"operasyonu",
+"supheli",
+"tutuklandi",
+"uyusturucu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-21T20:02:00+00:00",
-"Sonsöz (Ankara)": "2026-11-21T19:43:00+00:00",
+"Haber Global": "2026-11-21T22:09:00+00:00",
+"Sonsöz (Ankara)": "2026-11-21T22:14:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-21T04:25:17+00:00",
 "Sözcü Son Dakika": "2026-11-21T21:14:51+00:00",
 "Yeni Şafak Yerel": "2026-11-21T21:23:37+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-21T16:16:00+00:00",
-"@islamasalya": "2026-11-21T20:37:02+00:00",
+"@islamasalya": "2026-11-21T22:11:40+00:00",
 "Yeni Asır (İzmir)": "2026-11-21T19:42:04+00:00",
 "İstanbul Gazetesi": "2026-11-21T18:40:00+00:00",
-"Kandilli Rasathanesi": "2026-11-21T19:21:10+00:00"
+"Kandilli Rasathanesi": "2026-11-21T21:42:21+00:00"
 }
 }
