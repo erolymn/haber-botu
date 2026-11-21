@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"bae0824c82a56a74",
-"a90e0936bccb2674",
-"e78e7ae4554f085b",
 "fe7d0dcf91c09dba",
 "578eca15c1ee15e9",
 "aa858e0e73684f22",
@@ -2999,36 +2996,12 @@
 "320dc7caac7840dc",
 "ee6bac6df13053cf",
 "c241b7cf5512a73b",
-"992090805e35ccfd"
+"992090805e35ccfd",
+"cfeceaabf4e71e52",
+"d837e2c8fdafac6b",
+"c62463b4ca825fe6"
 ],
 "imzalar": [
-[
-"abd",
-"durduruldu",
-"edildi",
-"genelinde",
-"ilan",
-"inis",
-"kalkislar",
-"ucus",
-"ulke",
-"yasagi"
-],
-[
-"alanla",
-"bursa",
-"cumhurbaskani",
-"deki",
-"ilgili",
-"karari",
-"nilufer"
-],
-[
-"abd",
-"durduruldu",
-"tum",
-"ucuslar"
-],
 [
 "abd",
 "dan",
@@ -8817,18 +8790,60 @@
 "sigortalilarin",
 "tablosu",
 "tarihi"
+],
+[
+"altinda",
+"andi",
+"donumunde",
+"eden",
+"izzet",
+"kalan",
+"kassam",
+"kusatma",
+"mucahitleri",
+"mucahitlerin",
+"nde",
+"olmayi",
+"reddeden",
+"refah",
+"sehit",
+"taki",
+"tercih",
+"teslim",
+"tugaylari",
+"tunelleri",
+"video",
+"yayinladi",
+"yil"
+],
+[
+"aci",
+"arkadastan",
+"biri",
+"denizli",
+"mantar",
+"yiyen"
+],
+[
+"kacti",
+"malatya",
+"motosikletle",
+"parkta",
+"saldiri",
+"silahli",
+"supheli"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-21T08:12:00+00:00",
-"Sonsöz (Ankara)": "2026-11-21T09:20:00+00:00",
+"Sonsöz (Ankara)": "2026-11-21T10:25:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-21T04:25:17+00:00",
 "Sözcü Son Dakika": "2026-11-21T08:18:32+00:00",
-"Yeni Şafak Yerel": "2026-11-21T09:20:00+00:00",
+"Yeni Şafak Yerel": "2026-11-21T10:22:51+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-21T07:17:00+00:00",
-"@islamasalya": "2026-11-21T08:54:42+00:00",
+"@islamasalya": "2026-11-21T10:12:17+00:00",
 "Yeni Asır (İzmir)": "2026-11-21T03:50:17+00:00",
 "İstanbul Gazetesi": "2026-11-19T22:04:00+00:00",
 "Kandilli Rasathanesi": "2026-11-21T02:17:49+00:00"
