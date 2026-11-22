@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"530307cb453bdc80",
-"fadc9d06de9804b2",
-"69a6c242b1509bfe",
 "5bff44c4b22334bf",
 "7ff15215f5f09166",
 "50cb4c4fa771b66a",
@@ -2999,36 +2996,12 @@
 "e8d38f8c2cb807f7",
 "c51d8f5e8cc881e0",
 "2bb09a019b15e228",
-"dd881d898e352cae"
+"dd881d898e352cae",
+"7839666fc5f82914",
+"8ef3e45d4e47fb78",
+"06005139dc4af309"
 ],
 "imzalar": [
-[
-"bayrami",
-"cumhuriyet",
-"kasim",
-"kktc",
-"kutlaniyor",
-"yasinda"
-],
-[
-"asgari",
-"calisiliyor",
-"emekli",
-"maaslari",
-"ucret"
-],
-[
-"bekleniyor",
-"bircok",
-"den",
-"firtina",
-"kodlu",
-"kuvvetli",
-"meteoroloji",
-"saganak",
-"sari",
-"uyari"
-],
 [
 "akp",
 "beklemiyordu",
@@ -8809,6 +8782,35 @@
 "karar",
 "ocakta",
 "verildi"
+],
+[
+"aciklandi",
+"bulacaginiz",
+"bulusma",
+"duraklar",
+"emeklilerin",
+"gezeceginiz",
+"hem",
+"huzur",
+"izmir",
+"noktalari",
+"yeni",
+"yorulmadan"
+],
+[
+"barcelona",
+"dakikada",
+"dondu",
+"golle",
+"muhtesem"
+],
+[
+"adim",
+"bursa",
+"ekibi",
+"lig",
+"nin",
+"zirveye"
 ]
 ],
 "son_tarih": {
@@ -8816,12 +8818,12 @@
 "Sonsöz (Ankara)": "2026-11-22T11:11:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-22T12:16:31+00:00",
-"Sözcü Son Dakika": "2026-11-22T14:25:48+00:00",
+"Sözcü Son Dakika": "2026-11-22T15:23:06+00:00",
 "Yeni Şafak Yerel": "2026-11-22T14:21:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-22T14:25:47+00:00",
+"Olay (Bursa)": "2026-11-22T15:27:22+00:00",
 "@islamasalya": "2026-11-22T13:12:22+00:00",
-"Yeni Asır (İzmir)": "2026-11-22T11:04:10+00:00",
+"Yeni Asır (İzmir)": "2026-11-22T15:20:37+00:00",
 "İstanbul Gazetesi": "2026-11-22T06:20:00+00:00",
 "Kandilli Rasathanesi": "2026-11-22T00:14:15+00:00"
 }
