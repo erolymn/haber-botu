@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"f8762153de4d37b5",
-"c1287417e1dd65ed",
-"0af4c9d1d418de20",
 "b49d289d74b252ca",
 "7e15c3558680a367",
 "17ed510938a6521a",
@@ -2999,39 +2996,12 @@
 "f0a8bd2338a9b728",
 "a542bbb58bc13719",
 "c42a6aac37c5f0cd",
-"e50efd95f5bd7930"
+"e50efd95f5bd7930",
+"b2be181dd677e024",
+"24dc2379b12cb50e",
+"cb7734abe5f02474"
 ],
 "imzalar": [
-[
-"bence",
-"bursasporlu",
-"cevap",
-"futbolcuyla",
-"hata",
-"herkes",
-"soru",
-"yapar"
-],
-[
-"basladi",
-"bin",
-"bursa",
-"ceza",
-"lira",
-"uygulama",
-"yaptirmayana",
-"yeni"
-],
-[
-"bakanligi",
-"buyu",
-"fal",
-"karari",
-"ndan",
-"reklamlarina",
-"ticaret",
-"yasak"
-],
 [
 "bagliyor",
 "iki",
@@ -8789,18 +8759,59 @@
 "paredes",
 "yayinda",
 "yildizi"
+],
+[
+"aclik",
+"allah",
+"altinda",
+"cennet",
+"direnen",
+"edilen",
+"eylesin",
+"kabul",
+"kusatma",
+"makamlarini",
+"rahmet",
+"refah",
+"sabirla",
+"sehadetlerini",
+"sehitler",
+"sessizligine",
+"terk",
+"tunellerinde",
+"ummetin"
+],
+[
+"anlari",
+"kamerada",
+"kardelen",
+"kazasi",
+"korkunc",
+"makinesi",
+"yasindaki"
+],
+[
+"akin",
+"bolgeye",
+"cekilince",
+"cikti",
+"koy",
+"ortaya",
+"sakli",
+"sular",
+"vatandaslar"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-22T11:21:00+00:00",
 "Sonsöz (Ankara)": "2026-11-22T11:11:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-22T05:12:16+00:00",
+"Mynet Son Dakika": "2026-11-22T12:16:31+00:00",
 "Sözcü Son Dakika": "2026-11-22T11:21:31+00:00",
-"Yeni Şafak Yerel": "2026-11-22T11:26:23+00:00",
+"Yeni Şafak Yerel": "2026-11-22T12:26:02+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-22T11:24:56+00:00",
-"@islamasalya": "2026-11-22T08:18:14+00:00",
+"@islamasalya": "2026-11-22T12:00:26+00:00",
 "Yeni Asır (İzmir)": "2026-11-22T11:04:10+00:00",
 "İstanbul Gazetesi": "2026-11-22T06:20:00+00:00",
 "Kandilli Rasathanesi": "2026-11-22T00:14:15+00:00"
