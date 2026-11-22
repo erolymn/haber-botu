@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"207c30eafa544970",
-"dec4837aaa5823aa",
-"e46be40a096e031f",
 "f8762153de4d37b5",
 "c1287417e1dd65ed",
 "0af4c9d1d418de20",
@@ -2999,33 +2996,12 @@
 "30a11f7bd1d90266",
 "a3bd5ed5029a9d04",
 "fe38077bbedf68c8",
-"f0a8bd2338a9b728"
+"f0a8bd2338a9b728",
+"a542bbb58bc13719",
+"c42a6aac37c5f0cd",
+"e50efd95f5bd7930"
 ],
 "imzalar": [
-[
-"esti",
-"festivali",
-"geleneksel",
-"kuymak",
-"nde",
-"ruzgari",
-"sultangazi",
-"trabzon"
-],
-[
-"bankosu",
-"bursaspor",
-"elestirilen",
-"ismi",
-"milli",
-"takim"
-],
-[
-"carpisti",
-"catalca",
-"otomobiller",
-"yarali"
-],
 [
 "bence",
 "bursasporlu",
@@ -8785,11 +8761,39 @@
 "canli",
 "konyaspor",
 "tumosan"
+],
+[
+"akinci",
+"bayraktar",
+"bulustu",
+"denizle",
+"milli",
+"orka",
+"torpido"
+],
+[
+"birikimlerimizi",
+"fon",
+"geri",
+"isyani",
+"magdurlarinin",
+"verin"
+],
+[
+"bayginlik",
+"boca",
+"canli",
+"gecirdi",
+"juniors",
+"leandro",
+"paredes",
+"yayinda",
+"yildizi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-22T10:16:00+00:00",
-"Sonsöz (Ankara)": "2026-11-22T07:24:00+00:00",
+"Haber Global": "2026-11-22T11:21:00+00:00",
+"Sonsöz (Ankara)": "2026-11-22T11:11:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-22T05:12:16+00:00",
 "Sözcü Son Dakika": "2026-11-22T11:21:31+00:00",
@@ -8797,7 +8801,7 @@
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-22T11:24:56+00:00",
 "@islamasalya": "2026-11-22T08:18:14+00:00",
-"Yeni Asır (İzmir)": "2026-11-22T07:24:41+00:00",
+"Yeni Asır (İzmir)": "2026-11-22T11:04:10+00:00",
 "İstanbul Gazetesi": "2026-11-22T06:20:00+00:00",
 "Kandilli Rasathanesi": "2026-11-22T00:14:15+00:00"
 }
