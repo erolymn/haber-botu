@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"2db159daea7ea92e",
-"46498ea9781d15f6",
-"9f43ab6e32876ea0",
 "ea3317f0d40348a5",
 "3150467a4f071b65",
 "f9705cdcabab5014",
@@ -2999,28 +2996,12 @@
 "061a2025758dd1b7",
 "0e52e8385776587a",
 "8f9bd56e44494e1b",
-"64068a91f7f9740c"
+"64068a91f7f9740c",
+"d9562a959bc27a35",
+"5cdf4efaeeba3f8c",
+"301a507f416b087d"
 ],
 "imzalar": [
-[
-"2027",
-"alacaklar",
-"cicek",
-"dikkat",
-"iste",
-"renkleri",
-"trend",
-"yilin"
-],
-[
-"bekir",
-"hatay",
-"kopruden",
-"otomobilin",
-"sonmez",
-"surucusu",
-"yuvarlanan"
-],
 [
 "avustralyali",
 "bakanlarin",
@@ -8791,6 +8772,29 @@
 "maci",
 "super",
 "trabzonspor"
+],
+[
+"bakan",
+"cop31",
+"dan",
+"elestiri",
+"erdi",
+"iklim",
+"kurum",
+"olarak",
+"saglanamamasina",
+"sona",
+"tarihin",
+"uzlasi",
+"uzun",
+"zirvesi"
+],
+[
+"bursa",
+"cocuktan",
+"daki",
+"kaybolan",
+"ormanda"
 ]
 ],
 "son_tarih": {
@@ -8801,10 +8805,10 @@
 "Sözcü Son Dakika": "2026-11-22T17:26:24+00:00",
 "Yeni Şafak Yerel": "2026-11-22T17:18:30+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-22T16:24:51+00:00",
-"@islamasalya": "2026-11-22T17:22:17+00:00",
+"Olay (Bursa)": "2026-11-22T18:16:34+00:00",
+"@islamasalya": "2026-11-22T18:11:14+00:00",
 "Yeni Asır (İzmir)": "2026-11-22T15:20:37+00:00",
-"İstanbul Gazetesi": "2026-11-22T06:20:00+00:00",
+"İstanbul Gazetesi": "2026-11-22T18:12:00+00:00",
 "Kandilli Rasathanesi": "2026-11-22T00:14:15+00:00"
 }
 }
