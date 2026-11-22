@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"867a7cf7abe10e94",
-"773df3729f794902",
-"8cb1e2ca466bd3e3",
 "6cd1de7e661ae9c6",
 "3cd0c8395dfa7673",
 "29143033a52d96ec",
@@ -2999,39 +2996,12 @@
 "5604181edfc84499",
 "fdccd68a8a75caff",
 "970a047e4d406652",
-"e5375f3c60974236"
+"e5375f3c60974236",
+"0c1694a7afca962d",
+"200f4dd063550ffb",
+"0f130dc7b21e753c"
 ],
 "imzalar": [
-[
-"ceceli",
-"den",
-"dolandiricilara",
-"igdir",
-"karsi",
-"mustafa",
-"uyari",
-"videolu"
-],
-[
-"araca",
-"atti",
-"carpan",
-"halindeki",
-"otomobil",
-"park",
-"takla"
-],
-[
-"adim",
-"atti",
-"geri",
-"haci",
-"kasim",
-"sozlerine",
-"tepki",
-"yagmisti",
-"yakisikli"
-],
 [
 "adnan",
 "arzum",
@@ -8821,17 +8791,44 @@
 "simdi",
 "sorunlariyla",
 "terk"
+],
+[
+"aciklandi",
+"buldu",
+"dev",
+"ikramiye",
+"loto",
+"sahibini",
+"sayisal",
+"sonuclari"
+],
+[
+"ecza",
+"izmir",
+"operasyonu",
+"sentetik"
+],
+[
+"artik",
+"dunyasini",
+"karar",
+"konusulan",
+"modeli",
+"otomobil",
+"sarsan",
+"satilamayacak",
+"suv"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-22T05:10:00+00:00",
-"Sonsöz (Ankara)": "2026-11-22T03:02:00+00:00",
+"Sonsöz (Ankara)": "2026-11-22T06:24:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-22T05:12:16+00:00",
 "Sözcü Son Dakika": "2026-11-22T05:18:40+00:00",
-"Yeni Şafak Yerel": "2026-11-22T01:00:00+00:00",
+"Yeni Şafak Yerel": "2026-11-22T06:26:01+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-22T02:20:23+00:00",
+"Olay (Bursa)": "2026-11-22T06:22:32+00:00",
 "@islamasalya": "2026-11-21T22:11:40+00:00",
 "Yeni Asır (İzmir)": "2026-11-22T03:50:14+00:00",
 "İstanbul Gazetesi": "2026-11-21T18:40:00+00:00",
