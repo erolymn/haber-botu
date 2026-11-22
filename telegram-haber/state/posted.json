@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"84949118ef72c014",
-"a535e3120d64fc10",
-"08e9d93e671718c7",
 "f596c038d7643a88",
 "e251408e2937a280",
 "4dc4f0855cb868b4",
@@ -2999,39 +2996,12 @@
 "e1997b9e9ca58528",
 "de74953282b178f9",
 "2861088af9128f2b",
-"b32b8c637d0b28df"
+"b32b8c637d0b28df",
+"3b7180a30fbb8a86",
+"a493a162996527ac",
+"30a11f7bd1d90266"
 ],
 "imzalar": [
-[
-"aile",
-"ankara",
-"arasinda",
-"bicakli",
-"iki",
-"kavga",
-"kisi",
-"silahli",
-"yaralandi"
-],
-[
-"carptigi",
-"kaza",
-"nigde",
-"otomobil",
-"savruldu",
-"suv",
-"tirin",
-"zincirleme"
-],
-[
-"binbasi",
-"firari",
-"kulaksiz",
-"saldirisinin",
-"suphelisi",
-"yakalandi",
-"yil"
-],
 [
 "akademisyenin",
 "den",
@@ -8790,17 +8760,43 @@
 "planlama",
 "tamamlandi",
 "yazilimi"
+],
+[
+"ask",
+"erdi",
+"sona",
+"yillik"
+],
+[
+"ayni",
+"bulustu",
+"bursa",
+"dunyasinin",
+"gencleri",
+"sofrada",
+"turk"
+],
+[
+"altinda",
+"depo",
+"dogalgaz",
+"elektrik",
+"gizli",
+"kayseri",
+"metre",
+"yer",
+"yerin"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-22T09:15:00+00:00",
+"Haber Global": "2026-11-22T10:16:00+00:00",
 "Sonsöz (Ankara)": "2026-11-22T07:24:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-22T05:12:16+00:00",
-"Sözcü Son Dakika": "2026-11-22T09:17:23+00:00",
+"Sözcü Son Dakika": "2026-11-22T10:11:30+00:00",
 "Yeni Şafak Yerel": "2026-11-22T09:24:46+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-22T08:24:37+00:00",
+"Olay (Bursa)": "2026-11-22T10:14:33+00:00",
 "@islamasalya": "2026-11-22T08:18:14+00:00",
 "Yeni Asır (İzmir)": "2026-11-22T07:24:41+00:00",
 "İstanbul Gazetesi": "2026-11-22T06:20:00+00:00",
