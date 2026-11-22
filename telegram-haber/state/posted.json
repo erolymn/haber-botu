@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"f596c038d7643a88",
-"e251408e2937a280",
-"4dc4f0855cb868b4",
 "207c30eafa544970",
 "dec4837aaa5823aa",
 "e46be40a096e031f",
@@ -2999,33 +2996,12 @@
 "b32b8c637d0b28df",
 "3b7180a30fbb8a86",
 "a493a162996527ac",
-"30a11f7bd1d90266"
+"30a11f7bd1d90266",
+"a3bd5ed5029a9d04",
+"fe38077bbedf68c8",
+"f0a8bd2338a9b728"
 ],
 "imzalar": [
-[
-"akademisyenin",
-"den",
-"parti",
-"skandal",
-"sozde",
-"sozlerine",
-"tepki",
-"yagdi"
-],
-[
-"cumhurbaskanligi",
-"emeklileri",
-"geldi",
-"ndan",
-"umutlandiran"
-],
-[
-"aldi",
-"alev",
-"cami",
-"karabuk",
-"lojmani"
-],
 [
 "esti",
 "festivali",
@@ -8786,6 +8762,29 @@
 "metre",
 "yer",
 "yerin"
+],
+[
+"cikti",
+"gorulen",
+"hastaligi",
+"kalp",
+"nadir",
+"sandi",
+"yorgunlugu"
+],
+[
+"dem",
+"heyetinden",
+"imrali",
+"parti",
+"yeni",
+"ziyaret"
+],
+[
+"besiktas",
+"canli",
+"konyaspor",
+"tumosan"
 ]
 ],
 "son_tarih": {
@@ -8793,10 +8792,10 @@
 "Sonsöz (Ankara)": "2026-11-22T07:24:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-22T05:12:16+00:00",
-"Sözcü Son Dakika": "2026-11-22T10:11:30+00:00",
-"Yeni Şafak Yerel": "2026-11-22T09:24:46+00:00",
+"Sözcü Son Dakika": "2026-11-22T11:21:31+00:00",
+"Yeni Şafak Yerel": "2026-11-22T11:26:23+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-22T10:14:33+00:00",
+"Olay (Bursa)": "2026-11-22T11:24:56+00:00",
 "@islamasalya": "2026-11-22T08:18:14+00:00",
 "Yeni Asır (İzmir)": "2026-11-22T07:24:41+00:00",
 "İstanbul Gazetesi": "2026-11-22T06:20:00+00:00",
