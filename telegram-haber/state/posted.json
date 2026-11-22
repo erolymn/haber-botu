@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"4b111b26b8017701",
-"1bd8398762c40343",
-"9eb15efe67dfec5b",
 "59eb9a25cbb7f624",
 "2d7833e4d7cc824c",
 "8d6068f095620f9c",
@@ -2999,45 +2996,12 @@
 "06005139dc4af309",
 "71ba8cf190518e83",
 "9e807bfde43898ec",
-"c284fe8d97556e2b"
+"c284fe8d97556e2b",
+"a593d8e0f59dd5ac",
+"33bcaf4397c3ea88",
+"061a2025758dd1b7"
 ],
 "imzalar": [
-[
-"100",
-"alici",
-"bin",
-"bitmeden",
-"buluyor",
-"daki",
-"erzurum",
-"fiyati",
-"liraya",
-"tespihler",
-"ulasiyor"
-],
-[
-"bosanmada",
-"dan",
-"emsal",
-"evde",
-"icen",
-"karar",
-"kusurlu",
-"sigara",
-"tam",
-"yargitay"
-],
-[
-"abd",
-"cikti",
-"gercek",
-"ortaya",
-"panigi",
-"saatlerce",
-"sonradan",
-"uzayli",
-"yasandi"
-],
 [
 "25a",
 "cin",
@@ -8804,15 +8768,43 @@
 "tek",
 "yasiyor",
 "yillardir"
+],
+[
+"bezzecchi",
+"grand",
+"kazandi",
+"marquez",
+"motogp",
+"portekiz",
+"prix",
+"sampiyon",
+"sinde"
+],
+[
+"adali",
+"hakem",
+"serdal",
+"talebimiz",
+"yabanci"
+],
+[
+"biraz",
+"dan",
+"italiano",
+"itirafi",
+"konyaspor",
+"korktum",
+"maci",
+"tumosan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-22T11:21:00+00:00",
-"Sonsöz (Ankara)": "2026-11-22T11:11:00+00:00",
+"Haber Global": "2026-11-22T16:11:00+00:00",
+"Sonsöz (Ankara)": "2026-11-22T15:45:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-22T12:16:31+00:00",
 "Sözcü Son Dakika": "2026-11-22T16:25:10+00:00",
-"Yeni Şafak Yerel": "2026-11-22T14:21:00+00:00",
+"Yeni Şafak Yerel": "2026-11-22T16:24:19+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-22T16:24:51+00:00",
 "@islamasalya": "2026-11-22T15:53:50+00:00",
