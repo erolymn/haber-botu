@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"6391730e3f7e1ac4",
-"8549c6b94c0eb350",
 "3a28a672ac5daa7d",
 "1c21237b820d2890",
 "2a4d6f4e862c7ccd",
@@ -2999,31 +2997,11 @@
 "83e2344c206b5947",
 "724a19b40ea9c6c2",
 "50e6c195831f630d",
-"b8cb382043db7982"
+"b8cb382043db7982",
+"31eec26ff6eb8c1a",
+"74620ee7308042c2"
 ],
 "imzalar": [
-[
-"fransa",
-"kacta",
-"maci",
-"sat",
-"sifresiz",
-"turkiye"
-],
-[
-"bakan",
-"dolu",
-"ediyorum",
-"imirzalioglu",
-"kenan",
-"kurum",
-"ndan",
-"olarak",
-"ovgu",
-"sozler",
-"tesekkur",
-"vatandas"
-],
 [
 "agzini",
 "burnunu",
@@ -8841,15 +8819,30 @@
 "konya",
 "silahli",
 "yaralandi"
+],
+[
+"manipulasyon",
+"olarak",
+"tera",
+"yabanci",
+"yapti"
+],
+[
+"baskinlari",
+"heyelan",
+"saganak",
+"trabzon",
+"yagis",
+"yasandi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-21T22:09:00+00:00",
-"Sonsöz (Ankara)": "2026-11-22T00:21:00+00:00",
+"Sonsöz (Ankara)": "2026-11-22T01:13:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-21T04:25:17+00:00",
 "Sözcü Son Dakika": "2026-11-22T00:13:44+00:00",
-"Yeni Şafak Yerel": "2026-11-21T21:49:09+00:00",
+"Yeni Şafak Yerel": "2026-11-22T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-21T16:16:00+00:00",
 "@islamasalya": "2026-11-21T22:11:40+00:00",
