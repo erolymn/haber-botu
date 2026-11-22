@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"5836e71b33925311",
-"8dc49c277104ea14",
-"7ee04da43f7590bd",
 "6391730e3f7e1ac4",
 "8549c6b94c0eb350",
 "3a28a672ac5daa7d",
@@ -2999,24 +2996,12 @@
 "ddbdf339af8f881d",
 "0b43fae5710680c0",
 "3b92194949f321e6",
-"83e2344c206b5947"
+"83e2344c206b5947",
+"724a19b40ea9c6c2",
+"50e6c195831f630d",
+"b8cb382043db7982"
 ],
 "imzalar": [
-[
-"bursa",
-"edebiyat",
-"esintisi"
-],
-[
-"aksakal",
-"birlikte",
-"dan",
-"dsp",
-"gelecege",
-"mesaji",
-"yasinda",
-"yuruyecegiz"
-],
 [
 "fransa",
 "kacta",
@@ -8839,20 +8824,37 @@
 "kurtarilamadi",
 "yangin",
 "yasindaki"
+],
+[
+"aracli",
+"kaza",
+"olu",
+"sayida",
+"yarali",
+"zincirleme"
+],
+[
+"bahcesinde",
+"hastane",
+"kavga",
+"kisi",
+"konya",
+"silahli",
+"yaralandi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-21T22:09:00+00:00",
-"Sonsöz (Ankara)": "2026-11-21T23:05:00+00:00",
+"Sonsöz (Ankara)": "2026-11-22T00:21:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-21T04:25:17+00:00",
-"Sözcü Son Dakika": "2026-11-21T22:39:50+00:00",
+"Sözcü Son Dakika": "2026-11-22T00:13:44+00:00",
 "Yeni Şafak Yerel": "2026-11-21T21:49:09+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-21T16:16:00+00:00",
 "@islamasalya": "2026-11-21T22:11:40+00:00",
 "Yeni Asır (İzmir)": "2026-11-21T19:42:04+00:00",
 "İstanbul Gazetesi": "2026-11-21T18:40:00+00:00",
-"Kandilli Rasathanesi": "2026-11-21T21:42:21+00:00"
+"Kandilli Rasathanesi": "2026-11-22T00:14:15+00:00"
 }
 }
