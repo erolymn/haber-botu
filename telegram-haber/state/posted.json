@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"6cd1de7e661ae9c6",
-"3cd0c8395dfa7673",
-"29143033a52d96ec",
 "67d98fa8b9daa7b6",
 "42a9d56810bc7f74",
 "4ae658e1979df809",
@@ -2999,43 +2996,12 @@
 "e5375f3c60974236",
 "0c1694a7afca962d",
 "200f4dd063550ffb",
-"0f130dc7b21e753c"
+"0f130dc7b21e753c",
+"a7b1ea8246dba7ea",
+"1902c308d26deec8",
+"9e385ed2ee3924f9"
 ],
 "imzalar": [
-[
-"adnan",
-"arzum",
-"atildi",
-"katildi",
-"kizi",
-"parti",
-"sanatci",
-"senses",
-"siyasete"
-],
-[
-"askeri",
-"den",
-"girit",
-"hava",
-"heyeti",
-"kuvvetleri",
-"turk",
-"turkiye",
-"yunanistan",
-"ziyaret"
-],
-[
-"duyuyorum",
-"erdem",
-"gurur",
-"izmir",
-"sarilan",
-"sehidini",
-"seninle",
-"tabuta",
-"ugurladi"
-],
 [
 "abd",
 "arabistan",
@@ -8818,20 +8784,53 @@
 "sarsan",
 "satilamayacak",
 "suv"
+],
+[
+"begeni",
+"demet",
+"imajiyla",
+"olay",
+"ozdemir",
+"pozlari",
+"roma",
+"topladi",
+"yeni",
+"yine"
+],
+[
+"ara",
+"dersbasi",
+"erdi",
+"milyon",
+"ogrenci",
+"sona",
+"tatil",
+"yapacak",
+"yarin",
+"yeniden"
+],
+[
+"dustu",
+"finans",
+"gokdelenlere",
+"istanbul",
+"merkezi",
+"ndeki",
+"yildirim"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-22T05:10:00+00:00",
+"Haber Global": "2026-11-22T06:19:00+00:00",
 "Sonsöz (Ankara)": "2026-11-22T06:24:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-22T05:12:16+00:00",
-"Sözcü Son Dakika": "2026-11-22T05:18:40+00:00",
+"Sözcü Son Dakika": "2026-11-22T06:18:26+00:00",
 "Yeni Şafak Yerel": "2026-11-22T06:26:01+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-22T06:22:32+00:00",
 "@islamasalya": "2026-11-21T22:11:40+00:00",
 "Yeni Asır (İzmir)": "2026-11-22T03:50:14+00:00",
-"İstanbul Gazetesi": "2026-11-21T18:40:00+00:00",
+"İstanbul Gazetesi": "2026-11-22T06:20:00+00:00",
 "Kandilli Rasathanesi": "2026-11-22T00:14:15+00:00"
 }
 }
