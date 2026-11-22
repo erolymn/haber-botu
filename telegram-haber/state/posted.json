@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"4423b70d2600d17f",
-"afbca4590185e19c",
-"6c169014d3998f94",
 "867a7cf7abe10e94",
 "773df3729f794902",
 "8cb1e2ca466bd3e3",
@@ -2999,42 +2996,12 @@
 "d642e8471012dad2",
 "be3f1cb23c9a5ba0",
 "8ff516061a6ff1f5",
-"5604181edfc84499"
+"5604181edfc84499",
+"fdccd68a8a75caff",
+"970a047e4d406652",
+"e5375f3c60974236"
 ],
 "imzalar": [
-[
-"atarak",
-"beraberinde",
-"cip",
-"getirdi",
-"kazayi",
-"metre",
-"silivri",
-"suruklendi",
-"takla",
-"yagmur"
-],
-[
-"kadin",
-"mantardan",
-"nazilli",
-"olen",
-"topraga",
-"verildi",
-"zehirlenip"
-],
-[
-"araya",
-"belli",
-"cinping",
-"dunyanin",
-"gelecegi",
-"gozu",
-"putin",
-"tarih",
-"toplantida",
-"trump"
-],
 [
 "ceceli",
 "den",
@@ -8830,14 +8797,38 @@
 "koyun",
 "yasatti",
 "yil"
+],
+[
+"ceza",
+"edilen",
+"iptal",
+"milyon",
+"siparise"
+],
+[
+"istanbul",
+"korkutan",
+"olu",
+"yangin",
+"yaralilar"
+],
+[
+"basinda",
+"bogusuyor",
+"hemsire",
+"karisi",
+"saglik",
+"simdi",
+"sorunlariyla",
+"terk"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-22T04:12:00+00:00",
+"Haber Global": "2026-11-22T05:10:00+00:00",
 "Sonsöz (Ankara)": "2026-11-22T03:02:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-21T04:25:17+00:00",
-"Sözcü Son Dakika": "2026-11-22T04:22:22+00:00",
+"Mynet Son Dakika": "2026-11-22T05:12:16+00:00",
+"Sözcü Son Dakika": "2026-11-22T05:18:40+00:00",
 "Yeni Şafak Yerel": "2026-11-22T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-22T02:20:23+00:00",
