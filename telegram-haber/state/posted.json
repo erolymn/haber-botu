@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"ea3317f0d40348a5",
-"3150467a4f071b65",
-"f9705cdcabab5014",
 "f05927144a28df7c",
 "c36499852a2fdfe7",
 "e1df1c53b6cd19f9",
@@ -2999,39 +2996,12 @@
 "64068a91f7f9740c",
 "d9562a959bc27a35",
 "5cdf4efaeeba3f8c",
-"301a507f416b087d"
+"301a507f416b087d",
+"38644cadf04bdf2c",
+"a2201d42523f423a",
+"baaf864b41bb5f39"
 ],
 "imzalar": [
-[
-"avustralyali",
-"bakanlarin",
-"bin",
-"cop31",
-"dolar",
-"harcamislar",
-"kahveye",
-"sefasi",
-"turkiye"
-],
-[
-"basliyor",
-"basvurular",
-"bursa",
-"ciftler",
-"dikkat",
-"evlenecek",
-"kacirmayin",
-"tarihi"
-],
-[
-"beyaza",
-"bitlis",
-"burundu",
-"dag",
-"hizan",
-"ilcesinde",
-"zirveleri"
-],
 [
 "bekledigi",
 "buruk",
@@ -8795,15 +8765,45 @@
 "daki",
 "kaybolan",
 "ormanda"
+],
+[
+"arac",
+"buyukbas",
+"carpti",
+"hayvanlara",
+"kacan",
+"tirdan",
+"yarali"
+],
+[
+"aciklarinda",
+"baglantili",
+"bingazi",
+"gemiye",
+"ida",
+"rusya",
+"saldirisi"
+],
+[
+"baslayip",
+"cikmisti",
+"cikti",
+"dort",
+"escobar",
+"karar",
+"kontrolden",
+"mirasi",
+"taneyle",
+"tuhaf"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-22T16:11:00+00:00",
+"Haber Global": "2026-11-22T19:08:00+00:00",
 "Sonsöz (Ankara)": "2026-11-22T15:45:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-22T12:16:31+00:00",
-"Sözcü Son Dakika": "2026-11-22T17:26:24+00:00",
-"Yeni Şafak Yerel": "2026-11-22T17:18:30+00:00",
+"Sözcü Son Dakika": "2026-11-22T19:26:21+00:00",
+"Yeni Şafak Yerel": "2026-11-22T19:14:47+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-22T18:16:34+00:00",
 "@islamasalya": "2026-11-22T18:11:14+00:00",
