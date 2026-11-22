@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"67d98fa8b9daa7b6",
-"42a9d56810bc7f74",
-"4ae658e1979df809",
 "579ab7d605ee1534",
 "4f47e839d69231b7",
 "d6a2f1c5daacc868",
@@ -2999,40 +2996,12 @@
 "0f130dc7b21e753c",
 "a7b1ea8246dba7ea",
 "1902c308d26deec8",
-"9e385ed2ee3924f9"
+"9e385ed2ee3924f9",
+"ee66fc62b41f5a98",
+"d35711a0f9b5664b",
+"9e73ec3ab6af38fe"
 ],
 "imzalar": [
-[
-"abd",
-"arabistan",
-"daki",
-"den",
-"husi",
-"karsi",
-"saldirilari",
-"suudi",
-"tehdidine",
-"uyari",
-"vatandaslarina"
-],
-[
-"akademisyen",
-"anlatti",
-"biyigiyla",
-"cinli",
-"fes",
-"osmanli",
-"tarihini",
-"yeniceri"
-],
-[
-"bes",
-"derbide",
-"fenerbahce",
-"galibiyete",
-"setlik",
-"uzandi"
-],
 [
 "ankara",
 "cikacaklar",
@@ -8817,19 +8786,42 @@
 "merkezi",
 "ndeki",
 "yildirim"
+],
+[
+"acip",
+"cikaracaklar",
+"dogal",
+"gaz",
+"kuyu",
+"ormanin",
+"ortasina"
+],
+[
+"cumhurbaskani",
+"iran",
+"pezeskiyan",
+"savas",
+"sessiz",
+"veriyoruz"
+],
+[
+"afad",
+"deprem",
+"duyurdu",
+"izmir"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-22T06:19:00+00:00",
-"Sonsöz (Ankara)": "2026-11-22T06:24:00+00:00",
+"Sonsöz (Ankara)": "2026-11-22T07:24:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-22T05:12:16+00:00",
-"Sözcü Son Dakika": "2026-11-22T06:18:26+00:00",
+"Sözcü Son Dakika": "2026-11-22T07:00:24+00:00",
 "Yeni Şafak Yerel": "2026-11-22T06:26:01+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-22T06:22:32+00:00",
 "@islamasalya": "2026-11-21T22:11:40+00:00",
-"Yeni Asır (İzmir)": "2026-11-22T03:50:14+00:00",
+"Yeni Asır (İzmir)": "2026-11-22T07:24:41+00:00",
 "İstanbul Gazetesi": "2026-11-22T06:20:00+00:00",
 "Kandilli Rasathanesi": "2026-11-22T00:14:15+00:00"
 }
