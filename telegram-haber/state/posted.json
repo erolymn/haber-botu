@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"43fd7ef564787d10",
-"f2a977aeaa65846c",
-"d148476932fe4dce",
 "d511036bfe82ff60",
 "c9e18fbb281d8487",
 "f193accc8b2e40ee",
@@ -2999,30 +2996,12 @@
 "baaf864b41bb5f39",
 "f6a59577dc0012d6",
 "4d7241bda3fb2e72",
-"9f2c437f57087e9f"
+"9f2c437f57087e9f",
+"879c66674c208bf9",
+"67fb8b916ec19d6c",
+"9495e45860f2f12f"
 ],
 "imzalar": [
-[
-"bandindan",
-"kattan",
-"korkunc",
-"kosu",
-"salonunda",
-"savrulup",
-"spor",
-"uctu"
-],
-[
-"aci",
-"huzun",
-"keder"
-],
-[
-"ergi",
-"kirkin",
-"sampiyon",
-"tayland"
-],
 [
 "bursa",
 "edebiyatinin",
@@ -8795,15 +8774,47 @@
 "orhan",
 "partili",
 "rumeysa"
+],
+[
+"altinda",
+"cocuk",
+"kalan",
+"karma",
+"makinesinin",
+"tarlada",
+"yem"
+],
+[
+"acti",
+"agri",
+"carpisti",
+"faciaya",
+"kepceyle",
+"otomobil",
+"saganak",
+"yol"
+],
+[
+"abdulkerim",
+"arama",
+"aslan",
+"bardakci",
+"calismalari",
+"ceken",
+"dan",
+"dikkat",
+"paylasim",
+"sariyer",
+"surerken"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-22T20:04:00+00:00",
+"Haber Global": "2026-11-22T21:12:00+00:00",
 "Sonsöz (Ankara)": "2026-11-22T15:45:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-22T12:16:31+00:00",
-"Sözcü Son Dakika": "2026-11-22T20:25:25+00:00",
-"Yeni Şafak Yerel": "2026-11-22T20:27:28+00:00",
+"Sözcü Son Dakika": "2026-11-22T21:23:22+00:00",
+"Yeni Şafak Yerel": "2026-11-22T21:18:22+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-22T18:16:34+00:00",
 "@islamasalya": "2026-11-22T18:11:14+00:00",
