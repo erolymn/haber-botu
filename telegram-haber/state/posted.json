@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"4e326c82a9170898",
-"7817930494c39da0",
-"d543326735f7a2a2",
 "530307cb453bdc80",
 "fadc9d06de9804b2",
 "69a6c242b1509bfe",
@@ -2999,37 +2996,12 @@
 "cb7734abe5f02474",
 "4981cca93ef3a5d2",
 "dee443bedc04772d",
-"e8d38f8c2cb807f7"
+"e8d38f8c2cb807f7",
+"c51d8f5e8cc881e0",
+"2bb09a019b15e228",
+"dd881d898e352cae"
 ],
 "imzalar": [
-[
-"meclisi",
-"nin",
-"orgut",
-"parti",
-"yasama",
-"yeni",
-"yurutme"
-],
-[
-"ankara",
-"geceyi",
-"saganak",
-"vurdu"
-],
-[
-"fransa",
-"ihtimaller",
-"iste",
-"kaliriz",
-"ligi",
-"milli",
-"nasil",
-"nde",
-"pesinde",
-"surpriz",
-"takim"
-],
 [
 "bayrami",
 "cumhuriyet",
@@ -8805,6 +8777,38 @@
 "mustafa",
 "sarigul",
 "suclama"
+],
+[
+"baskani",
+"cop31",
+"dan",
+"engellediler",
+"kelimeye",
+"kurum",
+"mesaji",
+"murat",
+"muzakere",
+"sureci",
+"takilip"
+],
+[
+"darbe",
+"ele",
+"gecirildi",
+"icki",
+"kacak",
+"malzeme",
+"sayida",
+"uretimine"
+],
+[
+"birden",
+"galatasaray",
+"iki",
+"imza",
+"karar",
+"ocakta",
+"verildi"
 ]
 ],
 "son_tarih": {
@@ -8812,10 +8816,10 @@
 "Sonsöz (Ankara)": "2026-11-22T11:11:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-22T12:16:31+00:00",
-"Sözcü Son Dakika": "2026-11-22T11:21:31+00:00",
-"Yeni Şafak Yerel": "2026-11-22T13:27:09+00:00",
+"Sözcü Son Dakika": "2026-11-22T14:25:48+00:00",
+"Yeni Şafak Yerel": "2026-11-22T14:21:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-22T13:27:41+00:00",
+"Olay (Bursa)": "2026-11-22T14:25:47+00:00",
 "@islamasalya": "2026-11-22T13:12:22+00:00",
 "Yeni Asır (İzmir)": "2026-11-22T11:04:10+00:00",
 "İstanbul Gazetesi": "2026-11-22T06:20:00+00:00",
