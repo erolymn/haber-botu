@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"ef0bc50cec54c7ec",
-"9c1c847b2271ccd3",
-"f821d88a94c3d34c",
 "a99bb7d9cc93f5f5",
 "5302ac95480f5a6e",
 "a45e1f53b3e7f3f1",
@@ -2999,35 +2996,12 @@
 "9fd56a4d46c1788c",
 "ba35cfe2ff8beb61",
 "592fc6a11ef2a418",
-"1037043dd9441335"
+"1037043dd9441335",
+"5e07d27172172a4f",
+"d91c2f55544a6624",
+"0c8c0a2bad845d1c"
 ],
 "imzalar": [
-[
-"demirel",
-"direktoru",
-"gaziantep",
-"nin",
-"teknik",
-"volkan",
-"yeni"
-],
-[
-"ait",
-"goruntuler",
-"komutan",
-"sehit",
-"sinvar",
-"yahya",
-"yeni"
-],
-[
-"gazze",
-"isgalci",
-"israil",
-"itibariyle",
-"sehitlerimiz",
-"vuruyor"
-],
 [
 "2026",
 "291",
@@ -8799,15 +8773,44 @@
 "robotu",
 "tesla",
 "yukunu"
+],
+[
+"aciklama",
+"alarm",
+"aslan",
+"geldi",
+"istanbul",
+"kacan",
+"kimin",
+"muhtardan"
+],
+[
+"alimi",
+"bin",
+"erbas",
+"gazete",
+"jandarma",
+"resmi",
+"uzman",
+"yapacak",
+"yayimlandi"
+],
+[
+"batti",
+"gemisi",
+"libya",
+"rus",
+"saldirida",
+"savas"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-22T21:44:00+00:00",
-"Sonsöz (Ankara)": "2026-11-23T03:03:00+00:00",
+"Sonsöz (Ankara)": "2026-11-23T04:19:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-22T12:16:31+00:00",
+"Mynet Son Dakika": "2026-11-23T04:10:09+00:00",
 "Sözcü Son Dakika": "2026-11-23T01:28:10+00:00",
-"Yeni Şafak Yerel": "2026-11-23T01:00:00+00:00",
+"Yeni Şafak Yerel": "2026-11-23T04:14:06+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-23T02:20:10+00:00",
 "@islamasalya": "2026-11-22T18:11:14+00:00",
