@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"69bea4591ac3a554",
-"b15ebd563be698b5",
-"fc3e455d8030b161",
 "40efbde0d7fc2bd4",
 "221b62e1b53899fd",
 "6e4b682ac300ff33",
@@ -2999,33 +2996,12 @@
 "c9166a86faca59d2",
 "85932b7e1fdd6ba1",
 "241c1bc73f8095cc",
-"9acc6e74e0d8f21e"
+"9acc6e74e0d8f21e",
+"6a8ed817b3cd8f10",
+"8e9e256f166e06ac",
+"5040fb59dd7eabdc"
 ],
 "imzalar": [
-[
-"calindi",
-"fransa",
-"kisinin",
-"milyon",
-"saldiri",
-"siber",
-"verileri"
-],
-[
-"amazon",
-"degisti",
-"firlatildi",
-"isler",
-"ulasamadi",
-"uydusu",
-"uzaya",
-"yorungeye"
-],
-[
-"hafta",
-"kritik",
-"meclis"
-],
 [
 "bulgaristan",
 "dan",
@@ -8798,18 +8774,54 @@
 "operasyonu",
 "sasirtti",
 "uyusturucu"
+],
+[
+"bile",
+"kapatiyorlar",
+"korkudan",
+"korunmak",
+"kulaklarini",
+"kursun",
+"seslerinden",
+"uyurken"
+],
+[
+"bitiyor",
+"buzlanma",
+"cikacaklar",
+"derece",
+"dikkat",
+"gunler",
+"istanbul",
+"kalma",
+"sabah",
+"suruculer",
+"uyarisi",
+"valiliginden",
+"yazdan",
+"yola"
+],
+[
+"aciklamalarinda",
+"cumhurbaskani",
+"erdi",
+"erdogan",
+"gozler",
+"kabine",
+"sona",
+"toplantisi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-23T07:26:00+00:00",
-"Sonsöz (Ankara)": "2026-11-23T12:26:00+00:00",
+"Sonsöz (Ankara)": "2026-11-23T15:23:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-23T04:10:09+00:00",
 "Sözcü Son Dakika": "2026-11-23T14:28:41+00:00",
-"Yeni Şafak Yerel": "2026-11-23T12:25:31+00:00",
+"Yeni Şafak Yerel": "2026-11-23T15:22:13+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-23T14:29:48+00:00",
-"@islamasalya": "2026-11-23T14:01:40+00:00",
+"@islamasalya": "2026-11-23T14:32:01+00:00",
 "Yeni Asır (İzmir)": "2026-11-23T12:21:47+00:00",
 "İstanbul Gazetesi": "2026-11-23T12:24:00+00:00",
 "Kandilli Rasathanesi": "2026-11-22T23:42:47+00:00"
