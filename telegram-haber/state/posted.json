@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"b5f464c907c02969",
-"ec5bbe7da03736cf",
-"71a4cf211ccd95aa",
 "637faa764ba2a856",
 "244b7f27af7abc8b",
 "45df0173a9a15c7e",
@@ -2999,38 +2996,12 @@
 "8f1501ec5baaf24c",
 "740933d825651372",
 "7874ef03391ff71a",
-"cba78632b1c05ab5"
+"cba78632b1c05ab5",
+"462a08a6cdb9d921",
+"0d957573f78bb637",
+"3538b7e84dd356cf"
 ],
 "imzalar": [
-[
-"aci",
-"can",
-"dusen",
-"helezon",
-"isci",
-"makinesine",
-"olay",
-"osmaniye",
-"verdi"
-],
-[
-"aciklama",
-"bekleniyor",
-"kilitlendi",
-"saat",
-"turkiye"
-],
-[
-"gribi",
-"kitligi",
-"kus",
-"norvec",
-"tavuk",
-"ten",
-"uyarisi",
-"yasanabilir",
-"yumurta"
-],
 [
 "basketbol",
 "bursaspor",
@@ -8815,15 +8786,37 @@
 "hastasi",
 "sesini",
 "yasadi"
+],
+[
+"arabistan",
+"husilerden",
+"saldiri",
+"suudi"
+],
+[
+"belirlendi",
+"degerleme",
+"olarak",
+"orani",
+"yeniden",
+"yuzde"
+],
+[
+"balikesir",
+"cadde",
+"cevirdi",
+"gole",
+"saganak",
+"sokaklari"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-23T20:17:00+00:00",
+"Haber Global": "2026-11-23T21:24:00+00:00",
 "Sonsöz (Ankara)": "2026-11-23T16:50:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-23T04:10:09+00:00",
-"Sözcü Son Dakika": "2026-11-23T20:27:27+00:00",
-"Yeni Şafak Yerel": "2026-11-23T20:13:00+00:00",
+"Sözcü Son Dakika": "2026-11-23T21:26:14+00:00",
+"Yeni Şafak Yerel": "2026-11-23T21:28:13+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-23T14:29:48+00:00",
 "@islamasalya": "2026-11-23T19:00:00+00:00",
