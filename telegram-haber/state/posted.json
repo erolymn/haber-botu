@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"51f6a1bf54fc0b83",
-"d9aa97b35b6bfdb2",
-"68bd03732c426a5e",
 "4272112eddf3f864",
 "15648ae413bbacda",
 "023b4f660295b3f2",
@@ -2999,30 +2996,12 @@
 "5ca07ebbc4f91160",
 "46263f8f96d423e4",
 "24e87b95100702cd",
-"8c19e46e161d2cd5"
+"8c19e46e161d2cd5",
+"03fdb0b25da6ba06",
+"7b7d6f8ed3c08369",
+"e401c80eb7b22546"
 ],
 "imzalar": [
-[
-"bursa",
-"gruba",
-"gurultu",
-"mudahalesi",
-"polis",
-"yapan"
-],
-[
-"alevler",
-"bursa",
-"mahalleyi",
-"sardi",
-"teslim",
-"yangina"
-],
-[
-"guvenilir",
-"muttefik",
-"turkiye"
-],
 [
 "itibardan",
 "ogretmenden",
@@ -8800,6 +8779,35 @@
 "otobusu",
 "tramvay",
 "yaralilar"
+],
+[
+"170",
+"alimi",
+"bakan",
+"bin",
+"ciftci",
+"duyurdu",
+"personel",
+"yapilacak"
+],
+[
+"arama",
+"aslan",
+"calismalarina",
+"geldi",
+"kostumuyle",
+"sariyer"
+],
+[
+"bursa",
+"donuyor",
+"dort",
+"hafta",
+"hava",
+"icinde",
+"mevsim",
+"tersine",
+"yasanacak"
 ]
 ],
 "son_tarih": {
@@ -8810,10 +8818,10 @@
 "Sözcü Son Dakika": "2026-11-23T12:27:02+00:00",
 "Yeni Şafak Yerel": "2026-11-23T12:25:31+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-23T11:29:39+00:00",
+"Olay (Bursa)": "2026-11-23T12:25:23+00:00",
 "@islamasalya": "2026-11-23T10:44:15+00:00",
-"Yeni Asır (İzmir)": "2026-11-23T07:20:58+00:00",
-"İstanbul Gazetesi": "2026-11-23T07:24:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-23T12:21:47+00:00",
+"İstanbul Gazetesi": "2026-11-23T12:24:00+00:00",
 "Kandilli Rasathanesi": "2026-11-22T23:42:47+00:00"
 }
 }
