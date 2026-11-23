@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"8268858e58afeae0",
-"5f0258792a7f790e",
-"50023472812b2ba6",
 "03b2c2fae0caea73",
 "15b411c1aebb4d3b",
 "eea777ec76018418",
@@ -2999,36 +2996,12 @@
 "f49390e2cc6f703d",
 "a3165f29b7b31159",
 "695c15e3c39039e3",
-"0e6e22f3986702f9"
+"0e6e22f3986702f9",
+"d1cb2a4a93060bd3",
+"60b814e2f503f359",
+"aa71adeaaad4f630"
 ],
 "imzalar": [
-[
-"dan",
-"fenerbahce",
-"lukaku",
-"mujdeli"
-],
-[
-"buyuk",
-"ele",
-"gecirildi",
-"ilgilendiriyor",
-"kisisel",
-"kisiyi",
-"milyonlarca",
-"saldiriyla",
-"veriler"
-],
-[
-"dalgalara",
-"izlenme",
-"kapildilar",
-"kirdilar",
-"medyada",
-"rekoru",
-"sosyal",
-"uskudar"
-],
 [
 "duzce",
 "etmeden",
@@ -8798,15 +8771,40 @@
 "deprem",
 "ege",
 "nde"
+],
+[
+"derece",
+"dusecek",
+"firtina",
+"geliyor",
+"istanbul",
+"saganak",
+"sicaklik"
+],
+[
+"alindi",
+"apartman",
+"dan",
+"hava",
+"hedef",
+"iha",
+"market",
+"rusya",
+"saldirisi",
+"ukrayna"
+],
+[
+"avrupa",
+"savas"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-22T21:44:00+00:00",
-"Sonsöz (Ankara)": "2026-11-22T23:54:00+00:00",
+"Sonsöz (Ankara)": "2026-11-23T00:45:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-22T12:16:31+00:00",
-"Sözcü Son Dakika": "2026-11-23T00:10:24+00:00",
-"Yeni Şafak Yerel": "2026-11-23T00:21:02+00:00",
+"Sözcü Son Dakika": "2026-11-23T00:44:15+00:00",
+"Yeni Şafak Yerel": "2026-11-23T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-22T21:08:55+00:00",
 "@islamasalya": "2026-11-22T18:11:14+00:00",
