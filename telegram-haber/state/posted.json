@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"03b2c2fae0caea73",
-"15b411c1aebb4d3b",
-"eea777ec76018418",
 "65f51e3b51601a54",
 "ef0bc50cec54c7ec",
 "9c1c847b2271ccd3",
@@ -2999,41 +2996,12 @@
 "0e6e22f3986702f9",
 "d1cb2a4a93060bd3",
 "60b814e2f503f359",
-"aa71adeaaad4f630"
+"aa71adeaaad4f630",
+"9fd56a4d46c1788c",
+"ba35cfe2ff8beb61",
+"592fc6a11ef2a418"
 ],
 "imzalar": [
-[
-"duzce",
-"etmeden",
-"hareket",
-"hayati",
-"kemere",
-"otobusler",
-"polislerden",
-"sarildi",
-"uyari",
-"yolcular"
-],
-[
-"anadolu",
-"atesi",
-"cop31",
-"kulturel",
-"nden",
-"solen"
-],
-[
-"aciklayacagiz",
-"den",
-"fon",
-"hafta",
-"hareketlendiren",
-"kulislerini",
-"listesini",
-"ozel",
-"siyaset",
-"sozler"
-],
 [
 "alarm",
 "emeklileri",
@@ -8796,17 +8764,51 @@
 [
 "avrupa",
 "savas"
+],
+[
+"alinmasi",
+"bakan",
+"bingazi",
+"bolunmuslugun",
+"hedef",
+"koyuyor",
+"libya",
+"limani",
+"nin",
+"ortaya",
+"savunma",
+"tehlikesini",
+"vekili",
+"zubi"
+],
+[
+"gece",
+"kazasi",
+"olu",
+"sakarya",
+"yarali",
+"yarisi"
+],
+[
+"bursa",
+"buyuk",
+"sordu",
+"sorunu",
+"tek",
+"turkoglu",
+"vatandasin",
+"vekil"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-22T21:44:00+00:00",
-"Sonsöz (Ankara)": "2026-11-23T00:45:00+00:00",
+"Sonsöz (Ankara)": "2026-11-23T01:44:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-22T12:16:31+00:00",
-"Sözcü Son Dakika": "2026-11-23T00:44:15+00:00",
+"Sözcü Son Dakika": "2026-11-23T01:28:10+00:00",
 "Yeni Şafak Yerel": "2026-11-23T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-22T21:08:55+00:00",
+"Olay (Bursa)": "2026-11-23T02:20:10+00:00",
 "@islamasalya": "2026-11-22T18:11:14+00:00",
 "Yeni Asır (İzmir)": "2026-11-22T21:07:46+00:00",
 "İstanbul Gazetesi": "2026-11-22T21:08:00+00:00",
