@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"265a851d7ff0855d",
-"5c17426386fa07d6",
-"9d8a3411802b0527",
 "1374c584683b411a",
 "27f50255e06a9517",
 "9bd8a6923c592ebe",
@@ -2999,32 +2996,12 @@
 "2bb734b771019784",
 "83e5c7b73c13eb22",
 "86f1dc68356b94ef",
-"1a53043c6edd2fdb"
+"1a53043c6edd2fdb",
+"ba83401007e20204",
+"0e5119edeb0121b8",
+"f183481cc713359b"
 ],
 "imzalar": [
-[
-"300",
-"bin",
-"carpip",
-"ceza",
-"kacan",
-"surucuye",
-"yaraliya"
-],
-[
-"belcika",
-"dustugu",
-"geriye",
-"italya",
-"macta",
-"yendi"
-],
-[
-"denir",
-"kafasini",
-"kafasiz",
-"kullanmayana"
-],
 [
 "beraber",
 "berke",
@@ -8793,6 +8770,37 @@
 "ulkeleri",
 "uzlasi",
 "yakit"
+],
+[
+"gazze",
+"isgalci",
+"israil",
+"itibariyle",
+"vuruyor"
+],
+[
+"baskani",
+"dan",
+"enflasyonda",
+"faiz",
+"haritasi",
+"karahan",
+"kritik",
+"mesajlar",
+"rezervler",
+"tcmb",
+"yol"
+],
+[
+"borc",
+"bursa",
+"cikti",
+"dosyasi",
+"ilan",
+"milyonluk",
+"ortaya",
+"sgk",
+"tek"
 ]
 ],
 "son_tarih": {
@@ -8800,11 +8808,11 @@
 "Sonsöz (Ankara)": "2026-11-23T07:18:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-23T04:10:09+00:00",
-"Sözcü Son Dakika": "2026-11-23T09:20:21+00:00",
+"Sözcü Son Dakika": "2026-11-23T10:27:15+00:00",
 "Yeni Şafak Yerel": "2026-11-23T09:22:26+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-23T09:29:28+00:00",
-"@islamasalya": "2026-11-22T18:11:14+00:00",
+"Olay (Bursa)": "2026-11-23T10:28:15+00:00",
+"@islamasalya": "2026-11-23T09:33:38+00:00",
 "Yeni Asır (İzmir)": "2026-11-23T07:20:58+00:00",
 "İstanbul Gazetesi": "2026-11-23T07:24:00+00:00",
 "Kandilli Rasathanesi": "2026-11-22T23:42:47+00:00"
