@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"01ec9e17774b55fc",
-"8c8ef0b7d8b4ef4c",
-"9d937cf4be1185c8",
-"2a036ac7ebc41592",
 "3ef394cf3cf22ad6",
 "b8b607424edb68bf",
 "5cccb5005f27b7d6",
@@ -2999,35 +2995,13 @@
 "a9129f222d6e23d5",
 "13ecec9bb9e3e7c5",
 "4d85da0adafc8973",
-"08cc8519c01cbc51"
+"08cc8519c01cbc51",
+"16b9f2735bec6c6d",
+"03efc0be30531875",
+"6422c78e2a63a0ef",
+"5806944d322160d8"
 ],
 "imzalar": [
-[
-"essiz",
-"goruntulendi",
-"havadan",
-"istanbul",
-"manzarasi"
-],
-[
-"akcakoca",
-"dalgalar",
-"hircin",
-"metrelik",
-"olusturdu",
-"oyuklar",
-"sahilinde",
-"yaklasik"
-],
-[
-"avantajli",
-"bilet",
-"den",
-"disina",
-"kampanyasi",
-"thy",
-"yurt"
-],
 [
 "211",
 "ayda",
@@ -8809,6 +8783,31 @@
 "kanli",
 "kavga",
 "yasadi"
+],
+[
+"dolu",
+"etkili",
+"silivri"
+],
+[
+"atiyor",
+"bulutu",
+"havada",
+"istanbul",
+"kumulonimbus",
+"tur",
+"ucaklar"
+],
+[
+"ardindan",
+"etkili",
+"hazirliksiz",
+"istanbul",
+"lodos",
+"once",
+"saganak",
+"vatandaslar",
+"yakalandi"
 ]
 ],
 "son_tarih": {
@@ -8816,13 +8815,13 @@
 "Sonsöz (Ankara)": "2026-11-23T16:50:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-23T04:10:09+00:00",
-"Sözcü Son Dakika": "2026-11-23T17:06:22+00:00",
-"Yeni Şafak Yerel": "2026-11-23T17:20:34+00:00",
+"Sözcü Son Dakika": "2026-11-23T18:28:51+00:00",
+"Yeni Şafak Yerel": "2026-11-23T18:27:12+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-23T14:29:48+00:00",
 "@islamasalya": "2026-11-23T15:53:58+00:00",
 "Yeni Asır (İzmir)": "2026-11-23T15:51:34+00:00",
-"İstanbul Gazetesi": "2026-11-23T16:06:00+00:00",
-"Kandilli Rasathanesi": "2026-11-22T23:42:47+00:00"
+"İstanbul Gazetesi": "2026-11-23T17:38:00+00:00",
+"Kandilli Rasathanesi": "2026-11-23T17:22:57+00:00"
 }
 }
