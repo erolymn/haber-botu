@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"ea94970c5ede1cd1",
-"710bd6454314f899",
-"779fad5d0d514863",
 "6cf343e795ed8af5",
 "ad25cc2b27b1e02f",
 "7cc1e1a6c28f9bf4",
@@ -2999,39 +2996,12 @@
 "5040fb59dd7eabdc",
 "1c3fad9b2343e1be",
 "78d3729458c32aa4",
-"9efdd3c74a1ab154"
+"9efdd3c74a1ab154",
+"1e7c4a7f9e10901a",
+"e0bf76ce33ca9f65",
+"a9129f222d6e23d5"
 ],
 "imzalar": [
-[
-"alacak",
-"deyip",
-"fenerbahce",
-"futbolcuyu",
-"geri",
-"gonderdigi",
-"odeyerek",
-"olmaz",
-"senden",
-"servet"
-],
-[
-"avukat",
-"belli",
-"casusluk",
-"ceza",
-"dedektif",
-"israil",
-"istenen",
-"turk",
-"yapiyordu"
-],
-[
-"basladi",
-"haftaya",
-"kuresel",
-"piyasalar",
-"temkinli"
-],
 [
 "atlari",
 "bitlis",
@@ -8807,15 +8777,46 @@
 "istanbul",
 "kapatildi",
 "ormani"
+],
+[
+"ankara",
+"anne",
+"ayi",
+"cikti",
+"goruntuleri",
+"ortaya",
+"vurulan",
+"yavrusunun",
+"yeni"
+],
+[
+"anildi",
+"basinda",
+"celaleddin",
+"hatiplerin",
+"imam",
+"kabri",
+"kurucusu",
+"ogrencilerinden",
+"okten",
+"vefa"
+],
+[
+"football",
+"futbolcusu",
+"iyi",
+"lig",
+"manager",
+"super"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-23T16:23:00+00:00",
+"Haber Global": "2026-11-23T17:23:00+00:00",
 "Sonsöz (Ankara)": "2026-11-23T15:23:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-23T04:10:09+00:00",
-"Sözcü Son Dakika": "2026-11-23T14:28:41+00:00",
-"Yeni Şafak Yerel": "2026-11-23T16:27:43+00:00",
+"Sözcü Son Dakika": "2026-11-23T17:06:22+00:00",
+"Yeni Şafak Yerel": "2026-11-23T17:20:34+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-23T14:29:48+00:00",
 "@islamasalya": "2026-11-23T15:53:58+00:00",
