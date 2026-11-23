@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"40efbde0d7fc2bd4",
-"221b62e1b53899fd",
-"6e4b682ac300ff33",
 "ea94970c5ede1cd1",
 "710bd6454314f899",
 "779fad5d0d514863",
@@ -2999,41 +2996,12 @@
 "9acc6e74e0d8f21e",
 "6a8ed817b3cd8f10",
 "8e9e256f166e06ac",
-"5040fb59dd7eabdc"
+"5040fb59dd7eabdc",
+"1c3fad9b2343e1be",
+"78d3729458c32aa4",
+"9efdd3c74a1ab154"
 ],
 "imzalar": [
-[
-"bulgaristan",
-"dan",
-"dort",
-"konsolos",
-"plani",
-"randevusu",
-"vize",
-"yeni"
-],
-[
-"557",
-"779",
-"adet",
-"bin",
-"ekimde",
-"ihracati",
-"ocak",
-"otomotiv"
-],
-[
-"insanlik",
-"kaybedebilir",
-"kontrolu",
-"korkutan",
-"senaryo",
-"uyarisi",
-"uzmanlardan",
-"yapay",
-"yil",
-"zekada"
-],
 [
 "alacak",
 "deyip",
@@ -8810,18 +8778,47 @@
 "kabine",
 "sona",
 "toplantisi"
+],
+[
+"diri",
+"gazze",
+"muslumanlar",
+"rab",
+"yaniyor",
+"yardim"
+],
+[
+"adami",
+"cinayetinde",
+"cozuldu",
+"deki",
+"izmir",
+"oldurulmus",
+"sir",
+"tarafindan",
+"yakini"
+],
+[
+"alarmi",
+"aslan",
+"belgrad",
+"buyuyor",
+"girislere",
+"istanbul",
+"kapatildi",
+"ormani"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-23T07:26:00+00:00",
+"Haber Global": "2026-11-23T16:23:00+00:00",
 "Sonsöz (Ankara)": "2026-11-23T15:23:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-23T04:10:09+00:00",
 "Sözcü Son Dakika": "2026-11-23T14:28:41+00:00",
-"Yeni Şafak Yerel": "2026-11-23T15:22:13+00:00",
+"Yeni Şafak Yerel": "2026-11-23T16:27:43+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-23T14:29:48+00:00",
-"@islamasalya": "2026-11-23T14:32:01+00:00",
+"@islamasalya": "2026-11-23T15:53:58+00:00",
 "Yeni Asır (İzmir)": "2026-11-23T12:21:47+00:00",
 "İstanbul Gazetesi": "2026-11-23T12:24:00+00:00",
 "Kandilli Rasathanesi": "2026-11-22T23:42:47+00:00"
