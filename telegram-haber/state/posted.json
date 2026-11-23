@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"b5ce2e3c6d5f8bf7",
-"c391026f02a674ca",
-"c6caf4e7b6a02cc3",
 "c74951937105ae70",
 "fc72844c06de0a73",
 "7c1c11aaae0f0379",
@@ -2999,43 +2996,12 @@
 "be027f170e71e71e",
 "b7b7adfc119334fe",
 "fa4a5a0d5b068076",
-"2e9059161c968219"
+"2e9059161c968219",
+"ce8c08282729c316",
+"ba6ce0d5c14794c2",
+"33e00922cf9e84b9"
 ],
 "imzalar": [
-[
-"ahmet",
-"ali",
-"allah",
-"ardindan",
-"esaretin",
-"gecirdigi",
-"hamdolsun",
-"hapishanelerinde",
-"hasan",
-"israil",
-"kavustu",
-"ozgurlugune",
-"siyonist",
-"yillik"
-],
-[
-"acikladi",
-"cakir",
-"dan",
-"durumunu",
-"kotu",
-"tff",
-"ugurcan"
-],
-[
-"aractan",
-"basip",
-"gaza",
-"inmedi",
-"kacti",
-"karisti",
-"kazaya"
-],
 [
 "cakir",
 "cikarildi",
@@ -8793,15 +8759,44 @@
 "girdi",
 "takimlar",
 "yaralilar"
+],
+[
+"baskani",
+"belediye",
+"celenk",
+"duzkoy",
+"hayatini",
+"kaybetti",
+"selim"
+],
+[
+"aci",
+"baskanindan",
+"belediye",
+"celenk",
+"geldi",
+"goren",
+"selim",
+"tedavi",
+"vefat"
+],
+[
+"altin",
+"ardindan",
+"basladi",
+"dususun",
+"haftaya",
+"sert",
+"yukselisle"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-23T05:25:00+00:00",
+"Haber Global": "2026-11-23T07:26:00+00:00",
 "Sonsöz (Ankara)": "2026-11-23T04:19:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-23T04:10:09+00:00",
-"Sözcü Son Dakika": "2026-11-23T06:27:08+00:00",
-"Yeni Şafak Yerel": "2026-11-23T06:28:42+00:00",
+"Sözcü Son Dakika": "2026-11-23T07:28:34+00:00",
+"Yeni Şafak Yerel": "2026-11-23T07:28:11+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-23T06:28:49+00:00",
 "@islamasalya": "2026-11-22T18:11:14+00:00",
