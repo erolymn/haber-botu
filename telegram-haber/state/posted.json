@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"c44663ff0b868ca8",
-"554dada74e4924bc",
-"1c319bd608489dc5",
 "b5f464c907c02969",
 "ec5bbe7da03736cf",
 "71a4cf211ccd95aa",
@@ -2999,36 +2996,12 @@
 "5806944d322160d8",
 "55eb4407ffa32984",
 "27f68aff93368334",
-"8f1501ec5baaf24c"
+"8f1501ec5baaf24c",
+"740933d825651372",
+"7874ef03391ff71a",
+"cba78632b1c05ab5"
 ],
 "imzalar": [
-[
-"167",
-"ilde",
-"operasyonu",
-"siber",
-"suc",
-"supheli",
-"yakalandi"
-],
-[
-"devam",
-"ediyor",
-"eskisehir",
-"insaati",
-"kompleksinin",
-"saglik",
-"yeni"
-],
-[
-"aselsan",
-"dan",
-"dev",
-"euroluk",
-"imza",
-"milyar",
-"roketsan"
-],
 [
 "aci",
 "can",
@@ -8810,15 +8783,47 @@
 "nden",
 "somut",
 "valiligi"
+],
+[
+"aci",
+"bedeniyle",
+"cansiz",
+"esinin",
+"gun",
+"hasta",
+"kahramanmaras",
+"olay",
+"yasadi",
+"yatalak"
+],
+[
+"burak",
+"dan",
+"kaldik",
+"naif",
+"recetesi",
+"yenilgi",
+"yilmaz"
+],
+[
+"adam",
+"cesediyle",
+"demans",
+"duyurdumayan",
+"esinin",
+"gun",
+"hastasi",
+"sesini",
+"yasadi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-23T17:23:00+00:00",
+"Haber Global": "2026-11-23T20:17:00+00:00",
 "Sonsöz (Ankara)": "2026-11-23T16:50:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-23T04:10:09+00:00",
-"Sözcü Son Dakika": "2026-11-23T19:28:59+00:00",
-"Yeni Şafak Yerel": "2026-11-23T18:27:12+00:00",
+"Sözcü Son Dakika": "2026-11-23T20:27:27+00:00",
+"Yeni Şafak Yerel": "2026-11-23T20:13:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-23T14:29:48+00:00",
 "@islamasalya": "2026-11-23T19:00:00+00:00",
