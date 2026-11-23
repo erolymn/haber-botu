@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"6cf343e795ed8af5",
-"ad25cc2b27b1e02f",
-"7cc1e1a6c28f9bf4",
 "01ec9e17774b55fc",
 "8c8ef0b7d8b4ef4c",
 "9d937cf4be1185c8",
@@ -2999,40 +2996,12 @@
 "9efdd3c74a1ab154",
 "1e7c4a7f9e10901a",
 "e0bf76ce33ca9f65",
-"a9129f222d6e23d5"
+"a9129f222d6e23d5",
+"13ecec9bb9e3e7c5",
+"4d85da0adafc8973",
+"08cc8519c01cbc51"
 ],
 "imzalar": [
-[
-"atlari",
-"bitlis",
-"daglarda",
-"siirt",
-"sinirina",
-"yakin",
-"yilki",
-"yoneldi",
-"zirvelere"
-],
-[
-"bogazi",
-"dan",
-"gune",
-"hamle",
-"hurmuz",
-"indirildi",
-"iran",
-"sure",
-"yeni"
-],
-[
-"adam",
-"avrupa",
-"futbolcumuza",
-"hayran",
-"kaldi",
-"milli",
-"yapsin"
-],
 [
 "essiz",
 "goruntulendi",
@@ -8808,11 +8777,43 @@
 "lig",
 "manager",
 "super"
+],
+[
+"aktiviteler",
+"cebinize",
+"cikarin",
+"dokunmadan",
+"hic",
+"iyi",
+"izmir",
+"sehrin",
+"tadini",
+"ucretsiz",
+"yapilabilecek"
+],
+[
+"carpisti",
+"kamyon",
+"kuzey",
+"marmara",
+"nda",
+"otomobil",
+"otoyolu",
+"yarali"
+],
+[
+"ayni",
+"babasiyla",
+"corum",
+"kaderi",
+"kanli",
+"kavga",
+"yasadi"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-23T17:23:00+00:00",
-"Sonsöz (Ankara)": "2026-11-23T15:23:00+00:00",
+"Sonsöz (Ankara)": "2026-11-23T16:50:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-23T04:10:09+00:00",
 "Sözcü Son Dakika": "2026-11-23T17:06:22+00:00",
@@ -8820,8 +8821,8 @@
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-23T14:29:48+00:00",
 "@islamasalya": "2026-11-23T15:53:58+00:00",
-"Yeni Asır (İzmir)": "2026-11-23T12:21:47+00:00",
-"İstanbul Gazetesi": "2026-11-23T12:24:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-23T15:51:34+00:00",
+"İstanbul Gazetesi": "2026-11-23T16:06:00+00:00",
 "Kandilli Rasathanesi": "2026-11-22T23:42:47+00:00"
 }
 }
