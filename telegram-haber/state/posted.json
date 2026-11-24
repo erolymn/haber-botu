@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"32c611eb8b206c4e",
-"05518144d6cff720",
-"f73d7b6e4fcbc2e8",
 "d47cd8d8c8daa3fc",
 "a8582c8d485d1031",
 "bd15a1c1249c1225",
@@ -2999,38 +2996,12 @@
 "7051d4e6a3360195",
 "6ba5296b0b56a847",
 "e44b1dafdf58a6a9",
-"0f435a8fb307c1c0"
+"0f435a8fb307c1c0",
+"082a35e4bfea7e90",
+"60064dac7ecc3b4c",
+"b403c102f0e43cf5"
 ],
 "imzalar": [
-[
-"160",
-"donemi",
-"kisilik",
-"meclisi",
-"parti",
-"yeni"
-],
-[
-"sarigul",
-"sorusturmasi",
-"supheliye",
-"talebi",
-"tutuklama"
-],
-[
-"aciklama",
-"akp",
-"cigdem",
-"fon",
-"iddialarindan",
-"ilgili",
-"ilk",
-"karaaslan",
-"krizi",
-"nin",
-"parti",
-"yeni"
-],
 [
 "bolluk",
 "boyle",
@@ -8807,15 +8778,37 @@
 "getirildi",
 "internet",
 "sitesine"
+],
+[
+"bismil",
+"carpisti",
+"diyarbakir",
+"iki",
+"kara",
+"otomobil",
+"yarali",
+"yolunda"
+],
+[
+"avrupa",
+"cop31",
+"geldi",
+"kriz"
+],
+[
+"ankara",
+"gozalti",
+"kacakcilik",
+"operasyonlari"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-24T00:26:00+00:00",
-"Sonsöz (Ankara)": "2026-11-24T00:07:00+00:00",
+"Haber Global": "2026-11-24T01:11:00+00:00",
+"Sonsöz (Ankara)": "2026-11-24T00:57:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-23T04:10:09+00:00",
 "Sözcü Son Dakika": "2026-11-23T22:48:25+00:00",
-"Yeni Şafak Yerel": "2026-11-23T21:37:42+00:00",
+"Yeni Şafak Yerel": "2026-11-24T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-23T21:21:07+00:00",
 "@islamasalya": "2026-11-23T19:00:00+00:00",
