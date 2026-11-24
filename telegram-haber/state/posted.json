@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"e5c49611fd4fe22d",
-"f57cc63d7880d60a",
-"67e31905f6e0ce89",
 "d43d07d522167fb3",
 "728df879743318cf",
 "06dae5d439bf834a",
@@ -2999,43 +2996,12 @@
 "6cb296360d2d745c",
 "889c2815319802fd",
 "6c9eaa00f2c95717",
-"5324d2f092126384"
+"5324d2f092126384",
+"9156dcef49c95bf4",
+"d638b37beb0014c3",
+"1c4d8fcd19f3ea89"
 ],
 "imzalar": [
-[
-"ani",
-"arka",
-"arkaya",
-"baskini",
-"dusecek",
-"istanbul",
-"kilogram",
-"meteoroloji",
-"metrekareye",
-"riski",
-"sel",
-"uyardi",
-"valiligi",
-"yagis"
-],
-[
-"bursa",
-"enstitusu",
-"hukuk",
-"protokolunden",
-"subesine",
-"turk",
-"ziyaret"
-],
-[
-"akp",
-"beyoglu",
-"iddiasi",
-"istifa",
-"katilim",
-"nda",
-"sonrasi"
-],
 [
 "acikladi",
 "ankara",
@@ -8802,19 +8768,53 @@
 "noktasi",
 "sarj",
 "sayisi"
+],
+[
+"aslan",
+"cikti",
+"edilen",
+"goruntusu",
+"hayvanin",
+"oldugu",
+"ortaya",
+"sariyer",
+"yeni"
+],
+[
+"2026",
+"duygusal",
+"gunu",
+"guzel",
+"kasim",
+"kisa",
+"mesajlar",
+"mesajlari",
+"ogretmenler",
+"resimli",
+"uzun",
+"yeni"
+],
+[
+"basliyor",
+"devri",
+"donem",
+"fis",
+"kagit",
+"kapaniyor",
+"yeni"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-24T03:04:00+00:00",
+"Haber Global": "2026-11-24T03:39:00+00:00",
 "Sonsöz (Ankara)": "2026-11-24T03:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-23T04:10:09+00:00",
-"Sözcü Son Dakika": "2026-11-24T03:08:21+00:00",
+"Sözcü Son Dakika": "2026-11-24T04:29:08+00:00",
 "Yeni Şafak Yerel": "2026-11-24T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-24T02:10:57+00:00",
 "@islamasalya": "2026-11-23T19:00:00+00:00",
-"Yeni Asır (İzmir)": "2026-11-23T15:51:34+00:00",
+"Yeni Asır (İzmir)": "2026-11-24T04:20:11+00:00",
 "İstanbul Gazetesi": "2026-11-23T22:09:00+00:00",
 "Kandilli Rasathanesi": "2026-11-23T17:22:57+00:00"
 }
