@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"a4a37dc5e65d43f8",
-"f98daeab627496fe",
-"0ab693b9caa4fdae",
 "159fe66349af1a9f",
 "37a50687ad6450d3",
 "7751487675ff3ff7",
@@ -2999,36 +2996,12 @@
 "844fd772427a5478",
 "cfb50a8c7074f8bf",
 "605b5a4880b57277",
-"cbc0bdbe58fbeaaf"
+"cbc0bdbe58fbeaaf",
+"cdccc7d1c430e5f1",
+"0823e662ca8d8c14",
+"047134921a11331f"
 ],
 "imzalar": [
-[
-"cocuk",
-"duzce",
-"kanala",
-"otomobil",
-"uctu",
-"yarali"
-],
-[
-"alamayan",
-"feci",
-"karabuk",
-"kaza",
-"otomobil",
-"sarampole",
-"viraji",
-"yuvarlandi"
-],
-[
-"karabuk",
-"otomobil",
-"sarampole",
-"surucu",
-"yasamini",
-"yitirdi",
-"yuvarlandi"
-],
 [
 "daire",
 "dondu",
@@ -8796,6 +8769,30 @@
 "teki",
 "yine",
 "zaman"
+],
+[
+"gazze",
+"her",
+"itibariyla",
+"nin",
+"vedalar",
+"yasaniyor",
+"yerinde"
+],
+[
+"carpti",
+"hafriyat",
+"kamyonuna",
+"otomobil",
+"yarali"
+],
+[
+"disinda",
+"getirildi",
+"kisi",
+"turkiye",
+"yakalanan",
+"yurt"
 ]
 ],
 "son_tarih": {
@@ -8804,10 +8801,10 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-24T06:22:15+00:00",
 "Sözcü Son Dakika": "2026-11-24T09:31:06+00:00",
-"Yeni Şafak Yerel": "2026-11-24T09:31:47+00:00",
+"Yeni Şafak Yerel": "2026-11-24T10:31:15+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-24T09:32:01+00:00",
-"@islamasalya": "2026-11-24T08:17:48+00:00",
+"Olay (Bursa)": "2026-11-24T10:31:36+00:00",
+"@islamasalya": "2026-11-24T09:49:20+00:00",
 "Yeni Asır (İzmir)": "2026-11-24T04:20:11+00:00",
 "İstanbul Gazetesi": "2026-11-24T08:26:00+00:00",
 "Kandilli Rasathanesi": "2026-11-23T17:22:57+00:00"
