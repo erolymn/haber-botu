@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"ba3acfae65ee9d32",
-"81e226021a6eda8a",
-"9a2a7f93bb356f4e",
 "b654a4b8bf97bfff",
 "84e1ea7a92706a3d",
 "23e9de98e551e31b",
@@ -2999,33 +2996,12 @@
 "1c4d8fcd19f3ea89",
 "4715579f73ac8c40",
 "2980438f881890f4",
-"084592b50cf8711b"
+"084592b50cf8711b",
+"20806920545f3001",
+"a1f21773346c426f",
+"9e0043e99e0edd5a"
 ],
 "imzalar": [
-[
-"emekliyi",
-"kulis",
-"payi",
-"refah",
-"surprizi",
-"yikan"
-],
-[
-"telegram",
-"ulkede",
-"yasaklandi"
-],
-[
-"beer",
-"besiktas",
-"biletleri",
-"cikacak",
-"hapoel",
-"karsilasmasinin",
-"satisa",
-"sheva",
-"yarin"
-],
 [
 "acikladi",
 "adayini",
@@ -8801,15 +8777,44 @@
 "rusvet",
 "sorusturmasi",
 "supheli"
+],
+[
+"basortusuz",
+"cezasi",
+"kirbac",
+"konser",
+"sarkiciya",
+"veren"
+],
+[
+"acip",
+"alo",
+"aradiginda",
+"demeyin",
+"numara",
+"sakin",
+"uyarisi"
+],
+[
+"balik",
+"basladi",
+"haftada",
+"iki",
+"isim",
+"kez",
+"onerdi",
+"sezonu",
+"tuketim",
+"uzman"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-24T05:27:00+00:00",
 "Sonsöz (Ankara)": "2026-11-24T03:01:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-23T04:10:09+00:00",
-"Sözcü Son Dakika": "2026-11-24T05:28:36+00:00",
-"Yeni Şafak Yerel": "2026-11-24T05:31:12+00:00",
+"Mynet Son Dakika": "2026-11-24T06:22:15+00:00",
+"Sözcü Son Dakika": "2026-11-24T06:29:20+00:00",
+"Yeni Şafak Yerel": "2026-11-24T06:30:32+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-24T02:10:57+00:00",
 "@islamasalya": "2026-11-23T19:00:00+00:00",
