@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"daa04da91b5e42cf",
-"d9e36c7ddf95d524",
-"7cd3e1d4fd4886e4",
 "b8600d5f58a33e9f",
 "4e126ca78510995a",
 "c89dffe94ab28d0f",
@@ -2999,37 +2996,12 @@
 "9207d48e53dd95f6",
 "76d928d96cd60332",
 "c4f7751fdeb39573",
-"84cc08c7870f2b68"
+"84cc08c7870f2b68",
+"bc6742cfaaef0f47",
+"310eba1dfd753d43",
+"fe1ccede2cc5e813"
 ],
 "imzalar": [
-[
-"binanin",
-"bursa",
-"dumandan",
-"etkilendi",
-"katinda",
-"katli",
-"kisi",
-"yangin"
-],
-[
-"birakacak",
-"golgede",
-"gundem",
-"iddiasi",
-"istanbul",
-"izmir",
-"parti"
-],
-[
-"bogazi",
-"dan",
-"hurmuz",
-"iha",
-"iran",
-"nda",
-"operasyonu"
-],
 [
 "apartmanda",
 "bursa",
@@ -8810,17 +8782,47 @@
 "hikmet",
 "kaybetti",
 "tbmm"
+],
+[
+"baskanlarina",
+"belediye",
+"degistiren",
+"kilicdaroglu",
+"ndan",
+"parti",
+"sert",
+"tepki"
+],
+[
+"belene",
+"belgeseli",
+"bulusacak",
+"bursa",
+"izleyiciyle",
+"kampi",
+"nin",
+"toplama",
+"tutsaklari"
+],
+[
+"akti",
+"cikti",
+"dere",
+"kipkirmizi",
+"nedeni",
+"ortaya",
+"trabzon"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-24T13:25:00+00:00",
-"Sonsöz (Ankara)": "2026-11-24T13:21:00+00:00",
+"Sonsöz (Ankara)": "2026-11-24T15:21:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-24T06:22:15+00:00",
 "Sözcü Son Dakika": "2026-11-24T14:30:59+00:00",
-"Yeni Şafak Yerel": "2026-11-24T14:27:05+00:00",
+"Yeni Şafak Yerel": "2026-11-24T15:29:39+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-24T14:22:49+00:00",
+"Olay (Bursa)": "2026-11-24T15:22:49+00:00",
 "@islamasalya": "2026-11-24T10:53:51+00:00",
 "Yeni Asır (İzmir)": "2026-11-24T04:20:11+00:00",
 "İstanbul Gazetesi": "2026-11-24T08:26:00+00:00",
