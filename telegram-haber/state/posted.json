@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"2d1879b45d1c41a5",
-"c285ea9294e1ef3c",
 "32c611eb8b206c4e",
 "05518144d6cff720",
 "f73d7b6e4fcbc2e8",
@@ -2999,29 +2997,11 @@
 "53ee0344bbe15136",
 "519177a0df5aa251",
 "7051d4e6a3360195",
-"6ba5296b0b56a847"
+"6ba5296b0b56a847",
+"e44b1dafdf58a6a9",
+"0f435a8fb307c1c0"
 ],
 "imzalar": [
-[
-"adi",
-"bursaspor",
-"degisiyor",
-"edilen",
-"isim",
-"iste",
-"stadyum",
-"teklif"
-],
-[
-"bekci",
-"birakmadi",
-"engelli",
-"goruntu",
-"isitan",
-"vatandasi",
-"yalniz",
-"yurekleri"
-],
 [
 "160",
 "donemi",
@@ -8808,11 +8788,30 @@
 "tir",
 "yarali",
 "yuklu"
+],
+[
+"anlar",
+"dusen",
+"kamyonetten",
+"osmangazi",
+"otomobile",
+"parca",
+"tehlikeli",
+"verdi",
+"zarar"
+],
+[
+"407",
+"engeli",
+"erisim",
+"getirildi",
+"internet",
+"sitesine"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-23T21:53:00+00:00",
-"Sonsöz (Ankara)": "2026-11-23T23:23:00+00:00",
+"Haber Global": "2026-11-24T00:26:00+00:00",
+"Sonsöz (Ankara)": "2026-11-24T00:07:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-23T04:10:09+00:00",
 "Sözcü Son Dakika": "2026-11-23T22:48:25+00:00",
