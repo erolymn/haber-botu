@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"b654a4b8bf97bfff",
-"84e1ea7a92706a3d",
-"23e9de98e551e31b",
 "28193de75c860aab",
 "922ba7d412144a71",
 "3d93220d7a84d8f8",
@@ -2999,43 +2996,12 @@
 "084592b50cf8711b",
 "20806920545f3001",
 "a1f21773346c426f",
-"9e0043e99e0edd5a"
+"9e0043e99e0edd5a",
+"7fdb1ccf7e3a747b",
+"21d9a1a7f9441d34",
+"12deb2de08fbb42d"
 ],
 "imzalar": [
-[
-"acikladi",
-"adayini",
-"ceferin",
-"hamlesini",
-"infantino",
-"karsi",
-"uefa",
-"yapti"
-],
-[
-"200",
-"adet",
-"arnavutkoy",
-"ele",
-"gecirildi",
-"hap",
-"milyon"
-],
-[
-"abd",
-"ardindan",
-"bankacilik",
-"bankalar",
-"buyuk",
-"durumda",
-"erisilemez",
-"erisim",
-"kesintisi",
-"krizinin",
-"sisteminde",
-"soku",
-"ucus"
-],
 [
 "bingol",
 "hastaneye",
@@ -8806,18 +8772,42 @@
 "sezonu",
 "tuketim",
 "uzman"
+],
+[
+"gazze",
+"gece"
+],
+[
+"aslan",
+"bilmecesi",
+"cikti",
+"kedi",
+"olduruldu",
+"sariyer"
+],
+[
+"800",
+"aracta",
+"artti",
+"bin",
+"gelisme",
+"limit",
+"lira",
+"otv",
+"siz",
+"yeni"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-24T05:27:00+00:00",
-"Sonsöz (Ankara)": "2026-11-24T03:01:00+00:00",
+"Sonsöz (Ankara)": "2026-11-24T07:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-24T06:22:15+00:00",
-"Sözcü Son Dakika": "2026-11-24T06:29:20+00:00",
+"Sözcü Son Dakika": "2026-11-24T07:30:28+00:00",
 "Yeni Şafak Yerel": "2026-11-24T06:30:32+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-24T02:10:57+00:00",
-"@islamasalya": "2026-11-23T19:00:00+00:00",
+"@islamasalya": "2026-11-24T07:09:04+00:00",
 "Yeni Asır (İzmir)": "2026-11-24T04:20:11+00:00",
 "İstanbul Gazetesi": "2026-11-23T22:09:00+00:00",
 "Kandilli Rasathanesi": "2026-11-23T17:22:57+00:00"
