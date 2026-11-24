@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"f0b8562e07ee8abe",
-"479817a879ccf20f",
-"4a68eb3c3c7b0796",
 "b8bcae7e2803f47d",
 "5e6bce47cf0397a8",
 "8c4daae552c792c5",
@@ -2999,48 +2996,12 @@
 "12deb2de08fbb42d",
 "5997cf10f46ce13c",
 "7348ba448c7afe2b",
-"91d3d953c0d9c997"
+"91d3d953c0d9c997",
+"2f9fceaa091d1e5b",
+"adcf180d5392d1eb",
+"844fd772427a5478"
 ],
 "imzalar": [
-[
-"ali",
-"atandi",
-"balli",
-"emre",
-"fon",
-"ilkay",
-"kayyum",
-"konuldu",
-"mal",
-"nin",
-"olarak",
-"sirkete",
-"sorusturmasinda",
-"tmsf",
-"varliklarina"
-],
-[
-"acikladi",
-"aston",
-"dursun",
-"macina",
-"ozbek",
-"park",
-"rams",
-"villa",
-"yetisecek",
-"zemini"
-],
-[
-"altinda",
-"cadirlari",
-"canli",
-"dalga",
-"gazzelilerle",
-"gectiler",
-"kalan",
-"yayinda"
-],
 [
 "dustu",
 "ligi",
@@ -8802,20 +8763,49 @@
 "uludag",
 "uluslararasi",
 "universitesi"
+],
+[
+"baskani",
+"bulls",
+"fon",
+"gozaltinda",
+"kapsaminda",
+"kurulu",
+"sorusturmasi",
+"yatirim",
+"yeniden",
+"yonetim"
+],
+[
+"akkaya",
+"alindi",
+"gozaltina",
+"kemal",
+"piyasasi",
+"sermaye",
+"sorusturmasinda"
+],
+[
+"boynuna",
+"gibi",
+"inecegiz",
+"yapanlarin",
+"yolsuzluk",
+"zulfikar"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-24T05:27:00+00:00",
-"Sonsöz (Ankara)": "2026-11-24T07:30:00+00:00",
+"Sonsöz (Ankara)": "2026-11-24T08:31:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-24T06:22:15+00:00",
-"Sözcü Son Dakika": "2026-11-24T07:30:28+00:00",
+"Sözcü Son Dakika": "2026-11-24T08:24:31+00:00",
 "Yeni Şafak Yerel": "2026-11-24T08:30:01+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-24T08:31:29+00:00",
 "@islamasalya": "2026-11-24T08:17:48+00:00",
 "Yeni Asır (İzmir)": "2026-11-24T04:20:11+00:00",
-"İstanbul Gazetesi": "2026-11-23T22:09:00+00:00",
+"İstanbul Gazetesi": "2026-11-24T08:26:00+00:00",
 "Kandilli Rasathanesi": "2026-11-23T17:22:57+00:00"
 }
 }
