@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"1b66c5d3538c5ca6",
-"a4b6fd86530f9339",
-"e66c3cf320f5a51b",
 "623d3633d2b3f6ac",
 "f0f50b85ca632d87",
 "aee594c01c1ccdfc",
@@ -2999,39 +2996,12 @@
 "bca4a9959edaf201",
 "2183f1affe4d89ee",
 "8b8f680263146ae0",
-"f34c3718a893e249"
+"f34c3718a893e249",
+"e2d1b534fceb0f9a",
+"eb1a97744fa41d8e",
+"1c6a7dc8e48231ab"
 ],
 "imzalar": [
-[
-"ankara",
-"burhan",
-"dan",
-"hareketlendirecek",
-"iki",
-"isim",
-"katilacak",
-"kulislerini",
-"parti",
-"sinan"
-],
-[
-"kaptani",
-"kim",
-"masterchef",
-"mavi",
-"takim"
-],
-[
-"acikladi",
-"bakan",
-"ciftci",
-"den",
-"donus",
-"rakami",
-"suriye",
-"suruyor",
-"turkiye"
-],
 [
 "asti",
 "bini",
@@ -8806,19 +8776,46 @@
 "tarlalarda",
 "uretim",
 "yetisiyor"
+],
+[
+"aramayla",
+"baglandi",
+"bakan",
+"goruntulu",
+"izmir",
+"kasim",
+"kiz",
+"lisesi",
+"mesaji",
+"ogretmenlerine",
+"tekin"
+],
+[
+"aciklama",
+"askeri",
+"den",
+"dustu",
+"eskisehir",
+"helikopter",
+"ilk",
+"msb"
+],
+[
+"asker",
+"sehit"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-24T18:25:00+00:00",
-"Sonsöz (Ankara)": "2026-11-24T15:21:00+00:00",
+"Sonsöz (Ankara)": "2026-11-24T17:49:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-24T06:22:15+00:00",
 "Sözcü Son Dakika": "2026-11-24T18:17:39+00:00",
 "Yeni Şafak Yerel": "2026-11-24T18:28:58+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-24T16:27:50+00:00",
+"Olay (Bursa)": "2026-11-24T17:59:52+00:00",
 "@islamasalya": "2026-11-24T17:28:57+00:00",
-"Yeni Asır (İzmir)": "2026-11-24T04:20:11+00:00",
+"Yeni Asır (İzmir)": "2026-11-24T16:59:41+00:00",
 "İstanbul Gazetesi": "2026-11-24T08:26:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
 }
