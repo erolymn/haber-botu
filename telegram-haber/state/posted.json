@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"623d3633d2b3f6ac",
-"f0f50b85ca632d87",
-"aee594c01c1ccdfc",
 "9ab299d2c97d7621",
 "46dd2a5147b7a8b2",
 "807b579dec474c07",
@@ -2999,54 +2996,12 @@
 "f34c3718a893e249",
 "e2d1b534fceb0f9a",
 "eb1a97744fa41d8e",
-"1c6a7dc8e48231ab"
+"1c6a7dc8e48231ab",
+"02698751ca4200ef",
+"f3aec4d9ceb8c820",
+"99c15fc7cc616c5d"
 ],
 "imzalar": [
-[
-"asti",
-"bini",
-"boynuzlu",
-"cengel",
-"dag",
-"erzurum",
-"kecilerinin",
-"sayisi",
-"yaban"
-],
-[
-"basladi",
-"bilet",
-"indirimli",
-"kampanyasi",
-"mujde",
-"severlere",
-"seyahat"
-],
-[
-"artik",
-"bombalanmasi",
-"cocuk",
-"cunku",
-"deki",
-"devam",
-"dondugunde",
-"ediyor",
-"eve",
-"evini",
-"evinin",
-"evlerin",
-"filistinli",
-"gordu",
-"gucleri",
-"halil",
-"isgal",
-"okuldan",
-"olmadigini",
-"yasanan",
-"yikimi",
-"yikmisti",
-"zulum"
-],
 [
 "cumhurbaskani",
 "dan",
@@ -8803,6 +8758,38 @@
 [
 "asker",
 "sehit"
+],
+[
+"basladilar",
+"cizgili",
+"dogaya",
+"salmaya",
+"yilanlari"
+],
+[
+"adayimizi",
+"bin",
+"cumhurbaskani",
+"ediyorum",
+"erdogan",
+"ogretmen",
+"simdiden",
+"tebrik"
+],
+[
+"bugun",
+"edilen",
+"filistinliler",
+"gazze",
+"gunu",
+"israil",
+"nde",
+"saldirilari",
+"sali",
+"sehit",
+"seridi",
+"siyonist",
+"sonucu"
 ]
 ],
 "son_tarih": {
@@ -8810,13 +8797,13 @@
 "Sonsöz (Ankara)": "2026-11-24T17:49:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-24T06:22:15+00:00",
-"Sözcü Son Dakika": "2026-11-24T18:17:39+00:00",
+"Sözcü Son Dakika": "2026-11-24T19:17:02+00:00",
 "Yeni Şafak Yerel": "2026-11-24T18:28:58+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-24T17:59:52+00:00",
-"@islamasalya": "2026-11-24T17:28:57+00:00",
+"@islamasalya": "2026-11-24T19:29:46+00:00",
 "Yeni Asır (İzmir)": "2026-11-24T16:59:41+00:00",
-"İstanbul Gazetesi": "2026-11-24T08:26:00+00:00",
+"İstanbul Gazetesi": "2026-11-24T19:27:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
 }
 }
