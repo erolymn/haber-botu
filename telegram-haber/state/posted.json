@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"159fe66349af1a9f",
-"37a50687ad6450d3",
-"7751487675ff3ff7",
 "0a4aefcc413cb243",
 "9c1a62e87cefc0fe",
 "7b3304e05bfd9b7c",
@@ -2999,30 +2996,12 @@
 "cbc0bdbe58fbeaaf",
 "cdccc7d1c430e5f1",
 "0823e662ca8d8c14",
-"047134921a11331f"
+"047134921a11331f",
+"1a24f9bdaab7b3c0",
+"4ec3d1b981d30d81",
+"dc6161682cf0c5c4"
 ],
 "imzalar": [
-[
-"daire",
-"dondu",
-"kayseri",
-"korkutan",
-"kule",
-"yangini"
-],
-[
-"alevlere",
-"birakilan",
-"otomobil",
-"tamir",
-"teslim"
-],
-[
-"bina",
-"darbeyle",
-"tek",
-"yikilan"
-],
 [
 "egilim",
 "iktidar",
@@ -8793,6 +8772,34 @@
 "turkiye",
 "yakalanan",
 "yurt"
+],
+[
+"ebu",
+"guvenlik",
+"nahil",
+"naim",
+"sehit",
+"sorumlusu"
+],
+[
+"arac",
+"atti",
+"bakanlik",
+"cikardi",
+"kamerasi",
+"kaziklama",
+"musteri",
+"ortaya",
+"rezaletine",
+"servis",
+"skandalini"
+],
+[
+"bati",
+"dogu",
+"firtina",
+"karadeniz",
+"uyarisi"
 ]
 ],
 "son_tarih": {
@@ -8800,11 +8807,11 @@
 "Sonsöz (Ankara)": "2026-11-24T08:31:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-24T06:22:15+00:00",
-"Sözcü Son Dakika": "2026-11-24T09:31:06+00:00",
-"Yeni Şafak Yerel": "2026-11-24T10:31:15+00:00",
+"Sözcü Son Dakika": "2026-11-24T11:28:08+00:00",
+"Yeni Şafak Yerel": "2026-11-24T11:28:14+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-24T10:31:36+00:00",
-"@islamasalya": "2026-11-24T09:49:20+00:00",
+"@islamasalya": "2026-11-24T10:53:51+00:00",
 "Yeni Asır (İzmir)": "2026-11-24T04:20:11+00:00",
 "İstanbul Gazetesi": "2026-11-24T08:26:00+00:00",
 "Kandilli Rasathanesi": "2026-11-23T17:22:57+00:00"
