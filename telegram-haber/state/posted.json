@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"4cadacf6f1046311",
-"be9fbf7f557c7a40",
-"383522dd90203af5",
 "e8636aa302100332",
 "4fe79a864ceed89f",
 "a802da52716833ba",
@@ -2999,43 +2996,12 @@
 "dc6161682cf0c5c4",
 "bf9a65cef0517472",
 "7061c609464d41c6",
-"f3ba25fe54916736"
+"f3ba25fe54916736",
+"a1a72dca589ec29d",
+"a7dc069f8703d7e0",
+"69607a04d219e269"
 ],
 "imzalar": [
-[
-"buyuklugundeki",
-"depremle",
-"endonezya",
-"sarsildi"
-],
-[
-"bursa",
-"cagrisi",
-"hem",
-"ilgilendiriyor",
-"inden",
-"market",
-"mehmet",
-"nin",
-"pazarci",
-"tuketiciyi",
-"ureticiyi"
-],
-[
-"bursa",
-"den",
-"ilde",
-"istanbul",
-"izmir",
-"kar",
-"kod",
-"meteoroloji",
-"pes",
-"pese",
-"sari",
-"uyarisi",
-"yagmur"
-],
 [
 "beraat",
 "davasinda",
@@ -8805,15 +8771,48 @@
 "ozel",
 "ozgur",
 "sariyer"
+],
+[
+"ankara",
+"avm",
+"coktu",
+"dustu",
+"icine",
+"kamyonet",
+"otoparkinda",
+"yol"
+],
+[
+"750",
+"bin",
+"boyunca",
+"durmadan",
+"euro",
+"gumus",
+"hafta",
+"hic",
+"odeyip",
+"parlatiyorlar"
+],
+[
+"betul",
+"cikti",
+"fatma",
+"gerekcesi",
+"kaya",
+"nin",
+"ortaya",
+"sayan",
+"tahliye"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-24T12:23:00+00:00",
+"Haber Global": "2026-11-24T13:25:00+00:00",
 "Sonsöz (Ankara)": "2026-11-24T08:31:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-24T06:22:15+00:00",
-"Sözcü Son Dakika": "2026-11-24T12:27:56+00:00",
-"Yeni Şafak Yerel": "2026-11-24T12:29:53+00:00",
+"Sözcü Son Dakika": "2026-11-24T13:25:47+00:00",
+"Yeni Şafak Yerel": "2026-11-24T13:30:44+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-24T10:31:36+00:00",
 "@islamasalya": "2026-11-24T10:53:51+00:00",
