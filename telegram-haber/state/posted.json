@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"d47cd8d8c8daa3fc",
-"a8582c8d485d1031",
-"bd15a1c1249c1225",
 "f01185e38d373cf6",
 "f27706e13c9b4026",
 "f71872869edc20fc",
@@ -2999,39 +2996,12 @@
 "0f435a8fb307c1c0",
 "082a35e4bfea7e90",
 "60064dac7ecc3b4c",
-"b403c102f0e43cf5"
+"b403c102f0e43cf5",
+"e78bf36921168b4f",
+"2b0a2603d6196656",
+"6cb296360d2d745c"
 ],
 "imzalar": [
-[
-"bolluk",
-"boyle",
-"dustu",
-"fiyati",
-"gormedim",
-"haftada",
-"palamudun",
-"ucuzluk",
-"yari",
-"yariya",
-"yildir"
-],
-[
-"arinc",
-"bulent",
-"cumhurbaskani",
-"erdogan",
-"goreve",
-"seslendi",
-"talibim"
-],
-[
-"bakan",
-"cop31",
-"kurum",
-"pavilyonlarini",
-"ulke",
-"ziyaret"
-],
 [
 "bayrak",
 "degismedi",
@@ -8800,17 +8770,45 @@
 "gozalti",
 "kacakcilik",
 "operasyonlari"
+],
+[
+"ankara",
+"gozaltinda",
+"jandarmadan",
+"operasyonlari",
+"supheli",
+"uyusturucu"
+],
+[
+"161",
+"ankara",
+"bulunan",
+"cezasi",
+"firari",
+"hapis",
+"hukumlu",
+"yakalandi"
+],
+[
+"artik",
+"bursa",
+"buyuk",
+"donusumu",
+"enerji",
+"enerjisini",
+"kendi",
+"uretecek"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-24T01:11:00+00:00",
-"Sonsöz (Ankara)": "2026-11-24T00:57:00+00:00",
+"Haber Global": "2026-11-24T02:02:00+00:00",
+"Sonsöz (Ankara)": "2026-11-24T01:46:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-23T04:10:09+00:00",
 "Sözcü Son Dakika": "2026-11-23T22:48:25+00:00",
 "Yeni Şafak Yerel": "2026-11-24T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-23T21:21:07+00:00",
+"Olay (Bursa)": "2026-11-24T02:10:57+00:00",
 "@islamasalya": "2026-11-23T19:00:00+00:00",
 "Yeni Asır (İzmir)": "2026-11-23T15:51:34+00:00",
 "İstanbul Gazetesi": "2026-11-23T22:09:00+00:00",
