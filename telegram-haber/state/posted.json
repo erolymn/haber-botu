@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"4757cb76dc833e62",
-"0db9a7c754247b3b",
-"7b1dee6f9a822530",
 "53873e6b0914b8f2",
 "1d6ade0243c73cca",
 "3176922d73e13343",
@@ -2999,40 +2996,12 @@
 "42da47048525c3dc",
 "93498cb82ff0ded3",
 "c99f478ec88c3ff6",
-"44473b905f6a135f"
+"44473b905f6a135f",
+"65eee8b31820d5f2",
+"aa44f74d9a4e5409",
+"5ebd488561438f1b"
 ],
 "imzalar": [
-[
-"gol",
-"herkes",
-"konusmustu",
-"koydu",
-"noktayi",
-"sevincini",
-"tartismalara"
-],
-[
-"bahceli",
-"bakani",
-"ciftci",
-"den",
-"icisleri",
-"lideri",
-"meclis",
-"mhp",
-"ziyaret"
-],
-[
-"brezilya",
-"dakikada",
-"dan",
-"gollu",
-"hat",
-"sov",
-"trick",
-"vinicius",
-"yapti"
-],
 [
 "ayinda",
 "bursu",
@@ -8801,14 +8770,39 @@
 "fenerbahce",
 "tarfin",
 "yendi"
+],
+[
+"agaca",
+"bolundu",
+"carpan",
+"genc",
+"ikiye",
+"otomobil",
+"surucu"
+],
+[
+"degisimi",
+"gorev",
+"ilde",
+"kararnamesi",
+"valiler",
+"yayimlandi"
+],
+[
+"abd",
+"huawei",
+"juri",
+"mahkum",
+"suclamanin",
+"undan"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-24T22:20:00+00:00",
-"Sonsöz (Ankara)": "2026-11-24T17:49:00+00:00",
+"Haber Global": "2026-11-24T22:42:00+00:00",
+"Sonsöz (Ankara)": "2026-11-24T23:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-24T06:22:15+00:00",
-"Sözcü Son Dakika": "2026-11-24T22:20:38+00:00",
+"Sözcü Son Dakika": "2026-11-24T23:17:46+00:00",
 "Yeni Şafak Yerel": "2026-11-24T21:30:24+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-24T22:18:16+00:00",
