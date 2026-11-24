@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"0a4aefcc413cb243",
-"9c1a62e87cefc0fe",
-"7b3304e05bfd9b7c",
 "4cadacf6f1046311",
 "be9fbf7f557c7a40",
 "383522dd90203af5",
@@ -2999,36 +2996,12 @@
 "047134921a11331f",
 "1a24f9bdaab7b3c0",
 "4ec3d1b981d30d81",
-"dc6161682cf0c5c4"
+"dc6161682cf0c5c4",
+"bf9a65cef0517472",
+"7061c609464d41c6",
+"f3ba25fe54916736"
 ],
 "imzalar": [
-[
-"egilim",
-"iktidar",
-"nin",
-"parti",
-"yeni",
-"yuruyusunde"
-],
-[
-"aranan",
-"belirlendi",
-"cezasiyla",
-"estetik",
-"gecirdigi",
-"hapis",
-"kisinin",
-"operasyon",
-"yil"
-],
-[
-"new",
-"sirri",
-"times",
-"yazdi",
-"yillik",
-"york"
-],
 [
 "buyuklugundeki",
 "depremle",
@@ -8800,15 +8773,47 @@
 "firtina",
 "karadeniz",
 "uyarisi"
+],
+[
+"akm",
+"canlaniyor",
+"edusa",
+"lidya",
+"nin",
+"operasiyla",
+"sahnesinde",
+"tarihi",
+"yeniden"
+],
+[
+"aksaray",
+"devrildi",
+"kara",
+"nevsehir",
+"otobus",
+"sayida",
+"yarali",
+"yolunda"
+],
+[
+"aslani",
+"bildi",
+"cumhurbaskani",
+"dan",
+"deki",
+"erdogan",
+"ozel",
+"ozgur",
+"sariyer"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-24T05:27:00+00:00",
+"Haber Global": "2026-11-24T12:23:00+00:00",
 "Sonsöz (Ankara)": "2026-11-24T08:31:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-24T06:22:15+00:00",
-"Sözcü Son Dakika": "2026-11-24T11:28:08+00:00",
-"Yeni Şafak Yerel": "2026-11-24T11:28:14+00:00",
+"Sözcü Son Dakika": "2026-11-24T12:27:56+00:00",
+"Yeni Şafak Yerel": "2026-11-24T12:29:53+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-24T10:31:36+00:00",
 "@islamasalya": "2026-11-24T10:53:51+00:00",
