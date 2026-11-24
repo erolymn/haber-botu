@@ -1,9 +1,5 @@
 {
 "gonderilen": [
-"b8600d5f58a33e9f",
-"4e126ca78510995a",
-"c89dffe94ab28d0f",
-"4b5d0150d9bb2d30",
 "c7f957f95ac28106",
 "6881d450287b6124",
 "b0468f5e01309615",
@@ -2999,37 +2995,13 @@
 "84cc08c7870f2b68",
 "bc6742cfaaef0f47",
 "310eba1dfd753d43",
-"fe1ccede2cc5e813"
+"fe1ccede2cc5e813",
+"2e5e60ee96fe0f0d",
+"195822d7785e7730",
+"b725648b23e56a4e",
+"b14c100c97df63f0"
 ],
 "imzalar": [
-[
-"apartmanda",
-"bursa",
-"can",
-"daki",
-"dokuldu",
-"mahalleli",
-"pazari",
-"sokaga"
-],
-[
-"baskani",
-"belediye",
-"cumhurbaskani",
-"erdogan",
-"geciyor",
-"iki",
-"parti",
-"rozetlerini",
-"takacak"
-],
-[
-"canli",
-"kavga",
-"tekme",
-"tokat",
-"yayinda"
-],
 [
 "kemalpasa",
 "kuruluyor",
@@ -8812,6 +8784,34 @@
 "nedeni",
 "ortaya",
 "trabzon"
+],
+[
+"anneden",
+"bursa",
+"dolu",
+"duygu",
+"emekli",
+"kizina",
+"mudur",
+"ogretmen",
+"surpriz"
+],
+[
+"donetsk",
+"fenerbahce",
+"londra",
+"maci",
+"shakhtar"
+],
+[
+"aston",
+"canli",
+"galatasaray",
+"ligi",
+"maci",
+"sampiyonlar",
+"uefa",
+"villa"
 ]
 ],
 "son_tarih": {
@@ -8819,13 +8819,13 @@
 "Sonsöz (Ankara)": "2026-11-24T15:21:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-24T06:22:15+00:00",
-"Sözcü Son Dakika": "2026-11-24T14:30:59+00:00",
-"Yeni Şafak Yerel": "2026-11-24T15:29:39+00:00",
+"Sözcü Son Dakika": "2026-11-24T16:31:47+00:00",
+"Yeni Şafak Yerel": "2026-11-24T16:28:41+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-24T15:22:49+00:00",
+"Olay (Bursa)": "2026-11-24T16:27:50+00:00",
 "@islamasalya": "2026-11-24T10:53:51+00:00",
 "Yeni Asır (İzmir)": "2026-11-24T04:20:11+00:00",
 "İstanbul Gazetesi": "2026-11-24T08:26:00+00:00",
-"Kandilli Rasathanesi": "2026-11-23T17:22:57+00:00"
+"Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
 }
 }
