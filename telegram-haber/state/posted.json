@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"ec9cf2947a47d6b3",
-"ed9785a10d22b046",
-"f27cfed0cb6eace7",
 "4757cb76dc833e62",
 "0db9a7c754247b3b",
 "7b1dee6f9a822530",
@@ -2999,40 +2996,12 @@
 "923bd22709995a98",
 "7ffb36f47a044294",
 "e36d456f8c7cf6e7",
-"42da47048525c3dc"
+"42da47048525c3dc",
+"93498cb82ff0ded3",
+"c99f478ec88c3ff6",
+"44473b905f6a135f"
 ],
 "imzalar": [
-[
-"emekliler",
-"emlak",
-"odemeyecek",
-"saglayan",
-"sartlari",
-"vergisi"
-],
-[
-"anne",
-"bebegini",
-"bicaklayip",
-"ceken",
-"dan",
-"dikkat",
-"dogan",
-"karar",
-"olduren",
-"yargitay",
-"yeni",
-"yerinden"
-],
-[
-"aston",
-"basvurusu",
-"dan",
-"galatasaray",
-"resmi",
-"uefa",
-"villa"
-],
 [
 "gol",
 "herkes",
@@ -8807,17 +8776,42 @@
 "kar",
 "nda",
 "yagisi"
+],
+[
+"cakir",
+"deniz",
+"gozaltinda",
+"ozcan"
+],
+[
+"esi",
+"evine",
+"girisimi",
+"gozalti",
+"hirsizlik",
+"kate",
+"prens",
+"prenses",
+"william"
+],
+[
+"barcelona",
+"ceyrekte",
+"dondu",
+"fenerbahce",
+"tarfin",
+"yendi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-24T18:25:00+00:00",
+"Haber Global": "2026-11-24T22:20:00+00:00",
 "Sonsöz (Ankara)": "2026-11-24T17:49:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-24T06:22:15+00:00",
-"Sözcü Son Dakika": "2026-11-24T21:24:35+00:00",
+"Sözcü Son Dakika": "2026-11-24T22:20:38+00:00",
 "Yeni Şafak Yerel": "2026-11-24T21:30:24+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-24T17:59:52+00:00",
+"Olay (Bursa)": "2026-11-24T22:18:16+00:00",
 "@islamasalya": "2026-11-24T20:57:22+00:00",
 "Yeni Asır (İzmir)": "2026-11-24T16:59:41+00:00",
 "İstanbul Gazetesi": "2026-11-24T19:27:00+00:00",
