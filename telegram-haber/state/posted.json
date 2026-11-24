@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"9ab299d2c97d7621",
-"46dd2a5147b7a8b2",
-"807b579dec474c07",
 "588fc823a1685895",
 "3b7c990138b56bdf",
 "9236947ced65b1a3",
@@ -2999,32 +2996,12 @@
 "1c6a7dc8e48231ab",
 "02698751ca4200ef",
 "f3aec4d9ceb8c820",
-"99c15fc7cc616c5d"
+"99c15fc7cc616c5d",
+"73b30ff257e43920",
+"87a4ec51985b5941",
+"923bd22709995a98"
 ],
 "imzalar": [
-[
-"cumhurbaskani",
-"dan",
-"istifa",
-"karari",
-"khurelsukh",
-"mogolistan",
-"ukhnaa"
-],
-[
-"balikesir",
-"duzensiz",
-"gocmen",
-"supheli",
-"tutuklandi",
-"yakalandi"
-],
-[
-"anlasmaya",
-"duyurdu",
-"trump",
-"yakiniz"
-],
 [
 "225",
 "arac",
@@ -8790,6 +8767,51 @@
 "seridi",
 "siyonist",
 "sonucu"
+],
+[
+"deniz",
+"galatasaray",
+"golunden",
+"goruntulere",
+"gul",
+"sonraki",
+"tarih",
+"tekerrur",
+"yagdi",
+"yorum"
+],
+[
+"abdullah",
+"alan",
+"dakikadan",
+"ebu",
+"han",
+"komutanlarindan",
+"konu",
+"kudus",
+"lider",
+"nin",
+"sehit",
+"tan",
+"teyr",
+"tugaylari",
+"uzun",
+"video",
+"yunus"
+],
+[
+"acikladi",
+"aston",
+"buruk",
+"durumu",
+"macinda",
+"nasil",
+"okan",
+"oyuncunun",
+"saglik",
+"sakatlanmisti",
+"villa",
+"yildiz"
 ]
 ],
 "son_tarih": {
@@ -8797,11 +8819,11 @@
 "Sonsöz (Ankara)": "2026-11-24T17:49:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-24T06:22:15+00:00",
-"Sözcü Son Dakika": "2026-11-24T19:17:02+00:00",
-"Yeni Şafak Yerel": "2026-11-24T18:28:58+00:00",
+"Sözcü Son Dakika": "2026-11-24T20:27:17+00:00",
+"Yeni Şafak Yerel": "2026-11-24T20:32:20+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-24T17:59:52+00:00",
-"@islamasalya": "2026-11-24T19:29:46+00:00",
+"@islamasalya": "2026-11-24T20:31:09+00:00",
 "Yeni Asır (İzmir)": "2026-11-24T16:59:41+00:00",
 "İstanbul Gazetesi": "2026-11-24T19:27:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
