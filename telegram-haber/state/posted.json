@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"53873e6b0914b8f2",
-"1d6ade0243c73cca",
-"3176922d73e13343",
 "b530bfdfe4d62db6",
 "cab38d32ac8cdf96",
 "30b4180f14f48db5",
@@ -2999,40 +2996,12 @@
 "44473b905f6a135f",
 "65eee8b31820d5f2",
 "aa44f74d9a4e5409",
-"5ebd488561438f1b"
+"5ebd488561438f1b",
+"2d79923519a80672",
+"70f02122564e4453",
+"092459be1b212b0b"
 ],
 "imzalar": [
-[
-"ayinda",
-"bursu",
-"gozler",
-"kasim",
-"kyk",
-"odemeler",
-"tarihte",
-"yatacak",
-"yatti",
-"zaman"
-],
-[
-"baskani",
-"bursaspor",
-"dan",
-"duyurdu",
-"karari",
-"mhk",
-"pozisyon",
-"sonucu",
-"tartisilan",
-"taylor"
-],
-[
-"istanbul",
-"kanli",
-"kisi",
-"saldiri",
-"trafikte"
-],
 [
 "basliyor",
 "cezalarinda",
@@ -8795,15 +8764,51 @@
 "mahkum",
 "suclamanin",
 "undan"
+],
+[
+"akbiyik",
+"cekildi",
+"fona",
+"gelmisti",
+"gundeme",
+"iddiasiyla",
+"idris",
+"merkeze",
+"mugla",
+"para",
+"valisi",
+"yatirdigi"
+],
+[
+"dayagi",
+"iki",
+"kacarken",
+"kahvehaneye",
+"kisiyi",
+"meydan",
+"saldiri",
+"silahli",
+"vurdu",
+"yedi"
+],
+[
+"asiri",
+"asti",
+"bagli",
+"bini",
+"ingiltere",
+"olum",
+"sicaklara",
+"tahmini"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-24T22:42:00+00:00",
 "Sonsöz (Ankara)": "2026-11-24T23:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-24T06:22:15+00:00",
-"Sözcü Son Dakika": "2026-11-24T23:17:46+00:00",
-"Yeni Şafak Yerel": "2026-11-24T21:30:24+00:00",
+"Mynet Son Dakika": "2026-11-24T21:21:55+00:00",
+"Sözcü Son Dakika": "2026-11-24T23:31:18+00:00",
+"Yeni Şafak Yerel": "2026-11-24T21:52:46+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-24T22:18:16+00:00",
 "@islamasalya": "2026-11-24T20:57:22+00:00",
