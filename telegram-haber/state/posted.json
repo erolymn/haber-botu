@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"c82e612378d41bca",
-"b526c1c5a1c512d5",
-"4926a46fa1824f5e",
 "cbba7019d00e3118",
 "2310752f4f08b135",
 "bb26499d245a9644",
@@ -2999,45 +2996,12 @@
 "287ea6774e3f4157",
 "1ab868510ec95854",
 "bc63764fcbbec8b6",
-"262d0b2857919d79"
+"262d0b2857919d79",
+"8de84b14aef04fd7",
+"dc2518469bcf0b14",
+"28e7bf8d2b5cc577"
 ],
 "imzalar": [
-[
-"anlar",
-"batrakov",
-"galatasaray",
-"korkutan",
-"macta",
-"milli",
-"sakatlik",
-"taraftarini",
-"yasadi"
-],
-[
-"abd",
-"bile",
-"cikariyor",
-"den",
-"dogan",
-"gozden",
-"kuresel",
-"ogun",
-"oligarsi",
-"sermaye",
-"seyfi",
-"suleyman",
-"uyarisi",
-"yeni"
-],
-[
-"basina",
-"gelmeyen",
-"kalmadi",
-"leo",
-"papa",
-"peru",
-"ziyaretinde"
-],
 [
 "basketiyle",
 "kaybetti",
@@ -8790,18 +8754,46 @@
 "kredi",
 "sifirlanacak",
 "yapti"
+],
+[
+"aile",
+"katliam",
+"toptan",
+"yine"
+],
+[
+"aydinlatma",
+"carpti",
+"cikan",
+"devirip",
+"diregini",
+"gecti",
+"karsi",
+"kontrolden",
+"motosiklete",
+"otomobile",
+"pikap",
+"seride"
+],
+[
+"etkili",
+"kar",
+"karabuk",
+"kesimlerinde",
+"yagisi",
+"yuksek"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-25T05:24:00+00:00",
-"Sonsöz (Ankara)": "2026-11-25T03:02:00+00:00",
+"Sonsöz (Ankara)": "2026-11-25T06:33:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-24T21:21:55+00:00",
 "Sözcü Son Dakika": "2026-11-25T05:30:21+00:00",
-"Yeni Şafak Yerel": "2026-11-25T05:29:02+00:00",
+"Yeni Şafak Yerel": "2026-11-25T06:32:53+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-25T02:10:22+00:00",
-"@islamasalya": "2026-11-24T20:57:22+00:00",
+"@islamasalya": "2026-11-25T06:18:16+00:00",
 "Yeni Asır (İzmir)": "2026-11-25T04:25:41+00:00",
 "İstanbul Gazetesi": "2026-11-24T19:27:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
