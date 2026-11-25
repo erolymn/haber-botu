@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"dc236f9e9d188b8c",
-"d974038775c19b15",
-"ca922163b28fceda",
 "ab04920865622a25",
 "a92a3fec7e37d0bf",
 "423e9f811bb9bf70",
@@ -2999,35 +2996,12 @@
 "c28974add877fb66",
 "26eb104bbe0ef237",
 "ee2e1c033b0d8cbe",
-"e3fb691f2176b54a"
+"e3fb691f2176b54a",
+"2bb8c4c6a004bb1b",
+"38b9a1de84f7f738",
+"d425314bdcea08c0"
 ],
 "imzalar": [
-[
-"deniz",
-"engeli",
-"firtina",
-"marmara",
-"ulasimina"
-],
-[
-"akmayacak",
-"duyurdu",
-"gelecek",
-"ilcelerde",
-"izmir",
-"izsu",
-"saatlerce",
-"sular",
-"zaman"
-],
-[
-"ankara",
-"duzenlenecek",
-"gunu",
-"konser",
-"ogretmenler",
-"ozel"
-],
 [
 "ait",
 "bats",
@@ -8845,15 +8819,52 @@
 "rizasi",
 "yasindaki",
 "yil"
+],
+[
+"belli",
+"cetesi",
+"cumhuriyet",
+"engi",
+"gorev",
+"nin",
+"savcisi",
+"sorusturmasini",
+"yavuz",
+"yeni",
+"yenidogan",
+"yeri",
+"yuruten"
+],
+[
+"bogazi",
+"duyurdu",
+"hurmuz",
+"iran",
+"nda",
+"patlama",
+"tarafi"
+],
+[
+"ardindan",
+"caddesi",
+"cagrilarinin",
+"eylemi",
+"istiklal",
+"kapatildi",
+"kasim",
+"lgbt",
+"lilerin",
+"meydani",
+"taksim"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-25T16:28:00+00:00",
 "Sonsöz (Ankara)": "2026-11-25T16:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-25T17:29:49+00:00",
-"Sözcü Son Dakika": "2026-11-25T16:27:20+00:00",
-"Yeni Şafak Yerel": "2026-11-25T17:26:12+00:00",
+"Mynet Son Dakika": "2026-11-25T18:29:10+00:00",
+"Sözcü Son Dakika": "2026-11-25T18:29:46+00:00",
+"Yeni Şafak Yerel": "2026-11-25T18:32:03+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-25T14:23:23+00:00",
 "@islamasalya": "2026-11-25T12:32:51+00:00",
