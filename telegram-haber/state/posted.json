@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"2faaa5aae8830c10",
-"64d0eb60a6987a6a",
-"dc37a824de204f2f",
 "3685e96c87eb66e7",
 "d850a7e5ddc32f96",
 "7a2725d4b49368f8",
@@ -2999,32 +2996,12 @@
 "9577e70873772c84",
 "da14419ce853260e",
 "d73e27d094d07c80",
-"5b5a74922fd9133d"
+"5b5a74922fd9133d",
+"fc822975bc9272b8",
+"f9ba9f15ab883787",
+"c28974add877fb66"
 ],
 "imzalar": [
-[
-"arayisinda",
-"besiktas",
-"kanat",
-"milyonluk",
-"rota",
-"yildiz"
-],
-[
-"bursa",
-"elektrikler",
-"kesilecek"
-],
-[
-"anlasmasinin",
-"gazete",
-"nin",
-"resmi",
-"tarihleri",
-"turkiye",
-"uluslararasi",
-"yururluk"
-],
 [
 "anestezi",
 "cekimi",
@@ -8824,14 +8801,48 @@
 "geldi",
 "sofya",
 "trabzonspor"
+],
+[
+"aldilar",
+"avrupa",
+"belediyeyi",
+"bilgileri",
+"calindi",
+"daki",
+"hedef",
+"kisinin",
+"milyon",
+"yapay",
+"zekayla"
+],
+[
+"957",
+"aciklandi",
+"degisti",
+"gorev",
+"hakim",
+"hsk",
+"kararnamesi",
+"savcinin",
+"yeri"
+],
+[
+"atama",
+"bassavcilarin",
+"degisti",
+"gorev",
+"kararnamesi",
+"yargida",
+"yeni",
+"yerleri"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-25T15:21:00+00:00",
-"Sonsöz (Ankara)": "2026-11-25T14:27:00+00:00",
+"Haber Global": "2026-11-25T16:28:00+00:00",
+"Sonsöz (Ankara)": "2026-11-25T16:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-25T09:25:46+00:00",
-"Sözcü Son Dakika": "2026-11-25T15:31:34+00:00",
+"Sözcü Son Dakika": "2026-11-25T16:27:20+00:00",
 "Yeni Şafak Yerel": "2026-11-25T15:27:12+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-25T14:23:23+00:00",
