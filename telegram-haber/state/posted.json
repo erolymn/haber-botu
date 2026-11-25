@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"3695ba1e47eab037",
-"37b47bc4f4060e14",
-"ffe03b6ce90ef2dd",
 "5d46ce85fefe3993",
 "6cc62b789398715d",
 "8177ca0259f86add",
@@ -2999,40 +2996,12 @@
 "4a8c9b6454b29150",
 "0f99b05a1ff6cf95",
 "1fb1b4198bd83658",
-"26add311347d01b4"
+"26add311347d01b4",
+"f6498295e6de10a8",
+"f1593003da410cb0",
+"753fa297e2c80660"
 ],
 "imzalar": [
-[
-"adam",
-"attik",
-"baraja",
-"bulamadilar",
-"cinayet",
-"donduran",
-"dosyasinda",
-"ifade",
-"kan",
-"yillik"
-],
-[
-"beton",
-"bursaspor",
-"deplasmani",
-"ekenler",
-"hazirliklarini",
-"sivasspor",
-"surdurdu"
-],
-[
-"ahmet",
-"cinayeti",
-"donduran",
-"kan",
-"kirpi",
-"nde",
-"sozler",
-"yil"
-],
 [
 "belli",
 "devam",
@@ -8797,17 +8766,41 @@
 "saat",
 "surdu",
 "yarim"
+],
+[
+"saldiri",
+"silahli",
+"sinop",
+"yarali"
+],
+[
+"ceken",
+"dikkat",
+"iyi",
+"kitap",
+"okuyan",
+"siir",
+"siyasetciden"
+],
+[
+"100",
+"bolu",
+"kara",
+"kaza",
+"yarali",
+"yolunda",
+"zincirleme"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-25T01:13:00+00:00",
-"Sonsöz (Ankara)": "2026-11-25T01:24:00+00:00",
+"Haber Global": "2026-11-25T02:03:00+00:00",
+"Sonsöz (Ankara)": "2026-11-25T02:32:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-24T21:21:55+00:00",
 "Sözcü Son Dakika": "2026-11-25T01:31:21+00:00",
 "Yeni Şafak Yerel": "2026-11-24T21:52:46+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-24T22:18:16+00:00",
+"Olay (Bursa)": "2026-11-25T02:10:22+00:00",
 "@islamasalya": "2026-11-24T20:57:22+00:00",
 "Yeni Asır (İzmir)": "2026-11-24T16:59:41+00:00",
 "İstanbul Gazetesi": "2026-11-24T19:27:00+00:00",
