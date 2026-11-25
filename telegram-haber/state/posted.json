@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"b2a7b36894d0a628",
-"8eece4daaf671729",
-"f39bd1be37a698ea",
 "fd76e114afab3f57",
 "08d463c54b409ea0",
 "8c4e605a57b6c92a",
@@ -2999,35 +2996,12 @@
 "7abf8b855ecbefdb",
 "9c81f483bde04ead",
 "db8f4056973902df",
-"43e6ffadd274e791"
+"43e6ffadd274e791",
+"d4d4f03259f4c657",
+"4f3ba4da4d1005de",
+"d271a6abc123312d"
 ],
 "imzalar": [
-[
-"atma",
-"bolu",
-"kavgasi",
-"kisi",
-"laf",
-"yaralandi"
-],
-[
-"arkadan",
-"carpan",
-"duzce",
-"gece",
-"kazasi",
-"surucu",
-"tir",
-"yarisi",
-"yasamini",
-"yitirdi"
-],
-[
-"kahramanmaras",
-"kazasi",
-"trafik",
-"yarali"
-],
 [
 "aracta",
 "feci",
@@ -8810,17 +8784,44 @@
 "taki",
 "talep",
 "yeni"
+],
+[
+"direktor",
+"firtinasi",
+"gecen",
+"ligi",
+"nde",
+"sampiyonlar",
+"sezon",
+"tarihe",
+"teknik",
+"turk"
+],
+[
+"ankara",
+"askerin",
+"eskisehir",
+"getirildi",
+"naaslari",
+"sehit"
+],
+[
+"bursa",
+"hamile",
+"kaza",
+"korkunc",
+"yarali"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-25T10:28:00+00:00",
-"Sonsöz (Ankara)": "2026-11-25T09:25:00+00:00",
+"Sonsöz (Ankara)": "2026-11-25T11:33:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-25T09:25:46+00:00",
-"Sözcü Son Dakika": "2026-11-25T10:32:01+00:00",
+"Sözcü Son Dakika": "2026-11-25T11:32:43+00:00",
 "Yeni Şafak Yerel": "2026-11-25T10:31:38+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-25T09:20:35+00:00",
+"Olay (Bursa)": "2026-11-25T11:33:28+00:00",
 "@islamasalya": "2026-11-25T08:21:35+00:00",
 "Yeni Asır (İzmir)": "2026-11-25T09:21:27+00:00",
 "İstanbul Gazetesi": "2026-11-24T19:27:00+00:00",
