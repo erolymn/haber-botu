@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"9aa8644e1e0409c8",
-"dbf087c12e8540ce",
-"3f048006c6d9627a",
 "4dc52cb88dd10b55",
 "a5ec53e32545a53a",
 "4c5881eb82a9cd63",
@@ -2999,37 +2996,12 @@
 "d425314bdcea08c0",
 "c190d247e17f9227",
 "2e763a11880b6e0d",
-"0ff02dca331d1209"
+"0ff02dca331d1209",
+"21260c19fae48f59",
+"113b86e26e3ed069",
+"b5eb9fef48be1024"
 ],
 "imzalar": [
-[
-"ayni",
-"dunyanin",
-"iste",
-"mutlu",
-"pasaportlari",
-"ulke",
-"yine",
-"zirvede"
-],
-[
-"bakan",
-"dan",
-"ersoy",
-"eserleri",
-"iki",
-"kutlu",
-"mujde",
-"mustafa",
-"onemli",
-"vefa",
-"ziyareti"
-],
-[
-"bitmiyor",
-"siyonizmin",
-"zulmu"
-],
 [
 "cumhurbaskani",
 "dan",
@@ -8855,15 +8827,44 @@
 "kurumu",
 "mudur",
 "yillik"
+],
+[
+"bakanligi",
+"ceza",
+"indirim",
+"ndan",
+"reklamina",
+"ticaret",
+"yaniltici"
+],
+[
+"bitiyor",
+"gunler",
+"indirim",
+"kampanya",
+"kasim",
+"renault"
+],
+[
+"ayda",
+"bik",
+"bin",
+"destek",
+"faizsiz",
+"gazetecilere",
+"geri",
+"odeme",
+"ten",
+"yapilacak"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-25T16:28:00+00:00",
-"Sonsöz (Ankara)": "2026-11-25T16:30:00+00:00",
+"Haber Global": "2026-11-25T18:57:00+00:00",
+"Sonsöz (Ankara)": "2026-11-25T19:29:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-25T18:29:10+00:00",
 "Sözcü Son Dakika": "2026-11-25T19:28:42+00:00",
-"Yeni Şafak Yerel": "2026-11-25T18:32:03+00:00",
+"Yeni Şafak Yerel": "2026-11-25T19:15:20+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-25T19:32:15+00:00",
 "@islamasalya": "2026-11-25T12:32:51+00:00",
