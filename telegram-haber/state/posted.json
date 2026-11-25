@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"182c1f4f009c0364",
-"67175e7983520b2e",
-"f863e07a1b34ca59",
 "0bb76cfe5e12c6b9",
 "82b2768f83b66ae0",
 "37126d20fb8469ea",
@@ -2999,37 +2996,12 @@
 "ec01054a6969c730",
 "808a2d32ee74a6b4",
 "b887d4aaa69dd8d0",
-"ee9242e3227c8700"
+"ee9242e3227c8700",
+"d3e8497b61a90b79",
+"9f89090266194299",
+"5f5a2102c2547f99"
 ],
 "imzalar": [
-[
-"bin",
-"engeli",
-"erisim",
-"feto",
-"hesabina",
-"iltisakli",
-"medya",
-"sosyal"
-],
-[
-"basladi",
-"geri",
-"sayim",
-"tam",
-"yasaniyor",
-"yilda"
-],
-[
-"den",
-"izleme",
-"karari",
-"komisyonu",
-"parti",
-"terorsuz",
-"turkiye",
-"yeni"
-],
 [
 "bulutlar",
 "cevresini",
@@ -8852,14 +8824,41 @@
 "kazanmak",
 "oynayacagiz",
 "ragmen"
+],
+[
+"arda",
+"belozoglu",
+"emre",
+"gectigi",
+"macta",
+"tarihe",
+"turan",
+"yikti"
+],
+[
+"beykoz",
+"gozalti",
+"katli",
+"operasyonu",
+"uyusturucu",
+"villaya"
+],
+[
+"1password",
+"bilgileri",
+"ele",
+"gecirildi",
+"hesap",
+"saldiri",
+"siber"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-25T21:23:00+00:00",
-"Sonsöz (Ankara)": "2026-11-25T22:21:00+00:00",
+"Haber Global": "2026-11-25T21:54:00+00:00",
+"Sonsöz (Ankara)": "2026-11-25T22:42:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-25T18:29:10+00:00",
-"Sözcü Son Dakika": "2026-11-25T22:33:02+00:00",
+"Sözcü Son Dakika": "2026-11-25T23:35:39+00:00",
 "Yeni Şafak Yerel": "2026-11-25T21:33:54+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-25T19:32:15+00:00",
