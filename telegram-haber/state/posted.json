@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"a5b2ef940c86037e",
-"9e09fb4bbcb693c1",
-"f9a48c846a4a4fb1",
 "2faaa5aae8830c10",
 "64d0eb60a6987a6a",
 "dc37a824de204f2f",
@@ -2999,42 +2996,12 @@
 "c69a2dac58c68d43",
 "ff6ca667f0e3a3e6",
 "0e71f7ae0221ceff",
-"9577e70873772c84"
+"9577e70873772c84",
+"da14419ce853260e",
+"d73e27d094d07c80",
+"5b5a74922fd9133d"
 ],
 "imzalar": [
-[
-"aniden",
-"birakan",
-"hasta",
-"hastaneye",
-"ignelerini",
-"iki",
-"kaldirildi",
-"zayiflama"
-],
-[
-"canli",
-"ceken",
-"dilber",
-"esi",
-"kutlama",
-"nisanlandi",
-"sarkiyla",
-"tepki",
-"yaptilar",
-"yayinda"
-],
-[
-"belediyeden",
-"fiyatina",
-"gosterdi",
-"ilgi",
-"neredeyse",
-"vatandas",
-"yari",
-"yogun",
-"zeytinyagi"
-],
 [
 "arayisinda",
 "besiktas",
@@ -8828,15 +8795,44 @@
 "senaryosu",
 "ucrette",
 "zam"
+],
+[
+"aksam",
+"cikisi",
+"istanbul",
+"mesaisi",
+"okul",
+"trafiginde",
+"ulasti",
+"yogunlugu",
+"yogunluk",
+"yuzde"
+],
+[
+"farkli",
+"fenerbahce",
+"hezimete",
+"maglup",
+"shakhtar",
+"u19",
+"ugradi"
+],
+[
+"bulgaristan",
+"cska",
+"deplasmani",
+"geldi",
+"sofya",
+"trabzonspor"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-25T14:02:00+00:00",
+"Haber Global": "2026-11-25T15:21:00+00:00",
 "Sonsöz (Ankara)": "2026-11-25T14:27:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-25T09:25:46+00:00",
-"Sözcü Son Dakika": "2026-11-25T14:33:36+00:00",
-"Yeni Şafak Yerel": "2026-11-25T14:30:57+00:00",
+"Sözcü Son Dakika": "2026-11-25T15:31:34+00:00",
+"Yeni Şafak Yerel": "2026-11-25T15:27:12+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-25T14:23:23+00:00",
 "@islamasalya": "2026-11-25T12:32:51+00:00",
