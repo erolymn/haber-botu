@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"364e3f165c4f6848",
-"0fe394d7b47df168",
-"93e040c6ee97aef6",
 "8aad0a898ab9d7eb",
 "74c0250c93400fe1",
 "938446040d797bd8",
@@ -2999,33 +2996,12 @@
 "4caa0e4906017d07",
 "a576de24126729ee",
 "d446e1b802f1c166",
-"b81ff62965bc8a68"
+"b81ff62965bc8a68",
+"f3d8e195cf0b2eb7",
+"9b5a82f8699db5a9",
+"c69a2dac58c68d43"
 ],
 "imzalar": [
-[
-"baskani",
-"can",
-"chp",
-"ilce",
-"kazada",
-"verdi"
-],
-[
-"alarm",
-"den",
-"kar",
-"kent",
-"meteoroloji",
-"saganak",
-"sari",
-"yagis"
-],
-[
-"buyuklugunde",
-"depremle",
-"romanya",
-"sallandi"
-],
 [
 "abd",
 "aciklama",
@@ -8819,6 +8795,43 @@
 "maskeli",
 "sevgilisiyle",
 "vurdu"
+],
+[
+"erdogan",
+"kadina",
+"karsi",
+"mucadelenin",
+"sancaktarligini",
+"siddetle",
+"surdurecegim",
+"yapmayi"
+],
+[
+"adim",
+"atmadi",
+"azeez",
+"bin",
+"cezaya",
+"cocuklar",
+"den",
+"dolarlik",
+"durus",
+"filistinli",
+"geri",
+"nfl",
+"ragmen",
+"shaair",
+"tarihi",
+"yildizi"
+],
+[
+"batum",
+"besiktas",
+"hava",
+"inemedi",
+"kabus",
+"kafilesi",
+"sartlari"
 ]
 ],
 "son_tarih": {
@@ -8826,13 +8839,13 @@
 "Sonsöz (Ankara)": "2026-11-25T13:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-25T09:25:46+00:00",
-"Sözcü Son Dakika": "2026-11-25T13:30:46+00:00",
-"Yeni Şafak Yerel": "2026-11-25T13:30:05+00:00",
+"Sözcü Son Dakika": "2026-11-25T14:33:36+00:00",
+"Yeni Şafak Yerel": "2026-11-25T14:30:57+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-25T11:33:28+00:00",
 "@islamasalya": "2026-11-25T12:32:51+00:00",
 "Yeni Asır (İzmir)": "2026-11-25T09:21:27+00:00",
-"İstanbul Gazetesi": "2026-11-24T19:27:00+00:00",
+"İstanbul Gazetesi": "2026-11-25T14:30:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
 }
 }
