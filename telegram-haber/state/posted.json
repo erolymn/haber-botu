@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"3685e96c87eb66e7",
-"d850a7e5ddc32f96",
-"7a2725d4b49368f8",
 "dc236f9e9d188b8c",
 "d974038775c19b15",
 "ca922163b28fceda",
@@ -2999,39 +2996,12 @@
 "5b5a74922fd9133d",
 "fc822975bc9272b8",
 "f9ba9f15ab883787",
-"c28974add877fb66"
+"c28974add877fb66",
+"26eb104bbe0ef237",
+"ee2e1c033b0d8cbe",
+"e3fb691f2176b54a"
 ],
 "imzalar": [
-[
-"anestezi",
-"cekimi",
-"dis",
-"disci",
-"kahvesinde",
-"kars",
-"koy",
-"penseyle",
-"sasirtti"
-],
-[
-"cuma",
-"gorundu",
-"gunu",
-"indirim",
-"motorine"
-],
-[
-"avustralya",
-"bati",
-"daki",
-"dan",
-"hedefte",
-"kisi",
-"kurulus",
-"seria",
-"yaptirim",
-"yerlesimlere"
-],
 [
 "deniz",
 "engeli",
@@ -8835,19 +8805,59 @@
 "yargida",
 "yeni",
 "yerleri"
+],
+[
+"belli",
+"birligiyle",
+"dev",
+"edildi",
+"indirimi",
+"izmirlilere",
+"kabul",
+"mujdesi",
+"tarifeler",
+"yeni"
+],
+[
+"abd",
+"den",
+"ederseniz",
+"ihlal",
+"karsilik",
+"mutabakati",
+"resti",
+"tarife",
+"veririz"
+],
+[
+"allah",
+"annesi",
+"bulun",
+"cinayet",
+"furkan",
+"gibi",
+"isyan",
+"katini",
+"kazada",
+"oglumun",
+"olen",
+"once",
+"rizasi",
+"yasindaki",
+"yil"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-25T16:28:00+00:00",
 "Sonsöz (Ankara)": "2026-11-25T16:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-25T09:25:46+00:00",
+"Mynet Son Dakika": "2026-11-25T17:29:49+00:00",
 "Sözcü Son Dakika": "2026-11-25T16:27:20+00:00",
-"Yeni Şafak Yerel": "2026-11-25T15:27:12+00:00",
+"Yeni Şafak Yerel": "2026-11-25T17:26:12+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-25T14:23:23+00:00",
 "@islamasalya": "2026-11-25T12:32:51+00:00",
-"Yeni Asır (İzmir)": "2026-11-25T09:21:27+00:00",
+"Yeni Asır (İzmir)": "2026-11-25T16:15:05+00:00",
 "İstanbul Gazetesi": "2026-11-25T14:30:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
 }
