@@ -1,6 +1,5 @@
 {
 "gonderilen": [
-"f9d9b37df7b14d72",
 "e9f35746f86b0b0e",
 "47f87a542853c4a2",
 "96e9a71201a0668c",
@@ -2999,19 +2998,10 @@
 "b6435f59c5ea1ae4",
 "2f986a93890ae1af",
 "c6eb8afeae0b4d2a",
-"441b5e5fa3eb2c79"
+"441b5e5fa3eb2c79",
+"287ea6774e3f4157"
 ],
 "imzalar": [
-[
-"avrupa",
-"katilma",
-"kaybetti",
-"milli",
-"sampiyonasi",
-"sansini",
-"takim",
-"umit"
-],
 [
 "800",
 "alip",
@@ -8797,6 +8787,23 @@
 "edecek",
 "kadar",
 "lira"
+],
+[
+"akaryakit",
+"ankara",
+"benzin",
+"benzine",
+"durum",
+"fiyatlari",
+"guncel",
+"indirim",
+"istanbul",
+"izmir",
+"kadar",
+"lpg",
+"motorin",
+"motorine",
+"zam"
 ]
 ],
 "son_tarih": {
@@ -8809,7 +8816,7 @@
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-25T02:10:22+00:00",
 "@islamasalya": "2026-11-24T20:57:22+00:00",
-"Yeni Asır (İzmir)": "2026-11-24T16:59:41+00:00",
+"Yeni Asır (İzmir)": "2026-11-25T04:25:41+00:00",
 "İstanbul Gazetesi": "2026-11-24T19:27:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
 }
