@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"82e84c7358d390cb",
-"67d9c79d065875ff",
-"92a219c136f84ea3",
 "aaf60c674a74144d",
 "06ae1b7195216866",
 "28d4835a553d1f46",
@@ -2999,45 +2996,12 @@
 "b5eb9fef48be1024",
 "ca69114190b65c14",
 "34c56d5cbccce54d",
-"207a42a378a74004"
+"207a42a378a74004",
+"5731dc3f4d633b9e",
+"e0910e20cd179dc6",
+"ec01054a6969c730"
 ],
 "imzalar": [
-[
-"hakkinda",
-"kavcioglu",
-"sahap",
-"sorusturma",
-"talebi"
-],
-[
-"ardindan",
-"askin",
-"ateskesin",
-"baslattiklarini",
-"bombardimanin",
-"devam",
-"duyuruyor",
-"eden",
-"gazze",
-"gucler",
-"halkina",
-"harek",
-"isgalci",
-"kara",
-"karsi",
-"ragmen",
-"saglanmasina",
-"simdi",
-"suredir",
-"yeni",
-"yili"
-],
-[
-"cagirildi",
-"ifadeye",
-"mustafa",
-"yazici"
-],
 [
 "basliyor",
 "buyuksehir",
@@ -8858,15 +8822,45 @@
 "olay",
 "yapti",
 "yildizin"
+],
+[
+"dolandiriciligi",
+"lik",
+"manisa",
+"milyon",
+"supheli",
+"telefon",
+"tutuklandi"
+],
+[
+"asan",
+"cikaracaklar",
+"gokyuzune",
+"hizini",
+"ses",
+"ucaklarini",
+"yeniden",
+"yolcu"
+],
+[
+"aldi",
+"alev",
+"cekirdegi",
+"halindeki",
+"kabak",
+"kilis",
+"seyir",
+"tir",
+"yuklu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-25T18:57:00+00:00",
+"Haber Global": "2026-11-25T21:23:00+00:00",
 "Sonsöz (Ankara)": "2026-11-25T19:29:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-25T18:29:10+00:00",
-"Sözcü Son Dakika": "2026-11-25T20:10:55+00:00",
-"Yeni Şafak Yerel": "2026-11-25T20:27:18+00:00",
+"Sözcü Son Dakika": "2026-11-25T21:26:06+00:00",
+"Yeni Şafak Yerel": "2026-11-25T21:33:54+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-25T19:32:15+00:00",
 "@islamasalya": "2026-11-25T20:00:33+00:00",
