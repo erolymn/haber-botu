@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"8aad0a898ab9d7eb",
-"74c0250c93400fe1",
-"938446040d797bd8",
 "a5b2ef940c86037e",
 "9e09fb4bbcb693c1",
 "f9a48c846a4a4fb1",
@@ -2999,41 +2996,12 @@
 "b81ff62965bc8a68",
 "f3d8e195cf0b2eb7",
 "9b5a82f8699db5a9",
-"c69a2dac58c68d43"
+"c69a2dac58c68d43",
+"ff6ca667f0e3a3e6",
+"0e71f7ae0221ceff",
+"9577e70873772c84"
 ],
 "imzalar": [
-[
-"abd",
-"aciklama",
-"deki",
-"geldi",
-"krizinin",
-"nedeni",
-"ucus",
-"yapay",
-"zeka"
-],
-[
-"alarmi",
-"cikacak",
-"firtina",
-"hizi",
-"istanbul",
-"kadar",
-"kilometreye",
-"saat",
-"verildi"
-],
-[
-"alabalik",
-"inceledi",
-"kaymakam",
-"kisaduman",
-"tercan",
-"tesisini",
-"uretim",
-"yavru"
-],
 [
 "aniden",
 "birakan",
@@ -8832,17 +8800,45 @@
 "kabus",
 "kafilesi",
 "sartlari"
+],
+[
+"fenerbahce",
+"genclik",
+"kaybetti",
+"ligi",
+"nde",
+"uefa"
+],
+[
+"hazirlaniyoruz",
+"olaganustu",
+"parti",
+"secime",
+"sozcusu",
+"uzun",
+"yeni"
+],
+[
+"2027",
+"asamali",
+"asgari",
+"bin",
+"gundemde",
+"iki",
+"senaryosu",
+"ucrette",
+"zam"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-25T10:28:00+00:00",
-"Sonsöz (Ankara)": "2026-11-25T13:30:00+00:00",
+"Haber Global": "2026-11-25T14:02:00+00:00",
+"Sonsöz (Ankara)": "2026-11-25T14:27:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-25T09:25:46+00:00",
 "Sözcü Son Dakika": "2026-11-25T14:33:36+00:00",
 "Yeni Şafak Yerel": "2026-11-25T14:30:57+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-25T11:33:28+00:00",
+"Olay (Bursa)": "2026-11-25T14:23:23+00:00",
 "@islamasalya": "2026-11-25T12:32:51+00:00",
 "Yeni Asır (İzmir)": "2026-11-25T09:21:27+00:00",
 "İstanbul Gazetesi": "2026-11-25T14:30:00+00:00",
