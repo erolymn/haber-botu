@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"4dc52cb88dd10b55",
-"a5ec53e32545a53a",
-"4c5881eb82a9cd63",
 "82e84c7358d390cb",
 "67d9c79d065875ff",
 "92a219c136f84ea3",
@@ -2999,30 +2996,12 @@
 "0ff02dca331d1209",
 "21260c19fae48f59",
 "113b86e26e3ed069",
-"b5eb9fef48be1024"
+"b5eb9fef48be1024",
+"ca69114190b65c14",
+"34c56d5cbccce54d",
+"207a42a378a74004"
 ],
 "imzalar": [
-[
-"cumhurbaskani",
-"dan",
-"duyurdu",
-"emeklilere",
-"erdogan",
-"mujde",
-"tarihi"
-],
-[
-"300",
-"altin",
-"calindi",
-"gece",
-"girdiler",
-"gore",
-"gram",
-"iddiaya",
-"kayseri",
-"sarrafa"
-],
 [
 "hakkinda",
 "kavcioglu",
@@ -8856,6 +8835,29 @@
 "odeme",
 "ten",
 "yapilacak"
+],
+[
+"anlari",
+"anlatti",
+"besiktas",
+"dolu",
+"korku",
+"onder",
+"ozen",
+"saat",
+"sekiz",
+"surdu",
+"yolculugu"
+],
+[
+"bilerek",
+"cikardi",
+"fenerbahceli",
+"goruntusu",
+"ingilizler",
+"olay",
+"yapti",
+"yildizin"
 ]
 ],
 "son_tarih": {
@@ -8863,11 +8865,11 @@
 "Sonsöz (Ankara)": "2026-11-25T19:29:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-25T18:29:10+00:00",
-"Sözcü Son Dakika": "2026-11-25T19:28:42+00:00",
-"Yeni Şafak Yerel": "2026-11-25T19:15:20+00:00",
+"Sözcü Son Dakika": "2026-11-25T20:10:55+00:00",
+"Yeni Şafak Yerel": "2026-11-25T20:27:18+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-25T19:32:15+00:00",
-"@islamasalya": "2026-11-25T12:32:51+00:00",
+"@islamasalya": "2026-11-25T20:00:33+00:00",
 "Yeni Asır (İzmir)": "2026-11-25T19:30:23+00:00",
 "İstanbul Gazetesi": "2026-11-25T14:30:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
