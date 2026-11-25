@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"b530bfdfe4d62db6",
-"cab38d32ac8cdf96",
 "30b4180f14f48db5",
 "5ae8f239642493b5",
 "b424bcaf428b3bb6",
@@ -2999,29 +2997,11 @@
 "5ebd488561438f1b",
 "2d79923519a80672",
 "70f02122564e4453",
-"092459be1b212b0b"
+"092459be1b212b0b",
+"08a330747ddf769f",
+"4a8c9b6454b29150"
 ],
 "imzalar": [
-[
-"basliyor",
-"cezalarinda",
-"degisecek",
-"donem",
-"hgs",
-"neler",
-"yeni"
-],
-[
-"fenerbahceli",
-"geldi",
-"kapaninca",
-"kapilar",
-"kuyruk",
-"metrelerce",
-"olustu",
-"tepki",
-"yildiz"
-],
 [
 "bekleyen",
 "husumetlisine",
@@ -8800,11 +8780,28 @@
 "olum",
 "sicaklara",
 "tahmini"
+],
+[
+"carpti",
+"cikan",
+"diregine",
+"elektrik",
+"hatay",
+"kontrolden",
+"otomobil"
+],
+[
+"bursa",
+"isci",
+"karisti",
+"kazaya",
+"servisi",
+"yarali"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-24T22:42:00+00:00",
-"Sonsöz (Ankara)": "2026-11-24T23:03:00+00:00",
+"Haber Global": "2026-11-25T00:27:00+00:00",
+"Sonsöz (Ankara)": "2026-11-25T00:26:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-24T21:21:55+00:00",
 "Sözcü Son Dakika": "2026-11-24T23:31:18+00:00",
