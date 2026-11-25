@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"3bc57599d9e600d9",
-"d7b3203e7e8431aa",
-"8c5e2d8e3c1f8391",
 "364e3f165c4f6848",
 "0fe394d7b47df168",
 "93e040c6ee97aef6",
@@ -2999,35 +2996,12 @@
 "d271a6abc123312d",
 "b633237a823ebe97",
 "3e7576109cff5861",
-"4caa0e4906017d07"
+"4caa0e4906017d07",
+"a576de24126729ee",
+"d446e1b802f1c166",
+"b81ff62965bc8a68"
 ],
 "imzalar": [
-[
-"ait",
-"edildi",
-"hedef",
-"husiler",
-"imha",
-"yemen"
-],
-[
-"acilisa",
-"bursa",
-"geri",
-"hastane",
-"sayim",
-"yeni"
-],
-[
-"aranan",
-"cezasiyla",
-"edirne",
-"firari",
-"hapis",
-"hukumlu",
-"tutuklandi",
-"yil"
-],
 [
 "baskani",
 "can",
@@ -8817,15 +8791,43 @@
 "krizi",
 "malatya",
 "sevk"
+],
+[
+"100",
+"agri",
+"etkinliklerle",
+"nin",
+"olusunun",
+"taclaniyor",
+"yili"
+],
+[
+"1379",
+"avrupa",
+"gunluk",
+"havalimani",
+"istanbul",
+"nin",
+"ucusla",
+"yogun"
+],
+[
+"baloya",
+"damga",
+"derici",
+"irem",
+"maskeli",
+"sevgilisiyle",
+"vurdu"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-25T10:28:00+00:00",
-"Sonsöz (Ankara)": "2026-11-25T11:33:00+00:00",
+"Sonsöz (Ankara)": "2026-11-25T13:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-25T09:25:46+00:00",
-"Sözcü Son Dakika": "2026-11-25T12:30:08+00:00",
-"Yeni Şafak Yerel": "2026-11-25T12:33:53+00:00",
+"Sözcü Son Dakika": "2026-11-25T13:30:46+00:00",
+"Yeni Şafak Yerel": "2026-11-25T13:30:05+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-25T11:33:28+00:00",
 "@islamasalya": "2026-11-25T12:32:51+00:00",
