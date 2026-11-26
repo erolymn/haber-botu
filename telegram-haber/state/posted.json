@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"9b5a678bbefdb001",
-"b02ecf8bfcede774",
-"66caa43884d5a9ab",
 "a631a7b49cdb8472",
 "7ba66805a9f8c904",
 "e914a988e76f5ff3",
@@ -2999,36 +2996,12 @@
 "72b60bb944864eb1",
 "f84ede852ffeea09",
 "3f8494e086f3ba34",
-"72ab2fa25873b3ce"
+"72ab2fa25873b3ce",
+"2b2940afc4fabe55",
+"6d2bbcd828b9d351",
+"a03f3c1c12060dcc"
 ],
 "imzalar": [
-[
-"babasinin",
-"bursa",
-"calisti",
-"hayatinin",
-"sirketinde",
-"sokunu",
-"yasadi"
-],
-[
-"acikladi",
-"aylik",
-"bebek",
-"dogdu",
-"iste",
-"izmir",
-"kac",
-"rakam",
-"tuik"
-],
-[
-"ari",
-"beraat",
-"gazeteci",
-"ismail",
-"tahliye"
-],
 [
 "abha",
 "alarm",
@@ -8851,6 +8824,28 @@
 "sorumlulugu",
 "sorusturmasi",
 "ten"
+],
+[
+"besiktasliyiz",
+"bugun",
+"hepimiz"
+],
+[
+"aciklama",
+"besiktas",
+"ilk",
+"olaylar",
+"skandal",
+"sonrasi",
+"tan"
+],
+[
+"besiktas",
+"devam",
+"edemedi",
+"maca",
+"sakatlik",
+"talihsiz"
 ]
 ],
 "son_tarih": {
@@ -8858,11 +8853,11 @@
 "Sonsöz (Ankara)": "2026-11-26T17:32:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
-"Sözcü Son Dakika": "2026-11-26T18:22:51+00:00",
-"Yeni Şafak Yerel": "2026-11-26T18:34:39+00:00",
+"Sözcü Son Dakika": "2026-11-26T19:32:17+00:00",
+"Yeni Şafak Yerel": "2026-11-26T19:33:59+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-26T15:01:45+00:00",
-"@islamasalya": "2026-11-26T08:47:54+00:00",
+"@islamasalya": "2026-11-26T18:47:18+00:00",
 "Yeni Asır (İzmir)": "2026-11-26T16:17:24+00:00",
 "İstanbul Gazetesi": "2026-11-26T17:10:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
