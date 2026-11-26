@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"0bb76cfe5e12c6b9",
-"82b2768f83b66ae0",
-"37126d20fb8469ea",
 "4369d5352b214ec4",
 "8a1449cf044bb5f9",
 "1fb568dae414bdb7",
@@ -2999,37 +2996,12 @@
 "ee9242e3227c8700",
 "d3e8497b61a90b79",
 "9f89090266194299",
-"5f5a2102c2547f99"
+"5f5a2102c2547f99",
+"bd1ab986fe9fd416",
+"505df3bb359734f2",
+"a99829b71c6a590b"
 ],
 "imzalar": [
-[
-"bulutlar",
-"cevresini",
-"galata",
-"hava",
-"istanbul",
-"kapladi",
-"kara",
-"karardi",
-"koprusu",
-"sis"
-],
-[
-"ebu",
-"ibrahim",
-"komutan",
-"muhammed",
-"sehit",
-"sinvar"
-],
-[
-"demirel",
-"den",
-"hatayspor",
-"konusulacak",
-"sozleri",
-"volkan"
-],
 [
 "amsterdam",
 "bursa",
@@ -8851,14 +8823,42 @@
 "hesap",
 "saldiri",
 "siber"
+],
+[
+"hayatini",
+"kaybetti",
+"kisi",
+"misir",
+"tanker",
+"yangini"
+],
+[
+"belozoglu",
+"direktoru",
+"emre",
+"fenerbahce",
+"gercekci",
+"hedef",
+"ilk",
+"teknik"
+],
+[
+"bes",
+"euroya",
+"fenerbahce",
+"kazanci",
+"maclik",
+"milyon",
+"nin",
+"ulasti"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-25T21:54:00+00:00",
-"Sonsöz (Ankara)": "2026-11-25T22:42:00+00:00",
+"Haber Global": "2026-11-26T00:17:00+00:00",
+"Sonsöz (Ankara)": "2026-11-26T00:12:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-25T18:29:10+00:00",
-"Sözcü Son Dakika": "2026-11-25T23:35:39+00:00",
+"Sözcü Son Dakika": "2026-11-26T00:19:05+00:00",
 "Yeni Şafak Yerel": "2026-11-25T21:33:54+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-25T19:32:15+00:00",
