@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"5b2d881c414ca453",
-"981b7b986c13a8fe",
-"d7e916b85f416c46",
 "9b5a678bbefdb001",
 "b02ecf8bfcede774",
 "66caa43884d5a9ab",
@@ -2999,33 +2996,12 @@
 "076dcd9614cb215d",
 "9cb4a458ee7377c6",
 "8b73420b1f710ae3",
-"72b60bb944864eb1"
+"72b60bb944864eb1",
+"f84ede852ffeea09",
+"3f8494e086f3ba34",
+"72ab2fa25873b3ce"
 ],
 "imzalar": [
-[
-"cikti",
-"dna",
-"gizli",
-"hindistan",
-"kokleri",
-"prensin",
-"sindan",
-"tahtin"
-],
-[
-"allah"
-],
-[
-"aciklamasi",
-"gelindi",
-"izleme",
-"komisyonunda",
-"kurtulmus",
-"sona",
-"tan",
-"terorsuz",
-"turkiye"
-],
 [
 "babasinin",
 "bursa",
@@ -8837,6 +8813,44 @@
 "ortalik",
 "sert",
 "taraftarlarina"
+],
+[
+"avrasya",
+"dolar",
+"ekonomiye",
+"katki",
+"milyar",
+"sagladi",
+"tuneli",
+"yilda"
+],
+[
+"deniz",
+"diye",
+"evleri",
+"gectiler",
+"harcayacaklar",
+"harekete",
+"kiyilari",
+"korumak",
+"milyonlar",
+"yutmasin"
+],
+[
+"aciklamasi",
+"akin",
+"bakan",
+"etmek",
+"fon",
+"gurlek",
+"hukuki",
+"iade",
+"kaldirmaz",
+"ortadan",
+"parayi",
+"sorumlulugu",
+"sorusturmasi",
+"ten"
 ]
 ],
 "son_tarih": {
@@ -8844,13 +8858,13 @@
 "Sonsöz (Ankara)": "2026-11-26T17:32:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
-"Sözcü Son Dakika": "2026-11-26T17:36:05+00:00",
-"Yeni Şafak Yerel": "2026-11-26T17:26:53+00:00",
+"Sözcü Son Dakika": "2026-11-26T18:22:51+00:00",
+"Yeni Şafak Yerel": "2026-11-26T18:34:39+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-26T15:01:45+00:00",
 "@islamasalya": "2026-11-26T08:47:54+00:00",
 "Yeni Asır (İzmir)": "2026-11-26T16:17:24+00:00",
-"İstanbul Gazetesi": "2026-11-26T14:42:00+00:00",
+"İstanbul Gazetesi": "2026-11-26T17:10:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
 }
 }
