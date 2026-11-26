@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"73b5801aed952e8f",
-"dc05b335ef579322",
-"031bd14bfc692bd6",
 "519df2aff6c81103",
 "915854258d438990",
 "e9a8397597790bb3",
@@ -2999,34 +2996,12 @@
 "aaf5b94cfbda3441",
 "5011e78a0369f317",
 "baa7135e5ff9b890",
-"5eb5152f5d423610"
+"5eb5152f5d423610",
+"e3a2990b5a955f30",
+"ddcbb29b8f6d3c96",
+"c37c008b5834be6b"
 ],
 "imzalar": [
-[
-"den",
-"gozdagi",
-"putin",
-"sonrasi",
-"uclu",
-"ukrayna",
-"zirve"
-],
-[
-"alanini",
-"aldilar",
-"balonun",
-"dev",
-"icine",
-"insaat",
-"koca"
-],
-[
-"baska",
-"dirilecek",
-"kur",
-"ummet",
-"yolu"
-],
 [
 "agaci",
 "devrilen",
@@ -8840,14 +8815,43 @@
 "sorusturmasi",
 "yatirimci",
 "yilmaz"
+],
+[
+"atandi",
+"bagir",
+"baskanligina",
+"bddk",
+"kenan",
+"yusuf"
+],
+[
+"afp",
+"ajansi",
+"erisime",
+"fotograf",
+"fransiz",
+"goruntu",
+"kapatildi",
+"platformu",
+"saldiri",
+"siber"
+],
+[
+"besiktas",
+"burhanettin",
+"dan",
+"destek",
+"duran",
+"mesaji",
+"taraftarlarina"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-26T22:13:00+00:00",
-"Sonsöz (Ankara)": "2026-11-26T22:20:00+00:00",
+"Haber Global": "2026-11-26T23:04:00+00:00",
+"Sonsöz (Ankara)": "2026-11-26T23:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
-"Sözcü Son Dakika": "2026-11-26T22:09:25+00:00",
+"Sözcü Son Dakika": "2026-11-26T23:09:25+00:00",
 "Yeni Şafak Yerel": "2026-11-26T20:29:15+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-26T19:16:15+00:00",
