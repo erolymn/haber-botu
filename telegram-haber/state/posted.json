@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"c2f76c46312d3878",
-"2f15029e9fc4022b",
-"17c98fc44bf6315f",
 "bca10f0290d5eb36",
 "0af135728b39ca97",
 "a84b55bf6ea87faa",
@@ -2999,34 +2996,12 @@
 "a03f3c1c12060dcc",
 "75b79282221f79de",
 "6070530fc6edaf25",
-"8f2fc84b473db4da"
+"8f2fc84b473db4da",
+"991a758b7e942c94",
+"e9307d8153697a81",
+"947754cc529baa70"
 ],
 "imzalar": [
-[
-"araya",
-"ayyildiz",
-"bursa",
-"cocuklarla",
-"geldi",
-"valisi"
-],
-[
-"ardindan",
-"enistesini",
-"etmek",
-"intihar",
-"istedi",
-"oldurdu",
-"tabancayla"
-],
-[
-"diploma",
-"ekrem",
-"imamoglu",
-"iptali",
-"kesinlesti",
-"nun"
-],
 [
 "gecirilmesini",
 "gozden",
@@ -8833,19 +8808,45 @@
 "israilli",
 "rakibiyle",
 "tokalasmadi"
+],
+[
+"baskani",
+"btso",
+"heyeti",
+"hisarciklioglu",
+"tobb",
+"ziyaret"
+],
+[
+"adali",
+"baskan",
+"erdogan",
+"gorustu",
+"recep",
+"serdal",
+"tayyip"
+],
+[
+"besiktas",
+"golle",
+"israil",
+"macta",
+"olayli",
+"takimini",
+"yendi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-26T15:32:00+00:00",
+"Haber Global": "2026-11-26T20:15:00+00:00",
 "Sonsöz (Ankara)": "2026-11-26T17:32:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
 "Sözcü Son Dakika": "2026-11-26T20:35:50+00:00",
 "Yeni Şafak Yerel": "2026-11-26T20:29:15+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-26T15:01:45+00:00",
+"Olay (Bursa)": "2026-11-26T19:16:15+00:00",
 "@islamasalya": "2026-11-26T18:47:18+00:00",
-"Yeni Asır (İzmir)": "2026-11-26T16:17:24+00:00",
+"Yeni Asır (İzmir)": "2026-11-26T19:29:24+00:00",
 "İstanbul Gazetesi": "2026-11-26T20:29:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
 }
