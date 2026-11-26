@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"97125d5e0a036ba1",
-"b4d5b2231db26412",
-"263b5c15a222faf3",
 "978a870cedf61eb0",
 "e406435204a10ac7",
 "a3448de92aff297b",
@@ -2999,33 +2996,12 @@
 "c9acf25127c56b11",
 "eaeda28e17d67383",
 "aae2de08c70e71cc",
-"83b480b4e42a238d"
+"83b480b4e42a238d",
+"572b700720131c87",
+"3becc1b2ae0d9675",
+"410af01a2d0ef5fd"
 ],
 "imzalar": [
-[
-"acma",
-"artis",
-"bedelinde",
-"den",
-"iski",
-"kapama",
-"lik",
-"yeni",
-"yuzde",
-"zam"
-],
-[
-"dan",
-"ertugrul",
-"istifa",
-"kaya",
-"yeni",
-"yol"
-],
-[
-"habergazze",
-"https"
-],
 [
 "aldik",
 "alimpijevic",
@@ -8837,14 +8813,37 @@
 "olarak",
 "olumcul",
 "yilanini"
+],
+[
+"arnavutkoy",
+"dakikalar",
+"hareketli"
+],
+[
+"aractan",
+"arnavutkoy",
+"cikti",
+"kovaladigi",
+"namlulu",
+"polislerin",
+"silah",
+"uzun"
+],
+[
+"bulundu",
+"istanbul",
+"kacan",
+"kalasnikof",
+"otomobilde",
+"polisten"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-26T03:20:00+00:00",
+"Haber Global": "2026-11-26T05:06:00+00:00",
 "Sonsöz (Ankara)": "2026-11-26T02:37:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-25T18:29:10+00:00",
-"Sözcü Son Dakika": "2026-11-26T05:34:16+00:00",
+"Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
+"Sözcü Son Dakika": "2026-11-26T05:35:30+00:00",
 "Yeni Şafak Yerel": "2026-11-26T05:23:34+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-26T02:15:21+00:00",
