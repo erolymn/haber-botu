@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"47a076b25a86dc30",
-"9faf870a27429a0c",
-"133eb2c503e6da40",
 "6a0bb5797bf7a9f5",
 "618676c746e4f545",
 "a171388186baff48",
@@ -2999,33 +2996,12 @@
 "aadccb6b2663670c",
 "b7779f3178239ba4",
 "e8a575dcbcbb6fab",
-"595c678da073fb6a"
+"595c678da073fb6a",
+"1e8e49d7c192dcf0",
+"020ecb44ad90ff34",
+"876e23fc8280621c"
 ],
 "imzalar": [
-[
-"1400",
-"altin",
-"bulundu",
-"kulenin",
-"kutu",
-"tarihi",
-"temelinde",
-"yillik"
-],
-[
-"anne",
-"kizi",
-"manisa",
-"sobadan",
-"zehirlendi"
-],
-[
-"arca",
-"basaksehir",
-"corum",
-"hazirlaniyor",
-"istanbul"
-],
 [
 "bursaspor",
 "ilgili",
@@ -8831,6 +8807,48 @@
 "istanbul",
 "karis",
 "schweinsteiger"
+],
+[
+"bakan",
+"belah",
+"birlikte",
+"bulunan",
+"dairesine",
+"deyr",
+"duzenledigi",
+"ebu",
+"egitim",
+"esiyle",
+"gazze",
+"halid",
+"hava",
+"israil",
+"konut",
+"nedi",
+"ogretim",
+"saldirisinda",
+"sehit",
+"siyonist",
+"yardimcisi"
+],
+[
+"alindi",
+"fuhus",
+"gozaltina",
+"namik",
+"oglu",
+"operasyonunda",
+"partili",
+"tan",
+"uyusturucu",
+"yeni"
+],
+[
+"bozbey",
+"bursa",
+"davasinda",
+"gelisme",
+"kritik"
 ]
 ],
 "son_tarih": {
@@ -8838,11 +8856,11 @@
 "Sonsöz (Ankara)": "2026-11-26T07:32:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
-"Sözcü Son Dakika": "2026-11-26T07:34:40+00:00",
+"Sözcü Son Dakika": "2026-11-26T08:33:12+00:00",
 "Yeni Şafak Yerel": "2026-11-26T07:34:25+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-26T02:15:21+00:00",
-"@islamasalya": "2026-11-25T20:00:33+00:00",
+"Olay (Bursa)": "2026-11-26T08:33:13+00:00",
+"@islamasalya": "2026-11-26T08:24:28+00:00",
 "Yeni Asır (İzmir)": "2026-11-26T05:14:30+00:00",
 "İstanbul Gazetesi": "2026-11-25T20:45:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
