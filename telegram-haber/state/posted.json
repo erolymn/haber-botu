@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"30aded60f3875755",
-"705987753f32fc76",
-"6a8920932bade564",
 "e7e5a3fc270931f2",
 "a22f6d34c81074ec",
 "96d7460b3203471a",
@@ -2999,34 +2996,12 @@
 "d5bbbd2849dcc1b5",
 "d3c98acc57ceed24",
 "001a1af3e5e2c897",
-"32dbb1b8df20c342"
+"32dbb1b8df20c342",
+"c6ec9f14451716f8",
+"efbc57d477777d79",
+"be1a2c1f812c08d0"
 ],
 "imzalar": [
-[
-"erisim",
-"kuresel",
-"playstation",
-"sorunu"
-],
-[
-"basladi",
-"baslangic",
-"cin",
-"gorusmesi",
-"olabilir",
-"sozler",
-"trump",
-"umutlu"
-],
-[
-"doganlar",
-"gecirdi",
-"harekete",
-"hollanda",
-"ilinde",
-"nin",
-"turkiye"
-],
 [
 "bolmede",
 "diyarbakir",
@@ -8840,6 +8815,33 @@
 "pinar",
 "sampiyonu",
 "sirnak"
+],
+[
+"abd",
+"anadolu",
+"ayrildi",
+"ayrilik",
+"efes",
+"fatts",
+"russell",
+"yollar"
+],
+[
+"canli",
+"cska",
+"hangi",
+"kacta",
+"kanalda",
+"maci",
+"saat",
+"sofya",
+"trabzonspor"
+],
+[
+"altin",
+"dususle",
+"gunu",
+"kapatti"
 ]
 ],
 "son_tarih": {
@@ -8848,11 +8850,11 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
 "Sözcü Son Dakika": "2026-11-26T13:33:43+00:00",
-"Yeni Şafak Yerel": "2026-11-26T13:35:56+00:00",
+"Yeni Şafak Yerel": "2026-11-26T14:31:55+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-26T12:36:17+00:00",
+"Olay (Bursa)": "2026-11-26T14:35:26+00:00",
 "@islamasalya": "2026-11-26T08:47:54+00:00",
-"Yeni Asır (İzmir)": "2026-11-26T10:16:56+00:00",
+"Yeni Asır (İzmir)": "2026-11-26T14:33:53+00:00",
 "İstanbul Gazetesi": "2026-11-25T20:45:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
 }
