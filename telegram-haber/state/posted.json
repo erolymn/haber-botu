@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"4568cdeebd237f10",
-"4d17eb611b733df0",
-"6db6892367c2bcbd",
 "97a5b7f456707311",
 "80cebcb6d17d4bd4",
 "9b44d59ae06c92aa",
@@ -2999,42 +2996,12 @@
 "9c6fd4a8a3bc2633",
 "5fe7d1a445483c8a",
 "18dfa2d4eabd56bc",
-"1139d717bddb48f5"
+"1139d717bddb48f5",
+"25b9557696b1812d",
+"68d614ddc84d3e2c",
+"84f6afea931ef2aa"
 ],
 "imzalar": [
-[
-"antalya",
-"baskanvekili",
-"belediye",
-"busra",
-"buyuksehir",
-"chp",
-"den",
-"istifa",
-"ozdemir"
-],
-[
-"baskentine",
-"diyet",
-"gelmeden",
-"kostu",
-"lezzet",
-"okullar",
-"once",
-"tatil",
-"turistler",
-"yapin"
-],
-[
-"brezilya",
-"damattan",
-"eski",
-"kanli",
-"kayinpederini",
-"kayinvalidesi",
-"oldurdu",
-"saldiri"
-],
 [
 "ankara",
 "beypazari",
@@ -8849,14 +8816,44 @@
 "saldiri",
 "tufekli",
 "yerine"
+],
+[
+"alindi",
+"calisma",
+"degisti",
+"duzenlemesi",
+"enerji",
+"one",
+"takvimi",
+"tbmm"
+],
+[
+"aciyi",
+"arayla",
+"askerlerimize",
+"ayni",
+"eskisehir",
+"gun",
+"helikopter",
+"kazasinda",
+"sehit",
+"veda",
+"yasadik",
+"yine"
+],
+[
+"600",
+"altin",
+"asti",
+"dolari"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-26T02:24:00+00:00",
-"Sonsöz (Ankara)": "2026-11-26T02:11:00+00:00",
+"Haber Global": "2026-11-26T03:20:00+00:00",
+"Sonsöz (Ankara)": "2026-11-26T02:37:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-25T18:29:10+00:00",
-"Sözcü Son Dakika": "2026-11-26T01:09:26+00:00",
+"Sözcü Son Dakika": "2026-11-26T03:32:46+00:00",
 "Yeni Şafak Yerel": "2026-11-26T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-26T02:15:21+00:00",
