@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"e18e963dd741cc13",
-"c71608f57ca0564a",
-"6e3bfe68f17d4d96",
 "73b5801aed952e8f",
 "dc05b335ef579322",
 "031bd14bfc692bd6",
@@ -2999,32 +2996,12 @@
 "947754cc529baa70",
 "7bf08d605ee6c076",
 "1983c0bf2261444b",
-"aaf5b94cfbda3441"
+"aaf5b94cfbda3441",
+"5011e78a0369f317",
+"baa7135e5ff9b890",
+"5eb5152f5d423610"
 ],
 "imzalar": [
-[
-"alindi",
-"cocuklarin",
-"cocuklugu",
-"ellerinden",
-"gazze"
-],
-[
-"alisveris",
-"kriterler",
-"olmaz",
-"olmazsa",
-"online",
-"yapanlar"
-],
-[
-"askerin",
-"cenazesi",
-"gitti",
-"kocaeli",
-"sehit",
-"yil"
-],
 [
 "den",
 "gozdagi",
@@ -8836,14 +8813,41 @@
 "penalti",
 "uzun",
 "zaman"
+],
+[
+"avrupa",
+"durum",
+"hafta",
+"muhtesem",
+"puaninda",
+"ulke"
+],
+[
+"kumar",
+"manisa",
+"merkezli",
+"operasyonu",
+"sanal",
+"tutuklama"
+],
+[
+"aciklamasi",
+"dan",
+"erken",
+"fon",
+"odemeleri",
+"secim",
+"sorusturmasi",
+"yatirimci",
+"yilmaz"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-26T21:36:00+00:00",
-"Sonsöz (Ankara)": "2026-11-26T17:32:00+00:00",
+"Haber Global": "2026-11-26T22:13:00+00:00",
+"Sonsöz (Ankara)": "2026-11-26T22:20:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
-"Sözcü Son Dakika": "2026-11-26T20:35:50+00:00",
+"Sözcü Son Dakika": "2026-11-26T22:09:25+00:00",
 "Yeni Şafak Yerel": "2026-11-26T20:29:15+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-26T19:16:15+00:00",
