@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"75b9d13a35462de3",
-"8cbec08ef26ec5e3",
-"9977045c3ed75af2",
 "e39381e63fb5d299",
 "3fa02db3aeb86ad6",
 "fcc6b87524a26ff9",
@@ -2999,41 +2996,12 @@
 "0b581f05c2009108",
 "c9a3496ccd24c039",
 "ded569e0e9d2eabd",
-"fb53af70f4b13ff9"
+"fb53af70f4b13ff9",
+"e82992d34ca89ffa",
+"d5e6996f8d3e40fa",
+"076dcd9614cb215d"
 ],
 "imzalar": [
-[
-"ayriligi",
-"besiktas",
-"cerny",
-"firsati",
-"geliyor",
-"gidiyor",
-"gundemdeydi",
-"juventus",
-"transfer",
-"yildizi"
-],
-[
-"anlar",
-"cikan",
-"kamerada",
-"kediler",
-"komsusunu",
-"tartismada",
-"vurdu",
-"yuzunden"
-],
-[
-"beyaza",
-"burundu",
-"ilcesinin",
-"kars",
-"kesimleri",
-"sarikamis",
-"yeniden",
-"yuksek"
-],
 [
 "basladi",
 "burs",
@@ -8842,19 +8810,49 @@
 "mesajlari",
 "resimli",
 "sozleri"
+],
+[
+"basliyor",
+"donemi",
+"fon",
+"nihai",
+"olagan",
+"sorusturmasinda",
+"tamamlanacak",
+"tasfiye",
+"tasfiyeler",
+"yarin"
+],
+[
+"ali",
+"baskan",
+"erdogan",
+"hocasi",
+"hut",
+"kemal",
+"kur",
+"vefat"
+],
+[
+"anlatildi",
+"bagisinin",
+"caycuma",
+"hayati",
+"onemi",
+"organ"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-26T15:32:00+00:00",
-"Sonsöz (Ankara)": "2026-11-26T10:28:00+00:00",
+"Sonsöz (Ankara)": "2026-11-26T16:32:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
 "Sözcü Son Dakika": "2026-11-26T15:32:31+00:00",
-"Yeni Şafak Yerel": "2026-11-26T15:34:19+00:00",
+"Yeni Şafak Yerel": "2026-11-26T16:11:40+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-26T15:01:45+00:00",
 "@islamasalya": "2026-11-26T08:47:54+00:00",
-"Yeni Asır (İzmir)": "2026-11-26T15:17:44+00:00",
+"Yeni Asır (İzmir)": "2026-11-26T16:17:24+00:00",
 "İstanbul Gazetesi": "2026-11-26T14:42:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
 }
