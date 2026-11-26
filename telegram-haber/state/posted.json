@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"bca10f0290d5eb36",
-"0af135728b39ca97",
-"a84b55bf6ea87faa",
 "e18e963dd741cc13",
 "c71608f57ca0564a",
 "6e3bfe68f17d4d96",
@@ -2999,33 +2996,12 @@
 "8f2fc84b473db4da",
 "991a758b7e942c94",
 "e9307d8153697a81",
-"947754cc529baa70"
+"947754cc529baa70",
+"7bf08d605ee6c076",
+"1983c0bf2261444b",
+"aaf5b94cfbda3441"
 ],
 "imzalar": [
-[
-"gecirilmesini",
-"gozden",
-"istedi",
-"schengen",
-"sureclerinin",
-"turkiye",
-"vize"
-],
-[
-"arac",
-"carpisti",
-"eskisehir",
-"feci",
-"hafif",
-"kaza",
-"tanker",
-"ticari"
-],
-[
-"dosyasinda",
-"gullu",
-"karar"
-],
 [
 "alindi",
 "cocuklarin",
@@ -8834,10 +8810,36 @@
 "olayli",
 "takimini",
 "yendi"
+],
+[
+"2126062339934048614",
+"6gxsnykk",
+"com",
+"https",
+"isra",
+"pnnbqj6k5k",
+"status"
+],
+[
+"alkisli",
+"besiktas",
+"butce",
+"galibiyetine",
+"komisyonunda",
+"kutlama",
+"plan"
+],
+[
+"kacirdim",
+"kokcu",
+"orkun",
+"penalti",
+"uzun",
+"zaman"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-26T20:15:00+00:00",
+"Haber Global": "2026-11-26T21:36:00+00:00",
 "Sonsöz (Ankara)": "2026-11-26T17:32:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
@@ -8845,9 +8847,9 @@
 "Yeni Şafak Yerel": "2026-11-26T20:29:15+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-26T19:16:15+00:00",
-"@islamasalya": "2026-11-26T18:47:18+00:00",
+"@islamasalya": "2026-11-26T21:15:57+00:00",
 "Yeni Asır (İzmir)": "2026-11-26T19:29:24+00:00",
-"İstanbul Gazetesi": "2026-11-26T20:29:00+00:00",
+"İstanbul Gazetesi": "2026-11-26T21:29:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
 }
 }
