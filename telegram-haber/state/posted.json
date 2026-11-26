@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"470801c3ec0f1b8d",
-"1ba3d66ad9641d4c",
-"31afc7d0421ea7f6",
 "75b9d13a35462de3",
 "8cbec08ef26ec5e3",
 "9977045c3ed75af2",
@@ -2999,35 +2996,12 @@
 "be1a2c1f812c08d0",
 "432209c360506be2",
 "a509e7b8d051a188",
-"0b581f05c2009108"
+"0b581f05c2009108",
+"c9a3496ccd24c039",
+"ded569e0e9d2eabd",
+"fb53af70f4b13ff9"
 ],
 "imzalar": [
-[
-"bildirdi",
-"gectigini",
-"gorusmesinin",
-"kremlin",
-"olumlu",
-"putin",
-"trump"
-],
-[
-"basladi",
-"borsa",
-"gune",
-"nasil"
-],
-[
-"2027",
-"asgari",
-"kritik",
-"senaryosu",
-"tahmin",
-"ucrette",
-"yili",
-"yuzde",
-"zam"
-],
 [
 "ayriligi",
 "besiktas",
@@ -8839,6 +8813,35 @@
 "kazandiran",
 "sektor",
 "yukselisle"
+],
+[
+"calismalari",
+"dau",
+"iletisim",
+"konferansi",
+"medya",
+"tamamlandi",
+"uluslararasi"
+],
+[
+"arabistan",
+"birligi",
+"dan",
+"sanayide",
+"savunma",
+"suudi",
+"turkiye"
+],
+[
+"anlamli",
+"cuma",
+"duali",
+"guzel",
+"kasim",
+"kisa",
+"mesajlari",
+"resimli",
+"sozleri"
 ]
 ],
 "son_tarih": {
@@ -8849,10 +8852,10 @@
 "Sözcü Son Dakika": "2026-11-26T15:32:31+00:00",
 "Yeni Şafak Yerel": "2026-11-26T15:34:19+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-26T14:35:26+00:00",
+"Olay (Bursa)": "2026-11-26T15:01:45+00:00",
 "@islamasalya": "2026-11-26T08:47:54+00:00",
-"Yeni Asır (İzmir)": "2026-11-26T14:33:53+00:00",
-"İstanbul Gazetesi": "2026-11-25T20:45:00+00:00",
+"Yeni Asır (İzmir)": "2026-11-26T15:17:44+00:00",
+"İstanbul Gazetesi": "2026-11-26T14:42:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
 }
 }
