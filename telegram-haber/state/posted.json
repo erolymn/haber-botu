@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"6a0bb5797bf7a9f5",
-"618676c746e4f545",
-"a171388186baff48",
 "dd7078f5762d82fc",
 "0af9e710e31e0dfb",
 "524c81aa7e4aaeda",
@@ -2999,33 +2996,12 @@
 "595c678da073fb6a",
 "1e8e49d7c192dcf0",
 "020ecb44ad90ff34",
-"876e23fc8280621c"
+"876e23fc8280621c",
+"8a5145c929fc78f7",
+"028c62a7cf154189",
+"a4a0466153f00022"
 ],
 "imzalar": [
-[
-"bursaspor",
-"ilgili",
-"karar",
-"onemli",
-"stadiyla"
-],
-[
-"edildi",
-"hakimlige",
-"mustafa",
-"piyasasi",
-"sermaye",
-"sevk",
-"sorusturmasi",
-"yazici"
-],
-[
-"adiyaman",
-"kisi",
-"operasyonu",
-"tefeci",
-"tutuklandi"
-],
 [
 "aldiran",
 "altina",
@@ -8849,18 +8825,40 @@
 "davasinda",
 "gelisme",
 "kritik"
+],
+[
+"bugun",
+"gazze",
+"gun",
+"her"
+],
+[
+"altin",
+"bankasi",
+"ceken",
+"dikkat",
+"karari",
+"merkez",
+"ndan"
+],
+[
+"aciklandi",
+"besiktas",
+"galatasaray",
+"hakemi",
+"macinin"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-26T05:06:00+00:00",
-"Sonsöz (Ankara)": "2026-11-26T07:32:00+00:00",
+"Sonsöz (Ankara)": "2026-11-26T09:33:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
 "Sözcü Son Dakika": "2026-11-26T08:33:12+00:00",
-"Yeni Şafak Yerel": "2026-11-26T07:34:25+00:00",
+"Yeni Şafak Yerel": "2026-11-26T09:33:25+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-26T08:33:13+00:00",
-"@islamasalya": "2026-11-26T08:24:28+00:00",
+"@islamasalya": "2026-11-26T08:47:54+00:00",
 "Yeni Asır (İzmir)": "2026-11-26T05:14:30+00:00",
 "İstanbul Gazetesi": "2026-11-25T20:45:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
