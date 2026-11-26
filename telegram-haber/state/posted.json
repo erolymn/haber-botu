@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"e7e5a3fc270931f2",
-"a22f6d34c81074ec",
-"96d7460b3203471a",
 "470801c3ec0f1b8d",
 "1ba3d66ad9641d4c",
 "31afc7d0421ea7f6",
@@ -2999,39 +2996,12 @@
 "32dbb1b8df20c342",
 "c6ec9f14451716f8",
 "efbc57d477777d79",
-"be1a2c1f812c08d0"
+"be1a2c1f812c08d0",
+"432209c360506be2",
+"a509e7b8d051a188",
+"0b581f05c2009108"
 ],
 "imzalar": [
-[
-"bolmede",
-"diyarbakir",
-"dorsesindeki",
-"duzensiz",
-"gizli",
-"gocmen",
-"tir",
-"yakalandi"
-],
-[
-"bolmeden",
-"cikti",
-"dorsesindeki",
-"gizli",
-"gocmen",
-"kacak",
-"tir"
-],
-[
-"den",
-"dunyanin",
-"hamlesi",
-"karsilama",
-"karsilamadi",
-"konustugu",
-"putin",
-"sarildi",
-"trump"
-],
 [
 "bildirdi",
 "gectigini",
@@ -8842,15 +8812,42 @@
 "dususle",
 "gunu",
 "kapatti"
+],
+[
+"beer",
+"besiktas",
+"canli",
+"hapoel",
+"yayin"
+],
+[
+"beklenen",
+"dakikalar",
+"durum",
+"fon",
+"kaldi",
+"merakla",
+"sorusturmasinda",
+"toplantiya"
+],
+[
+"belli",
+"borsa",
+"gunu",
+"istanbul",
+"kapatti",
+"kazandiran",
+"sektor",
+"yukselisle"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-26T13:33:00+00:00",
+"Haber Global": "2026-11-26T15:32:00+00:00",
 "Sonsöz (Ankara)": "2026-11-26T10:28:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
-"Sözcü Son Dakika": "2026-11-26T13:33:43+00:00",
-"Yeni Şafak Yerel": "2026-11-26T14:31:55+00:00",
+"Sözcü Son Dakika": "2026-11-26T15:32:31+00:00",
+"Yeni Şafak Yerel": "2026-11-26T15:34:19+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-26T14:35:26+00:00",
 "@islamasalya": "2026-11-26T08:47:54+00:00",
