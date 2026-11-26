@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"dd7078f5762d82fc",
-"0af9e710e31e0dfb",
-"524c81aa7e4aaeda",
 "3a48f9723c2395b0",
 "cfa9340f6268bcf8",
 "b7378ab4a9ce0808",
@@ -2999,40 +2996,12 @@
 "876e23fc8280621c",
 "8a5145c929fc78f7",
 "028c62a7cf154189",
-"a4a0466153f00022"
+"a4a0466153f00022",
+"959a8b64ab7ca2b0",
+"feb68d13297e9f4d",
+"2cbcc6f0655f975d"
 ],
 "imzalar": [
-[
-"aldiran",
-"altina",
-"ayaklarinizin",
-"hafta",
-"iyi",
-"izmir",
-"manzara",
-"nefes",
-"noktalari",
-"sehri",
-"seren",
-"seyir",
-"sonu",
-"tepeleri"
-],
-[
-"engeli",
-"kaldirmayacak",
-"lisansinda",
-"mahk",
-"miyet",
-"pilot",
-"sarti"
-],
-[
-"budo",
-"engeli",
-"firtina",
-"seferlerine"
-],
 [
 "duyurdu",
 "kirim",
@@ -8847,15 +8816,44 @@
 "galatasaray",
 "hakemi",
 "macinin"
+],
+[
+"aym",
+"den",
+"ekrem",
+"imamoglu",
+"karari"
+],
+[
+"bakanligindan",
+"daki",
+"disisleri",
+"hayatini",
+"kaybedenler",
+"mesaji",
+"misir",
+"tanker",
+"taziye",
+"yangininda"
+],
+[
+"agila",
+"araniyor",
+"girmesiyle",
+"gundur",
+"kaybolan",
+"keci",
+"kurtlarin",
+"mut"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-26T05:06:00+00:00",
-"Sonsöz (Ankara)": "2026-11-26T09:33:00+00:00",
+"Haber Global": "2026-11-26T10:30:00+00:00",
+"Sonsöz (Ankara)": "2026-11-26T10:28:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
 "Sözcü Son Dakika": "2026-11-26T08:33:12+00:00",
-"Yeni Şafak Yerel": "2026-11-26T09:33:25+00:00",
+"Yeni Şafak Yerel": "2026-11-26T10:34:19+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-26T08:33:13+00:00",
 "@islamasalya": "2026-11-26T08:47:54+00:00",
