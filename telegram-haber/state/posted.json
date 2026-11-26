@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"a631a7b49cdb8472",
-"7ba66805a9f8c904",
-"e914a988e76f5ff3",
 "c2f76c46312d3878",
 "2f15029e9fc4022b",
 "17c98fc44bf6315f",
@@ -2999,44 +2996,12 @@
 "72ab2fa25873b3ce",
 "2b2940afc4fabe55",
 "6d2bbcd828b9d351",
-"a03f3c1c12060dcc"
+"a03f3c1c12060dcc",
+"75b79282221f79de",
+"6070530fc6edaf25",
+"8f2fc84b473db4da"
 ],
 "imzalar": [
-[
-"abha",
-"alarm",
-"alindi",
-"devreye",
-"erken",
-"hamis",
-"musayt",
-"necran",
-"sistemi",
-"uyari"
-],
-[
-"arayacak",
-"disi",
-"gorevi",
-"hidrokarbon",
-"ikinci",
-"oruc",
-"pakistan",
-"reis",
-"yurt"
-],
-[
-"alacaklara",
-"beklenti",
-"degisti",
-"deki",
-"ege",
-"fiyatlar",
-"fiyatlarinda",
-"iste",
-"konut",
-"mujde"
-],
 [
 "araya",
 "ayyildiz",
@@ -8846,6 +8811,28 @@
 "maca",
 "sakatlik",
 "talihsiz"
+],
+[
+"besiktas",
+"dev",
+"tan",
+"zafer"
+],
+[
+"atarak",
+"bayiltti",
+"besiktas",
+"gurcu",
+"polisi",
+"taraftarina",
+"yumruk"
+],
+[
+"besiktasli",
+"futbolcular",
+"israilli",
+"rakibiyle",
+"tokalasmadi"
 ]
 ],
 "son_tarih": {
@@ -8853,13 +8840,13 @@
 "Sonsöz (Ankara)": "2026-11-26T17:32:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
-"Sözcü Son Dakika": "2026-11-26T19:32:17+00:00",
-"Yeni Şafak Yerel": "2026-11-26T19:33:59+00:00",
+"Sözcü Son Dakika": "2026-11-26T20:35:50+00:00",
+"Yeni Şafak Yerel": "2026-11-26T20:29:15+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-26T15:01:45+00:00",
 "@islamasalya": "2026-11-26T18:47:18+00:00",
 "Yeni Asır (İzmir)": "2026-11-26T16:17:24+00:00",
-"İstanbul Gazetesi": "2026-11-26T17:10:00+00:00",
+"İstanbul Gazetesi": "2026-11-26T20:29:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
 }
 }
