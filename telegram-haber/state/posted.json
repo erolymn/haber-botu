@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"4e68566531acdb5b",
-"2aa825d369be1834",
-"92f21851cd1e1c88",
 "97125d5e0a036ba1",
 "b4d5b2231db26412",
 "263b5c15a222faf3",
@@ -2999,52 +2996,12 @@
 "84f6afea931ef2aa",
 "b25475546e227bff",
 "ac4e28a3a4c874fd",
-"c9acf25127c56b11"
+"c9acf25127c56b11",
+"eaeda28e17d67383",
+"aae2de08c70e71cc",
+"83b480b4e42a238d"
 ],
 "imzalar": [
-[
-"aclik",
-"ardindan",
-"cihadin",
-"direnis",
-"duyuruldu",
-"ebu",
-"iki",
-"mucahit",
-"nabil",
-"nin",
-"nukayra",
-"refah",
-"sabir",
-"sehadet",
-"suren",
-"tunellerinde",
-"yil"
-],
-[
-"almanya",
-"cikti",
-"dan",
-"iddiasi",
-"ilgili",
-"kanitlar",
-"net",
-"ortaya",
-"rusya",
-"silah",
-"yasakli"
-],
-[
-"cikti",
-"duserek",
-"goruntuleri",
-"hayatini",
-"kattan",
-"kaybeden",
-"ortaya",
-"pelin",
-"pinar"
-],
 [
 "acma",
 "artis",
@@ -8846,6 +8803,40 @@
 "uzatildi",
 "vergi",
 "yil"
+],
+[
+"asgari",
+"cifte",
+"emekli",
+"emekliye",
+"iste",
+"masadaki",
+"milyonlar",
+"rakam",
+"ucrete",
+"yansiyacak",
+"zam"
+],
+[
+"altin",
+"altinda",
+"dikkat",
+"dip",
+"esik",
+"fiyatlarinda",
+"gram",
+"kritik",
+"ons",
+"seviyeler",
+"yatirimcilar"
+],
+[
+"kitanin",
+"kullanacaklar",
+"kurtarici",
+"olarak",
+"olumcul",
+"yilanini"
 ]
 ],
 "son_tarih": {
@@ -8853,12 +8844,12 @@
 "Sonsöz (Ankara)": "2026-11-26T02:37:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-25T18:29:10+00:00",
-"Sözcü Son Dakika": "2026-11-26T04:34:03+00:00",
-"Yeni Şafak Yerel": "2026-11-26T04:22:05+00:00",
+"Sözcü Son Dakika": "2026-11-26T05:34:16+00:00",
+"Yeni Şafak Yerel": "2026-11-26T05:23:34+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-26T02:15:21+00:00",
 "@islamasalya": "2026-11-25T20:00:33+00:00",
-"Yeni Asır (İzmir)": "2026-11-26T04:19:50+00:00",
+"Yeni Asır (İzmir)": "2026-11-26T05:14:30+00:00",
 "İstanbul Gazetesi": "2026-11-25T20:45:00+00:00",
 "Kandilli Rasathanesi": "2026-11-24T15:39:42+00:00"
 }
