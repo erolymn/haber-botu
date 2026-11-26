@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"8fced13bb498939a",
-"cfedf0433c7d8c83",
-"99a2edd09a58253d",
 "30aded60f3875755",
 "705987753f32fc76",
 "6a8920932bade564",
@@ -2999,40 +2996,12 @@
 "0dff2245e682b1d7",
 "d7aa34844c7c059b",
 "2fedbae34c482182",
-"d5bbbd2849dcc1b5"
+"d5bbbd2849dcc1b5",
+"d3c98acc57ceed24",
+"001a1af3e5e2c897",
+"32dbb1b8df20c342"
 ],
 "imzalar": [
-[
-"acildi",
-"erisime",
-"kpss",
-"ortaogretim",
-"sonuclari"
-],
-[
-"antartika",
-"arasindan",
-"buzullarin",
-"cikti",
-"dev",
-"kafatasi",
-"kesfetti",
-"korkutan",
-"manzara",
-"nasa"
-],
-[
-"aci",
-"altinda",
-"cocuk",
-"coken",
-"duvarin",
-"hayatini",
-"kalan",
-"kaybetti",
-"manisa",
-"olay"
-],
 [
 "erisim",
 "kuresel",
@@ -8843,15 +8812,43 @@
 "kamyonetle",
 "kaza",
 "yaparken"
+],
+[
+"altinin",
+"fiyati",
+"geriledi",
+"kilogram",
+"liraya",
+"milyon"
+],
+[
+"belli",
+"istanbul",
+"kiralik",
+"konutlar",
+"sosyal",
+"tarihi",
+"teslimat"
+],
+[
+"avrupa",
+"benek",
+"boksor",
+"coskuyla",
+"karsilandi",
+"milli",
+"pinar",
+"sampiyonu",
+"sirnak"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-26T10:30:00+00:00",
+"Haber Global": "2026-11-26T13:33:00+00:00",
 "Sonsöz (Ankara)": "2026-11-26T10:28:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
-"Sözcü Son Dakika": "2026-11-26T12:34:42+00:00",
-"Yeni Şafak Yerel": "2026-11-26T12:36:08+00:00",
+"Sözcü Son Dakika": "2026-11-26T13:33:43+00:00",
+"Yeni Şafak Yerel": "2026-11-26T13:35:56+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-26T12:36:17+00:00",
 "@islamasalya": "2026-11-26T08:47:54+00:00",
