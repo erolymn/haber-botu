@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"d2018bb6a7e7b4ac",
-"843fe130cdf76742",
-"30fc3f490c4877df",
 "887dcf3b667d1226",
 "b3efe61b8161d711",
 "4e2fb85eefbefeaf",
@@ -2999,40 +2996,12 @@
 "0df5fb7fcd652cc2",
 "75a53cec44ab7c2f",
 "2b204e8efe2b2afb",
-"95bb3ffea0fcb915"
+"95bb3ffea0fcb915",
+"860a4d79024d8b72",
+"35b83e75e1348437",
+"4a2f317a098bf3ad"
 ],
 "imzalar": [
-[
-"372",
-"bin",
-"ceza",
-"dur",
-"oderim",
-"uymadi",
-"yedi",
-"yilda"
-],
-[
-"basladi",
-"belediye",
-"degisti",
-"donemi",
-"kurallari",
-"meclislerinde",
-"muhru",
-"sandik",
-"secim",
-"seffaf",
-"tercih"
-],
-[
-"buldular",
-"hazine",
-"insaat",
-"kazdilar",
-"tesadufen",
-"topragi"
-],
 [
 "fenerbahce",
 "milan",
@@ -8843,6 +8812,37 @@
 "kasim",
 "yeniden",
 "yukseliste"
+],
+[
+"deger",
+"izlemeye"
+],
+[
+"119",
+"avrupa",
+"basliyor",
+"den",
+"dolardan",
+"donus",
+"gidis",
+"guney",
+"mujde",
+"thy",
+"ucuslari"
+],
+[
+"alindi",
+"bayramoglu",
+"dalga",
+"deniz",
+"ece",
+"gozaltina",
+"halk",
+"sorusturmada",
+"ucuncu",
+"uner",
+"yonelik",
+"yurutulen"
 ]
 ],
 "son_tarih": {
@@ -8850,11 +8850,11 @@
 "Sonsöz (Ankara)": "2026-11-27T06:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-27T05:12:40+00:00",
-"Sözcü Son Dakika": "2026-11-27T06:26:10+00:00",
-"Yeni Şafak Yerel": "2026-11-27T06:32:29+00:00",
+"Sözcü Son Dakika": "2026-11-27T07:36:25+00:00",
+"Yeni Şafak Yerel": "2026-11-27T07:34:40+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-27T02:05:35+00:00",
-"@islamasalya": "2026-11-27T06:00:17+00:00",
+"@islamasalya": "2026-11-27T06:48:36+00:00",
 "Yeni Asır (İzmir)": "2026-11-27T06:30:32+00:00",
 "İstanbul Gazetesi": "2026-11-26T21:29:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
