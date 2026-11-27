@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"978b6d4a8285794e",
-"d00f0bba6549d1f8",
-"d88964de279f3f4b",
 "ef1df0ed4bd6dd7d",
 "b296ac6cc6a61a0e",
 "3d158c6087efc46c",
@@ -2999,34 +2996,12 @@
 "4a2f317a098bf3ad",
 "4f2e8fbe77abd723",
 "26b4d71e550f8f6f",
-"04572fc45a178a71"
+"04572fc45a178a71",
+"7ebf52a625fab4be",
+"ee69c299a0e4fbb0",
+"ba7f2d4cf7e3bece"
 ],
 "imzalar": [
-[
-"caktilar",
-"civi",
-"dustu",
-"maliyet",
-"plastik",
-"topraga",
-"yuzde"
-],
-[
-"baskan",
-"baskani",
-"belediye",
-"duzenleme",
-"secimine",
-"vekili"
-],
-[
-"ankara",
-"belli",
-"kar",
-"tarih",
-"yagacak",
-"zaman"
-],
 [
 "alma",
 "dolu",
@@ -8854,6 +8829,32 @@
 "topladigi",
 "uretti",
 "yapti"
+],
+[
+"balci",
+"edildi",
+"mustafa",
+"saban",
+"sevinc",
+"tahliye"
+],
+[
+"etkili",
+"hava",
+"ilcesinde",
+"kar",
+"kars",
+"sarikamis",
+"soguk",
+"sonrasi"
+],
+[
+"buz",
+"colun",
+"dev",
+"dikiyorlar",
+"ortasina",
+"piramitleri"
 ]
 ],
 "son_tarih": {
@@ -8861,13 +8862,13 @@
 "Sonsöz (Ankara)": "2026-11-27T06:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-27T05:12:40+00:00",
-"Sözcü Son Dakika": "2026-11-27T07:36:25+00:00",
-"Yeni Şafak Yerel": "2026-11-27T08:36:39+00:00",
+"Sözcü Son Dakika": "2026-11-27T09:37:48+00:00",
+"Yeni Şafak Yerel": "2026-11-27T09:36:58+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-27T08:32:36+00:00",
 "@islamasalya": "2026-11-27T07:43:34+00:00",
 "Yeni Asır (İzmir)": "2026-11-27T06:30:32+00:00",
-"İstanbul Gazetesi": "2026-11-26T21:29:00+00:00",
+"İstanbul Gazetesi": "2026-11-27T09:35:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
 }
 }
