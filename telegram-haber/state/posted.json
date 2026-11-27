@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"798f18524ab3bf80",
-"0887bce924f6d082",
-"87d2ae6586c91104",
 "fe78e45bb9eacedf",
 "8b61455d1b19deea",
 "98e89a55531b3a22",
@@ -2999,37 +2996,12 @@
 "e08157131cbb8bfb",
 "d72290588e8f401b",
 "55fa538fa3632fdc",
-"e7f91ab431b15e65"
+"e7f91ab431b15e65",
+"79168ce95045d8a5",
+"1d3d2819d4e6a09b",
+"3024a269b5fed954"
 ],
 "imzalar": [
-[
-"gullere",
-"kadinlarin",
-"kesme",
-"osmaniye",
-"talep",
-"yetistirdigi",
-"yogun"
-],
-[
-"cocuk",
-"dunya",
-"gunu",
-"haklari",
-"kasim",
-"nedir",
-"nelerdir"
-],
-[
-"agac",
-"bursa",
-"devrildi",
-"donuldu",
-"esiginden",
-"facianin",
-"kalabalik",
-"parkta"
-],
 [
 "abd",
 "alirsa",
@@ -8881,6 +8853,37 @@
 "kaza",
 "kazalarla",
 "yillardir"
+],
+[
+"250",
+"alsancak",
+"altyapi",
+"dan",
+"izsu",
+"liralik",
+"milyon",
+"tamamlandi",
+"yatirimi",
+"yuzde"
+],
+[
+"alihan",
+"kuris",
+"orgutu",
+"sorusturmasinda",
+"suc",
+"tutuklama"
+],
+[
+"faaliyete",
+"geciyor",
+"hat",
+"kapaliydi",
+"petrol",
+"saglayacak",
+"turkiye",
+"yeniden",
+"yildir"
 ]
 ],
 "son_tarih": {
@@ -8888,12 +8891,12 @@
 "Sonsöz (Ankara)": "2026-11-27T11:37:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-27T13:31:43+00:00",
-"Sözcü Son Dakika": "2026-11-27T14:37:26+00:00",
-"Yeni Şafak Yerel": "2026-11-27T15:36:15+00:00",
+"Sözcü Son Dakika": "2026-11-27T16:31:44+00:00",
+"Yeni Şafak Yerel": "2026-11-27T16:36:38+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-27T15:37:39+00:00",
 "@islamasalya": "2026-11-27T07:43:34+00:00",
-"Yeni Asır (İzmir)": "2026-11-27T15:21:26+00:00",
+"Yeni Asır (İzmir)": "2026-11-27T16:06:43+00:00",
 "İstanbul Gazetesi": "2026-11-27T12:34:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
 }
