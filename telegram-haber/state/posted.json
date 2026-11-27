@@ -1,7 +1,5 @@
 {
 "gonderilen": [
-"8d359404e9f6f8f2",
-"ac3c8f1a6cff4977",
 "36455112a0abaaef",
 "467ed403a690bf89",
 "accd67a7c3e685a6",
@@ -2999,26 +2997,11 @@
 "6e4f7873398df8b5",
 "eef8dd1703244873",
 "f5fac968a212338f",
-"6c8e0d3283231445"
+"6c8e0d3283231445",
+"e7fe19fc33080a30",
+"f97c531ac1049274"
 ],
 "imzalar": [
-[
-"bitmiyor",
-"gazze",
-"itibariyle",
-"soykirim",
-"suruyor",
-"vedalar"
-],
-[
-"belgede",
-"istanbul",
-"operasyonunda",
-"resmi",
-"sahtecilik",
-"supheli",
-"yakalandi"
-],
 [
 "acikladi",
 "detaylarini",
@@ -8840,17 +8823,34 @@
 "mit",
 "sebekesine",
 "siber"
+],
+[
+"avrupa",
+"final",
+"getiren",
+"hedef",
+"saviolo",
+"trabzonspor",
+"zaferi"
+],
+[
+"acil",
+"bursa",
+"cagri",
+"kavsak",
+"trafigi",
+"yogun"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-27T01:11:00+00:00",
+"Haber Global": "2026-11-27T02:01:00+00:00",
 "Sonsöz (Ankara)": "2026-11-27T01:26:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
 "Sözcü Son Dakika": "2026-11-27T01:01:50+00:00",
 "Yeni Şafak Yerel": "2026-11-27T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-26T19:16:15+00:00",
+"Olay (Bursa)": "2026-11-27T02:05:35+00:00",
 "@islamasalya": "2026-11-26T21:15:57+00:00",
 "Yeni Asır (İzmir)": "2026-11-26T19:29:24+00:00",
 "İstanbul Gazetesi": "2026-11-26T21:29:00+00:00",
