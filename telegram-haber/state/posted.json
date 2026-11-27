@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"a24d3079d699e245",
-"f5b862af04a893b5",
-"639a104b472f2902",
 "f386aec045a6febd",
 "f21004e597b9a416",
 "badc936bf3dab8f5",
@@ -2999,36 +2996,12 @@
 "4de367060181a343",
 "74aff82f77f791d7",
 "9a11c57d56eab60f",
-"228d9d3c0fbec138"
+"228d9d3c0fbec138",
+"1bfa832466dcd797",
+"163719b71b335197",
+"5351ccb3200431b0"
 ],
 "imzalar": [
-[
-"baskani",
-"cinping",
-"devlet",
-"endonezya",
-"gorustu",
-"prabowo",
-"sincin"
-],
-[
-"600",
-"alacaklar",
-"basliyor",
-"bin",
-"donemi",
-"firsat",
-"fiyatlar",
-"liradan",
-"otomobil"
-],
-[
-"acikladi",
-"galatasaray",
-"macinda",
-"resmen",
-"uefa"
-],
 [
 "duzenlendi",
 "ilde",
@@ -8880,6 +8853,29 @@
 "pazar",
 "raflarinda",
 "urunler"
+],
+[
+"bedel",
+"korkmayiz",
+"odemekten"
+],
+[
+"adim",
+"askeri",
+"ittifaki",
+"komutanlik",
+"kritik",
+"kuruluyor",
+"mekke",
+"nda",
+"ortak"
+],
+[
+"2027",
+"butcesi",
+"gecti",
+"komisyonundan",
+"meclis"
 ]
 ],
 "son_tarih": {
@@ -8887,11 +8883,11 @@
 "Sonsöz (Ankara)": "2026-11-27T16:16:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-27T16:18:11+00:00",
-"Sözcü Son Dakika": "2026-11-27T17:32:05+00:00",
-"Yeni Şafak Yerel": "2026-11-27T16:36:38+00:00",
+"Sözcü Son Dakika": "2026-11-27T18:38:08+00:00",
+"Yeni Şafak Yerel": "2026-11-27T18:35:52+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-27T15:37:39+00:00",
-"@islamasalya": "2026-11-27T16:54:28+00:00",
+"@islamasalya": "2026-11-27T18:16:41+00:00",
 "Yeni Asır (İzmir)": "2026-11-27T17:33:17+00:00",
 "İstanbul Gazetesi": "2026-11-27T16:16:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
