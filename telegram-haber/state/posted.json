@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"bfc1a26674f4071a",
-"b42fe1440f793671",
-"954639dde02e81e7",
 "798f18524ab3bf80",
 "0887bce924f6d082",
 "87d2ae6586c91104",
@@ -2999,27 +2996,12 @@
 "b54e6fbe6c34dc4f",
 "158ed67199a5274a",
 "f1bf6318c095de76",
-"e08157131cbb8bfb"
+"e08157131cbb8bfb",
+"d72290588e8f401b",
+"55fa538fa3632fdc",
+"e7f91ab431b15e65"
 ],
 "imzalar": [
-[
-"gece",
-"geldi",
-"indirim",
-"motorine",
-"yarisi"
-],
-[
-"gozler",
-"leao",
-"osimhen",
-"sane",
-"yoklugunda"
-],
-[
-"altinda",
-"durum"
-],
 [
 "gullere",
 "kadinlarin",
@@ -8869,6 +8851,36 @@
 "osman",
 "sampiyonu",
 "simsek"
+],
+[
+"avantajli",
+"emekliye",
+"fazla",
+"formulu",
+"gundemde",
+"gunu",
+"kademeli",
+"prim",
+"zam"
+],
+[
+"bayragini",
+"birakmadilar",
+"davranis",
+"genc",
+"iki",
+"kizdan",
+"nevsehir",
+"ornek",
+"turk",
+"yerde"
+],
+[
+"anilan",
+"kavsakta",
+"kaza",
+"kazalarla",
+"yillardir"
 ]
 ],
 "son_tarih": {
@@ -8877,11 +8889,11 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-27T13:31:43+00:00",
 "Sözcü Son Dakika": "2026-11-27T14:37:26+00:00",
-"Yeni Şafak Yerel": "2026-11-27T14:37:24+00:00",
+"Yeni Şafak Yerel": "2026-11-27T15:36:15+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-27T14:38:13+00:00",
+"Olay (Bursa)": "2026-11-27T15:37:39+00:00",
 "@islamasalya": "2026-11-27T07:43:34+00:00",
-"Yeni Asır (İzmir)": "2026-11-27T11:22:30+00:00",
+"Yeni Asır (İzmir)": "2026-11-27T15:21:26+00:00",
 "İstanbul Gazetesi": "2026-11-27T12:34:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
 }
