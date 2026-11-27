@@ -1,6 +1,5 @@
 {
 "gonderilen": [
-"7abf984e7a62dd41",
 "8d359404e9f6f8f2",
 "ac3c8f1a6cff4977",
 "36455112a0abaaef",
@@ -2999,19 +2998,10 @@
 "be93eb030feeb954",
 "6e4f7873398df8b5",
 "eef8dd1703244873",
-"f5fac968a212338f"
+"f5fac968a212338f",
+"6c8e0d3283231445"
 ],
 "imzalar": [
-[
-"bahceli",
-"den",
-"hatirlatti",
-"ittifaki",
-"onerdikleri",
-"tepki",
-"uclu",
-"zirveye"
-],
 [
 "bitmiyor",
 "gazze",
@@ -8843,6 +8833,13 @@
 "turkiye",
 "uefa",
 "ulke"
+],
+[
+"casusluk",
+"darbesi",
+"mit",
+"sebekesine",
+"siber"
 ]
 ],
 "son_tarih": {
@@ -8851,7 +8848,7 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
 "Sözcü Son Dakika": "2026-11-27T01:01:50+00:00",
-"Yeni Şafak Yerel": "2026-11-26T20:29:15+00:00",
+"Yeni Şafak Yerel": "2026-11-27T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-26T19:16:15+00:00",
 "@islamasalya": "2026-11-26T21:15:57+00:00",
