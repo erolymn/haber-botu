@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"7f84442aa487efb2",
-"cb1f97bb98c26e3e",
-"18119271fb91b853",
 "7abf984e7a62dd41",
 "8d359404e9f6f8f2",
 "ac3c8f1a6cff4977",
@@ -2999,40 +2996,12 @@
 "491f7d3229b79056",
 "79a886b14bac5a9c",
 "14fea18577d241b1",
-"be93eb030feeb954"
+"be93eb030feeb954",
+"6e4f7873398df8b5",
+"eef8dd1703244873",
+"f5fac968a212338f"
 ],
 "imzalar": [
-[
-"binlerce",
-"durduracak",
-"harcayacaklar",
-"mayin",
-"mayinlara",
-"servet",
-"stoklanacak",
-"tanklari"
-],
-[
-"bazi",
-"bozcaada",
-"edildi",
-"feribot",
-"gokceada",
-"hattindaki",
-"iptal",
-"seferleri"
-],
-[
-"birbirlerini",
-"ederken",
-"felaket",
-"hayvanlari",
-"itlaf",
-"jandarma",
-"takip",
-"telef",
-"yasandi"
-],
 [
 "bahceli",
 "den",
@@ -8847,14 +8816,41 @@
 "orantisiz",
 "polisinin",
 "yansidi"
+],
+[
+"gazete",
+"karar",
+"resmi",
+"secildi",
+"uye",
+"yargitay"
+],
+[
+"bagcilar",
+"berber",
+"cocuk",
+"dukkanina",
+"iki",
+"saldiri",
+"silahli",
+"yaralandi"
+],
+[
+"buyuk",
+"den",
+"puaninda",
+"sicrama",
+"turkiye",
+"uefa",
+"ulke"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-27T00:28:00+00:00",
-"Sonsöz (Ankara)": "2026-11-26T23:54:00+00:00",
+"Haber Global": "2026-11-27T01:11:00+00:00",
+"Sonsöz (Ankara)": "2026-11-27T01:26:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
-"Sözcü Son Dakika": "2026-11-27T00:34:31+00:00",
+"Sözcü Son Dakika": "2026-11-27T01:01:50+00:00",
 "Yeni Şafak Yerel": "2026-11-26T20:29:15+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-26T19:16:15+00:00",
