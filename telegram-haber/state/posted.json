@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"ef1df0ed4bd6dd7d",
-"b296ac6cc6a61a0e",
-"3d158c6087efc46c",
 "a9efd58e09a03195",
 "92ccb56420c39288",
 "0adb70325ad67fd1",
@@ -2999,44 +2996,12 @@
 "04572fc45a178a71",
 "7ebf52a625fab4be",
 "ee69c299a0e4fbb0",
-"ba7f2d4cf7e3bece"
+"ba7f2d4cf7e3bece",
+"fc91d66895f771f4",
+"f85b6645cb87332f",
+"0d188c9c6f71a857"
 ],
 "imzalar": [
-[
-"alma",
-"dolu",
-"duraklari",
-"gereken",
-"guzel",
-"izmirlilerin",
-"kafeler",
-"karmasasindan",
-"kesfetmesi",
-"kitap",
-"kultur",
-"kutuphane",
-"nefes",
-"sanat",
-"sehrin",
-"uzak"
-],
-[
-"dort",
-"kazasi",
-"kisi",
-"susurluk",
-"trafik",
-"yaralandi",
-"zincirleme"
-],
-[
-"baskani",
-"belediye",
-"donem",
-"seciminde",
-"vekili",
-"yeni"
-],
 [
 "ayni",
 "cankiri",
@@ -8855,17 +8820,49 @@
 "dikiyorlar",
 "ortasina",
 "piramitleri"
+],
+[
+"buralardan",
+"bursa",
+"gececek",
+"guzergah",
+"hizli",
+"istasyonlar",
+"iste",
+"tren"
+],
+[
+"adliye",
+"ankara",
+"eden",
+"esnafi",
+"hali",
+"kisi",
+"nde",
+"tehdit",
+"toptanci"
+],
+[
+"adina",
+"donem",
+"harac",
+"istanbul",
+"selim",
+"tilki",
+"topluyordu",
+"yakalandi",
+"yesil"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-27T06:29:00+00:00",
-"Sonsöz (Ankara)": "2026-11-27T06:30:00+00:00",
+"Sonsöz (Ankara)": "2026-11-27T10:37:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-27T05:12:40+00:00",
-"Sözcü Son Dakika": "2026-11-27T09:37:48+00:00",
+"Sözcü Son Dakika": "2026-11-27T10:37:47+00:00",
 "Yeni Şafak Yerel": "2026-11-27T09:36:58+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-27T08:32:36+00:00",
+"Olay (Bursa)": "2026-11-27T10:36:49+00:00",
 "@islamasalya": "2026-11-27T07:43:34+00:00",
 "Yeni Asır (İzmir)": "2026-11-27T06:30:32+00:00",
 "İstanbul Gazetesi": "2026-11-27T09:35:00+00:00",
