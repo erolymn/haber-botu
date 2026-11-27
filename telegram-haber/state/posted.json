@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"887dcf3b667d1226",
-"b3efe61b8161d711",
-"4e2fb85eefbefeaf",
 "978b6d4a8285794e",
 "d00f0bba6549d1f8",
 "d88964de279f3f4b",
@@ -2999,19 +2996,12 @@
 "95bb3ffea0fcb915",
 "860a4d79024d8b72",
 "35b83e75e1348437",
-"4a2f317a098bf3ad"
+"4a2f317a098bf3ad",
+"4f2e8fbe77abd723",
+"26b4d71e550f8f6f",
+"04572fc45a178a71"
 ],
 "imzalar": [
-[
-"fenerbahce",
-"milan",
-"olimpia",
-"tarfin"
-],
-[
-"gazze",
-"itibariyle"
-],
 [
 "caktilar",
 "civi",
@@ -8843,6 +8833,27 @@
 "uner",
 "yonelik",
 "yurutulen"
+],
+[
+"avrupa",
+"bursa",
+"egitiminde",
+"isbirligi",
+"moda",
+"nden",
+"teknik",
+"universitesi"
+],
+[
+"bin",
+"gunde",
+"harcadi",
+"hurdaliktan",
+"liraya",
+"parcalarla",
+"topladigi",
+"uretti",
+"yapti"
 ]
 ],
 "son_tarih": {
@@ -8851,10 +8862,10 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-27T05:12:40+00:00",
 "Sözcü Son Dakika": "2026-11-27T07:36:25+00:00",
-"Yeni Şafak Yerel": "2026-11-27T07:34:40+00:00",
+"Yeni Şafak Yerel": "2026-11-27T08:36:39+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-27T02:05:35+00:00",
-"@islamasalya": "2026-11-27T06:48:36+00:00",
+"Olay (Bursa)": "2026-11-27T08:32:36+00:00",
+"@islamasalya": "2026-11-27T07:43:34+00:00",
 "Yeni Asır (İzmir)": "2026-11-27T06:30:32+00:00",
 "İstanbul Gazetesi": "2026-11-26T21:29:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
