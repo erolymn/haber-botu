@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"3086881ed10b6765",
-"833258c0b18a30f7",
-"639d4a9b670e7142",
 "9c6139bc54e66b3d",
 "d549d16ffd642aa0",
 "7ce968de5c9f8940",
@@ -2999,41 +2996,12 @@
 "f4369a4f392d02bd",
 "16865c1337c9e092",
 "1378473a4d2868ab",
-"2a5d972907220022"
+"2a5d972907220022",
+"53bd4b8ed1991f09",
+"40a5c9ccd4d08030",
+"db2ef7169a8a0bf2"
 ],
 "imzalar": [
-[
-"dev",
-"feto",
-"ilde",
-"operasyonu",
-"supheli",
-"tutuklandi",
-"yakalandi"
-],
-[
-"acik",
-"asti",
-"beytussebap",
-"ekipler",
-"kalinligi",
-"kar",
-"santimetreyi",
-"tutuyor",
-"yollari"
-],
-[
-"davada",
-"ejegul",
-"ilgili",
-"kesif",
-"nin",
-"olay",
-"olumuyle",
-"ovezova",
-"yapildi",
-"yerinde"
-],
 [
 "acilacak",
 "bozulacak",
@@ -8877,15 +8845,47 @@
 "kurtarma",
 "personel",
 "sevk"
+],
+[
+"ilde",
+"istanbul",
+"merkezli",
+"operasyonu",
+"supheli",
+"tefecilik",
+"tutuklandi"
+],
+[
+"faciasi",
+"gocmen",
+"hayatini",
+"ispanya",
+"kaybetti",
+"kisi",
+"kurtarildi",
+"teknesi"
+],
+[
+"ayari",
+"bozuk",
+"elleme",
+"kapisina",
+"muhur",
+"otomotiv",
+"pahaliya",
+"patladi",
+"servisinin",
+"sozleri",
+"vuruldu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-27T19:21:00+00:00",
+"Haber Global": "2026-11-27T21:14:00+00:00",
 "Sonsöz (Ankara)": "2026-11-27T16:16:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-27T16:18:11+00:00",
-"Sözcü Son Dakika": "2026-11-27T20:36:50+00:00",
-"Yeni Şafak Yerel": "2026-11-27T20:38:52+00:00",
+"Sözcü Son Dakika": "2026-11-27T21:30:13+00:00",
+"Yeni Şafak Yerel": "2026-11-27T21:28:26+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-27T15:37:39+00:00",
 "@islamasalya": "2026-11-27T18:16:41+00:00",
