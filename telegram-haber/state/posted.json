@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"b580941606409171",
-"3ecbb6486820765b",
-"653adec21ca1126f",
 "3086881ed10b6765",
 "833258c0b18a30f7",
 "639d4a9b670e7142",
@@ -2999,38 +2996,12 @@
 "5351ccb3200431b0",
 "ddf54964f6a89d0a",
 "c2ce34a52f2246dd",
-"f4369a4f392d02bd"
+"f4369a4f392d02bd",
+"16865c1337c9e092",
+"1378473a4d2868ab",
+"2a5d972907220022"
 ],
 "imzalar": [
-[
-"feijoo",
-"geldi",
-"gun",
-"ispanya",
-"kala",
-"karsi",
-"karsiya",
-"sanchez",
-"secime",
-"televizyonda"
-],
-[
-"bittigi",
-"sozun",
-"yer"
-],
-[
-"aci",
-"akademi",
-"bursa",
-"dunyasini",
-"durak",
-"gunu",
-"kemal",
-"prof",
-"uzen",
-"vefat"
-],
 [
 "dev",
 "feto",
@@ -8877,6 +8848,35 @@
 "saldiri",
 "siber",
 "sisteme"
+],
+[
+"akgun",
+"alaca",
+"birlestirdi",
+"hayatini",
+"tugce",
+"yunus"
+],
+[
+"aciklama",
+"bakanliktan",
+"bolu",
+"cocuk",
+"geldi",
+"kayip",
+"personel"
+],
+[
+"arama",
+"bolu",
+"cocugu",
+"edildi",
+"ekipleri",
+"kayip",
+"kiz",
+"kurtarma",
+"personel",
+"sevk"
 ]
 ],
 "son_tarih": {
@@ -8884,13 +8884,13 @@
 "Sonsöz (Ankara)": "2026-11-27T16:16:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-27T16:18:11+00:00",
-"Sözcü Son Dakika": "2026-11-27T19:13:34+00:00",
-"Yeni Şafak Yerel": "2026-11-27T19:38:42+00:00",
+"Sözcü Son Dakika": "2026-11-27T20:36:50+00:00",
+"Yeni Şafak Yerel": "2026-11-27T20:38:52+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-27T15:37:39+00:00",
 "@islamasalya": "2026-11-27T18:16:41+00:00",
 "Yeni Asır (İzmir)": "2026-11-27T17:33:17+00:00",
-"İstanbul Gazetesi": "2026-11-27T16:16:00+00:00",
+"İstanbul Gazetesi": "2026-11-27T20:21:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
 }
 }
