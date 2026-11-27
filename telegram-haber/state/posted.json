@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"a58672525f130b48",
-"3491de112f9b18c5",
-"cbfaf77d2e89f435",
 "89a4bef6a099b696",
 "3f7257483013fb2b",
 "1cb0cee997fe4c19",
@@ -2999,57 +2996,12 @@
 "db2ef7169a8a0bf2",
 "9e3356bc43266d80",
 "422e3559738ec7d6",
-"fead0bb67c436a88"
+"fead0bb67c436a88",
+"5909eea460b00450",
+"261265c24aa4b405",
+"87d5da782121233d"
 ],
 "imzalar": [
-[
-"adayan",
-"aldi",
-"camilere",
-"gazze",
-"giderken",
-"halkalarina",
-"hedef",
-"ilim",
-"israil",
-"kesiminde",
-"kur",
-"meclislerine",
-"namazina",
-"nin",
-"omrunu",
-"orta",
-"sabah",
-"safak",
-"sehit",
-"seridi",
-"seyhi",
-"siyonist",
-"vakti",
-"yasli"
-],
-[
-"acikladi",
-"bakan",
-"hgs",
-"icra",
-"ilgili",
-"karar",
-"takipleriyle",
-"uraloglu"
-],
-[
-"alana",
-"anlar",
-"bulundugu",
-"cekilmeyen",
-"dustu",
-"freni",
-"kamerada",
-"menfezin",
-"minibus",
-"sirnak"
-],
 [
 "arkadasini",
 "bicaklayan",
@@ -8881,19 +8833,45 @@
 "kiz",
 "minibus",
 "personel"
+],
+[
+"aciklama",
+"burhanettin",
+"cocuklarla",
+"dan",
+"duran",
+"ilgili",
+"kaybolan",
+"yedigoller"
+],
+[
+"amazonlar",
+"bakir",
+"ormanlara",
+"yanginlar",
+"yayildi"
+],
+[
+"dustu",
+"korkutan",
+"metre",
+"mugla",
+"olay",
+"ucurumdan",
+"yukseklikten"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-27T21:14:00+00:00",
-"Sonsöz (Ankara)": "2026-11-27T20:58:00+00:00",
+"Sonsöz (Ankara)": "2026-11-27T22:09:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-27T16:18:11+00:00",
-"Sözcü Son Dakika": "2026-11-27T21:30:13+00:00",
+"Sözcü Son Dakika": "2026-11-27T22:13:38+00:00",
 "Yeni Şafak Yerel": "2026-11-27T21:28:26+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-27T21:06:15+00:00",
 "@islamasalya": "2026-11-27T18:16:41+00:00",
-"Yeni Asır (İzmir)": "2026-11-27T20:16:43+00:00",
+"Yeni Asır (İzmir)": "2026-11-27T22:28:25+00:00",
 "İstanbul Gazetesi": "2026-11-27T20:21:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
 }
