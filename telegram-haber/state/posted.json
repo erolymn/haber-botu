@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"89a4bef6a099b696",
-"3f7257483013fb2b",
-"1cb0cee997fe4c19",
 "e84907a4e738162a",
 "1aefeb84a3223e25",
 "3b7fd7f31431a5b2",
@@ -2999,35 +2996,12 @@
 "fead0bb67c436a88",
 "5909eea460b00450",
 "261265c24aa4b405",
-"87d5da782121233d"
+"87d5da782121233d",
+"2cdda760208d8273",
+"78af79402d3dc895",
+"6cf1e910db90ebfc"
 ],
 "imzalar": [
-[
-"arkadasini",
-"bicaklayan",
-"supheli",
-"tartistigi",
-"tutuklandi"
-],
-[
-"aciklamasi",
-"bakan",
-"durduruldu",
-"hgs",
-"icra",
-"ndan",
-"takipleri",
-"uraloglu"
-],
-[
-"bakan",
-"cezalarinda",
-"donem",
-"duyurdu",
-"hgs",
-"uraloglu",
-"yeni"
-],
 [
 "com",
 "g6pwnkzq5tmqyqhf",
@@ -8859,17 +8833,49 @@
 "olay",
 "ucurumdan",
 "yukseklikten"
+],
+[
+"bogazina",
+"dikkati",
+"faciayi",
+"kacan",
+"kayseri",
+"kurtardilar",
+"ogrenciyi",
+"ogretmenlerin",
+"onledi",
+"yemek"
+],
+[
+"acmisti",
+"ahmet",
+"ailesi",
+"dava",
+"filmle",
+"ilgili",
+"karar",
+"kaya",
+"mahkemeden",
+"nin",
+"yeni"
+],
+[
+"fatih",
+"operasyonu",
+"pasaport",
+"sahte",
+"uyusturucu"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-27T21:14:00+00:00",
-"Sonsöz (Ankara)": "2026-11-27T22:09:00+00:00",
+"Sonsöz (Ankara)": "2026-11-27T23:39:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-27T16:18:11+00:00",
 "Sözcü Son Dakika": "2026-11-27T22:13:38+00:00",
-"Yeni Şafak Yerel": "2026-11-27T21:28:26+00:00",
+"Yeni Şafak Yerel": "2026-11-27T21:45:30+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-27T21:06:15+00:00",
+"Olay (Bursa)": "2026-11-27T22:04:04+00:00",
 "@islamasalya": "2026-11-27T18:16:41+00:00",
 "Yeni Asır (İzmir)": "2026-11-27T22:28:25+00:00",
 "İstanbul Gazetesi": "2026-11-27T20:21:00+00:00",
