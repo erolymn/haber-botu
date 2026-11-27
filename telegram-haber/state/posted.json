@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"3e0ee767f33b02ad",
-"23c72a97c9b5e020",
-"b863f5eabf8c3f29",
 "02d09d5820620ddb",
 "ec060765efdcd443",
 "79d691aeea537fd8",
@@ -2999,36 +2996,12 @@
 "f97c531ac1049274",
 "74c5e3d15a6642ed",
 "de998be100f80973",
-"53e2a49023333526"
+"53e2a49023333526",
+"fbbe7f1f5cf05e14",
+"fabc03aaaec10267",
+"f4a2903ab18df20c"
 ],
 "imzalar": [
-[
-"galatasaray",
-"maci",
-"mujdeli",
-"oncesi",
-"samsunspor"
-],
-[
-"belli",
-"eslesmeleri",
-"final",
-"kupa",
-"voley",
-"yari"
-],
-[
-"ankara",
-"bekleyen",
-"disinda",
-"guzellikleri",
-"kesfedilmeyi",
-"kizilay",
-"nin",
-"rota",
-"sakli",
-"tunali"
-],
 [
 "arabistan",
 "endonezya",
@@ -8841,14 +8814,42 @@
 "pazar",
 "soguk",
 "vuracak"
+],
+[
+"cikti",
+"dusuk",
+"emekli",
+"maasi",
+"ortaya",
+"rakam",
+"yeni"
+],
+[
+"den",
+"erdi",
+"misilleme",
+"seyahat",
+"sona",
+"turkiye",
+"vizesiz"
+],
+[
+"acildi",
+"aym",
+"dunyasinda",
+"itiraz",
+"karari",
+"spor",
+"tarihi",
+"yolu"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-27T03:27:00+00:00",
+"Haber Global": "2026-11-27T04:08:00+00:00",
 "Sonsöz (Ankara)": "2026-11-27T01:26:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-26T05:02:16+00:00",
-"Sözcü Son Dakika": "2026-11-27T03:17:44+00:00",
+"Mynet Son Dakika": "2026-11-27T04:31:21+00:00",
+"Sözcü Son Dakika": "2026-11-27T04:37:57+00:00",
 "Yeni Şafak Yerel": "2026-11-27T01:00:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-27T02:05:35+00:00",
