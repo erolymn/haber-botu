@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"02d09d5820620ddb",
-"ec060765efdcd443",
-"79d691aeea537fd8",
 "21ae504a17ed3b98",
 "c2174cff639805f7",
 "67a15a1730ec8f25",
@@ -2999,44 +2996,12 @@
 "53e2a49023333526",
 "fbbe7f1f5cf05e14",
 "fabc03aaaec10267",
-"f4a2903ab18df20c"
+"f4a2903ab18df20c",
+"8058529736208109",
+"653b975815c1ce4f",
+"52b396f8fbbef5c0"
 ],
 "imzalar": [
-[
-"arabistan",
-"endonezya",
-"gundemde",
-"hazirlaniyor",
-"ittifaki",
-"katilima",
-"katilimi",
-"mekke",
-"olusturdugu",
-"pakistan",
-"suudi",
-"turkiye",
-"ulkenin",
-"yeni"
-],
-[
-"bedenine",
-"cansiz",
-"cayi",
-"cocugun",
-"dusen",
-"kocabas",
-"ulasildi",
-"yasindaki"
-],
-[
-"cokertti",
-"dere",
-"diyarbakir",
-"donuldu",
-"faciadan",
-"kopruyu",
-"yukselen"
-],
 [
 "ardindan",
 "cikti",
@@ -8842,15 +8807,43 @@
 "spor",
 "tarihi",
 "yolu"
+],
+[
+"anketin",
+"chp",
+"partisi",
+"solladi",
+"surpriz"
+],
+[
+"calistirdilar",
+"insan",
+"kacakciligi",
+"kadinlari",
+"kandirip",
+"skandali",
+"tiktok",
+"zorla"
+],
+[
+"adamin",
+"alay",
+"besiktas",
+"hazmedemedi",
+"israilli",
+"konusu",
+"sozleri",
+"teknik",
+"yenilgisini"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-27T04:08:00+00:00",
 "Sonsöz (Ankara)": "2026-11-27T01:26:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-27T04:31:21+00:00",
-"Sözcü Son Dakika": "2026-11-27T04:37:57+00:00",
-"Yeni Şafak Yerel": "2026-11-27T01:00:00+00:00",
+"Mynet Son Dakika": "2026-11-27T05:12:40+00:00",
+"Sözcü Son Dakika": "2026-11-27T05:31:09+00:00",
+"Yeni Şafak Yerel": "2026-11-27T05:31:14+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-27T02:05:35+00:00",
 "@islamasalya": "2026-11-26T21:15:57+00:00",
