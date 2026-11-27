@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"f386aec045a6febd",
-"f21004e597b9a416",
-"badc936bf3dab8f5",
 "b580941606409171",
 "3ecbb6486820765b",
 "653adec21ca1126f",
@@ -2999,34 +2996,12 @@
 "228d9d3c0fbec138",
 "1bfa832466dcd797",
 "163719b71b335197",
-"5351ccb3200431b0"
+"5351ccb3200431b0",
+"ddf54964f6a89d0a",
+"c2ce34a52f2246dd",
+"f4369a4f392d02bd"
 ],
 "imzalar": [
-[
-"duzenlendi",
-"ilde",
-"operasyonu",
-"uyusturucu"
-],
-[
-"calistilar",
-"icinde",
-"konusuyor",
-"turkiye",
-"vahseti",
-"varilin",
-"yakmaya"
-],
-[
-"adayi",
-"eleme",
-"gitti",
-"kasim",
-"kim",
-"masterchef",
-"potaya",
-"ucuncu"
-],
 [
 "feijoo",
 "geldi",
@@ -8876,15 +8851,41 @@
 "gecti",
 "komisyonundan",
 "meclis"
+],
+[
+"bitti",
+"kazandi",
+"konyaspor",
+"maclik",
+"seri"
+],
+[
+"ankara",
+"hali",
+"nde",
+"operasyonu",
+"sebze",
+"supheli",
+"tutuklandi",
+"yagma"
+],
+[
+"alarma",
+"askeri",
+"gecti",
+"pentagon",
+"saldiri",
+"siber",
+"sisteme"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-27T11:37:00+00:00",
+"Haber Global": "2026-11-27T19:21:00+00:00",
 "Sonsöz (Ankara)": "2026-11-27T16:16:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-27T16:18:11+00:00",
-"Sözcü Son Dakika": "2026-11-27T18:38:08+00:00",
-"Yeni Şafak Yerel": "2026-11-27T18:35:52+00:00",
+"Sözcü Son Dakika": "2026-11-27T19:13:34+00:00",
+"Yeni Şafak Yerel": "2026-11-27T19:38:42+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-27T15:37:39+00:00",
 "@islamasalya": "2026-11-27T18:16:41+00:00",
