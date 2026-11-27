@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"9c6139bc54e66b3d",
-"d549d16ffd642aa0",
-"7ce968de5c9f8940",
 "a58672525f130b48",
 "3491de112f9b18c5",
 "cbfaf77d2e89f435",
@@ -2999,38 +2996,12 @@
 "2a5d972907220022",
 "53bd4b8ed1991f09",
 "40a5c9ccd4d08030",
-"db2ef7169a8a0bf2"
+"db2ef7169a8a0bf2",
+"9e3356bc43266d80",
+"422e3559738ec7d6",
+"fead0bb67c436a88"
 ],
 "imzalar": [
-[
-"acilacak",
-"bozulacak",
-"durumu",
-"hafta",
-"hava",
-"izmir",
-"nasil",
-"olacak",
-"planlar",
-"semsiyeler",
-"sonu"
-],
-[
-"dolandiricilik",
-"iddiasi",
-"sanliurfa",
-"supheliden",
-"tutuklandi"
-],
-[
-"binlerce",
-"genel",
-"grev",
-"italya",
-"ogrenci",
-"saatlik",
-"sokakta"
-],
 [
 "adayan",
 "aldi",
@@ -8877,19 +8848,52 @@
 "servisinin",
 "sozleri",
 "vuruldu"
+],
+[
+"aile",
+"bakanligi",
+"baslatildi",
+"calisma",
+"cocugu",
+"gorevli",
+"hizmetler",
+"kiz",
+"personel",
+"sosyal"
+],
+[
+"bolu",
+"cocugu",
+"gorevli",
+"kayboldu",
+"kiz",
+"yedigoller"
+],
+[
+"bakan",
+"bolgeye",
+"bolu",
+"bulunan",
+"cocugu",
+"gidiyor",
+"goktas",
+"kayip",
+"kiz",
+"minibus",
+"personel"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-27T21:14:00+00:00",
-"Sonsöz (Ankara)": "2026-11-27T16:16:00+00:00",
+"Sonsöz (Ankara)": "2026-11-27T20:58:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-27T16:18:11+00:00",
 "Sözcü Son Dakika": "2026-11-27T21:30:13+00:00",
 "Yeni Şafak Yerel": "2026-11-27T21:28:26+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-27T15:37:39+00:00",
+"Olay (Bursa)": "2026-11-27T21:06:15+00:00",
 "@islamasalya": "2026-11-27T18:16:41+00:00",
-"Yeni Asır (İzmir)": "2026-11-27T17:33:17+00:00",
+"Yeni Asır (İzmir)": "2026-11-27T20:16:43+00:00",
 "İstanbul Gazetesi": "2026-11-27T20:21:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
 }
