@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"1278155ba1913ef5",
-"0223e12021afed79",
-"9837756bc3df9d05",
 "752c585a54c86995",
 "61e9a3ae2aa2b099",
 "00c8adc49e19a12a",
@@ -2999,31 +2996,12 @@
 "0d188c9c6f71a857",
 "efd15178bc048272",
 "3014428edc5b0dfe",
-"a0fa5d11ec2881a2"
+"a0fa5d11ec2881a2",
+"22feea9fe3bae0cd",
+"e1fcfc65475b2b5c",
+"7bc36c5b890fce02"
 ],
 "imzalar": [
-[
-"amazonlardan",
-"cikti",
-"kabile",
-"yeni"
-],
-[
-"ceza",
-"ehliyetsiz",
-"kacan",
-"kayseri",
-"motosiklet",
-"polisten",
-"surucusune"
-],
-[
-"basti",
-"hatay",
-"saganak",
-"sokaklari",
-"yagis"
-],
 [
 "aracin",
 "dondu",
@@ -8848,19 +8826,48 @@
 "bursa",
 "gecit",
 "kacak"
+],
+[
+"borsa",
+"gunun",
+"ilk",
+"pozitif",
+"seyretti",
+"yarisinda"
+],
+[
+"baslamayi",
+"galibiyetiyle",
+"hedefliyor",
+"hentbol",
+"kadin",
+"milli",
+"takimi",
+"yunanistan"
+],
+[
+"aciklandi",
+"brans",
+"kpss",
+"nasil",
+"nereden",
+"ogrenilir",
+"ortaogretim",
+"osym",
+"siralamasi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-27T06:29:00+00:00",
+"Haber Global": "2026-11-27T11:37:00+00:00",
 "Sonsöz (Ankara)": "2026-11-27T11:37:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-27T05:12:40+00:00",
 "Sözcü Son Dakika": "2026-11-27T11:37:35+00:00",
-"Yeni Şafak Yerel": "2026-11-27T09:36:58+00:00",
+"Yeni Şafak Yerel": "2026-11-27T11:35:43+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-27T11:38:10+00:00",
 "@islamasalya": "2026-11-27T07:43:34+00:00",
-"Yeni Asır (İzmir)": "2026-11-27T06:30:32+00:00",
+"Yeni Asır (İzmir)": "2026-11-27T11:22:30+00:00",
 "İstanbul Gazetesi": "2026-11-27T09:35:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
 }
