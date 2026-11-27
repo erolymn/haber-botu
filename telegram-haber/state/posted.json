@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"448c69f73f747828",
-"d474fdbc5a803714",
-"3d3b924a541543b8",
 "a24d3079d699e245",
 "f5b862af04a893b5",
 "639a104b472f2902",
@@ -2999,37 +2996,12 @@
 "3024a269b5fed954",
 "8e57b6cc94f12fe3",
 "a83e0f107139f7bf",
-"4de367060181a343"
+"4de367060181a343",
+"74aff82f77f791d7",
+"9a11c57d56eab60f",
+"228d9d3c0fbec138"
 ],
 "imzalar": [
-[
-"bursa",
-"dustu",
-"fiyatlar",
-"geldi",
-"indirim",
-"pompaya"
-],
-[
-"ebu",
-"hamza",
-"kehf",
-"kuynas",
-"okuyan",
-"sehit",
-"suresi"
-],
-[
-"caldi",
-"camiye",
-"cep",
-"girip",
-"kendi",
-"para",
-"telefon",
-"telefonunu",
-"unuttu"
-],
 [
 "baskani",
 "cinping",
@@ -8880,6 +8852,34 @@
 "meclisinde",
 "milyar",
 "parti"
+],
+[
+"gazze",
+"namazi",
+"nesil",
+"sabah",
+"yeni"
+],
+[
+"ara",
+"baskanligi",
+"fonlarda",
+"iletisim",
+"odeme",
+"sureci",
+"tamamlandi"
+],
+[
+"aktuel",
+"bim",
+"gunu",
+"indirimli",
+"kasim",
+"katalogu",
+"neler",
+"pazar",
+"raflarinda",
+"urunler"
 ]
 ],
 "son_tarih": {
@@ -8887,12 +8887,12 @@
 "Sonsöz (Ankara)": "2026-11-27T16:16:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-27T16:18:11+00:00",
-"Sözcü Son Dakika": "2026-11-27T16:31:44+00:00",
+"Sözcü Son Dakika": "2026-11-27T17:32:05+00:00",
 "Yeni Şafak Yerel": "2026-11-27T16:36:38+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-27T15:37:39+00:00",
-"@islamasalya": "2026-11-27T07:43:34+00:00",
-"Yeni Asır (İzmir)": "2026-11-27T16:06:43+00:00",
+"@islamasalya": "2026-11-27T16:54:28+00:00",
+"Yeni Asır (İzmir)": "2026-11-27T17:33:17+00:00",
 "İstanbul Gazetesi": "2026-11-27T16:16:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
 }
