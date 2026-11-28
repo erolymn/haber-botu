@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"0af8c72225f3c721",
-"29f5c5d3459936b2",
-"805e85d42ea35f66",
 "c4d2389a69eefd1d",
 "09f5768465b0e986",
 "52a87c38e7e9e97d",
@@ -2999,51 +2996,12 @@
 "01f0d5a7ae94de1f",
 "e72a88444c1439cd",
 "a83827ffaa3cdee8",
-"27dea283ee6ee659"
+"27dea283ee6ee659",
+"8610343a8df3ceb1",
+"733ff7878b459d4f",
+"705c6af12da642f1"
 ],
 "imzalar": [
-[
-"altinda",
-"andi",
-"donumunde",
-"eden",
-"izzet",
-"kalan",
-"kassam",
-"kusatma",
-"mucahitleri",
-"mucahitlerin",
-"nde",
-"olmayi",
-"reddeden",
-"refah",
-"sehit",
-"taki",
-"tercih",
-"teslim",
-"tugaylari",
-"tunelleri",
-"video",
-"yayinladi",
-"yil"
-],
-[
-"aci",
-"arkadastan",
-"biri",
-"denizli",
-"mantar",
-"yiyen"
-],
-[
-"kacti",
-"malatya",
-"motosikletle",
-"parkta",
-"saldiri",
-"silahli",
-"supheli"
-],
 [
 "alarma",
 "dunyayi",
@@ -8847,18 +8805,45 @@
 "sonduruldu",
 "uzunkopru",
 "yangin"
+],
+[
+"ambargoyla",
+"yikim"
+],
+[
+"akilalmaz",
+"ataturk",
+"attilar",
+"bustunu",
+"calip",
+"goturduler",
+"hurdaciya",
+"olay",
+"ormana",
+"satamayinca",
+"zonguldak"
+],
+[
+"atildi",
+"berlin",
+"destek",
+"durdurun",
+"filistin",
+"gosterisi",
+"sloganlari",
+"soykirimi"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-28T18:16:00+00:00",
+"Haber Global": "2026-11-28T19:36:00+00:00",
 "Sonsöz (Ankara)": "2026-11-28T17:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-28T17:34:43+00:00",
 "Sözcü Son Dakika": "2026-11-28T17:36:34+00:00",
-"Yeni Şafak Yerel": "2026-11-28T18:42:18+00:00",
+"Yeni Şafak Yerel": "2026-11-28T19:41:24+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-28T18:36:41+00:00",
-"@islamasalya": "2026-11-28T15:14:54+00:00",
+"@islamasalya": "2026-11-28T18:46:44+00:00",
 "Yeni Asır (İzmir)": "2026-11-28T16:58:31+00:00",
 "İstanbul Gazetesi": "2026-11-28T12:29:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
