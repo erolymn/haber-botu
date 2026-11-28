@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"f69eadeca8e7d568",
-"98cf0b2804877c4b",
-"e1532e69ac1b3589",
 "b3aa770b05102fad",
 "977389e6d8bc35cd",
 "10fe08d2e17a0e67",
@@ -2999,40 +2996,12 @@
 "3661b8a417ed6c6d",
 "93281d71808d718b",
 "1404876eea3446d4",
-"f4d42cf21ad6cc4f"
+"f4d42cf21ad6cc4f",
+"01a2a15f8e7ef507",
+"034535adb69864be",
+"523e04fd57762869"
 ],
 "imzalar": [
-[
-"batiminda",
-"buyuleyen",
-"camii",
-"gokyuzu",
-"gun",
-"istanbul",
-"manzara",
-"mest",
-"suleymaniye"
-],
-[
-"altinbas",
-"aranan",
-"cekya",
-"fon",
-"serdar",
-"sorusturmasinda",
-"yakalandi"
-],
-[
-"aciklamalar",
-"arda",
-"dan",
-"fenerbahce",
-"hicbir",
-"macinda",
-"sey",
-"turan",
-"yapamayiz"
-],
 [
 "anda",
 "arac",
@@ -8840,20 +8809,44 @@
 "mucadele",
 "nde",
 "yukseklikte"
+],
+[
+"edecek",
+"erzurumspor",
+"fenerbahce",
+"konuk"
+],
+[
+"bagli",
+"besiktas",
+"derbisine",
+"galatasaray",
+"transfer"
+],
+[
+"edirne",
+"gok",
+"gurultulu",
+"kirklareli",
+"kodlu",
+"nedeniyle",
+"saganak",
+"sari",
+"uyari"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-28T06:34:00+00:00",
+"Haber Global": "2026-11-28T07:34:00+00:00",
 "Sonsöz (Ankara)": "2026-11-28T07:38:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-28T04:33:33+00:00",
 "Sözcü Son Dakika": "2026-11-28T07:37:45+00:00",
-"Yeni Şafak Yerel": "2026-11-28T07:39:41+00:00",
+"Yeni Şafak Yerel": "2026-11-28T07:40:44+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-28T02:25:35+00:00",
 "@islamasalya": "2026-11-27T18:16:41+00:00",
 "Yeni Asır (İzmir)": "2026-11-27T22:28:25+00:00",
-"İstanbul Gazetesi": "2026-11-27T20:21:00+00:00",
+"İstanbul Gazetesi": "2026-11-28T07:33:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
 }
 }
