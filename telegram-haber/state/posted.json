@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"b1f09fd1f951f356",
-"23a124f3e9f291d0",
-"fadbea279743a9a9",
 "0483a3be70db835b",
 "ba7512195d5b40df",
 "4c0bd2a1815eb683",
@@ -2999,54 +2996,12 @@
 "88392d8b2e72894a",
 "5c47ccf0aa3f716b",
 "c694ac313317e7ae",
-"eb80ff5dff2657e0"
+"eb80ff5dff2657e0",
+"dfc50611f09b2209",
+"fa2b199d86cc788c",
+"d87c66544cd1b495"
 ],
 "imzalar": [
-[
-"bakanligi",
-"disisleri",
-"duyurdu",
-"icao",
-"kez",
-"konseyinde",
-"turkiye",
-"ucuncu"
-],
-[
-"acti",
-"ates",
-"baldizini",
-"donduran",
-"istanbul",
-"kan",
-"olay",
-"oldurdu",
-"polise",
-"yerinde"
-],
-[
-"acilarini",
-"dindirsin",
-"dondurucu",
-"dualarinizda",
-"gazze",
-"geciriyor",
-"golgesinde",
-"gunler",
-"kusatmanin",
-"mazlumlari",
-"nin",
-"olsun",
-"olur",
-"onlara",
-"rabbim",
-"savasin",
-"sogugun",
-"unutmayin",
-"yardimcisi",
-"yoklugun",
-"zor"
-],
 [
 "anlasma",
 "gereken",
@@ -8822,6 +8777,40 @@
 "istanbul",
 "karar",
 "kargo"
+],
+[
+"acmasi",
+"bayrak",
+"besiktas",
+"besiktasli",
+"derslerini",
+"havalimani",
+"isgalci",
+"israilli",
+"karisti",
+"taraftarlar",
+"taraftarlari",
+"taraftarlarin",
+"verdiler"
+],
+[
+"agila",
+"atlatarak",
+"dedirtti",
+"girdiler",
+"kopekleri",
+"kurtlarin",
+"pes",
+"plani"
+],
+[
+"cagdas",
+"dunya",
+"halterci",
+"ikincisi",
+"kaya",
+"milli",
+"para"
 ]
 ],
 "son_tarih": {
@@ -8830,10 +8819,10 @@
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-28T04:33:33+00:00",
 "Sözcü Son Dakika": "2026-11-28T12:32:53+00:00",
-"Yeni Şafak Yerel": "2026-11-28T12:40:51+00:00",
+"Yeni Şafak Yerel": "2026-11-28T13:40:50+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-28T12:32:40+00:00",
-"@islamasalya": "2026-11-28T11:02:25+00:00",
+"Olay (Bursa)": "2026-11-28T13:40:00+00:00",
+"@islamasalya": "2026-11-28T12:56:57+00:00",
 "Yeni Asır (İzmir)": "2026-11-27T22:28:25+00:00",
 "İstanbul Gazetesi": "2026-11-28T12:29:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
