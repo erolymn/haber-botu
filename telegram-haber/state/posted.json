@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"c4d2389a69eefd1d",
-"09f5768465b0e986",
-"52a87c38e7e9e97d",
 "bfede3a712c92a3c",
 "dac7e6dc915e5e3f",
 "2320874767f3a027",
@@ -2999,39 +2996,12 @@
 "27dea283ee6ee659",
 "8610343a8df3ceb1",
 "733ff7878b459d4f",
-"705c6af12da642f1"
+"705c6af12da642f1",
+"36acdf3d8ed6b7e5",
+"b53ea42fe5e036a5",
+"d1cf86be23c5f6ff"
 ],
 "imzalar": [
-[
-"alarma",
-"dunyayi",
-"gecirdi",
-"goruntuler",
-"habercisi",
-"kiyamet",
-"silahlarinin"
-],
-[
-"kahve",
-"kasim",
-"katalogu",
-"kez",
-"raflarinda",
-"ruzgari",
-"sok",
-"teknoloji"
-],
-[
-"736",
-"altindaki",
-"bin",
-"can",
-"gazze",
-"israil",
-"kaybi",
-"saldirilari",
-"yukseldi"
-],
 [
 "her",
 "itibariyle",
@@ -8832,15 +8802,48 @@
 "gosterisi",
 "sloganlari",
 "soykirimi"
+],
+[
+"carpti",
+"cocuk",
+"kamyonet",
+"patpata",
+"tekirdag",
+"yasindaki"
+],
+[
+"birbirine",
+"dunyasinda",
+"futbol",
+"girip",
+"gorulmemis",
+"katti",
+"olay",
+"ortaligi",
+"sahaya",
+"scooter"
+],
+[
+"araci",
+"ata",
+"carpti",
+"iki",
+"inceleme",
+"karabuk",
+"kazada",
+"olay",
+"yarali",
+"yeri",
+"zincirleme"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-28T19:36:00+00:00",
+"Haber Global": "2026-11-28T20:12:00+00:00",
 "Sonsöz (Ankara)": "2026-11-28T17:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-28T17:34:43+00:00",
-"Sözcü Son Dakika": "2026-11-28T17:36:34+00:00",
-"Yeni Şafak Yerel": "2026-11-28T19:41:24+00:00",
+"Sözcü Son Dakika": "2026-11-28T20:35:58+00:00",
+"Yeni Şafak Yerel": "2026-11-28T20:38:37+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-28T18:36:41+00:00",
 "@islamasalya": "2026-11-28T18:46:44+00:00",
