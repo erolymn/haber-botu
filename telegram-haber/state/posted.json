@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"60e490f6b3e30407",
-"23414ce8222a7b24",
-"1e444640eeda60d6",
 "75823c504768335d",
 "4c57fa964faf0934",
 "e6519a9c93aa56ad",
@@ -2999,35 +2996,12 @@
 "d8a396ff01eeeb43",
 "5e92cc9ede9750f5",
 "1fa795957f8dc875",
-"25158692b07fa1d1"
+"25158692b07fa1d1",
+"c32e0219452c3ec9",
+"2ea9981edf87e435",
+"506fcabe889defb4"
 ],
 "imzalar": [
-[
-"altinda",
-"bombardiman",
-"gazze",
-"itibariyle",
-"siddetli"
-],
-[
-"anlasti",
-"caylagi",
-"galatasaray",
-"miles",
-"olivia",
-"wnba",
-"yilin"
-],
-[
-"binis",
-"den",
-"destegi",
-"her",
-"ibb",
-"ogrencilere",
-"olacak",
-"ulasim"
-],
 [
 "bursa",
 "noktalari",
@@ -8842,15 +8816,46 @@
 "tayvan",
 "tespit",
 "ucusu"
+],
+[
+"eden",
+"hakaret",
+"medyada",
+"sanal",
+"sehitlere",
+"supheli",
+"tutuklandi"
+],
+[
+"anlami",
+"goren",
+"iste",
+"levhasini",
+"sasiriyor",
+"trafik",
+"yollarda"
+],
+[
+"cikti",
+"cocugu",
+"donusu",
+"gezi",
+"gorevlinin",
+"goruntuleri",
+"kalmislardi",
+"kiz",
+"kurtarilma",
+"mahsur",
+"ortaya"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-27T21:41:00+00:00",
+"Haber Global": "2026-11-28T05:27:00+00:00",
 "Sonsöz (Ankara)": "2026-11-28T02:24:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-28T04:33:33+00:00",
-"Sözcü Son Dakika": "2026-11-28T04:39:44+00:00",
-"Yeni Şafak Yerel": "2026-11-28T04:39:59+00:00",
+"Sözcü Son Dakika": "2026-11-28T05:34:56+00:00",
+"Yeni Şafak Yerel": "2026-11-28T05:37:17+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-28T02:25:35+00:00",
 "@islamasalya": "2026-11-27T18:16:41+00:00",
