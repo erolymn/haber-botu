@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"417cf92b62ecdf3a",
-"48148dd98dbe9542",
-"30c4a224dc21a4e1",
 "6c52479f14cd8273",
 "e3319bba0c4adf74",
 "a684e5bc9da53c1c",
@@ -2999,35 +2996,12 @@
 "00d1514668f1533f",
 "f46e03683baba636",
 "2d5a004150784b76",
-"3024a621950423cc"
+"3024a621950423cc",
+"93dbdaa61466580c",
+"fc0dd2ddcd754700",
+"5517da1999687730"
 ],
 "imzalar": [
-[
-"hayatini",
-"kaybetti",
-"kulubesinde",
-"memuru",
-"nobet",
-"polis"
-],
-[
-"167",
-"cozdu",
-"matematikci",
-"soruyu",
-"turk",
-"yillik"
-],
-[
-"cilginca",
-"disisleri",
-"ediyor",
-"hareket",
-"nato",
-"rusya",
-"sozcusu",
-"zaharova"
-],
 [
 "adim",
 "alti",
@@ -8824,15 +8798,50 @@
 "nilufer",
 "veda",
 "yillik"
+],
+[
+"baslatildi",
+"bolu",
+"daki",
+"ilgili",
+"olayla",
+"paylasimlara",
+"sorusturma"
+],
+[
+"ardindan",
+"bakanligin",
+"bassavcilik",
+"bolu",
+"carpitma",
+"daki",
+"gecti",
+"harekete",
+"kayip",
+"ogrenci",
+"olayinda"
+],
+[
+"600",
+"ambulans",
+"bebek",
+"dogan",
+"edildi",
+"gram",
+"helikopterle",
+"mus",
+"sevk",
+"taskin",
+"van"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-28T15:33:00+00:00",
+"Haber Global": "2026-11-28T16:30:00+00:00",
 "Sonsöz (Ankara)": "2026-11-28T12:34:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-28T04:33:33+00:00",
-"Sözcü Son Dakika": "2026-11-28T14:37:58+00:00",
-"Yeni Şafak Yerel": "2026-11-28T14:30:00+00:00",
+"Sözcü Son Dakika": "2026-11-28T16:39:44+00:00",
+"Yeni Şafak Yerel": "2026-11-28T16:39:51+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-28T15:38:57+00:00",
 "@islamasalya": "2026-11-28T15:14:54+00:00",
