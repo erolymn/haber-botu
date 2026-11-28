@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"7609e6b164b00c27",
-"0a8b16a4be895587",
-"a6b7d58de300690f",
 "74d72c3642bf95a5",
 "c6a928dddcd9359c",
 "68ee30a48f96aff1",
@@ -2999,39 +2996,12 @@
 "5517da1999687730",
 "3ba522a96abbda36",
 "b64feb85da141d75",
-"ec79dad58732dfff"
+"ec79dad58732dfff",
+"035291b8009715c2",
+"d03b3cb77ad98686",
+"01f0d5a7ae94de1f"
 ],
 "imzalar": [
-[
-"bahcesi",
-"cop31",
-"gordu",
-"ilgi",
-"kelebek",
-"tropikal",
-"yogun"
-],
-[
-"asti",
-"baraj",
-"daki",
-"doluluk",
-"istanbul",
-"kritik",
-"orani",
-"seviyeyi"
-],
-[
-"beyoglu",
-"carpti",
-"gecekonduya",
-"kamyon",
-"moloz",
-"nda",
-"olmadi",
-"yaralanan",
-"yuklu"
-],
 [
 "den",
 "ekim",
@@ -8842,11 +8812,49 @@
 "netanyahu",
 "rakibine",
 "razi"
+],
+[
+"akilalmaz",
+"aydin",
+"cinsel",
+"cocuk",
+"iddiasindaki",
+"istismar",
+"olay",
+"sorusturmada",
+"tutuklandi"
+],
+[
+"ankara",
+"bulusacak",
+"eserler",
+"ozel",
+"ozgun",
+"sanatseverlerle",
+"yeni",
+"yila"
+],
+[
+"cikacaklar",
+"den",
+"dikkat",
+"disari",
+"firtina",
+"geliyor",
+"gunu",
+"kar",
+"kodlu",
+"kuvvetli",
+"meteoroloji",
+"pazar",
+"sari",
+"uyari",
+"yagis"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-28T16:30:00+00:00",
-"Sonsöz (Ankara)": "2026-11-28T12:34:00+00:00",
+"Haber Global": "2026-11-28T17:16:00+00:00",
+"Sonsöz (Ankara)": "2026-11-28T17:03:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-28T17:34:43+00:00",
 "Sözcü Son Dakika": "2026-11-28T17:36:34+00:00",
@@ -8854,7 +8862,7 @@
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-28T15:38:57+00:00",
 "@islamasalya": "2026-11-28T15:14:54+00:00",
-"Yeni Asır (İzmir)": "2026-11-27T22:28:25+00:00",
+"Yeni Asır (İzmir)": "2026-11-28T16:58:31+00:00",
 "İstanbul Gazetesi": "2026-11-28T12:29:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
 }
