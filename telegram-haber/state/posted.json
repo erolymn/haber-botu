@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"7469f6f8672894d4",
-"3911095b920f467b",
-"a071e5262e2acbdd",
 "f69eadeca8e7d568",
 "98cf0b2804877c4b",
 "e1532e69ac1b3589",
@@ -2999,46 +2996,12 @@
 "506fcabe889defb4",
 "bd487eedab20062a",
 "20b8390bfadc25b8",
-"3661b8a417ed6c6d"
+"3661b8a417ed6c6d",
+"93281d71808d718b",
+"1404876eea3446d4",
+"f4d42cf21ad6cc4f"
 ],
 "imzalar": [
-[
-"alarma",
-"ankara",
-"bomba",
-"gecti",
-"genel",
-"ihbari",
-"merkezi",
-"onunde",
-"parti",
-"polis",
-"yeni"
-],
-[
-"cikti",
-"doldurdu",
-"duvarlardan",
-"her",
-"kadar",
-"nedeni",
-"ortaya",
-"siirle",
-"tavana",
-"yeri"
-],
-[
-"anadolu",
-"basantrenoru",
-"derece",
-"efes",
-"koyulan",
-"laso",
-"memnunum",
-"ortaya",
-"pablo",
-"performanstan"
-],
 [
 "batiminda",
 "buyuleyen",
@@ -8846,15 +8809,46 @@
 "maci",
 "oncesi",
 "sinirda"
+],
+[
+"aska",
+"fuat",
+"geldi",
+"goruntulendi",
+"ilk",
+"kendisinden",
+"kez",
+"kucuk",
+"mfo",
+"nun",
+"sevgilisiyle",
+"yas",
+"yasinda"
+],
+[
+"fatih",
+"kuyumcu",
+"soygunu"
+],
+[
+"cam",
+"fistigi",
+"hasadi",
+"katranci",
+"mahallesi",
+"metre",
+"mucadele",
+"nde",
+"yukseklikte"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-28T06:34:00+00:00",
-"Sonsöz (Ankara)": "2026-11-28T02:24:00+00:00",
+"Sonsöz (Ankara)": "2026-11-28T07:38:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-28T04:33:33+00:00",
-"Sözcü Son Dakika": "2026-11-28T06:35:02+00:00",
-"Yeni Şafak Yerel": "2026-11-28T06:39:38+00:00",
+"Sözcü Son Dakika": "2026-11-28T07:37:45+00:00",
+"Yeni Şafak Yerel": "2026-11-28T07:39:41+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-28T02:25:35+00:00",
 "@islamasalya": "2026-11-27T18:16:41+00:00",
