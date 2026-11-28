@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"b3aa770b05102fad",
-"977389e6d8bc35cd",
-"10fe08d2e17a0e67",
 "25d2ec03afa3e198",
 "48527095791b5243",
 "b39191924c42ec8a",
@@ -2999,42 +2996,12 @@
 "f4d42cf21ad6cc4f",
 "01a2a15f8e7ef507",
 "034535adb69864be",
-"523e04fd57762869"
+"523e04fd57762869",
+"ef3c9f16aa8ed27e",
+"8d3f1eae31bb5f7d",
+"960e17825fbc365c"
 ],
 "imzalar": [
-[
-"anda",
-"arac",
-"atlatildi",
-"devrilen",
-"facia",
-"metrelerce",
-"suruklendi",
-"yolda",
-"zincirleme"
-],
-[
-"2123889458965873070",
-"com",
-"https",
-"isra",
-"j5vrubvtve",
-"mj9qzg",
-"status"
-],
-[
-"adim",
-"cin",
-"den",
-"elektrikli",
-"ilk",
-"insan",
-"kez",
-"tamamen",
-"tarihi",
-"tasidi",
-"ucak"
-],
 [
 "birligi",
 "ege",
@@ -8833,18 +8800,45 @@
 "saganak",
 "sari",
 "uyari"
+],
+[
+"aciklandi",
+"degerli",
+"dunyanin",
+"listede",
+"otomobil",
+"sirketi",
+"turk",
+"ureticisi"
+],
+[
+"binlerce",
+"durus",
+"kalir",
+"miras",
+"yurege"
+],
+[
+"gecti",
+"hayatta",
+"infaza",
+"intikam",
+"kadin",
+"kalan",
+"planina",
+"ragmen"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-28T07:34:00+00:00",
-"Sonsöz (Ankara)": "2026-11-28T07:38:00+00:00",
+"Sonsöz (Ankara)": "2026-11-28T08:30:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-28T04:33:33+00:00",
-"Sözcü Son Dakika": "2026-11-28T07:37:45+00:00",
+"Sözcü Son Dakika": "2026-11-28T08:41:32+00:00",
 "Yeni Şafak Yerel": "2026-11-28T07:40:44+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-28T02:25:35+00:00",
-"@islamasalya": "2026-11-27T18:16:41+00:00",
+"@islamasalya": "2026-11-28T08:32:13+00:00",
 "Yeni Asır (İzmir)": "2026-11-27T22:28:25+00:00",
 "İstanbul Gazetesi": "2026-11-28T07:33:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
