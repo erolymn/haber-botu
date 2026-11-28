@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"9331a6a66b608a49",
-"ebb2f5b1288761d7",
-"7b161717c1bd5e4e",
 "417cf92b62ecdf3a",
 "48148dd98dbe9542",
 "30c4a224dc21a4e1",
@@ -2999,31 +2996,12 @@
 "d87c66544cd1b495",
 "0b651d010033f02b",
 "eb42106d911621fa",
-"00d1514668f1533f"
+"00d1514668f1533f",
+"f46e03683baba636",
+"2d5a004150784b76",
+"3024a621950423cc"
 ],
 "imzalar": [
-[
-"ayi",
-"bahceye",
-"boz",
-"dev",
-"erzincan",
-"girdi"
-],
-[
-"bahceli",
-"umudu",
-"ureticisinin",
-"zeytin"
-],
-[
-"aday",
-"formulu",
-"iddiasi",
-"mansur",
-"ortak",
-"yavas"
-],
 [
 "hayatini",
 "kaybetti",
@@ -8809,18 +8787,55 @@
 "engeli",
 "hava",
 "ulasimina"
+],
+[
+"amcamin",
+"asalya",
+"kassam",
+"lider",
+"nin",
+"oglu",
+"once",
+"salih",
+"sehit",
+"tugaylari",
+"videosunu",
+"yayinladi"
+],
+[
+"agina",
+"bahis",
+"disi",
+"edilen",
+"hareketlilik",
+"hesaplarinda",
+"liralik",
+"milyar",
+"operasyonda",
+"tespit",
+"tutuklama",
+"yasa"
+],
+[
+"den",
+"esi",
+"keser",
+"mustafa",
+"nilufer",
+"veda",
+"yillik"
 ]
 ],
 "son_tarih": {
-"Haber Global": "2026-11-28T12:28:00+00:00",
+"Haber Global": "2026-11-28T15:33:00+00:00",
 "Sonsöz (Ankara)": "2026-11-28T12:34:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-28T04:33:33+00:00",
 "Sözcü Son Dakika": "2026-11-28T14:37:58+00:00",
 "Yeni Şafak Yerel": "2026-11-28T14:30:00+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
-"Olay (Bursa)": "2026-11-28T14:37:00+00:00",
-"@islamasalya": "2026-11-28T12:56:57+00:00",
+"Olay (Bursa)": "2026-11-28T15:38:57+00:00",
+"@islamasalya": "2026-11-28T15:14:54+00:00",
 "Yeni Asır (İzmir)": "2026-11-27T22:28:25+00:00",
 "İstanbul Gazetesi": "2026-11-28T12:29:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
