@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"d5483073deeeee0e",
-"90889777e9810c90",
-"ae3bec87c7b629b0",
 "f9f6c79531e90d00",
 "469ad05b8ba62a5f",
 "5528f81fcaa640b7",
@@ -2999,38 +2996,12 @@
 "960e17825fbc365c",
 "60d3be35e7b1dd4c",
 "5386494f33d59c45",
-"4d2247908d403435"
+"4d2247908d403435",
+"8540c9cfad7110ec",
+"96728eab4437b510",
+"05bba3d610edda1b"
 ],
 "imzalar": [
-[
-"bicaklandi",
-"bursa",
-"cocuk",
-"sirtindan",
-"yasindaki"
-],
-[
-"150",
-"asayis",
-"capli",
-"denetimi",
-"eskisehir",
-"genis",
-"polisle",
-"trafik"
-],
-[
-"cayi",
-"gurun",
-"iki",
-"ilcesinde",
-"kisi",
-"otomobil",
-"sivas",
-"tohma",
-"uctu",
-"yaralandi"
-],
 [
 "2027",
 "belediyesi",
@@ -8832,20 +8803,47 @@
 "mac",
 "saat",
 "sonuncu"
+],
+[
+"amasya",
+"annenin",
+"aylik",
+"bebegini",
+"kaybeden",
+"sikayetinde",
+"sorusturma",
+"tamamlandi"
+],
+[
+"222",
+"liraya",
+"milyar",
+"prim",
+"saglik",
+"sigortasinda",
+"ulasti",
+"uretimi"
+],
+[
+"altinda",
+"bombardiman",
+"gazze",
+"itibariyle",
+"siddetli"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-28T07:34:00+00:00",
-"Sonsöz (Ankara)": "2026-11-28T08:30:00+00:00",
+"Sonsöz (Ankara)": "2026-11-28T10:37:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
 "Mynet Son Dakika": "2026-11-28T04:33:33+00:00",
 "Sözcü Son Dakika": "2026-11-28T09:39:55+00:00",
 "Yeni Şafak Yerel": "2026-11-28T09:40:13+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-28T02:25:35+00:00",
-"@islamasalya": "2026-11-28T09:24:53+00:00",
+"@islamasalya": "2026-11-28T10:38:45+00:00",
 "Yeni Asır (İzmir)": "2026-11-27T22:28:25+00:00",
-"İstanbul Gazetesi": "2026-11-28T07:33:00+00:00",
+"İstanbul Gazetesi": "2026-11-28T10:38:00+00:00",
 "Kandilli Rasathanesi": "2026-11-27T02:44:09+00:00"
 }
 }
