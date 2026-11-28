@@ -1,8 +1,5 @@
 {
 "gonderilen": [
-"2929ccce8bffd691",
-"e087562b7668a191",
-"b9504507f026a45f",
 "60e490f6b3e30407",
 "23414ce8222a7b24",
 "1e444640eeda60d6",
@@ -2999,37 +2996,12 @@
 "b3906e31373ca898",
 "376c45202f000951",
 "188a9ea6be5544d5",
-"d8a396ff01eeeb43"
+"d8a396ff01eeeb43",
+"5e92cc9ede9750f5",
+"1fa795957f8dc875",
+"25158692b07fa1d1"
 ],
 "imzalar": [
-[
-"arayacak",
-"dogal",
-"gaz",
-"oruc",
-"pakistan",
-"petrol",
-"reis"
-],
-[
-"bandirmaspor",
-"direktoru",
-"izgi",
-"mustafa",
-"teknik",
-"yeni"
-],
-[
-"aday",
-"arda",
-"baskanlik",
-"cakmak",
-"degisimi",
-"genclerbirligi",
-"haydar",
-"nde",
-"olmayacak"
-],
 [
 "altinda",
 "bombardiman",
@@ -8840,15 +8812,45 @@
 "puan",
 "sampiyonluk",
 "yolunda"
+],
+[
+"anlari",
+"cikti",
+"gozyaslarini",
+"kurtarilma",
+"ortaya",
+"sofor",
+"tutamadi"
+],
+[
+"acik",
+"ara",
+"araci",
+"hafta",
+"kazandirdi",
+"tek",
+"yatirim"
+],
+[
+"ait",
+"araclarinin",
+"askeri",
+"cevresinde",
+"cin",
+"edildi",
+"hava",
+"tayvan",
+"tespit",
+"ucusu"
 ]
 ],
 "son_tarih": {
 "Haber Global": "2026-11-27T21:41:00+00:00",
 "Sonsöz (Ankara)": "2026-11-28T02:24:00+00:00",
 "Google Trends": "2026-10-23T11:32:06.826920+00:00",
-"Mynet Son Dakika": "2026-11-27T16:18:11+00:00",
-"Sözcü Son Dakika": "2026-11-28T01:14:20+00:00",
-"Yeni Şafak Yerel": "2026-11-28T01:00:00+00:00",
+"Mynet Son Dakika": "2026-11-28T04:33:33+00:00",
+"Sözcü Son Dakika": "2026-11-28T04:39:44+00:00",
+"Yeni Şafak Yerel": "2026-11-28T04:39:59+00:00",
 "X / Twitter Türkiye": "2026-11-10T06:01:09.316430+00:00",
 "Olay (Bursa)": "2026-11-28T02:25:35+00:00",
 "@islamasalya": "2026-11-27T18:16:41+00:00",
